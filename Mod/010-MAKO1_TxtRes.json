@@ -1,0 +1,3239 @@
+{
+    "data": [
+        {
+            "id": "$ba_mako1_0000_0000_0000_blt_0",
+            "text": "You look a little worse for wear. Are you all right?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0000_0010_0000_cld_0",
+            "text": "Take care of yourself.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0010_0000_0000_kb01_0",
+            "text": "An intruder!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_mako1_0010_0000_0010_kb02_0",
+            "text": "Come quietly!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_mako1_0010_0000_0020_cld_0",
+            "text": "Don't make me laugh.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0010_0010_0000_cld_0",
+            "text": "Not bad.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0020_0000_0000_kb05_0",
+            "text": "Don't move!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_mako1_0020_0000_0010_kb06_0",
+            "text": "Move and I'll shoot!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_mako1_0020_0000_0020_cld_0",
+            "text": "Suit yourself.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0020_0010_0000_cld_0",
+            "text": "I'm going to decide this.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0020_0020_0000_kb05_0",
+            "text": "That technique...",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_mako1_0020_0020_0010_kb06_0",
+            "text": "No way. A SOLDIER?",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_mako1_0020_0030_0000_kb05_0",
+            "text": "He's using magic.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_mako1_0020_0030_0010_kb06_0",
+            "text": "Look, it's materia.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_mako1_0020_0040_0000_kb05_0",
+            "text": "You're kidding me.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_mako1_0020_0040_0010_kb06_0",
+            "text": "This guy is used to combat.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_mako1_0030_0000_0000_kb10_0",
+            "text": "Do as I say!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_mako1_0030_0000_0010_cld_0",
+            "text": "Pain in the ass when you're surrounded...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0030_0010_0000_cld_0",
+            "text": "Lightweight.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0030_0020_0000_cld_0",
+            "text": "Too slow.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0040_0000_0000_kb15_0",
+            "text": "Dinner time!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_mako1_0040_0000_0010_gh01_0",
+            "text": "Meow...",
+            "speaker": "Guard Dog"
+        },
+        {
+            "id": "$ba_mako1_0040_0010_0000_cld_0",
+            "text": "I'll put you away first.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0040_0020_0000_kb15_0",
+            "text": "Hey...",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_mako1_0040_0020_0010_cld_0",
+            "text": "You're next.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0060_0000_0000_kb25_0",
+            "text": "You're the intruder!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_mako1_0060_0000_0010_kb26_0",
+            "text": "Drop your weapon and surrender!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_mako1_0070_0000_0000_kb32_0",
+            "text": "You're up against one man! Don't be afraid.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_mako1_0070_0000_0010_kb33_0",
+            "text": "Concentrate fire!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_mako1_0070_0010_0000_cld_0",
+            "text": "Stay sharp.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0080_0000_0000_blt_0",
+            "text": "Your sword won't reach. You just sit there and watch.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0080_0000_0010_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0080_0010_0000_blt_0",
+            "text": "It's a piece of cake for me!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0080_0020_0000_blt_0",
+            "text": "Gonna blow you away!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0081_0010_0000_cld_0",
+            "text": "You better get a clear shot.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0081_0010_0010_blt_0",
+            "text": "Don't you mess with me!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0081_0020_0000_blt_0",
+            "text": "Do what you're paid for!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0081_0020_0010_cld_0",
+            "text": "Get out of the way.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0081_0030_0000_cld_0",
+            "text": "Shoot from there.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0081_0040_0000_blt_0",
+            "text": "That's your job!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0090_0000_0000_blt_0",
+            "text": "It's just scrap metal!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0090_0000_0010_cld_0",
+            "text": "Their offensive and defensive capabilities are off the charts. If you underestimate it, you'll die.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0090_0000_0020_blt_0",
+            "text": "Do you have a plan?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0090_0000_0030_cld_0",
+            "text": "Magic should work. We find an opening and we take it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0090_0010_0000_blt_0",
+            "text": "It's stumbling.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0090_0010_0010_cld_0",
+            "text": "We're gonna stop this thing. Knock it over!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0090_0020_0000_blt_0",
+            "text": "Oh, I guess it's back.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0090_0020_0010_cld_0",
+            "text": "We'll make another opening. Let's go again.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0090_0030_0000_cld_0",
+            "text": "Now, let's get to work.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0090_0030_0010_blt_0",
+            "text": "I don't need you to tell me. I'm gonna crush it with everything I've got!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0090_0050_0000_blt_0",
+            "text": "You out of your depth, Mr. SOLDIER?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0090_0050_0010_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0090_0050_0020_blt_0",
+            "text": "I'll help you.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0090_0060_0000_blt_0",
+            "text": "Get outta the way, you!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0090_0060_0010_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0090_0060_0020_blt_0",
+            "text": "Hey, don't just stare at it! Do something!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0090_0070_0000_blt_0",
+            "text": "If you insist...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0090_0070_0010_cld_0",
+            "text": "About this much.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0090_0080_0000_cld_0",
+            "text": "What a mess.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0090_0080_0010_blt_0",
+            "text": "You won't forget me!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0110_0010_0000_cld_0",
+            "text": "Go above and beyond.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_0110_0020_0000_blt_0",
+            "text": "Just about at the limit. Full tank!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0130_0000_0000_kb40_0",
+            "text": "I found them!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_mako1_0130_0000_0010_kb41_0",
+            "text": "Arrest them!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_mako1_0130_0000_0020_blt_0",
+            "text": "I'm about to go <i>BOOM,</i> so don't get in my way!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_0130_0000_0030_cld_0",
+            "text": "Barret, I'll do it in five seconds.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_1000_0010_blt_0",
+            "text": "Hey, what's this guy's secret?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_1000_0020_cld_0",
+            "text": "Reinforced armor for the battlefield... The mechanisms inside are vulnerable to electricity.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_1000_0030_cld_0",
+            "text": "Attack it with magic.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_1000_0040_blt_0",
+            "text": "I guess we'll just have to do it.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_1010_0010_blt_0",
+            "text": "I see what you mean! It's definitely working.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_1010_0020_cld_0",
+            "text": "Let's keep going.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_1030_0010_blt_0",
+            "text": "Not doing much good, is it?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_1030_0020_cld_0",
+            "text": "I said, attack it with magic.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_1030_0030_blt_0",
+            "text": "Thought you were trying to trick me.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_1030_0040_cld_0",
+            "text": "You don't have to believe me. Just do it!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_1050_0010_cld_0",
+            "text": "Hey, don't you know how to use that? <i>Thunder...</i>",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_1050_0020_blt_0",
+            "text": "I know, I know... it's magic. Just gimme a sec.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_1070_0010_cld_0",
+            "text": "Here we go.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_1080_0010_cld_0",
+            "text": "There's no opening... The technology is impressive.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_1090_0010_cld_0",
+            "text": "How to attack...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_1100_0010_blt_0",
+            "text": "I'm in this for the Planet.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_1110_0010_blt_0",
+            "text": "I ain't taking no shit!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_1120_0010_blt_0",
+            "text": "It moves pretty quick for a big guy. ",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_1800_0010_blt_0",
+            "text": "You gonna run away with your tail between your legs?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_1810_0010_blt_0",
+            "text": "Hey, where you going?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_1820_0010_blt_0",
+            "text": "Now focus on the scorpion!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_1860_0010_cld_0",
+            "text": "It isn't just gonna let you go...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2020_0010_blt_0",
+            "text": "What the hell is that?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2020_0020_cld_0",
+            "text": "A barrier. I've never seen a defense system like this before.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2020_0030_blt_0",
+            "text": "You're useless!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2020_0040_cld_0",
+            "text": "Well then, you do something about it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2030_0010_blt_0",
+            "text": "My arm's gonna be roaring!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2030_0020_cld_0",
+            "text": "Don't get too close and blow yourself up...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2070_0010_cld_0",
+            "text": "Rejected...  ",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2070_0020_blt_0",
+            "text": "That's not good.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2070_0030_cld_0",
+            "text": "Not from the front, I guess.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2080_0010_cld_0",
+            "text": "Shit. It won't work.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2080_0020_blt_0",
+            "text": "Hey, you're not even close!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2080_0030_cld_0",
+            "text": "There must be some holes in the system.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2080_0040_blt_0",
+            "text": "Well, you better find me something fast.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2085_0010_cld_0",
+            "text": "Found it. There's a gap in the barrier.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2085_0020_blt_0",
+            "text": "You knew, didn't you? You've got to be kidding me.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2085_0030_cld_0",
+            "text": "Right here. I'll take the back.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2085_0040_blt_0",
+            "text": "I'm looking forward to seeing you in action, SOLDIER.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2090_0010_cld_0",
+            "text": "Is it better to strike from a distance?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2091_0010_cld_0",
+            "text": "The front is not in our favor.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2092_0010_cld_0",
+            "text": "There has to be a way through...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2100_0010_blt_0",
+            "text": "Hey, you can't keep going like this and beat that thing.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2100_0020_cld_0",
+            "text": "Before you start yammering, shoot more!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2100_0030_blt_0",
+            "text": "You're the one who's been slacking off!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2110_0010_blt_0",
+            "text": "Shit, it's tough.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2110_0020_cld_0",
+            "text": "I wouldn't call something a weapon if it could be easily destroyed.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2110_0030_blt_0",
+            "text": "Whose side are you on, man?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2130_0010_cld_0",
+            "text": "I guess this doesn't work either...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2140_0010_cld_0",
+            "text": "It's no use shooting it now.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2150_0010_blt_0",
+            "text": "I can't get through.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2160_0010_blt_0",
+            "text": "Shit. Can't you do something about that barrier?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2170_0010_cld_0",
+            "text": "All right, here's where we fight back.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2170_0020_blt_0",
+            "text": "Let's go, let's go, let's go!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2170_0030_cld_0",
+            "text": "<i>Shut up</i> and go.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2190_0010_blt_0",
+            "text": "Yes!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2190_0020_cld_0",
+            "text": "Let's fight back and get this over with!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2230_0010_cld_0",
+            "text": "Look for an opening to cut into.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2240_0010_cld_0",
+            "text": "We've got a chance.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2250_0010_cld_0",
+            "text": "Attacking isn't the only way...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2260_0010_blt_0",
+            "text": "Always just getting in my way.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2270_0010_blt_0",
+            "text": "I'm going for it, man! Aim and shoot.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2280_0010_blt_0",
+            "text": "I got this!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2290_0010_cld_0",
+            "text": "Another barrier.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2300_0010_cld_0",
+            "text": "We can handle it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2310_0010_cld_0",
+            "text": "Drop the barrier.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2320_0010_blt_0",
+            "text": "Barrier again!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2330_0010_blt_0",
+            "text": "Such an asshole!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2340_0010_blt_0",
+            "text": "I'm gonna shoot you over and over again.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2800_0010_blt_0",
+            "text": "Hey, this is no time for games!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2810_0010_blt_0",
+            "text": "Don't be lazy!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2820_0010_blt_0",
+            "text": "You're too far out. Take this seriously.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_2850_0010_cld_0",
+            "text": "Can you shoot from there?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_2860_0010_cld_0",
+            "text": "Now focus on the enemy.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3000_0010_cld_0",
+            "text": "Watch out for the scorpion's tail! Laser incoming!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3000_0020_blt_0",
+            "text": "What am I supposed to do?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_3000_0030_cld_0",
+            "text": "A direct hit would be crippling. Take cover behind the steel frame.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3040_0010_cld_0",
+            "text": "It's coming back. Laser!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3040_0020_blt_0",
+            "text": "I know!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_3040_0030_cld_0",
+            "text": "Then get your ass out of sight!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3050_0010_cld_0",
+            "text": "It's coming. Hurry!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3050_0020_blt_0",
+            "text": "There's nothing to do but hide...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_3050_0030_cld_0",
+            "text": "You want some of that? Suit yourself.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3060_0010_cld_0",
+            "text": "We're exposed. Don't miss!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3060_0020_blt_0",
+            "text": "Worry about your own shit!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_3070_0010_cld_0",
+            "text": "Lasers again.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3070_0020_blt_0",
+            "text": "Shut the hell up and hide!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_3070_0030_cld_0",
+            "text": "If you know what you're doing, then move!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3080_0010_blt_0",
+            "text": "Hey, it's coming back.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_3080_0020_cld_0",
+            "text": "Make good use of the debris.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3080_0030_blt_0",
+            "text": "Tired of this.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_3090_0010_blt_0",
+            "text": "Lasers again, huh?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_3090_0020_cld_0",
+            "text": "Machines are persistent. They don't get bored.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3090_0030_blt_0",
+            "text": "<i>I'm</i> persistent. I'm a pain the ass! You know what I'm saying?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_3100_0010_blt_0",
+            "text": "Oh yes, lasers.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_3100_0020_cld_0",
+            "text": "It's the most dangerous when you're getting complacent.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3100_0030_blt_0",
+            "text": "All this talk, no action.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_3110_0010_blt_0",
+            "text": "Here we go again. Do you do anything else?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_3110_0020_cld_0",
+            "text": "It's just going along with its programming.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3110_0030_blt_0",
+            "text": "Oh, thank you very much.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_3120_0010_cld_0",
+            "text": "We're taking our chance the moment after its attack.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3130_0010_cld_0",
+            "text": "Come on, let's go for it!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3140_0010_blt_0",
+            "text": "Don't pass it up! This is our chance!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_3150_0010_blt_0",
+            "text": "We got an opening! I'm gonna start shooting!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_3160_0010_cld_0",
+            "text": "Get the attack pattern in your head.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3170_0010_cld_0",
+            "text": "What's a battlefield weapon doing in a reactor?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3180_0010_cld_0",
+            "text": "Don't miss your chance.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3190_0010_blt_0",
+            "text": "Give me a break.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_3200_0010_blt_0",
+            "text": "What the hell? Still hanging on?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_3210_0010_blt_0",
+            "text": "Oh, shit. This is tough.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_3850_0010_cld_0",
+            "text": "Where the hell are you going?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_3860_0010_cld_0",
+            "text": "If you want to run away, you're on your own.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_4010_0010_blt_0",
+            "text": "Hey, something's not right.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_4010_0020_cld_0",
+            "text": "Self-repair function... Hurry--we'll get it done before it recovers.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_4010_0030_blt_0",
+            "text": "Oh yeah, I'm on fire!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_4020_0010_cld_0",
+            "text": "When it shows an opening, that's your chance. We'll hold out till then.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_4030_0010_cld_0",
+            "text": "It's down. We'll take this opportunity to attack.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_4030_0020_blt_0",
+            "text": "Let's turn it to scrap.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_4040_0010_cld_0",
+            "text": "Let's smash it in. Don't hold back.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_4040_0020_blt_0",
+            "text": "You, too. Don't be lazy and don't screw it up.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_4050_0010_blt_0",
+            "text": "When the moment's right, I'm gonna hit it hard and fast! You better be ready for it!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_4060_0010_blt_0",
+            "text": "Follow my lead!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_4060_0020_cld_0",
+            "text": "We don't have time to waste. We'll go at the same time.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_4070_0010_blt_0",
+            "text": "Hey, you ready for this? I'm ready to kick its ass.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_4070_0020_cld_0",
+            "text": "I can go anytime.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_4080_0010_cld_0",
+            "text": "Keep attacking.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_4090_0010_cld_0",
+            "text": "Enough. Time to put an end to this.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_4100_0010_cld_0",
+            "text": "Just a little more.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_4110_0010_blt_0",
+            "text": "I'm firing everything!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_4120_0010_blt_0",
+            "text": "I'm not gonna give up now.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_4130_0010_blt_0",
+            "text": "NWe're gonna make it through this.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_4860_0010_cld_0",
+            "text": "You've come this far and now you're leaving?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_4900_0010_cld_0",
+            "text": "This is the end.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_4900_0020_blt_0",
+            "text": "Suck on that!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_4910_0010_blt_0",
+            "text": "Crush 'em!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_4910_0020_cld_0",
+            "text": "Done.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_7040_0010_cld_0",
+            "text": "Destroyed its leg. Shouldn't be able to move for a while.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_7050_0010_cld_0",
+            "text": "Both legs destroyed! Now's our chance.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_7100_0010_blt_0",
+            "text": "I got your leg! You ain't moving for a minute.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_7110_0010_blt_0",
+            "text": "Broke another one. You're full of holes, ain't you?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_7160_0010_cld_0",
+            "text": "Oh shit!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_7160_0020_blt_0",
+            "text": "Oh man, this is bad.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_7170_0010_cld_0",
+            "text": "Not good.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_7180_0010_blt_0",
+            "text": "What the hell is this?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_7180_0020_cld_0",
+            "text": "It's targeting us. Watch out!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_7190_0010_blt_0",
+            "text": "Oh shit, it's trying to get me!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_7200_0010_blt_0",
+            "text": "You're a pain in my ass...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_7210_0010_blt_0",
+            "text": "Looks like the scorpion likes you.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_7240_0020_blt_0",
+            "text": "Hey! Do you have something to say to me?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_7250_0020_blt_0",
+            "text": "You know, it's not much to ask for help from a regular guy.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_7260_0010_blt_0",
+            "text": "I'm sorry I couldn't make it in time.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_7260_0020_cld_0",
+            "text": "I never expected it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_7270_0010_blt_0",
+            "text": "Hey, you all right, man?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_7270_0020_cld_0",
+            "text": "No problem.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_7280_0010_cld_0",
+            "text": "What the hell are you doing?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_7290_0010_cld_0",
+            "text": "It must be tough, to pick you up.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_7320_0010_blt_0",
+            "text": "Well worth the money!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_7320_0020_cld_0",
+            "text": "I haven't been paid yet.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_7330_0010_blt_0",
+            "text": "You want to help now? You lost?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_7330_0020_cld_0",
+            "text": "Well, I don't know...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_7340_0010_cld_0",
+            "text": "Can you move?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_7340_0020_blt_0",
+            "text": "If you'd have helped me, I could've moved a lot quicker.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_7350_0010_cld_0",
+            "text": "You all right?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_7350_0020_blt_0",
+            "text": "If you're so worried about me, help me!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_7400_0010_blt_0",
+            "text": "What's the matter, you're freaking out?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_7410_0010_cld_0",
+            "text": "Amateur.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_8000_0010_cld_0",
+            "text": "Need to recover.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_8010_0010_cld_0",
+            "text": "This damage is too much to ignore.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_8020_0010_cld_0",
+            "text": "Recover and regroup.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_8030_0010_cld_0",
+            "text": "Shit. Need to bounce back.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_8040_0010_cld_0",
+            "text": "I'll see what I can do to get back on track.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_8050_0010_cld_0",
+            "text": "We can't go on like this. Let's hurry up and get you back on your feet.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_8060_0010_blt_0",
+            "text": "Oh, come on! I'm on my own?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_8070_0010_blt_0",
+            "text": "<i>This</i> is what a SOLDIER looks like?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_8080_0010_blt_0",
+            "text": "Don't take a damn break. Come on!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_8090_0010_blt_0",
+            "text": "Once I'm back on my feet, I'm good to go.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_8100_0010_blt_0",
+            "text": "You think you can do whatever you want, you son of a bitch! Yeah, that hurts, right?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_8110_0010_blt_0",
+            "text": "It's just a scrape! I don't care!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_8120_0010_blt_0",
+            "text": "I'm not gonna let this damn scorpion kill me.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_8130_0010_blt_0",
+            "text": "Oh man, need to recover soon.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_8140_0010_blt_0",
+            "text": "I'm feeling a little woozy. Need to get better while I still can.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_8150_0010_cld_0",
+            "text": "Just a little less of a drag.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_8160_0010_cld_0",
+            "text": "Hey, I'm gonna leave you here!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_8170_0010_cld_0",
+            "text": "This is your fight, right?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_8180_0010_blt_0",
+            "text": "Hey, where's the rest of your story? Guess you got blown up and forgot.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_8180_0020_cld_0",
+            "text": "No big deal.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_8180_0030_blt_0",
+            "text": "Whatever you say.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_8190_0010_blt_0",
+            "text": "Get your ass in gear! You're a SOLDIER, right?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_8200_0010_blt_0",
+            "text": "You got hit hard!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_8210_0010_cld_0",
+            "text": "Where's the rest of the story?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_8210_0020_blt_0",
+            "text": "Ah, it's nothing.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_8210_0030_cld_0",
+            "text": "Okay then.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_8220_0010_cld_0",
+            "text": "We can talk later.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_8230_0010_cld_0",
+            "text": "Let's just concentrate on the battle.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_8300_0010_cld_0",
+            "text": "Let's go. This is our chance to strike.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako1_5010_8300_0020_blt_0",
+            "text": "I'm gonna hit you with everything I've got!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_8350_0010_blt_0",
+            "text": "Here it comes! It's my turn!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako1_5010_8350_0020_cld_0",
+            "text": "I'll give it my all.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0020_0010_kb99_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0020_0020_kb79_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0020_0030_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0020_0040_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0020_0050_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0020_0060_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0020_0070_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0020_0080_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0020_0090_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0020_0100_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0020_0110_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0020_0120_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0020_0130_blt_0",
+            "text": "Let's go, new guy.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0020_0140_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0020_0150_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0030_0010_kb01_0",
+            "text": "Stop!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_mako1_0030_0020_kb02_0",
+            "text": "Who are you?",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_mako1_0030_0040_blt_0",
+            "text": "You're on.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0040_0000_kb05_0",
+            "text": "What's going on?",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_mako1_0040_0010_kb06_0",
+            "text": "Hey, stop!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_mako1_0040_0011_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0040_0012_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0040_0013_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0040_0014_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0040_0020_jec_0",
+            "text": "Thank you for your trouble.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0040_0030_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0060_0000_kb10_0",
+            "text": "Stop resisting!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_mako1_0060_0001_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0060_0010_big_0",
+            "text": "Just as planned.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_mako1_0060_0020_wed_0",
+            "text": "That's what I'm talking about!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_mako1_0070_0005_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0070_0010_jec_0",
+            "text": "So, what's this about a SOLDIER? He's going to be one of us?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0070_0010_jec_1",
+            "text": "Why would he just abandon his career?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0070_0010_jec_2",
+            "text": "Uh, what was his name again?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0070_0020_big_0",
+            "text": "His name is Cloud Strife.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_mako1_0070_0020_big_1",
+            "text": "If we go the armed route, a professional's involvement is essential.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_mako1_0070_0020_big_2",
+            "text": "I welcome him.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_mako1_0070_0020_big_3",
+            "text": "He says he's a <i>former</i> SOLDIER.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_mako1_0070_0021_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0070_0030_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0070_0040_cld_0",
+            "text": "Don't make me out to be your friend.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0070_0040_cld_1",
+            "text": "When the job is done, we're strangers.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0070_0045_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0070_0050_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0090_0010_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0090_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0090_0030_wed_0",
+            "text": "If it was just about the money, you wouldn't have come this far, would you?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_mako1_0090_0030_wed_1",
+            "text": "Even <i>you</i> have the same feelings for the future of the Planet as we do, Cloud.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_mako1_0090_0031_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0090_0040_cld_0",
+            "text": "Not interested.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0090_0050_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0090_0060_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0090_0070_blt_0",
+            "text": "Wedge.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0090_0080_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0090_0090_blt_0",
+            "text": "I'm paying good money for you. Don't let me down.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0090_0100_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0132_0049_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0132_0050_big_0",
+            "text": "They're here, they're here. I'll leave it to you.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_mako1_0132_0060_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0132_0070_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0160_0010_blt_0",
+            "text": "SOLDIERs, who would even twist the arms of crying children. Shinra dogs...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0160_0010_blt_1",
+            "text": "This ain't your first time in a Mako reactor, is it?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0160_0030_blt_0",
+            "text": "Take me to the bridge where the Mako pool is. Show us the way.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0160_0031_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0160_0040_blt_0",
+            "text": "You don't want to tell me?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0160_0040_blt_1",
+            "text": "It doesn't matter if you refuse. We came up with this plan without you.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0160_0040_blt_2",
+            "text": "You're still hung up on Shinra, aren't you?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0160_0040_blt_3",
+            "text": "Loyal dog \"Stamp\"?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0160_0050_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0160_0060_cld_0",
+            "text": "The structure of the reactor differs depending on when it was built.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0160_0060_cld_1",
+            "text": "I'm new to this model, but I think I can handle it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0180_0000_kb30_0",
+            "text": "Who is it?",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_mako1_0180_0010_kb30_0",
+            "text": "Close it!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_mako1_0180_0011_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0180_0012_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0180_0020_kb31_0",
+            "text": "It's over.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_mako1_0180_0030_cld_0",
+            "text": "That's my line.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0200_0010_jec_0",
+            "text": "The passcode information was obtained through a comrade in the faction.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0200_0010_jec_1",
+            "text": "We had a dispute over our activities, so we've splintered off.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0200_0010_jec_2",
+            "text": "Yes. Unlocked.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0200_0020_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0200_0030_big_0",
+            "text": "Keep your head up!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_mako1_0200_0045_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0210_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0210_0020_jec_0",
+            "text": "You know Tifa.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0210_0020_jec_1",
+            "text": "Just out of curiosity, <i>how</i> do you know each other?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0210_0030_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0220_0005_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0220_0010_tif_0",
+            "text": "Cloud!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_mako1_0220_0020_tif_0",
+            "text": "Ignored again.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_mako1_0220_0030_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0230_0010_cld_0",
+            "text": "We are...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0230_0020_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0230_0030_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0230_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0230_0050_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0240_0010_hyd_0",
+            "text": "These rats appear to call themselves \"Avalanche.\"",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako1_0240_0010_hyd_1",
+            "text": "The connection between them and the group who attempted to take your life, however, is unknown.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako1_0240_0010_hyd_2",
+            "text": "We're still looking into it, so please give us a little time.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako1_0240_0020_pre_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0250_0010_blt_0",
+            "text": "This big-ass pump is sucking up a shitload of mako right now.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0250_0010_blt_1",
+            "text": "No rest, no mercy.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0250_0010_blt_2",
+            "text": "Mako is the \"blood\" of this Planet.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0250_0010_blt_3",
+            "text": "I mean, what's gonna happen if they keep this up?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0250_0010_blt_4",
+            "text": "When you're eating, when you're sleeping.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0250_0010_blt_5",
+            "text": "Do you even know what mako is?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0250_0010_blt_6",
+            "text": "Just like the bright red blood that flows through our bodies.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0250_0011_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0250_0020_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0250_0030_blt_0",
+            "text": "Can't you hear the Planet screaming...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0250_0030_blt_1",
+            "text": "Cloud?!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0250_0040_cld_0",
+            "text": "You can hear that?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0250_0050_blt_0",
+            "text": "Oh yeah!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0250_0060_cld_0",
+            "text": "Go see a doctor.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0250_0061_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0250_0070_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0250_0080_blt_0",
+            "text": "You son of a bitch!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0250_0081_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0250_0090_cld_0",
+            "text": "You worry more about yourself in the next five seconds than the future of the Planet.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0250_0090_cld_1",
+            "text": "Your screaming is creeping me out.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0250_0100_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0250_0110_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0260_0000_blt_0",
+            "text": "Gonna be very careful from here on out.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0260_0005_blt_0",
+            "text": "If I see any funny behavior...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0260_0010_blt_0",
+            "text": "You're dead.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0260_0020_jec_0",
+            "text": "A medium-range, rapid-fire security weapon...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0260_0025_jec_0",
+            "text": "A tough fight is inevitable with just Cloud's sword.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0260_0029_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0260_0030_jec_0",
+            "text": "I know he's loud. Just be patient.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0260_0031_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0260_0040_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0260_0050_cld_0",
+            "text": "\"Don't let me down.\"",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0260_0053_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0260_0060_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0260_0070_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0260_0080_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0310_0020_jec_0",
+            "text": "This is the center of the Mako reactor.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0310_0020_jec_1",
+            "text": "We're gonna plant the bomb over there.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0340_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0340_0011_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0340_0020_blt_0",
+            "text": "Now, let's see if you can prove you're not still some Shinra dog.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0340_0030_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0340_0040_blt_0",
+            "text": "<i>You</i> set the bomb.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0340_0040_blt_1",
+            "text": "If you want to be one of us...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0340_0040_blt_2",
+            "text": "I don't trust you just because you're Tifa's friend.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0340_0050_cld_0",
+            "text": "Don't make me say it again. I'm just the hired hand.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0340_0060_blt_0",
+            "text": "Then shut up and do it!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0340_0070_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0340_0080_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0340_0090_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0340_0100_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0340_0110_blt_0",
+            "text": "What's the matter?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0340_0120_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0340_0140_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0340_0141_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0340_0150_cld_0",
+            "text": "No problem.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0340_0160_cld_0",
+            "text": "What about the timer?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0340_0180_blt_0",
+            "text": "It's your call.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0340_0200_blt_0",
+            "text": "You're confident, aren't you?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0340_0220_blt_0",
+            "text": "You're scared shitless!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0340_9000_cut0_0",
+            "text": "What would you like to set?",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0340_9001_cut1_0",
+            "text": "Twenty minutes",
+            "info": ""
+        },
+        {
+            "id": "$ev_mako1_0340_9002_cut2_0",
+            "text": "Thirty minutes",
+            "info": ""
+        },
+        {
+            "id": "$ev_mako1_0350_0000_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0350_0001_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0350_0010_blt_0",
+            "text": "You set us up!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0350_0011_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0350_0100_cld_0",
+            "text": "Here it comes.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0350_0101_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0357_0010_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0357_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0360_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0360_0020_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0360_0021_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0360_0030_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0360_0031_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0360_0032_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0360_0033_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0360_0040_cld_0",
+            "text": "Come on, let's get the hell out of here.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0360_0059_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0360_0060_blt_0",
+            "text": "Shit, I can't get near it!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0360_0070_ana_0",
+            "text": "Twenty minutes until detonation.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_mako1_0360_0080_ana_0",
+            "text": "Thirty minutes until detonation.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_mako1_0360_0098_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0360_0100_blt_0",
+            "text": "Nice one.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0360_0100_blt_1",
+            "text": "Gave that scorpion a prize for his service.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0370_0000_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0370_0000_cld_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0370_0002_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0370_0002_jec_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0390_0020_jec_0",
+            "text": "How stupid! My foot is stuck.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0390_0030_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0390_0040_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0390_0050_jec_0",
+            "text": "Thank you!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0390_0060_blt_0",
+            "text": "Hey, we'll meet up over there! Take care of Jessie for me!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0390_0070_jec_0",
+            "text": "This way, this way!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0405_0010_jec_0",
+            "text": "Barret!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0405_0020_blt_0",
+            "text": "Go ahead, Jessie.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0405_0020_blt_1",
+            "text": "The priority is unlocking the door.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0405_0030_jec_0",
+            "text": "But...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0405_0040_blt_0",
+            "text": "No problem over here!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0405_0040_blt_1",
+            "text": "The SOLDIER is with me!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0405_0041_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0405_0050_cld_0",
+            "text": "<i>Ex</i>-SOLDIER.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0430_0010_hyd_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0450_0002_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0450_0010_blt_0",
+            "text": "Hurry up, hurry up, hurry up, hurry up.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako1_0450_0011_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0450_0012_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0450_0020_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0450_0030_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0450_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0510_0000_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0510_0020_cld_0",
+            "text": "Can you stand?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0510_0029_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0510_0030_jec_0",
+            "text": "I fell on purpose. I was hoping you would help me.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0510_0031_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0510_0040_cld_0",
+            "text": "Was a very convincing performance.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako1_0510_0041_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0510_0042_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0510_0043_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0510_0050_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0510_0060_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0510_0070_jec_0",
+            "text": "Cloud!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0510_0080_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0510_0090_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0510_0100_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0510_0110_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0510_0120_jec_0",
+            "text": "So impressive!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0510_0130_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0510_0140_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako1_0510_0150_jec_0",
+            "text": "Come on, let's go!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_mako1_0510_0160_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$lv_mako1_0130_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$lv_mako1_0130_0020_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$lv_mako1_0130_0021_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$lv_mako1_0130_0030_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$lv_mako1_0130_0040_big_0",
+            "text": "This way!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$lv_mako1_0500_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_mako1_0080_0030_big_0",
+            "text": "Could be a bit of a pain in the ass.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_mako1_0080_0040_jec_0",
+            "text": "I'll forgive him for looking good.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0080_0050_big_0",
+            "text": "It's begun...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_mako1_0080_0060_jec_0",
+            "text": "First of all, the face. It's fundamental, right?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0080_0070_big_0",
+            "text": "I'm not very good at the fundamentals anyway.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_mako1_0080_0080_jec_0",
+            "text": "I mean, you're competing in the wrong event.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0080_0090_big_0",
+            "text": "That's enough. Don't say another word.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_mako1_0080_0100_jec_0",
+            "text": "If I were to use a metaphor...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0080_0110_big_0",
+            "text": "Don't use a metaphor.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_mako1_0125_0010_wed_0",
+            "text": "Cloud, the lift will take you up! We'll be waiting!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_mako1_0140_0010_kb25_0",
+            "text": "There they are!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_mako1_0140_0020_kb26_0",
+            "text": "Get him!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_mako1_0150_0060_blt_0",
+            "text": "Hurry to your positions.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako1_0150_0070_wed_0",
+            "text": "I'm over here.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_mako1_0150_0075_jec_0",
+            "text": "Cloud, this way!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0150_0080_blt_0",
+            "text": "Move it, move it!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako1_0170_0010_big_0",
+            "text": "Don't rush me.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_mako1_0170_0020_big_0",
+            "text": "Unlocked.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_mako1_0191_0010_jec_0",
+            "text": "Kept you waiting?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0191_0020_cld_0",
+            "text": "Let's hurry up.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako1_0191_0030_jec_0",
+            "text": "Oh that voice... my beating heart! ",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0191_0040_blt_0",
+            "text": "Stay focused.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako1_0280_0010_jec_0",
+            "text": "Cloud, look over there.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0280_0020_cld_0",
+            "text": "Security system is up and running.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako1_0280_0030_jec_0",
+            "text": "Looks intense, don't you think? And if it sees you, you're gonna get burned.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0280_0040_jec_0",
+            "text": "You know how this goes.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0280_0050_cld_0",
+            "text": "The lasers flicker at regular intervals.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako1_0280_0060_cld_0",
+            "text": "Find the right timing, proceed when they disappear.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako1_0280_0070_jec_0",
+            "text": "That's what I'm talking about!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0280_0080_jec_0",
+            "text": "Okay, I'll start. I'm a big fan of thrills!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0280_0090_cld_0",
+            "text": "Hey!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako1_0280_0100_jec_0",
+            "text": "Keep those beautiful eyes of yours open!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0290_0010_jec_0",
+            "text": "That's commonly known as a Sweeper, and if you mess up, they'll clean you out.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0290_0020_cld_0",
+            "text": "I'll scrap it before then.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako1_0290_0050_jec_0",
+            "text": "Look.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0300_0010_jec_0",
+            "text": "And that's that!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0300_0020_blt_0",
+            "text": "It's close, it's close... I'm choking on mako.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako1_0320_0010_jec_0",
+            "text": "I'm gonna climb down from here.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0330_0010_jec_0",
+            "text": "When you get down there, it's showtime.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0330_0015_jec_0",
+            "text": "I'm afraid I'm done escorting you.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0330_0020_jec_0",
+            "text": "Barret, Cloud--the rest is up to you.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0460_0010_jec_0",
+            "text": "Unlocked.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0470_0010_big_0",
+            "text": "Unlocked.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_mako1_0480_0010_jec_0",
+            "text": "Come on, get out, get out!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_0490_0010_wed_0",
+            "text": "This way, this way!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_mako1_0992_0060_sys_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_mako1_0993_0060_sys_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_mako1_8010_0010_jec_0",
+            "text": "That's it! That's the idea!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8011_0010_jec_0",
+            "text": "With time to spare.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8012_0010_jec_0",
+            "text": "That's what I'm talking about, Ex-SOLDIER!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8013_0010_jec_0",
+            "text": "Too easy?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8014_0010_jec_0",
+            "text": "Good, Cloud!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8015_0010_jec_0",
+            "text": "It's a piece of cake, right?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8021_0010_jec_0",
+            "text": "Are you okay?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8022_0010_jec_0",
+            "text": "Watch the timing.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8023_0010_jec_0",
+            "text": "Just relax.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8024_0010_jec_0",
+            "text": "Keep your cool.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8025_0010_jec_0",
+            "text": "I'm sorry. I laughed.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8026_0010_jec_0",
+            "text": "SOLDIERs are tough as nails, aren't they?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8026_0020_jec_0",
+            "text": "Should I be worried?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8031_0010_jec_0",
+            "text": "That was intentional, right?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8032_0010_jec_0",
+            "text": "You <i>were</i> a SOLDIER, right?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8033_0010_jec_0",
+            "text": "You're cute, Cloud.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8034_0010_jec_0",
+            "text": "Maybe you like it...?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8035_0010_jec_0",
+            "text": "Okay. There's a fine line between being tough and being stupid.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8035_0020_jec_0",
+            "text": "Which side are you on?.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8040_0010_jec_0",
+            "text": "Perfect. Let's keep going.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8050_0010_jec_0",
+            "text": "Basically the same as before.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8060_0010_jec_0",
+            "text": "Perfect!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8060_0020_jec_0",
+            "text": "We're almost there, where we'll plant the bomb.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8070_0010_jec_0",
+            "text": "Well, we made it this far.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_mako1_8070_0020_jec_0",
+            "text": "We're almost there, where we'll plant the bomb.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_mako1_1100_0010_wed_0",
+            "text": "We can rely on you, right, Cloud?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_mako1_1111_0010_wed_0",
+            "text": "It will be open soon.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_mako1_1112_0010_wed_0",
+            "text": "Once the gates open, the mission begins. My stomach hurts...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_mako1_1200_0010_kb18_0",
+            "text": "I found them!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_mako1_1310_0010_wed_0",
+            "text": "I'll make sure there's a way out.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_mako1_1310_0020_wed_0",
+            "text": "Please follow them, Cloud.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_mako1_1320_0010_wed_0",
+            "text": "Take care of Biggs and the others.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_mako1_1330_0010_wed_0",
+            "text": "I'm going to hold down the fort here.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_mako1_1410_0010_big_0",
+            "text": "I got your back.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_mako1_1420_0010_big_0",
+            "text": "Hey, don't keep Jessie waiting.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_mako1_1450_0010_jec_0",
+            "text": "The elevator's going down.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_mako1_1450_0015_jec_0",
+            "text": "Push that button right there.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_mako1_1460_0010_jec_0",
+            "text": "Hang on, Biggs is opening the door.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_mako1_1470_0010_blt_0",
+            "text": "You better show us the way.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_1480_0010_blt_0",
+            "text": "Just sit tight and wait.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_1490_0010_blt_0",
+            "text": "From here on out, we'll be even more vigilant. Don't screw this up.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_4010_0005_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_mako1_4010_0010_blt_0",
+            "text": "I'm shaking, man.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_4010_0020_cld_0",
+            "text": "You lost your nerve?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako1_4010_0030_blt_0",
+            "text": "No way in hell! This is a dream come true!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_5010_0010_blt_0",
+            "text": "You can't see the bottom. If you fall, you're <i>in</i> the Planet...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_5010_0020_cld_0",
+            "text": "And the Mako reactor would suck you up in no time.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako1_5010_0030_blt_0",
+            "text": "That ain't funny.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_5020_0010_jec_0",
+            "text": "So pushy. Cloud--cut up that eyeball!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_mako1_5030_0010_jec_0",
+            "text": "Not that way. Down the ladder.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_mako1_5052_0010_jec_0",
+            "text": "Oh, you want to stay with me? But, the real reason we're here is the Mako reactor.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_mako1_5054_0010_jec_0",
+            "text": "You should get going.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_mako1_6110_0010_blt_0",
+            "text": "How old are you?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_6110_0020_cld_0",
+            "text": "First.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako1_6110_0030_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_mako1_6110_0040_cld_0",
+            "text": "A SOLDIER's rank is not the same as their grade.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako1_6110_0050_blt_0",
+            "text": "I asked how old you are, and normally that means your age.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_6110_0060_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_mako1_6110_0070_blt_0",
+            "text": "Excuse me... I guess there's no such thing as a \"normal\" SOLDIER.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_6110_0080_blt_0",
+            "text": "\"First...\" So, a one year old?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_6110_0090_blt_0",
+            "text": "I'll remember that.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_6120_0010_blt_0",
+            "text": "It's time... it's time...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_7110_0010_blt_0",
+            "text": "Wedge is clearing an escape route.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_7110_0020_blt_0",
+            "text": "Get back there as fast as you can.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_7120_0020_jec_0",
+            "text": "If we go this way, we should be able to meet up with Barret.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_mako1_7121_0010_jec_0",
+            "text": "The exit is this way. Hurry!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_mako1_7122_0010_jec_0",
+            "text": "Cloud, what are you doing? Come on!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_mako1_7123_0005_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_mako1_7123_0010_cld_0",
+            "text": "Are you okay?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako1_7130_0010_jec_0",
+            "text": "Hurry, hurry!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_mako1_7130_0020_cld_0",
+            "text": "Shut up and move. It's a lot easier.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako1_7130_0021_cld_0",
+            "text": "Shut up and climb. It's that easy.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako1_7130_0030_jec_0",
+            "text": "OK...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_mako1_7130_0040_jec_0",
+            "text": "No! I get nervous when I'm not talking.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_mako1_7130_0050_cld_0",
+            "text": "Do what you want.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako1_7150_0010_blt_0",
+            "text": "Come on, we're getting back to the others.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_7150_0020_blt_0",
+            "text": "We need to get the hell out of here.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_7160_0010_blt_0",
+            "text": "We got a little problem on our hands.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_7160_0020_cld_0",
+            "text": "Put him down.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako1_7170_0010_blt_0",
+            "text": "There's enemies everywhere. Be careful.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_7170_0020_cld_0",
+            "text": "I know.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako1_7171_0010_blt_0",
+            "text": "Scared the shit out of me!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_7171_0020_cld_0",
+            "text": "It's like a new recruit's first battle.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako1_9070_0010_cld_0",
+            "text": "<>",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako1_9090_0010_blt_0",
+            "text": "<>",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_9090_0020_cld_0",
+            "text": "<>",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako1_9092_0010_blt_0",
+            "text": "<>",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_9093_0010_cld_0",
+            "text": "<>",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako1_9093_0020_blt_0",
+            "text": "<>",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_9094_0010_cld_0",
+            "text": "<>",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako1_9095_0010_blt_0",
+            "text": "<>",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_9095_0020_cld_0",
+            "text": "<>",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako1_9095_0030_blt_0",
+            "text": "<>",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_9096_0010_blt_0",
+            "text": "<>",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako1_9096_0020_cld_0",
+            "text": "<>",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako1_9096_0030_blt_0",
+            "text": "<>",
+            "speaker": "Barret"
+        }
+    ],
+    "meta": {
+        "tool": "FF7R text mod tools",
+        "version": "1.4.2",
+        "game": "FF7R"
+    }
+}

@@ -1,0 +1,5829 @@
+{
+    "data": [
+        {
+            "id": "$ba_town8_0020_0010_0000_kb06_0",
+            "text": "Hey, you over there!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0020_0010_0010_kb06_0",
+            "text": "Stop!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0020_0010_0020_kb06_0",
+            "text": "Go, go, go!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0030_0010_0000_kb09_0",
+            "text": "It's you! I found him!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0030_0010_0010_td01_0",
+            "text": "This is Sector 8 security, Unit 4. We found the target.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0030_0010_0020_td01_0",
+            "text": "We need reinforcements! I repeat: this is Sector 8 security, Unit 4!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0040_0010_0000_kb11_0",
+            "text": "You!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0040_0010_0010_kb11_0",
+            "text": "Hold it!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0040_0010_0020_kb11_0",
+            "text": "Do it!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0050_0010_0000_kb26_0",
+            "text": "Stop resisting!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0050_0010_0010_kb26_0",
+            "text": "You're not getting away!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0050_0010_0020_kb26_0",
+            "text": "Engage!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0055_0010_0000_kb22_0",
+            "text": "We found him!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0055_0010_0010_kb22_0",
+            "text": "Get ready.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0055_0010_0020_kb22_0",
+            "text": "Go!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0056_0010_0000_kb24_0",
+            "text": "It's him.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0056_0010_0010_kb24_0",
+            "text": "???.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0056_0010_0020_kb24_0",
+            "text": "Give it up.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0061_0010_0000_td15_0",
+            "text": "There's no way out.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0061_0010_0010_td15_0",
+            "text": "Move in!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0100_0010_0000_kb30_0",
+            "text": "Approach with caution.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0101_0010_0000_kb32_0",
+            "text": "I won't let him get away!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0110_0010_0000_td35_0",
+            "text": "Target acquired! Engaging!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0111_0010_0000_kb35_0",
+            "text": "Engaging the target.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0111_0010_0010_kb36_0",
+            "text": "Get him!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0200_0010_0000_cn40_0",
+            "text": "Come on!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0201_0010_0000_cn42_0",
+            "text": "There you are!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town8_0300_0010_0000_cn45_0",
+            "text": "No way through!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town8_0010_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0020_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0030_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0040_blt_0",
+            "text": "We're all here, right?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0010_0045_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0050_blt_0",
+            "text": "Looks like nobody's hurt.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0010_0060_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0070_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0080_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0085_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0090_blt_0",
+            "text": "A bit flashy, don't you think?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0010_0100_jec_0",
+            "text": "The bomb was made according to the instructions.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0010_0100_jec_1",
+            "text": "But maybe it reacted with the mako.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0010_0110_blt_0",
+            "text": "Might have gone to town on this one...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0010_0120_big_0",
+            "text": "The Planet is more important than the city, right?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town8_0010_0130_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0140_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0150_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0151_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0152_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0160_big_0",
+            "text": "I think the Planet's life was saved at least a little.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town8_0010_0170_jec_0",
+            "text": "Otherwise, I'm in trouble.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0010_0170_jec_1",
+            "text": "Come on, let's get out of here. This is Sector 8, right?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0010_0180_wed_0",
+            "text": "Still a ways to go.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town8_0010_0200_blt_0",
+            "text": "All right, lead the way.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0010_0210_wed_0",
+            "text": "Copy that, sir.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town8_0010_0220_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0000_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0001_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0002_jec_0",
+            "text": "All set.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0090_0010_jec_0",
+            "text": "Fire in the hole!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0090_0011_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0012_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0013_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0014_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0015_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0016_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0017_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0018_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0020_big_0",
+            "text": "It's clear.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town8_0090_0030_jec_0",
+            "text": "Anything gets in the way, we'll smash it to pieces. Come on, let's go.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0100_0010_ana_0",
+            "text": "Emergency! Emergency! This is the Shinra Company Crisis Response Headquarters!",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_town8_0100_0020_ana_0",
+            "text": "Mako Reactor Number 1 was attacked and destroyed by unknown assailants.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_town8_0100_0020_ana_1",
+            "text": "There are still intermittent explosions and fires.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_town8_0100_0030_ana_0",
+            "text": "Sector 1 and Sector 8 have been designated restricted areas.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_town8_0100_0040_ana_0",
+            "text": "There is a danger of buildings collapsing in this area, with falling debris and glass.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_town8_0100_0050_ana_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0060_ana_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0060_ana_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0070_ana_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0080_jec_0",
+            "text": "More than expected...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0100_0090_big_0",
+            "text": "What a mess...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town8_0100_0100_wed_0",
+            "text": "This is too much, right?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town8_0100_0110_cld_0",
+            "text": "It's too late for that now.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0100_0115_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0120_blt_0",
+            "text": "Yeah, that's right.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0100_0120_blt_1",
+            "text": "We're going to take down more of those damn reactors.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0100_0130_blt_0",
+            "text": "To save the life of the Planet.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0100_0140_big_0",
+            "text": "That's right. I mean, we made a commitment.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town8_0100_0150_wed_0",
+            "text": "We've only just started.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town8_0100_0160_blt_0",
+            "text": "We make the necessary sacrifices to save the Planet. That's what we do.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0100_0170_blt_0",
+            "text": "Yeah, it's not just the Planet... I can hear you screaming, too.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0100_0180_blt_0",
+            "text": "Ha! That's alright!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0100_0180_blt_1",
+            "text": "I'll carry it all on my back!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0100_0190_blt_0",
+            "text": "Your anxieties... Your doubts... Your worries...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0100_0190_blt_1",
+            "text": "And your rewards.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0100_0190_blt_2",
+            "text": "Put it all on my shoulders.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0100_0191_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0192_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0193_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0200_big_0",
+            "text": "So, what are we gonna do, sir?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town8_0100_0210_blt_0",
+            "text": "Just like we planned.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0100_0210_blt_1",
+            "text": "Do everything you can to get out of here!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0100_0220_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0230_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0240_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0250_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0260_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0270_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0130_0010_jec_0",
+            "text": "Knock-knock.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0130_0015_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0130_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0130_0030_jec_0",
+            "text": "A SOLDIER would recognize this, wouldn't he?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0130_0040_cld_0",
+            "text": "Recovery materia, of course.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0130_0050_jec_0",
+            "text": "It's yours. Thank you for your help.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0130_0060_cld_0",
+            "text": "It's part of the job. No need to thank me.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0130_0070_jec_0",
+            "text": "It's okay, it's okay.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0130_0070_jec_1",
+            "text": "I'm standing here now because of you.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0130_0071_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0130_0072_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0130_0073_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0130_0080_cld_0",
+            "text": "It's the lucky ones or the strong ones who survive.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0130_0080_cld_1",
+            "text": "I don't know which one you are, but...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0130_0090_jec_0",
+            "text": "So sensitive.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0130_0100_cld_0",
+            "text": "I'll keep this.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0130_0110_jec_0",
+            "text": "You do know how to use it, right?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0130_0120_cld_0",
+            "text": "What do you think I am?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0190_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0190_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0210_0000_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0210_0010_cld_0",
+            "text": "What the hell?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0210_0015_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0210_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0230_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0240_0000_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0240_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0240_0015_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0240_0016_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0240_0017_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0240_0020_cld_0",
+            "text": "Why...?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0290_0030_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0290_0040_cld_0",
+            "text": "That's impossible. You're...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0290_0040_cld_1",
+            "text": "Dead.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0290_0050_sep_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0290_0060_cld_0",
+            "text": "With my own hands.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0290_0090_sep_0",
+            "text": "Of course. I remember.",
+            "speaker": "Sephiroth"
+        },
+        {
+            "id": "$ev_town8_0290_0090_sep_1",
+            "text": "It's one of our most cherished memories.",
+            "speaker": "Sephiroth"
+        },
+        {
+            "id": "$ev_town8_0290_0095_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0290_0100_sep_0",
+            "text": "Now, Cloud, I need you to do something for me.",
+            "speaker": "Sephiroth"
+        },
+        {
+            "id": "$ev_town8_0290_0110_sep_0",
+            "text": "This planet is about to die.",
+            "speaker": "Sephiroth"
+        },
+        {
+            "id": "$ev_town8_0290_0110_sep_1",
+            "text": "No screams. Just quiet... and slow.",
+            "speaker": "Sephiroth"
+        },
+        {
+            "id": "$ev_town8_0290_0120_sep_0",
+            "text": "Our planet will disappear.",
+            "speaker": "Sephiroth"
+        },
+        {
+            "id": "$ev_town8_0290_0120_sep_1",
+            "text": "Cloud.",
+            "speaker": "Sephiroth"
+        },
+        {
+            "id": "$ev_town8_0300_0010_cld_0",
+            "text": "Mom... Mom...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0300_0015_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0300_0020_sep_0",
+            "text": "When the Planet dies, this lustrous, burning home of yours will be gone.",
+            "speaker": "Sephiroth"
+        },
+        {
+            "id": "$ev_town8_0300_0020_sep_1",
+            "text": "A woman's voice crying out for help, but only for her son.",
+            "speaker": "Sephiroth"
+        },
+        {
+            "id": "$ev_town8_0300_0020_sep_2",
+            "text": "Even the feeling of cutting her down will disappear.",
+            "speaker": "Sephiroth"
+        },
+        {
+            "id": "$ev_town8_0310_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0310_0020_sep_0",
+            "text": "The loss of the ties that bind us together is more unbearable than my own death.",
+            "speaker": "Sephiroth"
+        },
+        {
+            "id": "$ev_town8_0310_0020_sep_1",
+            "text": "Listen, Cloud. I need your help.",
+            "speaker": "Sephiroth"
+        },
+        {
+            "id": "$ev_town8_0310_0020_sep_2",
+            "text": "Oh, it's easy.",
+            "speaker": "Sephiroth"
+        },
+        {
+            "id": "$ev_town8_0310_0040_sep_0",
+            "text": "Run, Cloud...",
+            "speaker": "Sephiroth"
+        },
+        {
+            "id": "$ev_town8_0310_0040_sep_1",
+            "text": "Run. Survive.",
+            "speaker": "Sephiroth"
+        },
+        {
+            "id": "$ev_town8_0310_0060_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0310_0070_cld_0",
+            "text": "Don't screw with me!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0310_0080_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0310_0090_sep_0",
+            "text": "That's good. That's good.",
+            "speaker": "Sephiroth"
+        },
+        {
+            "id": "$ev_town8_0310_0090_sep_1",
+            "text": "Don't forget me.",
+            "speaker": "Sephiroth"
+        },
+        {
+            "id": "$ev_town8_0310_0100_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0310_0140_cld_0",
+            "text": "Hallucinations... You got too close to the mako.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0310_0160_cld_0",
+            "text": "Come on, let's go.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0380_0000_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0001_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0004_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0005_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0007_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0010_sep_0",
+            "text": "You can't protect anyone.",
+            "speaker": "Sephiroth"
+        },
+        {
+            "id": "$ev_town8_0380_0010_sep_1",
+            "text": "Not even yourself.",
+            "speaker": "Sephiroth"
+        },
+        {
+            "id": "$ev_town8_0380_0020_ath_0",
+            "text": "Are you okay?",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0030_ath_0",
+            "text": "Hey, are you okay?",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0040_cld_0",
+            "text": "...Yeah.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0380_0045_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0050_ath_0",
+            "text": "Here you go. A flower.",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0060_cld_0",
+            "text": "Flower?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0380_0070_ath_0",
+            "text": "Yeah. Thank you.",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0070_ath_1",
+            "text": "You drove them away. You saved me.",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0080_cld_0",
+            "text": "What are you talking about?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0380_0090_ath_0",
+            "text": "Okay, well, in honor of our encounter.",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0100_cld_0",
+            "text": "Pain in the ass...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0380_0110_ath_0",
+            "text": "I can hear you.",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0120_cld_0",
+            "text": "How much?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0380_0130_ath_0",
+            "text": "I decide the price when I see who I'm dealing with.",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0130_ath_1",
+            "text": "I'd be happy to give it to you for free.",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0130_ath_2",
+            "text": "For you...",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0135_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0140_cld_0",
+            "text": "I don't want it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0380_0150_ath_0",
+            "text": "Oh, come on. Don't be like that.",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0160_ath_0",
+            "text": "This is a real flower. They're precious, you know?",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0160_ath_1",
+            "text": "If you give it to your girlfriend, I'm sure she'll love it.",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0170_cld_0",
+            "text": "Don't be ridiculous. I'll give you two gil.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0380_0180_ath_0",
+            "text": "Two gil? These are real flowers, okay?",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0190_cld_0",
+            "text": "Okay, I'll add three more.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0380_0200_ath_0",
+            "text": "Not even close.",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0210_ath_0",
+            "text": "Besides, I said I'd give it to you for free.",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0210_ath_1",
+            "text": "You're trying to get rid of me! And for 5 gil.",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0215_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0216_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0220_ath_0",
+            "text": "It's not going to happen.",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0230_ath_0",
+            "text": "In the language of flowers, this says \"reunion.\"",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0233_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0240_cld_0",
+            "text": "I'm warning you.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0380_0240_cld_1",
+            "text": "I'm strong.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0380_0250_ath_0",
+            "text": "Yeah, I get that feeling.",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0260_cld_0",
+            "text": "I don't give in to threats.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0380_0270_ath_0",
+            "text": "Are you worried some scary guy is going to come and threaten you?",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0270_ath_1",
+            "text": "No, no, no.",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0270_ath_2",
+            "text": "You don't need to worry about that.",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0280_cld_0",
+            "text": "How much?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0380_0290_ath_0",
+            "text": "I decide the price when I see who I'm dealing with.",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0290_ath_1",
+            "text": "I'd be happy to give it to you for free.",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_0290_ath_2",
+            "text": "For you...",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0380_9000_cut0_0",
+            "text": "A flower. Here you go.",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_9001_cut1_0",
+            "text": "How much?",
+            "info": ""
+        },
+        {
+            "id": "$ev_town8_0380_9002_cut2_0",
+            "text": "I don't want it.",
+            "info": ""
+        },
+        {
+            "id": "$ev_town8_0380_9010_cut0_0",
+            "text": "Yours is... free of charge.",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_9011_cut1_0",
+            "text": "Don't be ridiculous.",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_9012_cut2_0",
+            "text": "I'll take it.",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0020_cld_0",
+            "text": "A mako reactor exploded.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0390_0020_cld_1",
+            "text": "You should close up tonight, too.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0390_0025_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0050_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0060_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0060_ath_1",
+            "text": "Help me!",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0390_0070_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0073_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0075_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0077_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0080_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0085_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0100_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0110_ath_0",
+            "text": "What is this?",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0390_0113_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0115_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0117_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0119_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0120_kb01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0120_kb01_1",
+            "text": "Drop your weapon!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town8_0390_0125_cld_0",
+            "text": "Don't you see them?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0390_0130_ath_0",
+            "text": "On second thought, let's call it a day.",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0390_0135_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0140_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0150_cld_0",
+            "text": "Hey!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0390_0160_ath_0",
+            "text": "See you later!",
+            "speaker": "Flower Peddler"
+        },
+        {
+            "id": "$ev_town8_0390_0170_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0180_kb01_0",
+            "text": "Put the sword on the ground!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town8_0390_0180_kb01_1",
+            "text": "Slowly.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town8_0390_0190_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0510_0005_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0510_0010_kb39_0",
+            "text": "Like a rat in a cage.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town8_0510_0011_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0510_0020_kb49_0",
+            "text": "You're making things difficult.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town8_0510_0021_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0510_0030_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0510_0035_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0510_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0010_kb91_0",
+            "text": "Hunt him down!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town8_0520_0015_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0020_kb90_0",
+            "text": "Don't let him escape!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town8_0520_0030_kb91_0",
+            "text": "This is Sector 8 security, Unit 2. We got him. Moving to secure him now.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town8_0520_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0050_kb92_0",
+            "text": "Hey, that sword--",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town8_0520_0060_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0065_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0066_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0110_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0115_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0120_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0125_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0130_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0005_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0010_wed_0",
+            "text": "Cloud didn't show up.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town8_0550_0020_big_0",
+            "text": "Don't look at me like that. He's gonna be okay.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town8_0550_0020_big_1",
+            "text": "You saw the way he carried himself, right?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town8_0550_0020_big_2",
+            "text": "They're not called SOLDIERs just for the sake of it.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town8_0550_0025_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0030_jec_0",
+            "text": "Yeah. Are you sure you don't want him to join us?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0550_0040_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0050_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0060_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0070_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0100_blt_0",
+            "text": "Hold on a second.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0550_0110_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0150_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0160_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0170_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0180_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0190_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0200_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0210_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0220_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0230_blt_0",
+            "text": "You had us worried, man.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0550_0240_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0250_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0260_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0280_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0290_blt_0",
+            "text": "What the hell were you doing?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0550_0295_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0300_cld_0",
+            "text": "Security forces were hanging around, so I stirred things up.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0550_0300_cld_1",
+            "text": "Had to pull them away from the station somehow.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0550_0315_jec_0",
+            "text": "My hero.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0550_0320_big_0",
+            "text": "You can count on him, can't you?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town8_0550_0325_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0326_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0330_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0340_cld_0",
+            "text": "Hold it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0550_0340_cld_1",
+            "text": "I have a question.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0550_0341_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0345_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0350_cld_0",
+            "text": "Have you ever seen an invisible enemy?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0550_0351_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0352_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0353_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0354_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0360_cld_0",
+            "text": "A misty thing in a robe.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0550_0370_big_0",
+            "text": "You <i>saw</i> it then.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town8_0550_0380_cld_0",
+            "text": "It appeared suddenly. Probably triggered by contact.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0550_0390_jec_0",
+            "text": "Shinra's new weapon?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0550_0400_blt_0",
+            "text": "Ha! He must have freaked out and hallucinated.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0550_0410_cld_0",
+            "text": "That's enough. I asked the wrong guy.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0550_0420_blt_0",
+            "text": "We're changing cars.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0550_0430_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0001_sbf_0",
+            "text": "I can't believe they blew up a Mako reactor. These people are a nuisance.",
+            "speaker": "Shinra Employee"
+        },
+        {
+            "id": "$ev_town8_0710_0002_snk_0",
+            "text": "It hasn't been made public, but the culprit is Avalanche.",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$ev_town8_0710_0003_sbf_0",
+            "text": "The same people who have been stalking our President for years.",
+            "speaker": "Shinra Employee"
+        },
+        {
+            "id": "$ev_town8_0710_0004_sbm_0",
+            "text": "Are they just trying to screw Shinra over?",
+            "speaker": "Shinra Employee"
+        },
+        {
+            "id": "$ev_town8_0710_0005_snk_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0010_blt_0",
+            "text": "Hey, don't be ridiculous.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0710_0010_blt_1",
+            "text": "Avalanche's goal is to save the planet.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0710_0012_snk_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0013_sbm_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0014_sbf_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0015_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0020_snk_0",
+            "text": "And who the hell are you?",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$ev_town8_0710_0030_blt_0",
+            "text": "A good citizen thinking of the Planet.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0710_0038_sbm_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0040_sbf_0",
+            "text": "Where's the goodness in that?",
+            "speaker": "Shinra Employee"
+        },
+        {
+            "id": "$ev_town8_0710_0045_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0047_snk_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0050_sbm_0",
+            "text": "You're gonna get hit.",
+            "speaker": "Shinra Employee"
+        },
+        {
+            "id": "$ev_town8_0710_0052_sbf_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0059_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0060_blt_0",
+            "text": "That explosion was a warning to the bad guys, of course.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0710_0070_blt_0",
+            "text": "To the scoundrels exploiting the life of the Planet.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0710_0070_blt_1",
+            "text": "You know the name of the scoundrels pretty well, don't you?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0710_0074_sbf_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0075_sbm_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0080_snk_0",
+            "text": "We will not be cowed by violence.",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$ev_town8_0710_0080_snk_1",
+            "text": "But work together for peace and prosperity!",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$ev_town8_0710_0090_snk_0",
+            "text": "That is how civilized people change the world!",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$ev_town8_0710_0091_snk_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0100_sbf_0",
+            "text": "That's right!",
+            "speaker": "Shinra Employee"
+        },
+        {
+            "id": "$ev_town8_0710_0108_sbm_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0110_sbm_0",
+            "text": "That is the Shinra creed!",
+            "speaker": "Shinra Employee"
+        },
+        {
+            "id": "$ev_town8_0710_0115_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0116_snk_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0117_sbf_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0118_sbm_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0120_blt_0",
+            "text": "Hmph. Them's fighting words.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0710_0123_sbf_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0124_sbm_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0130_snk_0",
+            "text": "It's what we believe.",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$ev_town8_0710_0130_snk_1",
+            "text": "We all have to follow our conscience, don't we?",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$ev_town8_0710_0131_sbm_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0132_sbm_0",
+            "text": "We should go.",
+            "speaker": "Shinra Employee"
+        },
+        {
+            "id": "$ev_town8_0710_0135_snk_0",
+            "text": "Right...",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$ev_town8_0710_0136_sbf_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0140_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0145_sbf_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0146_sbm_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0760_0010_jec_0",
+            "text": "Let's get this out of the way...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0760_0030_jec_0",
+            "text": "Personally, I find visual aids make the dull stuff a lot more bearable.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0760_0030_jec_1",
+            "text": "If it helps, think of it as an initiation rite.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0760_0040_cld_0",
+            "text": "How many times do I have to tell you people. I'm not─",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0760_0050_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0760_0055_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0760_0060_jec_0",
+            "text": "There's such a thing as playing too hard to get.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0760_0080_jec_0",
+            "text": "So, here we've got a wireframe model of the great city of Midgar.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0760_0080_jec_1",
+            "text": "Complete with massive steel plates suspended three hundred meters above ground level...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0760_0080_jec_2",
+            "text": "Atop which stands a shining beacon of civilization.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0760_0080_jec_3",
+            "text": "The whole system is sustained by the mako reactors, which feed the insatiable appetites of the public.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0760_0100_ana_0",
+            "text": "The train will be passing through an ID checkpoint shortly.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_town8_0760_0120_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0760_0130_jec_0",
+            "text": "This here is the train's route.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0760_0130_jec_1",
+            "text": "As you can see, it'll take us around this main pillar.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0760_0130_jec_2",
+            "text": "Look─we're about halfway through it now.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0760_0130_jec_3",
+            "text": "They've set up a checkpoint here to scan the IDs of all passengers heading in and out.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0760_0130_jec_4",
+            "text": "Date of birth, residential status, criminal history...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0760_0130_jec_5",
+            "text": "All that and more is automatically cross-referenced in their databases.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0760_0130_jec_6",
+            "text": "Public Security wouldn't have it any other way.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0760_0130_jec_7",
+            "text": "Heads up.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0760_0140_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0760_0150_jec_0",
+            "text": "Don't worry. Our IDs are impeccable.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0760_0170_jec_0",
+            "text": "What'd I tell you? Have a little faith.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0760_0190_jec_0",
+            "text": "Won't be long till we reach the bottom. Relax.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town8_0760_0200_blt_0",
+            "text": "Take a good look. It's because of that great big pizza in the sky that people down there gotta struggle to survive.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0760_0200_blt_1",
+            "text": "Shinra sucks up mako while the soil turns to dust, the air fills with smog, and the flowers die.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0760_0205_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0760_0210_cld_0",
+            "text": "Then leave and don't look back.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0760_0220_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0760_0230_cld_0",
+            "text": "That's what's always worked for me.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0760_0240_blt_0",
+            "text": "Hmph! Well, that's all well and good if you're only out for yourself.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_town8_0760_0255_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0760_0260_cld_0",
+            "text": "Like this train, I suppose...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0760_0260_cld_1",
+            "text": "There's only one way it can go...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town8_0760_0270_blt_0",
+            "text": "But the folks down there don't have the luxury of choice, you know?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$lv_town8_0080_0010_wed_0",
+            "text": "That's about as good a place as any.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$lv_town8_0080_0030_jec_0",
+            "text": "OK, stay back--I'll plant the bomb.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$lv_town8_0080_0040_blt_0",
+            "text": "Hang on, Marlene.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$lv_town8_0080_0050_big_0",
+            "text": "\"Hang on,\" shower.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$lv_town8_0420_0010_tb01_0",
+            "text": "It's you! I found him!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$lv_town8_0420_0020_tb02_0",
+            "text": "HQ, this is Sector 8 security, Unit 2. We found the reported man. Requesting reinforcements.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$lv_town8_0420_0020_tb02_1",
+            "text": "I say again, this is Sector 8 security, Unit 2--",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$lv_town8_0430_0030_kb19_0",
+            "text": "Surround him. Surround him!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$lv_town8_0430_0050_kb20_0",
+            "text": "There's nowhere to run!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_town8_0030_0010_wed_0",
+            "text": "There are electrical leaks all over the place, so be careful.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town8_0040_0010_big_0",
+            "text": "Smells like iron and rust... Come on, fresh air. Come on.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town8_0060_0010_big_0",
+            "text": "What's that sour smell cutting through my nostrils?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town8_0060_0011_big_0",
+            "text": "Oh, it's me...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town8_0060_0020_big_0",
+            "text": "Well, I was sweating a lot.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town8_0065_0010_jec_0",
+            "text": "Wedge, where are we?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0065_0020_wed_0",
+            "text": "Almost there.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town8_0070_0010_jec_0",
+            "text": "Was the density of mako the catalyst...? No way. Gunpowder?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0070_0020_big_0",
+            "text": "Jessie, can we talk about this later?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town8_0070_0030_wed_0",
+            "text": "My stomach is growling.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town8_0070_0040_blt_0",
+            "text": "You're gonna have to be patient till we get to the safe house.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_town8_0070_0050_wed_0",
+            "text": "I'll have to bring a lunch next time.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town8_0110_0010_blt_0",
+            "text": "Board the last train at the Sector 8 station.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_town8_0110_0020_blt_0",
+            "text": "We'll split up and meet at the freight car.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_town8_0112_0010_wed_0",
+            "text": "See you later!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town8_0115_0010_cld_0",
+            "text": "Hey, where's the money you promised me?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0116_0010_blt_0",
+            "text": "The mission isn't over until we get back to the safe house.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_town8_0146_0008_jec_0",
+            "text": "",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0146_0010_jec_0",
+            "text": "Make use of it before you pass out.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0146_0020_jec_0",
+            "text": "And over here... I admire the guts of the new guy.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0146_0030_jec_0",
+            "text": "A thrilling reward.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0146_0040_jec_0",
+            "text": "Okay, let's go to the freight car.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0150_0008_jec_0",
+            "text": "",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0150_0010_jec_0",
+            "text": "Just make use you use it <i>before</i> you pass out.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0150_0011_jec_0",
+            "text": "Okay, let's get to the freight car.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0170_0010_cld_0",
+            "text": "How to get around this...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0180_0010_jec_0",
+            "text": "Be careful here. It's gonna fall apart any second.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0180_0015_jec_0",
+            "text": "You can climb the stairs over there.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0180_0020_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town8_0185_0010_mn09_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town8_0186_0010_mn10_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town8_0187_0010_wm03_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town8_0188_0010_wm04_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town8_0200_0010_cld_0",
+            "text": "Is the station intact?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0255_0010_cld_0",
+            "text": "Where is he?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0260_0010_cld_0",
+            "text": "No way... How?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0270_0010_cld_0",
+            "text": "It's not real...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0280_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town8_0280_0020_cld_0",
+            "text": "Wait...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0321_0010_cld_0",
+            "text": "I don't think I can do this.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0322_0010_cld_0",
+            "text": "Or we could find another route.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0323_0010_cld_0",
+            "text": "Shit. It's time to go.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0350_0010_cld_0",
+            "text": "More than you expected.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0354_0010_cld_0",
+            "text": "I see they already got this covered.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0355_0010_cld_0",
+            "text": "You make a fuss here, there's gonna be a lot of trouble.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0396_0010_gng_0",
+            "text": "The reported prowler... I'm sure he's still around.",
+            "speaker": "Captain"
+        },
+        {
+            "id": "$pv_town8_0396_0020_cld_0",
+            "text": "I'm gonna have to get out of here.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0397_0010_gng_0",
+            "text": "I want anyone who looks suspicious in custody.",
+            "speaker": "Captain"
+        },
+        {
+            "id": "$pv_town8_0397_0020_cld_0",
+            "text": "Looks like we'll have to go around.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0398_0010_gng_0",
+            "text": "The target is carrying a weapon! Do not let him get away!",
+            "speaker": "Captain"
+        },
+        {
+            "id": "$pv_town8_0398_0020_cld_0",
+            "text": "So much for the direct route.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0411_0010_kb11_0",
+            "text": "All clear.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_town8_0412_0010_kb11_0",
+            "text": "No sign of him.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_town8_0421_0010_gng_0",
+            "text": "Our target's just one man. We'll get him!",
+            "speaker": "Captain"
+        },
+        {
+            "id": "$pv_town8_0421_0020_cld_0",
+            "text": "Not going to the station anytime soon...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0422_0010_gng_0",
+            "text": "Squads 6 through 10 are inbound as we speak!",
+            "speaker": "Captain"
+        },
+        {
+            "id": "$pv_town8_0422_0020_cld_0",
+            "text": "Might be safer in the plaza...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0423_0010_gng_0",
+            "text": "Don't let him get to the station!",
+            "speaker": "Captain"
+        },
+        {
+            "id": "$pv_town8_0423_0020_cld_0",
+            "text": "Back to the drawing board...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0463_0010_cld_0",
+            "text": "Looks like the station's crawling with Public Security...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0463_0020_cld_0",
+            "text": "...But the rooftops look clear.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0465_0010_td25_0",
+            "text": "Over there!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_town8_0465_0020_kb26_0",
+            "text": "Open fire! Shoot to kill!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_town8_0468_0010_cld_0",
+            "text": "It's all or nothing now...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0469_0010_cld_0",
+            "text": "Close call.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0475_0010_kb30_0",
+            "text": "Target sighted! Get him!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_town8_0475_0020_cld_0",
+            "text": "It's all or nothing now...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0490_0010_sh01_0",
+            "text": "Confirmed─target has entered residential area!",
+            "speaker": "Shinra Helicopter"
+        },
+        {
+            "id": "$pv_town8_0490_0011_sh01_0",
+            "text": "Full lockdown is in effect! All units─",
+            "speaker": "Shinra Helicopter"
+        },
+        {
+            "id": "$pv_town8_0560_0010_wed_0",
+            "text": "Lotta people here...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town8_0560_0020_jec_0",
+            "text": "And in the freight car, too...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0560_0030_big_0",
+            "text": "'Cause of the evacuation order, maybe?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town8_0560_0040_blt_0",
+            "text": "Lucky us. We've got a crowd to hide in.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_town8_0630_0010_ana_0",
+            "text": "This train from Sector 8 Station is bound for Sector 7 Undercity.",
+            "speaker": "Announcer"
+        },
+        {
+            "id": "$pv_town8_0630_0020_ana_0",
+            "text": "Due to an explosion at Mako Reactor 1, an emergency schedule is now in effect.",
+            "speaker": "Announcer"
+        },
+        {
+            "id": "$pv_town8_0630_0030_ana_0",
+            "text": "Your understanding and cooperation is appreciated.",
+            "speaker": "Announcer"
+        },
+        {
+            "id": "$pv_town8_0630_0040_blt_0",
+            "text": "Head for the front of the train and hold there.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_town8_0640_0010_wed_0",
+            "text": "Ugh, so cramped...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town8_0650_0020_wed_0",
+            "text": "Man, everyone's on edge.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town8_0650_0030_cld_0",
+            "text": "Of course they are.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0650_0035_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town8_0650_0040_wed_0",
+            "text": "Hey, Cloud, I...um...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town8_0650_0050_cld_0",
+            "text": "If you're about to \"unburden\" yourself─don't.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0650_0060_wed_0",
+            "text": "Yeesh... You don't make it easy...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town8_0660_0010_big_0",
+            "text": "Hey, got a sec?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town8_0670_0020_big_0",
+            "text": "You're uh...holding up pretty well, huh? Even after what we saw at the station and all over Sector 8?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town8_0670_0030_cld_0",
+            "text": "I'm a SOLDIER.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0670_0040_big_0",
+            "text": "Well...my hands are still shaking.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town8_0670_0050_cld_0",
+            "text": "You get used to it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0670_0060_big_0",
+            "text": "Something to look forward to...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town8_0670_0061_big_0",
+            "text": "Or maybe not.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town8_0680_0010_jec_0",
+            "text": "Little help, Cloud? Please?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0690_0020_jec_0",
+            "text": "I can't stop thinking about it. The bomb I made shouldn't have produced an explosion that big.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0690_0030_jec_0",
+            "text": "It doesn't make any sense...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0690_0040_cld_0",
+            "text": "The explosion triggered a reaction with the mako. You said so yourself.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0690_0050_jec_0",
+            "text": "That was my first guess─but shouldn't a reactor have fail-safes to prevent that kinda thing?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0690_0060_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0690_0070_jec_0",
+            "text": "You mentioned \"invisible enemies\" back there, right?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0690_0080_cld_0",
+            "text": "Right.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_0690_0090_jec_0",
+            "text": "Hmm... No.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0690_0091_jec_0",
+            "text": "I'm just looking for excuses for something that was clearly my own fault.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0690_0100_jec_0",
+            "text": "Gotta own up to it if I'm gonna learn from this and move on.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0690_0105_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town8_0690_0110_jec_0",
+            "text": "Thanks, Cloud. You're a good listener.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0721_0010_blt_0",
+            "text": "Quit acting like a damn kid. I ain't in the mood.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_town8_0722_0010_wed_0",
+            "text": "You got somewhere you need to be?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town8_0723_0010_big_0",
+            "text": "Don't wander off, huh?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town8_0724_0010_jec_0",
+            "text": "Cloud! Over here.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_0726_0010_blt_0",
+            "text": "You hear that suit? \"Shinra creed\" my ass.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_town8_0727_0010_blt_0",
+            "text": "We're the good guys, dammit...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_town8_0736_0010_wed_0",
+            "text": "They'd probably kill us if they knew we were the ones responsible...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town8_0737_0010_wed_0",
+            "text": "No─don't think about it.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town8_0746_0010_big_0",
+            "text": "Well, I get it if you can't relate...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town8_0747_0010_big_0",
+            "text": "I can't wait to wash it all off.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town8_1180_0010_jec_0",
+            "text": "Cloud! Over here! Up! Up! Look up!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_1185_0010_jec_0",
+            "text": "The top of the stairs. Be careful. It's gonna collapse.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_1186_0010_jec_0",
+            "text": "Are you doing this on purpose? On top of the rubble!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_1191_0010_jec_0",
+            "text": "Not that way. To the right!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_1192_0010_jec_0",
+            "text": "I said up!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_1193_0010_jec_0",
+            "text": "A little more to the left!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_1194_0010_jec_0",
+            "text": "And then you just look down.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town8_1440_0010_sh01_0",
+            "text": "Target sighted. I repeat, target sighted.",
+            "speaker": "Shinra Helicopter"
+        },
+        {
+            "id": "$pv_town8_1440_0020_sh01_0",
+            "text": "All troopers, begin preparations for drop.",
+            "speaker": "Shinra Helicopter"
+        },
+        {
+            "id": "$pv_town8_1440_0030_sh01_0",
+            "text": "Prepared for descent complete.",
+            "speaker": "Shinra Helicopter"
+        },
+        {
+            "id": "$pv_town8_1440_0040_sh01_0",
+            "text": "Commence attack.",
+            "speaker": "Shinra Helicopter"
+        },
+        {
+            "id": "$pv_town8_1451_0010_sh01_0",
+            "text": "Engaging target in Fountain Square. All units in the vicinity, proceed immediately.",
+            "speaker": "Shinra Helicopter"
+        },
+        {
+            "id": "$pv_town8_1452_0020_sh01_0",
+            "text": "Be advised─target is headed for the station!",
+            "speaker": "Shinra Helicopter"
+        },
+        {
+            "id": "$pv_town8_1453_0020_sh01_0",
+            "text": "Requesting immediate reinforcements at fountain plaza!",
+            "speaker": "Shinra Helicopter"
+        },
+        {
+            "id": "$pv_town8_1460_0010_sh01_0",
+            "text": "Target still mobile! Support, proceed to rally point at the station.",
+            "speaker": "Shinra Helicopter"
+        },
+        {
+            "id": "$pv_town8_1460_0021_cld_0",
+            "text": "Find another way...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_1460_0030_cld_0",
+            "text": "Use the rooftops, maybe...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town8_1470_0010_sh01_0",
+            "text": "Be advised─target approaching residential area. Seal all access immediately!",
+            "speaker": "Shinra Helicopter"
+        },
+        {
+            "id": "$pv_town8_1490_0010_sh01_0",
+            "text": "Enemy combatant─you are surrounded! Lay down your weapon and surrender!",
+            "speaker": "Shinra Helicopter"
+        },
+        {
+            "id": "$pv_town8_1500_0010_sh01_0",
+            "text": "Enemy combatant─you have been warned! Surrender yourself to Public Security immediately!",
+            "speaker": "Shinra Helicopter"
+        },
+        {
+            "id": "$pv_town8_1500_0011_sh01_0",
+            "text": "You have nowhere to run!",
+            "speaker": "Shinra Helicopter"
+        },
+        {
+            "id": "$pv_town8_7030_0010_mn25_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town8_7031_0010_wm19_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_0050_0010_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_0050_0020_wed_0",
+            "text": "Shook me all the way to my stomach.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town8_0050_0030_big_0",
+            "text": "The explosions just don't stop.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town8_0050_0040_blt_0",
+            "text": "Let's get out of here before we get crushed.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_town8_0355_0010_kb01_0",
+            "text": "Don't let the intruder escape!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town8_0356_0010_kb01_0",
+            "text": "He must be close.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town8_3011_0010_mn28_0",
+            "text": "What in the hell are we supposed to do?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3012_0010_mn28_0",
+            "text": "It's just a dream. Just a bad dream...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3013_0010_mn28_0",
+            "text": "A bombing? No, this can't be happening. No way.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3014_0010_mn28_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3015_0010_mn28_0",
+            "text": "The ground started shaking...then the sign just...fell.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3016_0010_mn28_0",
+            "text": "You don't think this was...Wutai, do you?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3017_0010_mn28_0",
+            "text": "Burned to the ground...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3018_0010_mn28_0",
+            "text": "How're trains still running?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3021_0010_mn37_0",
+            "text": "Don't even wanna think about if there was a mako spill...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3022_0010_mn37_0",
+            "text": "Think it was those eco-terrorists?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3023_0010_mn37_0",
+            "text": "Where do I go...?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3024_0010_mn37_0",
+            "text": "Damn it, that hurts...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3025_0010_mn37_0",
+            "text": "Who would bomb a reactor?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3026_0010_mn37_0",
+            "text": "Hope Sector 7's all right...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3027_0010_mn37_0",
+            "text": "I should just hop a train.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3028_0010_mn37_0",
+            "text": "This is all too much!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3031_0010_snr03_0",
+            "text": "Hurry it up! We got fires all over!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3031_0020_snr01_0",
+            "text": "Damn it!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3031_0030_snr02_0",
+            "text": "Why did this have to happen!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3031_0040_snr03_0",
+            "text": "Enough chitchat! Focus!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3032_0010_snr03_0",
+            "text": "Where are they!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3032_0020_snr04_0",
+            "text": "Should be on their way!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3032_0030_snr03_0",
+            "text": "\"Should be\"!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3032_0040_snr04_0",
+            "text": "Not enough firefighters and medics to go around right now! Don't get your hopes up!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3032_0050_snr03_0",
+            "text": "Like I would!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3041_0010_mn44_0",
+            "text": "Thought the whole plate was gonna collapse...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3042_0010_mn44_0",
+            "text": "It's like the end of the world...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3043_0010_mn44_0",
+            "text": "Haha, now I've seen everything...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3044_0010_mn44_0",
+            "text": "Why...? Tell me why!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3045_0010_mn44_0",
+            "text": "The ground was moving so much...it was all I could do to stay standing...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3046_0010_mn44_0",
+            "text": "I can't stop shaking...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3047_0010_mn44_0",
+            "text": "My ears are still ringing from the blast...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3048_0010_mn44_0",
+            "text": "No use taking the car. Gonna have to go on foot.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3049_0010_mn44_0",
+            "text": "My friend's gone to the station, but...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3051_0010_mn04_0",
+            "text": "Someone tell me what's going on!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3052_0010_mn04_0",
+            "text": "What kind of assholes'd do this!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3053_0010_mn04_0",
+            "text": "No, this can't be happening!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3054_0010_mn04_0",
+            "text": "I need to get to a shelter. Fast!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3055_0010_mn04_0",
+            "text": "The nearest shelter. Where is it!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3056_0010_mn04_0",
+            "text": "We're supposed to be safe up here!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3057_0010_mn04_0",
+            "text": "I lost sight of my girlfriend!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3058_0010_mn04_0",
+            "text": "Any way to get to Sector 3?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3061_0010_mn05_0",
+            "text": "Goddammit!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3062_0010_mn05_0",
+            "text": "Help me!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3063_0010_mn05_0",
+            "text": "Please...I can't take it anymore...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3064_0010_mn05_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3065_0010_mn05_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3071_0010_mn09_0",
+            "text": "I'm screwed...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3072_0010_mn09_0",
+            "text": "The ground started shaking...and then...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3073_0010_mn09_0",
+            "text": "All I wanna do is go home...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3074_0010_mn09_0",
+            "text": "My store's ruined...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3081_0010_mn07_0",
+            "text": "We need to get out of here.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3081_0020_wm01_0",
+            "text": "But we don't know where the shelter is...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3081_0030_gr01_0",
+            "text": "Is he gonna be okay?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3081_0040_mn07_0",
+            "text": "He'll be at the station...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3081_0050_gr01_0",
+            "text": "But what if he's not?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3082_0010_gr01_0",
+            "text": "Where are you!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3082_0020_mn07_0",
+            "text": "Wherever he is, he's safe. I know it.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3082_0030_wm01_0",
+            "text": "I hope you're right...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3091_0010_mn41_0",
+            "text": "Is this for real!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3092_0010_mn41_0",
+            "text": "I just started working at the reactor...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3093_0010_mn41_0",
+            "text": "Did those terrorists do this?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3094_0010_mn41_0",
+            "text": "Is the station safe?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3101_0010_mn02_0",
+            "text": "I just wanna go home...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3102_0010_mn02_0",
+            "text": "So this is it, huh?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3103_0010_mn02_0",
+            "text": "Just let it be over...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3104_0010_mn02_0",
+            "text": "Thought the trains had stopped...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3111_0010_mn34_0",
+            "text": "My life flashed before my eyes!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3112_0010_mn34_0",
+            "text": "Everything was, like, shaking, man!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3113_0010_mn34_0",
+            "text": "Hell is this bombing shit!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3114_0010_mn34_0",
+            "text": "Are the trains running!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3115_0010_mn34_0",
+            "text": "Somebody... Show a guy to the station, huh!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3121_0010_wm28_0",
+            "text": "I don't know where to go...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3122_0010_wm28_0",
+            "text": "This is a nightmare!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3123_0010_wm28_0",
+            "text": "This isn't happening... This isn't happening...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3124_0010_wm28_0",
+            "text": "The reactor... It just...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3125_0010_wm28_0",
+            "text": "I can't...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3126_0010_wm28_0",
+            "text": "There's no coming back from this...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3127_0010_wm28_0",
+            "text": "My boyfriend just left me here...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3128_0010_wm28_0",
+            "text": "I heard the streets are full of rubble...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3131_0010_wm08_0",
+            "text": "How could someone bomb the reactor?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3131_0020_wm07_0",
+            "text": "The reactor's fine.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3131_0030_wm08_0",
+            "text": "What're you talking about!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3131_0040_wm07_0",
+            "text": "Just a bad dream...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3132_0010_wm08_0",
+            "text": "The day started out so normal...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3132_0020_wm07_0",
+            "text": "Like so many dreams...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3132_0030_wm08_0",
+            "text": "Will you stop saying that!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3141_0010_snr05_0",
+            "text": "Hey, can you hear me?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3141_0020_snr05_0",
+            "text": "If you can, give us a sign!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3141_0030_snr06_0",
+            "text": "Got someone in need of medical attention.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3141_0040_snr06_0",
+            "text": "Send a stretcher!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3142_0010_snr05_0",
+            "text": "Don't worry, we'll get you looked at soon enough.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3142_0020_snr06_0",
+            "text": "Pretty sure the guys from Sector 7 are on their way.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3142_0021_snr06_0",
+            "text": "Once they get here, could you─ Exactly! Thanks!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3151_0010_snr07_0",
+            "text": "It's okay, you're safe now!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3151_0020_snr08_0",
+            "text": "Got a patient with me. Has trouble walking.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3151_0030_snr08_0",
+            "text": "Need a stretcher!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3151_0040_snr08_0",
+            "text": "ASAP!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3151_0050_snr07_0",
+            "text": "We'll get you to a doctor soon. Hang in there.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3152_0010_snr07_0",
+            "text": "Can you hear me!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3152_0020_snr07_0",
+            "text": "Where's that stretcher?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3152_0030_snr08_0",
+            "text": "Where are you?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3152_0040_snr08_0",
+            "text": "No dice. It's a shitshow over there too.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3152_0050_snr07_0",
+            "text": "Keep hounding them!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3152_0060_snr08_0",
+            "text": "Get over here!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3153_0010_snr07_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3154_0010_snr08_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3161_0010_wm30_0",
+            "text": "Someone do something...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3162_0010_wm30_0",
+            "text": "Are they ever going to stop...?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3163_0010_wm30_0",
+            "text": "Why do I have to evacuate?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3164_0010_wm30_0",
+            "text": "No...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3165_0010_wm30_0",
+            "text": "Where do I evacuate to!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3166_0010_wm30_0",
+            "text": "They said to run, but to where?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3167_0010_wm30_0",
+            "text": "This is too much...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3168_0010_wm30_0",
+            "text": "Car's no use, so what do I do...?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3171_0010_wm15_0",
+            "text": "Go on without me. I can't walk on it.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3171_0020_mn20_0",
+            "text": "Then I'll carry you.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3171_0030_wm15_0",
+            "text": "Cut the tough guy act.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3171_0040_mn20_0",
+            "text": "I'm serious.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3172_0010_mn20_0",
+            "text": "Help's on the way.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3172_0020_wm15_0",
+            "text": "Better come soon...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3172_0030_mn20_0",
+            "text": "We'll be fine...once the ground stops moving.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3176_0010_mn21_0",
+            "text": "Help has to be on the way.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3176_0020_wm16_0",
+            "text": "Shinra wouldn't just leave us to die, would they?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3176_0030_mn21_0",
+            "text": "No. They'd never do that.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3177_0010_wm16_0",
+            "text": "Do you really think it was a bomb?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3177_0020_mn21_0",
+            "text": "I don't know. Might've just been a rumor.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3177_0030_wm16_0",
+            "text": "Yeah, probably...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3180_0010_wm17_0",
+            "text": "We'll never catch our train now!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3180_0020_wm18_0",
+            "text": "There has to be another way.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3180_0030_wm17_0",
+            "text": "Well, you're welcome to look!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3191_0010_wm23_0",
+            "text": "The plate's...not going to collapse, is it?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3192_0010_wm23_0",
+            "text": "People are saying it was Wutai.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3193_0010_wm23_0",
+            "text": "I refuse to believe it was terrorists.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3194_0010_wm23_0",
+            "text": "Any moment now the plate could just give out...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3195_0010_wm23_0",
+            "text": "I have nowhere to go...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3196_0010_wm23_0",
+            "text": "I don't want to die!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3197_0010_wm23_0",
+            "text": "I was supposed to meet my friend at the station. She's waiting for me. But I...I can't get to her!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3198_0010_wm23_0",
+            "text": "Lots of people are leaving by train...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3201_0010_wm25_0",
+            "text": "Why did this have to happen?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3202_0010_wm25_0",
+            "text": "There'll be nothing left but ash...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3203_0010_wm25_0",
+            "text": "Cars are no good?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3204_0010_wm25_0",
+            "text": "The station, you say?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3205_0010_wm25_0",
+            "text": "What did we do to deserve this!? Someone tell me!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3206_0010_wm25_0",
+            "text": "The roads are blocked!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3207_0010_wm25_0",
+            "text": "Is that what mako smells like?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3208_0010_wm25_0",
+            "text": "Why won't Public Security help us!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3209_0010_wm25_0",
+            "text": "My house is in pieces!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3211_0010_mn25_0",
+            "text": "Our house... My office!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3211_0020_wm19_0",
+            "text": "Why did this have to happen to us!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3212_0010_mn25_0",
+            "text": "They'd better make this right...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3212_0020_wm19_0",
+            "text": "Who the hell are \"they\"?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3212_0030_mn25_0",
+            "text": "Somebody!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3213_0010_wm19_0",
+            "text": "Get back!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3213_0020_mn25_0",
+            "text": "What!? Why!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3221_0010_wm20_0",
+            "text": "Wake me up.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3221_0020_mn26_0",
+            "text": "Calm down, honey.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3221_0030_wm20_0",
+            "text": "Wake me up from this.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3222_0010_wm20_0",
+            "text": "Why'd this happen?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3222_0020_mn26_0",
+            "text": "There's a reason...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3222_0030_wm20_0",
+            "text": "Oh yeah, like what!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3222_0040_mn26_0",
+            "text": "I don't know.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3231_0010_wm04_0",
+            "text": "Please...someone...help me!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3232_0010_wm04_0",
+            "text": "What if the plate collapses!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3233_0010_wm04_0",
+            "text": "Why'd it have to be this sector?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3234_0010_wm04_0",
+            "text": "I wanna leave this place...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3241_0010_wm21_0",
+            "text": "I thought it was an accident...but they're saying it was an attack!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3242_0010_wm21_0",
+            "text": "I just wanted to go to work, and do my job...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3243_0010_wm21_0",
+            "text": "They're evacuating people by train!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3244_0010_wm21_0",
+            "text": "I don't know the way to the station...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3251_0010_wm03_0",
+            "text": "What if I can't get home?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3252_0010_wm03_0",
+            "text": "I need to get back on solid ground!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3253_0010_wm03_0",
+            "text": "Are the trains really running?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3254_0010_wm03_0",
+            "text": "The tremors...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3261_0010_wm22_0",
+            "text": "I can't handle all this shaking.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3262_0010_wm22_0",
+            "text": "Get me out of here.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3263_0010_wm22_0",
+            "text": "No getting past all that.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3264_0010_wm22_0",
+            "text": "How do they expect us to get out!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3271_0010_mn31_0",
+            "text": "The military should be here!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3272_0010_mn31_0",
+            "text": "This... This is unforgivable!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3273_0010_mn31_0",
+            "text": "Shinra's enemy is our enemy.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3274_0010_mn31_0",
+            "text": "My daughter and her husband should be here soon...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3281_0010_mn29_0",
+            "text": "I'm so tired...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3282_0010_mn29_0",
+            "text": "Someone help me to the station.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3283_0010_mn29_0",
+            "text": "I can't reach my son...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3284_0010_mn29_0",
+            "text": "Tell me it's all a dream.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3285_0010_mn29_0",
+            "text": "This can't be real.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3311_0010_mn38_0",
+            "text": "Without the reactor, we're in trouble.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3312_0010_mn38_0",
+            "text": "Hope the slums are all right.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3313_0010_mn38_0",
+            "text": "All the roads are blocked.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3321_0010_mn17_0",
+            "text": "Is there a shelter around?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3322_0010_mn17_0",
+            "text": "My son lives on one of the streets down there.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3323_0010_mn17_0",
+            "text": "I was on my way to see my grandson when─",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3331_0010_mn32_0",
+            "text": "Hey, you alright?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3332_0010_wm27_0",
+            "text": "You can still walk!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3333_0010_wm27_0",
+            "text": "How are you okay!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3334_0010_mn32_0",
+            "text": "What in the world?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3335_0010_mn32_0",
+            "text": "Are you hurt?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3336_0010_wm27_0",
+            "text": "That was terrifying...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3337_0010_mn32_0",
+            "text": "That was insane.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3338_0010_wm27_0",
+            "text": "Goodness me...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3339_0010_wm27_0",
+            "text": "",
+            "speaker": "Female Plate Resident E"
+        },
+        {
+            "id": "$tk_town8_3341_0010_mn33_0",
+            "text": "The danger's not passed.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3342_0010_mn33_0",
+            "text": "Look at all this debris... It's worse than the slums.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3351_0010_wm06_0",
+            "text": "The whole house started shaking. Just like that!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3352_0010_wm06_0",
+            "text": "Why, oh why...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3353_0010_wm06_0",
+            "text": "It was my grandson's birthday today...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3354_0010_wm06_0",
+            "text": "This is the end...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3355_0010_wm06_0",
+            "text": "I don't even know what to think...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3361_0010_mn36_0",
+            "text": "I knew I shouldn't have worked late.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3361_0020_mn35_0",
+            "text": "Stop whining.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3361_0030_wm29_0",
+            "text": "We're gonna be fine. As long as the trains are running, we can get home.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3362_0010_wm29_0",
+            "text": "Once we've got our breath back, let's head to the station.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3362_0020_mn36_0",
+            "text": "Why bother?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3362_0030_mn35_0",
+            "text": "Because we're not dead yet.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3371_0010_wm02_0",
+            "text": "My son told me he'd be back soon...but...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3372_0010_wm02_0",
+            "text": "Oh, how the ground shook...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3373_0010_wm02_0",
+            "text": "I can't use my car?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3374_0010_wm02_0",
+            "text": "I could never hope to climb all that.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3375_0010_wm02_0",
+            "text": "We have to get out of here.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3381_0010_wm26_0",
+            "text": "It was so loud...and everything was shaking...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3382_0010_wm26_0",
+            "text": "Out of the blue, the road...it just...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3383_0010_wm26_0",
+            "text": "I'm at my wit's end.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3391_0010_wm12_0",
+            "text": "Tell me: are we at war?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3392_0010_wm12_0",
+            "text": "Is there any way off the plate?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3393_0010_wm12_0",
+            "text": "Midgar will never be the same...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3401_0010_mn50_0",
+            "text": "Stamp will save us...!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3402_0010_mn50_0",
+            "text": "The plate isn't gonna break, is it?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3403_0010_mn50_0",
+            "text": "Where's my daddy?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3411_0010_mn51_0",
+            "text": "What if the plate falls? Will we...?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3412_0010_mn51_0",
+            "text": "The shelf tipped over and I went \"Ah!\" and I jumped out of the way.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3413_0010_mn51_0",
+            "text": "We're not going to die...are we?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3421_0010_mn52_0",
+            "text": "Where are you, Mom!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3422_0010_mn52_0",
+            "text": "Where'd they go?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3423_0010_mn52_0",
+            "text": "Have you seen my baby brother!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3431_0010_mn53_0",
+            "text": "I have to get home.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3432_0010_mn53_0",
+            "text": "Are there any trains going to the slums!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3433_0010_mn53_0",
+            "text": "What if the trains have stopped!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3441_0010_wm60_0",
+            "text": "No! Not our house!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3442_0010_wm60_0",
+            "text": "It's on fire...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3443_0010_wm60_0",
+            "text": "Daddy...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3451_0010_mn18_0",
+            "text": "So what, do we dig our way through...? Nah, that's a death wish.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3452_0010_mn18_0",
+            "text": "Goddamn rubble... The station's right over there!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3461_0010_mn19_0",
+            "text": "If I try to climb that crap, something bad's gonna happen, I just know it.",
+            "speaker": "Topside Resident"
+        },
+        {
+            "id": "$tk_town8_3462_0010_mn19_0",
+            "text": "Station's so close, yet so far...",
+            "speaker": "Topside Resident"
+        },
+        {
+            "id": "$tk_town8_3463_0010_mn19_0",
+            "text": "You're askin' for it if you try to climb over that.",
+            "speaker": "Topside Resident"
+        },
+        {
+            "id": "$tk_town8_3471_0010_wm02_0",
+            "text": "What do we do now?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3471_0020_mn08_0",
+            "text": "We head for the station. Then we take the train to your sister's.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3471_0030_gr02_0",
+            "text": "I'm scared.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3471_0040_mn08_0",
+            "text": "I know it's scary, but we'll be okay.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3481_0010_wm33_0",
+            "text": "Where is he?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3481_0020_by03_0",
+            "text": "When's Dad coming back?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3481_0030_wm33_0",
+            "text": "Anytime now.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3491_0010_wm34_0",
+            "text": "No more! Please! I can't take this!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3491_0020_mn43_0",
+            "text": "It's okay. You're gonna be fine.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3491_0030_wm34_0",
+            "text": "Everything I had...it's all gone!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3491_0040_mn43_0",
+            "text": "Try not to think about it.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3492_0010_wm34_0",
+            "text": "We're all going to die!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3492_0020_mn43_0",
+            "text": "Don't worry, Shinra will save us.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3492_0030_mn43_0",
+            "text": "They'll make everything better again.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3511_0010_wm62_0",
+            "text": "I wanna go home.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3512_0010_wm62_0",
+            "text": "Is the surface okay?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3513_0010_wm62_0",
+            "text": "The normal road got blocked.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3531_0010_wm52_0",
+            "text": "I must be seeing things...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3532_0010_wm52_0",
+            "text": "Oh my, I think that's about to give way too...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3541_0010_mn19_0",
+            "text": "If you really want to get to the station, you can always climb those stairs. Try picking your way across the rubble...",
+            "speaker": "Topside Resident"
+        },
+        {
+            "id": "$tk_town8_3542_0010_mn19_0",
+            "text": "The stairs are right there if you wanna try crossing the rubble.",
+            "speaker": "Topside Resident"
+        },
+        {
+            "id": "$tk_town8_4011_0010_mn04_0",
+            "text": "What's the point in even trying...?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4012_0010_mn04_0",
+            "text": "Did you see how the road just...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4013_0010_mn04_0",
+            "text": "The whole sector'll go...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4014_0010_mn04_0",
+            "text": "I need to see my family.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4021_0010_mn03_0",
+            "text": "No, not again. Please, no!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4022_0010_mn03_0",
+            "text": "You should get away from there...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4023_0010_mn03_0",
+            "text": "This place got hit too!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4024_0010_mn03_0",
+            "text": "Why would someone do this!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4031_0010_mn27_0",
+            "text": "It happened so fast... One moment he was there...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4032_0010_mn27_0",
+            "text": "Then he wasn't.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4033_0010_mn27_0",
+            "text": "Without Shinra's help, we're screwed!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4034_0010_mn27_0",
+            "text": "Haha, it's all staged, isn't it? Good one...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4041_0010_mn03_0",
+            "text": "And the noise! I'll never forget that noise!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4042_0010_mn03_0",
+            "text": "Of all the sectors, why this one!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4043_0010_mn03_0",
+            "text": "Why won't anyone help me!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4044_0010_mn03_0",
+            "text": "I'm getting to that station if it kills me!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4051_0010_mn01_0",
+            "text": "Why!? Why'd this have to happen!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4052_0010_mn01_0",
+            "text": "Just let me go home!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4053_0010_mn01_0",
+            "text": "Get me out of here...please...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4054_0010_mn01_0",
+            "text": "It...it just collapsed. Without any warning!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4061_0010_mn05_0",
+            "text": "We have to believe in Shinra. Th-they'll make it all better.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4062_0010_mn05_0",
+            "text": "At least the trains are still running.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4063_0010_mn05_0",
+            "text": "I have to get home. I need to see my wife and kids.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4064_0010_mn05_0",
+            "text": "Maybe we can climb over the debris?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4065_0010_mn05_0",
+            "text": "Just breathe...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4071_0010_mn02_0",
+            "text": "I'm gonna miss my train!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4072_0010_mn02_0",
+            "text": "I should've taken the side streets!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4073_0010_mn02_0",
+            "text": "Whoever did this is gonna pay.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4074_0010_mn02_0",
+            "text": "Thought I was a goner...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4075_0010_mn02_0",
+            "text": "My girlfriend's waiting for me at the station.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4081_0010_wm02_0",
+            "text": "No more... Please...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4082_0010_wm02_0",
+            "text": "Get me out of this place!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4083_0010_wm02_0",
+            "text": "It's all just a dream...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4084_0010_wm02_0",
+            "text": "Are we trapped here?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4091_0010_wm29_0",
+            "text": "My baby's at the station!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4092_0010_wm29_0",
+            "text": "I can't take this!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4093_0010_wm29_0",
+            "text": "I have to get to the station. Right now.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4094_0010_wm29_0",
+            "text": "Everything was fine, then...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4101_0010_wm01_0",
+            "text": "What did we do to deserve this!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4102_0010_wm01_0",
+            "text": "My family! They're at the station!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4103_0010_wm01_0",
+            "text": "The expressway was damaged too!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4104_0010_wm01_0",
+            "text": "I hope whoever did this is happy!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4111_0010_wm01_0",
+            "text": "The road... It just...collapsed.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4112_0010_wm01_0",
+            "text": "What if...what if it happens again...!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4113_0010_wm01_0",
+            "text": "Deep breaths, now. Deep breaths. Remember the training course. You can't afford to panic...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4114_0010_wm01_0",
+            "text": "Just calm down...!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4121_0010_wm04_0",
+            "text": "Shinra's going to do something about this...right?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4122_0010_wm04_0",
+            "text": "Everyone...please remain calm!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4123_0010_wm04_0",
+            "text": "One second later and...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4124_0010_wm04_0",
+            "text": "Climb over the debris and the station's right there!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4131_0010_wm03_0",
+            "text": "I just want to see my family again...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4132_0010_wm03_0",
+            "text": "Did the explosion cause this too?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4133_0010_wm03_0",
+            "text": "So this is how I die... Haha.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4134_0010_wm03_0",
+            "text": "There has to be another way out.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4135_0010_wm03_0",
+            "text": "I need to find my baby!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4141_0010_wm22_0",
+            "text": "When will it stop!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4142_0010_wm22_0",
+            "text": "Do something! Before the trains stop!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4143_0010_wm22_0",
+            "text": "Help! My arm! I think it's broken!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4144_0010_wm22_0",
+            "text": "I'll never set foot on the plate again!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4145_0010_wm22_0",
+            "text": "Is nowhere safe anymore!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4151_0010_mn03_0",
+            "text": "It's up to fate now...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4152_0010_mn03_0",
+            "text": "I'm just worried about my kid...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4153_0010_mn03_0",
+            "text": "I don't want to die...!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4154_0010_mn03_0",
+            "text": "The whole sector's in ruins.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4161_0010_mn07_0",
+            "text": "My knees are knocking...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4162_0010_mn07_0",
+            "text": "It's no use...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4163_0010_mn07_0",
+            "text": "Don't know how I survived this long...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4164_0010_mn07_0",
+            "text": "They were coming to visit...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4171_0010_wm02_0",
+            "text": "No... Please no...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4172_0010_wm02_0",
+            "text": "I won't get on a train without her...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4173_0010_wm02_0",
+            "text": "Please, find my daughter for me!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4174_0010_wm02_0",
+            "text": "Please let her be safe. Please.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4181_0010_wm50_0",
+            "text": "Might as well give up.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4182_0010_wm50_0",
+            "text": "Help isn't on the way.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4183_0010_wm50_0",
+            "text": "I don't have the strength to...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4184_0010_wm50_0",
+            "text": "I've made my peace with it.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4191_0010_by02_0",
+            "text": "Shinra will save us, I know it!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4192_0010_by02_0",
+            "text": "No...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4201_0010_gr02_0",
+            "text": "Mommy...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4202_0010_gr02_0",
+            "text": "It's not fair...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4210_0010_wm05_0",
+            "text": "There's no way we're getting through that mess. We should just turn back.",
+            "speaker": "Topside Resident"
+        },
+        {
+            "id": "$tk_town8_4210_0020_mn09_0",
+            "text": "Naw, Shinra's on it.",
+            "speaker": "Topside Resident"
+        },
+        {
+            "id": "$tk_town8_4221_0010_mn09_0",
+            "text": "Sure, we could try the alley, but is getting to the station really worth breaking our necks over?",
+            "speaker": "Topside Resident"
+        },
+        {
+            "id": "$tk_town8_4221_0020_wm05_0",
+            "text": "Yes, because we won't.",
+            "speaker": "Topside Resident"
+        },
+        {
+            "id": "$tk_town8_4222_0010_wm05_0",
+            "text": "Shooting for the station?",
+            "speaker": "Topside Resident"
+        },
+        {
+            "id": "$tk_town8_4222_0011_wm05_0",
+            "text": "Take the alley and climb up to the roof of that building at the end and you're practically there.",
+            "speaker": "Topside Resident"
+        },
+        {
+            "id": "$tk_town8_4222_0020_mn09_0",
+            "text": "If you make it that far...",
+            "speaker": "Topside Resident"
+        },
+        {
+            "id": "$tk_town8_4231_0010_wm04_0",
+            "text": "Quickly! We have to get him out!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4231_0020_mn08_0",
+            "text": "The military's on the way. Once they're here─",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4231_0030_wm04_0",
+            "text": "There's no time! He needs help now!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4232_0010_wm04_0",
+            "text": "Why us!? What did we do to deserve this!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4232_0020_mn08_0",
+            "text": "Nothing! The people who did this are monsters!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4241_0010_mn55_0",
+            "text": "What's going on!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4242_0010_mn55_0",
+            "text": "What's happening down there!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4243_0010_mn55_0",
+            "text": "You all right!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4251_0010_mn57_0",
+            "text": "Don't worry! The military will be here any minute!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4252_0010_mn57_0",
+            "text": "Do you need any help!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4253_0010_mn57_0",
+            "text": "Don't panic!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4261_0010_wm54_0",
+            "text": "Hey! What's going on out there!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4262_0010_wm54_0",
+            "text": "What the heck happened!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4263_0010_wm54_0",
+            "text": "You okay!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4271_0010_wm53_0",
+            "text": "Just tell me what you need and I'll bring it to you!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4272_0010_wm53_0",
+            "text": "The rescue workers'll be here soon!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4273_0010_wm53_0",
+            "text": "Everyone try to stay calm!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4281_0010_wm06_0",
+            "text": "It's like the end of the world...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4281_0020_mn10_0",
+            "text": "Unbelievable...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4282_0010_wm06_0",
+            "text": "What'll become of us?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4282_0020_mn10_0",
+            "text": "No matter what happens, I'm here for you.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4291_0010_mn11_0",
+            "text": "Think you're ready to walk?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4291_0020_wm07_0",
+            "text": "I'm sorry, Dad. I should've never said I wanted to come up here.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4291_0030_mn11_0",
+            "text": "It's okay.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4292_0010_wm07_0",
+            "text": "Have they put out the fires yet?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4292_0020_mn11_0",
+            "text": "Not yet.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4292_0030_wm07_0",
+            "text": "Wh-what if they reach us? What do we do then?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4301_0010_mn12_0",
+            "text": "Oh, man. It's still spreading.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4302_0010_mn12_0",
+            "text": "Sure hope the mako doesn't catch...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4303_0010_mn12_0",
+            "text": "This is crazy...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4304_0010_mn12_0",
+            "text": "Will Midgar ever be the same?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4311_0010_wm09_0",
+            "text": "I'm so scared...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4312_0010_wm09_0",
+            "text": "The reactor... It just... It just...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4313_0010_wm09_0",
+            "text": "My friend works there...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4314_0010_wm09_0",
+            "text": "What will happen to us now?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4321_0010_mn13_0",
+            "text": "The station? Well, take that fire escape. It'll put you right on the street.",
+            "speaker": "Topside Resident"
+        },
+        {
+            "id": "$tk_town8_4322_0010_mn13_0",
+            "text": "Once you're on the street, you'll want to head for the plaza with the fountain. Station's not too far.",
+            "speaker": "Topside Resident"
+        },
+        {
+            "id": "$tk_town8_4331_0010_by01_0",
+            "text": "Mom, we wanna get our toys.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4331_0020_wm10_0",
+            "text": "Not now, honey. I'm sorry.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4331_0030_gr01_0",
+            "text": "But we can get them later, right? Right?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4331_0040_mn11_0",
+            "text": "Sure you can. After this is all over.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4332_0010_wm10_0",
+            "text": "Do what you like. I'm taking the kids to safety.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4332_0020_mn11_0",
+            "text": "No, we stay together.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4332_0030_by01_0",
+            "text": "Yeah, together! I don't wanna leave without you!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4332_0040_gr01_0",
+            "text": "Me too! I'm staying!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4341_0010_mn15_0",
+            "text": "To think it would just collapse...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4342_0010_mn15_0",
+            "text": "After all those years of construction...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4343_0010_mn15_0",
+            "text": "The mayor can kiss his job goodbye.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4344_0010_mn15_0",
+            "text": "So much for the fast way.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4351_0010_mn14_0",
+            "text": "What didn't collapse?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4352_0010_mn14_0",
+            "text": "How do they expect us to evacuate?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4361_0010_wm14_0",
+            "text": "My friend's at the station.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4362_0010_wm14_0",
+            "text": "Good thing I stayed put.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4363_0010_wm14_0",
+            "text": "Just terrible...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4364_0010_wm14_0",
+            "text": "So Shinra did know.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4371_0010_wm11_0",
+            "text": "They blew up the expressway too.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4372_0010_wm11_0",
+            "text": "The announcement said to leave.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4381_0010_mn21_0",
+            "text": "Good. Military's here.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4382_0010_mn21_0",
+            "text": "They'd better catch the bastards who did this.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4383_0010_mn21_0",
+            "text": "I knew something like this would happen one day.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4384_0010_mn21_0",
+            "text": "The fire won't spread this far, will it?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4391_0010_mn18_0",
+            "text": "The president needs to make a statement.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4392_0010_mn18_0",
+            "text": "We should be fine as long as Reactor 8 stays online.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4393_0010_mn18_0",
+            "text": "City's on fire and the mayor does what?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4394_0010_mn18_0",
+            "text": "Wait, we can't go through the plaza?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4401_0010_mn28_0",
+            "text": "Guess I'm out of a job now... Shit.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4402_0010_mn28_0",
+            "text": "Could've been me working that shift...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4403_0010_mn28_0",
+            "text": "If you're looking for the station, you gotta go through the plaza, right?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4404_0010_mn28_0",
+            "text": "Might as well stay, if you ask me.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4411_0010_mn27_0",
+            "text": "The station? Gotta take the backstreets beyond the plaza.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4412_0010_mn27_0",
+            "text": "I heard it's total chaos near the reactor.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4413_0010_mn27_0",
+            "text": "I'm gonna leave, just to be safe.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4414_0010_mn27_0",
+            "text": "My friend fled to Shinra HQ.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4421_0010_mn19_0",
+            "text": "How am I gonna get home?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4422_0010_mn19_0",
+            "text": "I came here to enjoy myself...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4423_0010_mn19_0",
+            "text": "You think, maybe, it could've just been an accident?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4431_0010_wm33_0",
+            "text": "I had a feeling something bad was going to happen...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4432_0010_wm33_0",
+            "text": "Should I leave too?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4433_0010_wm33_0",
+            "text": "I'd like to stay here, if I can.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4434_0010_wm33_0",
+            "text": "Where's the mayor when we need him!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4441_0010_wm22_0",
+            "text": "We'll be fine now that the military's here.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4442_0010_wm22_0",
+            "text": "The mako won't leak...will it?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4443_0010_wm22_0",
+            "text": "Just my luck. The military won't let me through the plaza...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4444_0010_wm22_0",
+            "text": "Why'd they blockade the plaza?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4451_0010_wm13_0",
+            "text": "How are we supposed to catch the train?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4452_0010_wm13_0",
+            "text": "Are the culprits still at large!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4453_0010_wm13_0",
+            "text": "Where's the shelter?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4454_0010_wm13_0",
+            "text": "Where can we go that's safe?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4461_0010_wm23_0",
+            "text": "Maybe it was really an equipment failure instead.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4462_0010_wm23_0",
+            "text": "The president has some explaining to do.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4463_0010_wm23_0",
+            "text": "No place safer than Shinra HQ.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4464_0010_wm23_0",
+            "text": "Mako energy is a human right!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4471_0010_wm34_0",
+            "text": "Huh, the damage isn't as bad as I thought.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4472_0010_wm34_0",
+            "text": "The military's here. We're fine.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4473_0010_wm34_0",
+            "text": "The president's going to fix this, you mark my words.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4481_0010_mn20_0",
+            "text": "We're safe. Shinra's here.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4482_0010_mn20_0",
+            "text": "The bastards who did this should fry.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4483_0010_mn20_0",
+            "text": "The mayor's a lousy bum.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4484_0010_mn20_0",
+            "text": "What's the president got to say about all this?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4491_0010_mn20_0",
+            "text": "The fires can't reach us here.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4492_0010_mn20_0",
+            "text": "This won't faze Shinra at all.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4501_0010_wm15_0",
+            "text": "Shinra will protect us, won't they?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4502_0010_wm15_0",
+            "text": "Could someone please tell me what's going on?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4503_0010_wm15_0",
+            "text": "Can we go home now?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4504_0010_wm15_0",
+            "text": "If I could, I'd hop one of those trains lickety-split.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4511_0010_wm30_0",
+            "text": "Are the slums safe?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4512_0010_wm30_0",
+            "text": "Has the president said anything?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4521_0010_mn31_0",
+            "text": "You see the army guys? They've got guns!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4522_0010_mn31_0",
+            "text": "There was a big \"BOOM\" and everything shook a lot!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4531_0010_wm32_0",
+            "text": "So many army men...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4532_0010_wm32_0",
+            "text": "No! No more 'splosions!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4541_0010_mn16_0",
+            "text": "I must ask you to remain in the hotel along with the other guests.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4541_0020_mn17_0",
+            "text": "But we want to know what's going on.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4541_0030_wm12_0",
+            "text": "Better that than cowering inside.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4542_0010_mn16_0",
+            "text": "Please─it is my responsibility to keep you safe and escort you to the shelter.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4542_0020_mn17_0",
+            "text": "We'll wait for the military.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4542_0030_wm12_0",
+            "text": "Yes, they will have been trained for this sort of thing.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4551_0010_mn30_0",
+            "text": "The restaurant's in total disarray. Plates, glasses...not much hasn't been broken.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4551_0020_wm31_0",
+            "text": "I'm sure that Shinra will compensate you for all that.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4552_0010_wm32_0",
+            "text": "Why aren't you leaving too?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4552_0020_mn30_0",
+            "text": "As a sailor would say, the captain goes down with the ship.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4561_0010_wm18_0",
+            "text": "The real target was people like us, here on the plate.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4561_0020_wm17_0",
+            "text": "What!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4561_0030_wm18_0",
+            "text": "Those filthy slum rats are jealous of everything we have.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4561_0040_wm16_0",
+            "text": "You think so?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4562_0010_wm18_0",
+            "text": "Could the mayor be behind this?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4562_0020_wm17_0",
+            "text": "Huh!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4562_0030_wm18_0",
+            "text": "Maybe it's part of a plot to tarnish President Shinra's name.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4562_0040_wm16_0",
+            "text": "Okaaay...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7001_0010_wm01_0",
+            "text": "Wow... Who'da thunk there'd be people riding in the freight car? Guess they don't have much choice, but...rather them than me.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7002_0010_wm01_0",
+            "text": "I just wanted to be alone...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7011_0010_mn03_0",
+            "text": "Hm?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7012_0010_mn03_0",
+            "text": "<>",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7013_0010_mn03_0",
+            "text": "Quit it.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7014_0010_mn03_0",
+            "text": "Hey!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7015_0010_mn03_0",
+            "text": "Oh, sorry.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7021_0010_mn02_0",
+            "text": "Oh.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7022_0010_mn02_0",
+            "text": "The hell?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7023_0010_mn02_0",
+            "text": "Watch it.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7031_0010_wm14_0",
+            "text": "Huh?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7032_0010_wm14_0",
+            "text": "Jerk.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7033_0010_wm14_0",
+            "text": "What the─?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7034_0010_wm14_0",
+            "text": "Sorry about that.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7035_0010_wm14_0",
+            "text": "Stop that.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7041_0010_mn32_0",
+            "text": "C'mon!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7042_0010_mn32_0",
+            "text": "Lay off.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7043_0010_mn32_0",
+            "text": "*sigh*",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7051_0010_mn31_0",
+            "text": "Huh?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7052_0010_mn31_0",
+            "text": "Watch where you're going.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7053_0010_mn31_0",
+            "text": "For the love of...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7061_0010_wm15_0",
+            "text": "Wha?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7062_0010_wm15_0",
+            "text": "Pardon me.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7063_0010_wm15_0",
+            "text": "My apologies.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7071_0010_by02_0",
+            "text": "Woah.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7072_0010_by02_0",
+            "text": "Sorry!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7073_0010_by02_0",
+            "text": "So many people...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7081_0010_gr02_0",
+            "text": "Ugh...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7082_0010_gr02_0",
+            "text": "My bad.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7083_0010_gr02_0",
+            "text": "Whoa.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7091_0010_mn06_0",
+            "text": "Maybe the freight car's not so bad.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7092_0010_mn06_0",
+            "text": "Hope the others made it...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7093_0010_mn06_0",
+            "text": "The highway collapsed right in front of me.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7094_0010_mn06_0",
+            "text": "I just wanna get home.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7095_0010_mn06_0",
+            "text": "No guards here, right?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7101_0010_wm05_0",
+            "text": "What a relief...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7102_0010_wm05_0",
+            "text": "They won't kick us off, will they?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7103_0010_wm05_0",
+            "text": "Do you think the slums are okay?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7104_0010_wm05_0",
+            "text": "Finally, I can get home...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7105_0010_wm05_0",
+            "text": "I wonder where they are now.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7111_0010_mn08_0",
+            "text": "Whaddya mean it \"exploded\"!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7112_0010_mn08_0",
+            "text": "Are the slums alright?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7113_0010_mn08_0",
+            "text": "They catch who did this?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7114_0010_mn08_0",
+            "text": "Guess it's time to look for a new job...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7121_0010_mn01_0",
+            "text": "You see the size of that fire?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7122_0010_mn01_0",
+            "text": "It's like the end of days...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7123_0010_mn01_0",
+            "text": "I'd heard there were anti-Shinra folks, but this...this is...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7124_0010_mn01_0",
+            "text": "Hope nothing happened down below...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7131_0010_mn02_0",
+            "text": "At least I still have a house.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7132_0010_mn02_0",
+            "text": "Serves these assholes right for shitting on the slums.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7133_0010_mn02_0",
+            "text": "Just lemme get home...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7134_0010_mn02_0",
+            "text": "We don't need no reactors.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7141_0010_mn10_0",
+            "text": "Shoulda gone to Sector 3 instead...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7142_0010_mn10_0",
+            "text": "They even have hotels down there?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7151_0010_mn08_0",
+            "text": "I haven't been down to the surface in years.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7152_0010_mn08_0",
+            "text": "Sector 8 will be back to normal in no time. It has to be.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7153_0010_mn08_0",
+            "text": "What if...other reactors were hit as well?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7161_0010_wm01_0",
+            "text": "I'm gonna have nightmares about those fires.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7162_0010_wm01_0",
+            "text": "Can't believe I'm excited to see the slums.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7163_0010_wm01_0",
+            "text": "Glad it won't be me cleaning up the office...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7164_0010_wm01_0",
+            "text": "All I wanna do is pass out.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7171_0010_wm02_0",
+            "text": "We were out on a date when it happened.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7172_0010_wm02_0",
+            "text": "Why would anyone do something like that?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7173_0010_wm02_0",
+            "text": "The flames were brighter than the sun.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7174_0010_wm02_0",
+            "text": "Thank goodness I made the train.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7181_0010_wm02_0",
+            "text": "Guess the plate's not so safe.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7182_0010_wm02_0",
+            "text": "They said it was an attack, but I'm not so sure.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7183_0010_wm02_0",
+            "text": "Some people say Wutai's involved...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7184_0010_wm02_0",
+            "text": "How dare they say they're doing this for the planet.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7191_0010_wm07_0",
+            "text": "Could Avalanche really be behind all this?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7192_0010_wm07_0",
+            "text": "I wanted the train for Sector 2...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7201_0010_wm10_0",
+            "text": "Looks like I won't be getting home tonight.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7202_0010_wm10_0",
+            "text": "Who knows what'll become of Sector 8.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7211_0010_mn20_0",
+            "text": "Should've never gotten out of bed this morning. Just called in sick.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7212_0010_mn20_0",
+            "text": "Do you think Wutai's to blame?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7221_0010_mn29_0",
+            "text": "I can't believe I survived that. I was ready to die.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7222_0010_mn29_0",
+            "text": "I doubt this'll be the last attack on a reactor...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7231_0010_wm11_0",
+            "text": "You see, my daughter now lives in Sector 8, so...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7232_0010_wm11_0",
+            "text": "Have they caught the perpetrators yet?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7241_0010_wm13_0",
+            "text": "I can't wait to set foot on the surface.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7242_0010_wm13_0",
+            "text": "Have you heard the rumors? Someone's trying to take down Shinra.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7251_0010_by01_0",
+            "text": "Will our house still be there?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7252_0010_by01_0",
+            "text": "I'll be nice and talk to my brothers.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7261_0010_gr01_0",
+            "text": "Did Mr. Shinra catch the bad men yet?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7262_0010_gr01_0",
+            "text": "The fire was really big.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7271_0010_kre_0",
+            "text": "Do you mind? I'm trying to work here.",
+            "speaker": "Kyrie"
+        },
+        {
+            "id": "$tk_town8_7276_0010_kre_0",
+            "text": "Ugh, just leave me alone, all right?",
+            "speaker": "Kyrie"
+        },
+        {
+            "id": "$tk_town8_7277_0010_kre_0",
+            "text": "Why don't you learn to take a hint, buddy?",
+            "speaker": "Kyrie"
+        },
+        {
+            "id": "$tk_town8_7281_0010_mn15_0",
+            "text": "Wait, what the... Huh, that's weird.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7282_0010_mn15_0",
+            "text": "Uh oh... Phew, okay.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7291_0010_mn13_0",
+            "text": "Hey!\r\nNever mind. Sorry to disturb you.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7292_0010_mn13_0",
+            "text": "Oh, that better not have been what I thought it was...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7293_0010_mn13_0",
+            "text": "Sorry, I didn't mean to bump─ Huh?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7341_0010_wm05_0",
+            "text": "Stop that right now!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7342_0010_wm05_0",
+            "text": "No thief's getting my money.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7351_0010_wm06_0",
+            "text": "Wait, where is it? ...Okay. Got it.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7352_0010_wm06_0",
+            "text": "Are you the one who grabbed my sleeve?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7361_0010_mn05_0",
+            "text": "Maybe some grounders did it as payback?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7361_0020_wm04_0",
+            "text": "Don't be stupid.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7361_0030_mn04_0",
+            "text": "Yeah. The slums need power too, you know.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7362_0010_wm04_0",
+            "text": "Good thing there'll be electricity where we're going.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7362_0020_mn04_0",
+            "text": "I'm sure Sector 7's affected too...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7362_0030_mn05_0",
+            "text": "Naw, Shinra wouldn't let that happen.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7371_0010_mn32_0",
+            "text": "Zzz...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7381_0010_mn31_0",
+            "text": "Uh, I didn't hear anything. You gotta believe me!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7382_0010_mn31_0",
+            "text": "Man, this train is slower than molasses, am I right?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7391_0010_wm15_0",
+            "text": "Calm down... It's just a sword...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7392_0010_wm15_0",
+            "text": "How much longer till the station!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7401_0010_wm14_0",
+            "text": "Oh dear...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7402_0010_wm14_0",
+            "text": "T-time for a little nap.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_btsc054_0020_kb20_0",
+            "text": "Don't let him escape!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town8_btsc054_0030_kb21_0",
+            "text": "Give up!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town8_btsc055_0010_kb22_0",
+            "text": "Don't let him get away, no matter what!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town8_btsc056_0010_kb24_0",
+            "text": "Message from aerial recon. They want us to lock down the station area.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town8_btsc056_0020_cld_0",
+            "text": "I'd be better off trying my luck somewhere else.",
+            "speaker": "Cloud"
+        }
+    ],
+    "meta": {
+        "tool": "FF7R text mod tools",
+        "version": "1.4.2",
+        "game": "FF7R"
+    }
+}
