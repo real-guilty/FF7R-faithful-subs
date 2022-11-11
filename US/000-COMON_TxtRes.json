@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "$ev_comon_0100_0000_chd_0",
+            "text": "Then I invite you to ready your portable battle simulator.",
+            "speaker": "Chadley"
+        },
+        {
+            "id": "$ev_comon_0220_0010_wis_0",
+            "text": "They shall be slashed, strangled, and slaughtered.",
+            "speaker": "Weiss"
+        },
+        {
+            "id": "$ev_comon_0220_0020_wis_0",
+            "text": "Beaten, stabbed, and crushed. Garroted and impaled. Shot and executed...",
+            "speaker": "Weiss"
+        },
+        {
+            "id": "$ev_comon_0220_0030_wis_0",
+            "text": "without mercy.",
+            "speaker": "Weiss"
+        },
+        {
+            "id": "$ev_comon_0220_0035_wis_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_comon_0220_0040_wis_0",
+            "text": "Now...let the hunt begin!",
+            "speaker": "Weiss"
+        },
+        {
+            "id": "$ev_comon_0230_0005_wis_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_comon_0230_0010_wis_0",
+            "text": "So this is what's possible when you transcend the flesh?",
+            "speaker": "Weiss"
+        },
+        {
+            "id": "$ev_comon_0230_0020_wis_0",
+            "text": "Good to know.",
+            "speaker": "Weiss"
+        },
+        {
+            "id": "$ev_comon_0230_0022_wis_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_comon_0230_0024_hjo_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_comon_0230_0030_wis_0",
+            "text": "Either way, see you in Deepground.",
+            "speaker": "Weiss"
+        },
+        {
+            "id": "$ev_comon_0230_0040_wis_0",
+            "text": "",
+            "speaker": ""
+        }
+    ],
+    "meta": {
+        "tool": "FF7R text mod tools",
+        "version": "1.4.2",
+        "game": "FF7R"
+    }
+}

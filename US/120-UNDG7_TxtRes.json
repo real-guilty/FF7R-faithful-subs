@@ -1,0 +1,1684 @@
+{
+    "data": [
+        {
+            "id": "$ba_undg7_0010_0010_0000_blt_0",
+            "text": "",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_0020_0010_0000_blt_0",
+            "text": "",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_0030_0010_0000_blt_0",
+            "text": "",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_0040_0010_0000_blt_0",
+            "text": "",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_0050_0010_0000_blt_0",
+            "text": "",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_0060_0010_0000_blt_0",
+            "text": "",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_0070_0010_0000_blt_0",
+            "text": "",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_0090_0010_0000_blt_0",
+            "text": "",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_0100_0010_0000_blt_0",
+            "text": "",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_0110_0010_0000_blt_0",
+            "text": "",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_0120_0010_0000_blt_0",
+            "text": "",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_0130_0010_0000_blt_0",
+            "text": "",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_0140_0010_0000_blt_0",
+            "text": "",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_0150_0010_0000_blt_0",
+            "text": "",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_0160_0010_0000_blt_0",
+            "text": "",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_0170_0010_0000_blt_0",
+            "text": "",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_1000_0010_blt_0",
+            "text": "Where were you freaks hiding!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_1000_0020_tif_0",
+            "text": "Are they Shinra experiments!?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_1000_0030_blt_0",
+            "text": "Hah! Well if that's the case, then it's only right we put the bastards down!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_2000_0010_blt_0",
+            "text": "Ah, of course there's more.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_2000_0020_tif_0",
+            "text": "You good?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_2000_0030_blt_0",
+            "text": "Like you even gotta ask!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_2100_0000_blt_0",
+            "text": "Gettin' real tired of this shit!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_2100_0010_tif_0",
+            "text": "This is ridiculous.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_2100_0020_blt_0",
+            "text": "We gotta close that duct. Tifa, you're up!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_2100_0030_tif_0",
+            "text": "Okay! Cover me!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_2200_0020_blt_0",
+            "text": "Get your ass up there!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_2210_0020_tif_0",
+            "text": "I have to get up there!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_2220_0010_blt_0",
+            "text": "Tifa, over here!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_2220_0020_blt_0",
+            "text": "C'mon! You got this!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_3010_0010_blt_0",
+            "text": "Hey, Tifa! Heads up!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_3010_0020_blt_0",
+            "text": "Tifa, watch out!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_3200_0010_tif_0",
+            "text": "Seriously!?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_3200_0020_tif_0",
+            "text": "That was close.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_3200_0030_tif_0",
+            "text": "Just barely...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_3210_0010_blt_0",
+            "text": "You okay!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_3210_0020_tif_0",
+            "text": "Think so!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_3220_0010_tif_0",
+            "text": "It's using its friends as weapons!?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_3230_0010_tif_0",
+            "text": "It absorbed it!?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_3230_0020_blt_0",
+            "text": "It's suckin' it up!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_4000_0020_blt_0",
+            "text": "All that's left is to deal with these freaks!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_4400_0010_blt_0",
+            "text": "Huh! Getting tired?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_4400_0020_tif_0",
+            "text": "Look!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_4400_0030_blt_0",
+            "text": "Well, that sure looks like a weak point to me!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_4615_0010_blt_0",
+            "text": "The hell is that!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_4615_0020_tif_0",
+            "text": "It absorbed it!?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_4620_0010_tif_0",
+            "text": "We need to find a way to stop it!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_4620_0020_tif_0",
+            "text": "Not again!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_4620_0030_blt_0",
+            "text": "Hey! We gotta stop this thing!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_4620_0040_blt_0",
+            "text": "Here we go again!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_4630_0010_tif_0",
+            "text": "The big one's the only one that matters!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_4630_0020_blt_0",
+            "text": "Now we can concentrate on the big one!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_4650_0010_tif_0",
+            "text": "Check it out!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_4650_0020_blt_0",
+            "text": "This guy really wants to see us dead.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_4650_0030_tif_0",
+            "text": "It's coming! Gotta find someplace safe!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_4650_0040_tif_0",
+            "text": "Better run before it's too late!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_4650_0050_blt_0",
+            "text": "Time to haul ass!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_4650_0060_blt_0",
+            "text": "Not this shit again!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_4650_0070_blt_0",
+            "text": "Incoming!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_undg7_5010_4660_0010_tif_0",
+            "text": "Let's go on the offensive!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_undg7_5010_4660_0020_blt_0",
+            "text": "Time to go to town on this thing!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_0010_0010_blt_0",
+            "text": "Okay. Let's see what's on the other side.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_1050_0003_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0005_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0010_blt_0",
+            "text": "My god...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_1050_0020_mar_0",
+            "text": "Just a little more! Come on!",
+            "speaker": "Marle"
+        },
+        {
+            "id": "$ev_undg7_1050_0022_np13_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0025_mar_0",
+            "text": "C'mon!",
+            "speaker": "Marle"
+        },
+        {
+            "id": "$ev_undg7_1050_0030_np15_0",
+            "text": "It won't budge!",
+            "speaker": "Neighborhood Watch Member"
+        },
+        {
+            "id": "$ev_undg7_1050_0034_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0035_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0040_blt_0",
+            "text": "Make room!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_1050_0042_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0043_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0045_np13_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0050_tif_0",
+            "text": "Marle!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg7_1050_0060_mar_0",
+            "text": "You're alive!",
+            "speaker": "Marle"
+        },
+        {
+            "id": "$ev_undg7_1050_0066_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0068_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0070_cld_0",
+            "text": "With me. Ready and─",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg7_1050_0071_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0072_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0073_np13_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0074_mar_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0074_tif_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0075_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0076_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0077_mar_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0078_blt_0",
+            "text": "Great job, guys.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_1050_0079_np13_0",
+            "text": "Thank you.",
+            "speaker": "Undercity Resident"
+        },
+        {
+            "id": "$ev_undg7_1050_0081_tif_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0110_mar_0",
+            "text": "I can't tell you how relieved I am to see you.",
+            "speaker": "Marle"
+        },
+        {
+            "id": "$ev_undg7_1050_0120_mar_0",
+            "text": "So. What now?",
+            "speaker": "Marle"
+        },
+        {
+            "id": "$ev_undg7_1050_0130_blt_0",
+            "text": "Don't know.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_1050_0130_blt_1",
+            "text": "Find something─anything─to do.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_1050_0140_mar_0",
+            "text": "Been back to the bar yet?",
+            "speaker": "Marle"
+        },
+        {
+            "id": "$ev_undg7_1050_0150_blt_0",
+            "text": "No.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_1050_0160_mar_0",
+            "text": "Maybe you should go take a look.",
+            "speaker": "Marle"
+        },
+        {
+            "id": "$ev_undg7_1050_0165_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1050_0170_blt_0",
+            "text": "Okay. First the bar...then the rest.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_1050_0180_mar_0",
+            "text": "Careful. The roads are a mess.",
+            "speaker": "Marle"
+        },
+        {
+            "id": "$ev_undg7_1050_0180_mar_1",
+            "text": "Watch your step or you'll wind up in a hole!",
+            "speaker": "Marle"
+        },
+        {
+            "id": "$ev_undg7_1090_0005_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1090_0007_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1090_0010_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1090_0015_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1090_0020_cld_0",
+            "text": "Tifa.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg7_1090_0025_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1090_0028_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1090_0030_cld_0",
+            "text": "Get back!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg7_1090_0040_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1090_0045_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1090_0050_blt_0",
+            "text": "Shit!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_1090_0053_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1090_0054_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1090_0056_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_1090_0060_tif_0",
+            "text": "Hear that?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg7_1090_0070_cld_0",
+            "text": "That's Wedge's cat.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg7_1090_0080_blt_0",
+            "text": "What?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_1090_0100_tif_0",
+            "text": "Let's follow it.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg7_2020_0003_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2020_0005_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2020_0006_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2020_0010_blt_0",
+            "text": "Of all the times!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_2020_0013_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2020_0015_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2020_0020_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2020_0030_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2020_0035_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2020_0040_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2020_0050_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2030_0005_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2030_0010_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2030_0013_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2030_0016_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2030_0020_blt_0",
+            "text": "Tifa! Cloud!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_2030_0020_blt_1",
+            "text": "Shout if you can hear me!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_2030_0030_blt_0",
+            "text": "Hey!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_2080_0005_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2080_0010_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2080_0020_blt_0",
+            "text": "Sorry.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_2120_0020_tif_0",
+            "text": "Oh, god...were those...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg7_2120_0030_blt_0",
+            "text": "People?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_2120_0040_cld_0",
+            "text": "Yeah. That's the Shinra I know.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg7_2140_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2140_0013_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2140_0017_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2140_0020_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2140_0030_tif_0",
+            "text": "Cloud?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg7_2150_0005_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2150_0010_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2150_0015_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2150_0020_blt_0",
+            "text": "What the hell was that?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_2150_0022_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2150_0024_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2150_0026_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2150_0028_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2150_0030_tif_0",
+            "text": "We need to get him somewhere safe.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg7_2150_0030_tif_1",
+            "text": "Everything else can wait until after.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg7_2150_0040_blt_0",
+            "text": "Agreed. Let's go.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_2150_0041_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2150_0042_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2150_0042_tif_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2150_0043_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2150_0044_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2150_0045_tif_0",
+            "text": "Cloud.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg7_2150_0046_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2150_0048_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2150_0050_cld_0",
+            "text": "Good kitty.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg7_2160_0040_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2160_0045_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2160_0050_cld_0",
+            "text": "I saw them both at the pillar... Jessie and Biggs.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg7_2160_0050_cld_1",
+            "text": "Saw...how bad they were hurt.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg7_2160_0060_cld_0",
+            "text": "I'm sorry, but...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg7_2160_0070_blt_0",
+            "text": "Don't.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_2160_0078_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2160_0080_tif_0",
+            "text": "They've returned to the planet.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg7_2160_0090_blt_0",
+            "text": "They...they were supposed to return to <i>us</i>.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_2160_0095_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2160_0100_blt_0",
+            "text": "But if we stop now...they'll never let us live it down.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_2160_0105_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_2160_0110_blt_0",
+            "text": "So...we carry that weight.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_2160_0120_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8010_0010_blt_0",
+            "text": "Wedge!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_8010_0015_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8010_0017_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8010_0020_tif_0",
+            "text": "He's okay.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg7_8010_0030_blt_0",
+            "text": "You sure?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_8010_0035_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8010_0040_blt_0",
+            "text": "Making me worry like that. I'd kick your ass if you didn't look like shit!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_8010_0040_blt_1",
+            "text": "Thank god.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_8010_0050_tif_0",
+            "text": "Thank you!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg7_8010_0060_tif_0",
+            "text": "Okay. Let's go.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg7_8010_0070_blt_0",
+            "text": "Uh─sure!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_8010_0075_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8010_0080_blt_0",
+            "text": "Yup...it's you all right.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_8010_0090_tif_0",
+            "text": "What is this...?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg7_8010_0095_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8010_0100_tif_0",
+            "text": "Barret!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg7_8010_0110_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8010_0112_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8010_0114_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8010_0116_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8010_0120_blt_0",
+            "text": "The hell is this now!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_8010_0130_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8010_0140_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8025_0010_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8025_0020_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8025_0030_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8025_0040_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8025_0050_blt_0",
+            "text": "Tifa!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_8025_0060_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8025_0070_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8025_0080_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8030_0010_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8030_0020_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8030_0030_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8030_0040_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8030_0050_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8030_0060_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8030_0070_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8040_0010_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8040_0015_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8040_0020_tif_0",
+            "text": "Cloud!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg7_8040_0030_blt_0",
+            "text": "'Bout time, merc!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_8040_0040_cld_0",
+            "text": "You're up.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg7_8040_0050_blt_0",
+            "text": "Late to the party and you giving <i>me</i> orders!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_8040_0060_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8040_0070_blt_0",
+            "text": "Hell yeah!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_8040_0072_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8040_0080_blt_0",
+            "text": "So how'd you manage to track us down?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg7_8040_0090_cld_0",
+            "text": "Followed the trail of bullet holes.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg7_8040_0090_cld_1",
+            "text": "There's nobody else I know who'd leave that kinda mess.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg7_8040_0100_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8040_0103_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg7_8040_0105_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_00081_0010_np10_0",
+            "text": "Can we really make a difference here? I dunno...",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0030_0010_np01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0030_0020_np01_0",
+            "text": "Finally! I could use some fresh air.",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0030_0030_np02_0",
+            "text": "Dammit! I still can't believe this happened!",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0040_0010_np04_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0040_0020_np03_0",
+            "text": "Listen, Sector 6 is right over there. We just need to walk a little bit longer, that's all.",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0040_0030_np04_0",
+            "text": "Where's Mom?",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0040_0040_np03_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0060_0005_np06_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0060_0010_np06_0",
+            "text": "But...what are we supposed to do now?",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0060_0015_np06_0",
+            "text": "Our house, our savings... It's gone. It's all gone!",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0060_0020_np05_0",
+            "text": "All the more reason to go someplace new and start over!",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0060_0030_np06_0",
+            "text": "I wish...I hadn't made it out...",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0060_0040_np05_0",
+            "text": "Don't say that!",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0060_0045_np05_0",
+            "text": "Things <i>will</i> work out for us. They always have!",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0060_0050_np06_0",
+            "text": "...I suppose you're right.",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0060_0055_np06_0",
+            "text": "The house was pretty old, and it's not like we had a lot of money saved up...",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0070_0005_np07_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0070_0010_np07_0",
+            "text": "Hey, where do you think you're going? You're not gonna try and do anything stupid now, are you?",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0070_0020_np08_0",
+            "text": "Man, I can't deal with this shit...",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0080_0010_np09_0",
+            "text": "Thank you.",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0080_0020_np10_0",
+            "text": "We're almost to Sector 6. Do you think you can walk the rest of the way?",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0100_0010_np27_0",
+            "text": "This way, everyone! Quickly, quickly!",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0101_0010_np26_0",
+            "text": "You can rest easy, folks! We can assure you no monsters have been sighted in the vicinity.",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0102_0010_np26_0",
+            "text": "We'll be stepping up patrols day and night to ensure nothing like this ever happens again.",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0103_0010_np28_0",
+            "text": "Keep your head on a swivel out there, merc.",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0104_0010_np10_0",
+            "text": "Everyone, please remain calm! Panic will only get people hurt!",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0105_0010_np10_0",
+            "text": "If anyone needs any assistance, please let the watch know!",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_0311_0010_blt_0",
+            "text": "Again!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_0311_0020_cld_0",
+            "text": "That one was a lot closer.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg7_1010_0010_blt_0",
+            "text": "Hello!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_1010_0020_blt_0",
+            "text": "Is there anyone out there that needs some help?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_1010_0030_blt_0",
+            "text": "If you can hear me, say something!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_1010_0040_blt_0",
+            "text": "Anybody out there!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_1080_0010_blt_0",
+            "text": "",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_1080_0020_blt_0",
+            "text": "Ready? One, two, three!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_1080_0030_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_1100_0010_tif_0",
+            "text": "Is this all that's left of Wedge's place?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg7_1100_0020_np22_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_1490_0010_blt_0",
+            "text": "Tifa!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_1490_0020_blt_0",
+            "text": "Where's Cloud?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_1490_0030_tif_0",
+            "text": "I don't know.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg7_1490_0040_blt_0",
+            "text": "Well, he can take care of himself. We've got bigger issues.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_2010_0010_blt_0",
+            "text": "Hmph. This place reeks of Shinra.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_2010_0040_blt_0",
+            "text": "Hey! We're coming down! Stay right where you are!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_2040_0010_tif_0",
+            "text": "Wedge?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg7_2040_0020_blt_0",
+            "text": "Wedge!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_2050_0010_blt_0",
+            "text": "If there's no path, you gotta make one.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_2050_0020_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg7_2050_0030_blt_0",
+            "text": "Wedge... Hang in there.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_2070_0020_blt_0",
+            "text": "Tifa! Hey, Tifa!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_2070_0030_tif_0",
+            "text": "Barret!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg7_2070_0040_blt_0",
+            "text": "You okay?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_2070_0050_tif_0",
+            "text": "To tell you the truth, not really.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg7_2070_0060_tif_0",
+            "text": "I think there's a nest around here somewhere. Can you take care of it?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg7_2070_0070_blt_0",
+            "text": "I gotcha!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_2071_0010_blt_0",
+            "text": "Damn things are everywhere!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_2072_0010_blt_0",
+            "text": "Shit. Guess I ain't getting through here. Gotta find another way.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_2075_0010_blt_0",
+            "text": "I'm sick of this shit!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_2076_0010_blt_0",
+            "text": "Whose bright idea was this bullshit!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_2300_0010_blt_0",
+            "text": "I want you to take Wedge back for me.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_2300_0020_blt_0",
+            "text": "I'm gonna look around for the others.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_2300_0030_blt_0",
+            "text": "He made it, didn't he? They could still be alive.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg7_6002_0010_np29_0",
+            "text": "We've been getting tremors ever since last night. Roads are collapsing, and sinkholes are opening up all over.",
+            "speaker": "Neighborhood Watch Member"
+        },
+        {
+            "id": "$pv_undg7_6004_0010_np29_0",
+            "text": "We can't search for survivors near the underground lab. Too dangerous, what with the monsters down there.",
+            "speaker": "Neighborhood Watch Member"
+        },
+        {
+            "id": "$pv_undg7_6006_0010_np29_0",
+            "text": "If you're looking for the lab, that ladder down the hall will get you inside. Better be prepared for anything, though.",
+            "speaker": "Neighborhood Watch"
+        },
+        {
+            "id": "$pv_undg7_6012_0010_np29_0",
+            "text": "You take care of the monsters in the underground lab?",
+            "speaker": "Neighborhood Watch Member"
+        },
+        {
+            "id": "$pv_undg7_6014_0010_np29_0",
+            "text": "The search teams can finally get back to work here.",
+            "speaker": "Neighborhood Watch"
+        },
+        {
+            "id": "$pv_undg7_6016_0010_np29_0",
+            "text": "Thanks, man. Dunno what we'd do without you.",
+            "speaker": "Neighborhood Watch Member"
+        },
+        {
+            "id": "$tk_slu5b_0020_0020_sys_0",
+            "text": "Return to the park?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_undg7_0450_0010_mar_0",
+            "text": "I take it that little Marlene's safe and sound?",
+            "speaker": "Marle"
+        },
+        {
+            "id": "$tk_undg7_0450_0020_mar_0",
+            "text": "That little girl's a hell of a lot stronger than you might think.",
+            "speaker": "Marle"
+        },
+        {
+            "id": "$tk_undg7_0510_0010_np14_0",
+            "text": "Hey! Hey!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_undg7_0511_0010_np15_0",
+            "text": "Anybody out there!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_undg7_0512_0010_np14_0",
+            "text": "If you can hear me, shout!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_undg7_0513_0010_np15_0",
+            "text": "We're here to help!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_undg7_0514_0010_np14_0",
+            "text": "Can you hear me? Anyone there?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_undg7_0515_0010_np15_0",
+            "text": "Can you hear us!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_undg7_0906_0010_blt_0",
+            "text": "Yeah! That's how it's done.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg7_1330_0010_blt_0",
+            "text": "Must be a secret Shinra facility.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg7_1350_0010_blt_0",
+            "text": "How long it take 'em to build all this beneath our feet?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg7_1370_0010_blt_0",
+            "text": "Just no escapin' them, is there?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg7_1390_0010_blt_0",
+            "text": "I'm really gonna enjoy burning it all down.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg7_1400_0010_blt_0",
+            "text": "If I gotta climb another damn ladder...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg7_1405_0010_blt_0",
+            "text": "Man...you'd think they dug halfway to hell.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg7_1420_0010_blt_0",
+            "text": "Gotta stay on my toes if I'm gonna make it outta here alive.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg7_1510_0010_blt_0",
+            "text": "Are you all right?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg7_1510_0020_tif_0",
+            "text": "Yeah, I'm good, thanks.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_undg7_1510_0030_blt_0",
+            "text": "All right. Gotta go find Wedge. Come on.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg7_1530_0010_tif_0",
+            "text": "I'm afraid to ask, but did you just shoot your way in here?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_undg7_1530_0020_blt_0",
+            "text": "Well, yeah.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg7_1530_0030_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_undg7_1530_0040_blt_0",
+            "text": "Worked, didn't it?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg7_1550_0010_tif_0",
+            "text": "Hey. You think Wedge is holding up okay?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_undg7_1550_0020_blt_0",
+            "text": "Of course he is.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg7_1550_0030_blt_0",
+            "text": "He's a lot tougher than people think. Probably sleeping soundly, dreaming about his cats.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg7_1550_0040_tif_0",
+            "text": "You're right.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_undg7_1550_0050_tif_0",
+            "text": "We should treat him to a nice meal when he gets back. His choice.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_undg7_3030_0010_blt_0",
+            "text": "Nah, this ain't gonna work.",
+            "speaker": "Barret"
+        }
+    ],
+    "meta": {
+        "tool": "FF7R text mod tools",
+        "version": "1.4.2",
+        "game": "FF7R"
+    }
+}

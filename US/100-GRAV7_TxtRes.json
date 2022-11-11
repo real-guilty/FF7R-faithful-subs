@@ -1,0 +1,1859 @@
+{
+    "data": [
+        {
+            "id": "$ba_grav7_5020_2010_0010_tif_0",
+            "text": "How do we hurt it?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_grav7_5020_2010_0020_art_0",
+            "text": "Hit it with magic!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ba_grav7_5020_2010_0030_cld_0",
+            "text": "It'll bounce right off. Gotta deal with the barrier first.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_0010_0001_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0010_0004_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0010_0007_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0010_0010_lud_0",
+            "text": "...Understood.",
+            "speaker": "Rude"
+        },
+        {
+            "id": "$ev_grav7_0010_0010_lud_1",
+            "text": "The Avalanche mission's been approved.",
+            "speaker": "Rude"
+        },
+        {
+            "id": "$ev_grav7_0010_0020_lud_0",
+            "text": "We are to proceed as planned.",
+            "speaker": "Rude"
+        },
+        {
+            "id": "$ev_grav7_0010_0030_ren_0",
+            "text": "This is bullshit. What the hell are they thinking?",
+            "speaker": "Reno"
+        },
+        {
+            "id": "$ev_grav7_0010_0040_lud_0",
+            "text": "\"Threats to public order are to be summarily put down.\" This is what we've always done.",
+            "speaker": "Rude"
+        },
+        {
+            "id": "$ev_grav7_0010_0050_ren_0",
+            "text": "\"Summarily put down.\"",
+            "speaker": "Reno"
+        },
+        {
+            "id": "$ev_grav7_0010_0060_lud_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0010_0065_ren_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0010_0070_ren_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0010_0070_ren_1",
+            "text": "Guess it's a little late to grow a conscience.",
+            "speaker": "Reno"
+        },
+        {
+            "id": "$ev_grav7_0010_0080_ren_0",
+            "text": "...Meh.",
+            "speaker": "Reno"
+        },
+        {
+            "id": "$ev_grav7_0010_0090_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0010_0100_cld_0",
+            "text": "Just on patrol.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_0010_0110_art_0",
+            "text": "Don't worry. We'll make it in time.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_0010_0120_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0004_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0005_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0010_tif_0",
+            "text": "Huh? What is that!?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0280_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0030_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0040_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0042_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0045_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0050_cld_0",
+            "text": "You okay?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_0280_0060_art_0",
+            "text": "All good...I think.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_0280_0070_tif_0",
+            "text": "Still in one piece here too.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0280_0080_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0090_tif_0",
+            "text": "Guys?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0280_0092_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0093_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0100_cld_0",
+            "text": "Seriously?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_0280_0110_art_0",
+            "text": "\"Come on,\" huh?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_0280_0110_art_1",
+            "text": "Well, that's...inviting.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_0280_0120_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0010_tif_0",
+            "text": "Well, whaddya think...?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0300_0013_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0015_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0020_art_0",
+            "text": "I'm game!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_0300_0023_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0026_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0030_tif_0",
+            "text": "But...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0300_0040_art_0",
+            "text": "It'll be fine! We've got a bodyguard, don't forget. Mine!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_0300_0045_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0050_art_0",
+            "text": "Right?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_0300_0060_cld_0",
+            "text": "Ghosts aren't my thing.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_0300_0068_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0069_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0070_tif_0",
+            "text": "You're just being modest! After you!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0300_0075_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0080_cld_0",
+            "text": "Mind letting me go, then?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_0300_0083_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0086_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0088_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0090_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0340_0010_art_0",
+            "text": "Found you.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_0340_0010_art_1",
+            "text": "Hey...can we talk? Just for a bit?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_0340_0013_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0340_0016_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0340_0020_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0340_0022_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0340_0025_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0340_0030_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0340_0040_cld_0",
+            "text": "Get back.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_0340_0050_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0005_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0010_art_0",
+            "text": "Don't!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_0360_0020_cld_0",
+            "text": "That thing's dangerous.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_0360_0030_art_0",
+            "text": "I know, but even so...",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_0360_0032_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0034_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0036_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0040_tif_0",
+            "text": "What the─!?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0360_0045_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0046_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0050_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0055_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0060_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0063_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0065_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0070_cld_0",
+            "text": "Run!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_0360_0072_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0080_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0090_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0100_cld_0",
+            "text": "You okay?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_0360_0110_tif_0",
+            "text": "Yeah.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0360_0120_art_0",
+            "text": "Thanks, Cloud. You saved us.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_0360_0121_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0122_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0128_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0130_cld_0",
+            "text": "Gonna need to find another way through.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_0360_0133_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0630_0005_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0630_0010_art_0",
+            "text": "We're through!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_0630_0020_tif_0",
+            "text": "Great. Let's head outside.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0630_0025_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0630_0030_tif_0",
+            "text": "Wait.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0630_0038_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0630_0040_art_0",
+            "text": "A girl?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_0630_0045_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0630_0050_tif_0",
+            "text": "Marlene?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0640_0010_mrn_0",
+            "text": "...And...the kids that the black wind carries away have to live in the train graveyard forever and ever!",
+            "speaker": "Marlene"
+        },
+        {
+            "id": "$ev_grav7_0640_0020_mrn_0",
+            "text": "So you have to stay far, far away from there!",
+            "speaker": "Marlene"
+        },
+        {
+            "id": "$ev_grav7_0640_0030_tif_0",
+            "text": "All right, then. I will.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0640_0035_mrn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0640_0040_mrn_0",
+            "text": "Oh, you know Betty? Yesterday she went with her daddy to...to...",
+            "speaker": "Marlene"
+        },
+        {
+            "id": "$ev_grav7_0640_0045_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0640_0050_mrn_0",
+            "text": "When is...Daddy coming back?",
+            "speaker": "Marlene"
+        },
+        {
+            "id": "$ev_grav7_0640_0055_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0640_0060_tif_0",
+            "text": "Actually...he might not make it home tonight.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0640_0070_mrn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0640_0080_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0650_0010_tif_0",
+            "text": "Marlene, what are you─",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0650_0020_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0650_0030_tif_0",
+            "text": "We can't waste any more time here.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0650_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0770_0020_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0770_0035_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0770_0040_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0770_0050_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0770_0060_tif_0",
+            "text": "Everybody good?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0770_0070_cld_0",
+            "text": "Yeah.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_0780_0010_art_0",
+            "text": "Huh?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_0780_0012_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0780_0015_art_0",
+            "text": "I think that's...",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_0780_0020_tsu_0",
+            "text": "Plate separation code is...\r\nGot it?",
+            "speaker": "Tseng"
+        },
+        {
+            "id": "$ev_grav7_0780_0024_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0780_0030_ren_0",
+            "text": "Yeah, yeah, of course I do! We can drop the damn thing whenever...",
+            "speaker": "Reno"
+        },
+        {
+            "id": "$ev_grav7_0780_0030_ren_1",
+            "text": "It's just that...",
+            "speaker": "Reno"
+        },
+        {
+            "id": "$ev_grav7_0790_0005_lud_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0790_0010_ren_0",
+            "text": "You got a death wish or something?",
+            "speaker": "Reno"
+        },
+        {
+            "id": "$ev_grav7_0790_0010_ren_1",
+            "text": "Because I sure as shit don't.",
+            "speaker": "Reno"
+        },
+        {
+            "id": "$ev_grav7_0790_0020_tsu_0",
+            "text": "Reno, what's happening? Do we have a problem?",
+            "speaker": "Tseng"
+        },
+        {
+            "id": "$ev_grav7_0790_0030_ren_0",
+            "text": "Not really. Small arms fire from some local boys trying to defend the pillar.",
+            "speaker": "Reno"
+        },
+        {
+            "id": "$ev_grav7_0790_0040_tsu_0",
+            "text": "More would-be heroes, huh? Sending reinforcements.",
+            "speaker": "Tseng"
+        },
+        {
+            "id": "$ev_grav7_0790_0050_tsu_1",
+            "text": "The more players that take the stage, the better.",
+            "speaker": "Tseng"
+        },
+        {
+            "id": "$ev_grav7_0790_0060_ren_0",
+            "text": "So that's what we are, huh?",
+            "speaker": "Reno"
+        },
+        {
+            "id": "$ev_grav7_0790_0070_tsu_0",
+            "text": "Contact me when the mission is complete.",
+            "speaker": "Tseng"
+        },
+        {
+            "id": "$ev_grav7_0800_0005_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0800_0007_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0800_0010_cld_0",
+            "text": "Tifa...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_0800_0020_tif_0",
+            "text": "They're really gonna drop the plate.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0800_0030_cld_0",
+            "text": "They won't if Barret and the others have anything to say about it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_0800_0039_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0800_0040_art_0",
+            "text": "All we can do now is keep moving.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_0800_0045_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0800_0050_tif_0",
+            "text": "Please... Please let us be in time.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0860_0020_art_0",
+            "text": "Wow─would you look at that!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_0880_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0880_0020_tif_0",
+            "text": "Thanks.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0880_0030_cld_0",
+            "text": "Let's go.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_0920_0005_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0920_0010_tif_0",
+            "text": "We made it!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_0920_0011_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0920_0012_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0920_0013_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0920_0014_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0920_0015_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0920_0016_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0920_0018_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0920_0020_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0920_0030_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0010_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0028_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0031_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0031_art_1",
+            "text": "Tifa!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_8010_0033_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0034_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0036_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0037_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0039_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0040_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0041_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0042_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0044_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0045_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0047_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0049_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0060_art_0",
+            "text": "\"Coming to get you\"...?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_8010_0060_art_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0061_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0063_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0065_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0067_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0068_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0070_cld_0",
+            "text": "I don't have time for your shit.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_8020_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8020_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8020_0030_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8020_0040_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8020_0050_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8020_0060_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8020_0070_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8020_0080_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8020_0090_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8020_0100_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8030_0010_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8030_0014_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8030_0020_art_0",
+            "text": "\"That was fun\"...",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_8030_0030_art_0",
+            "text": "All this time, you were waiting for someone to come and play with you.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_8030_0038_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8030_0040_cld_0",
+            "text": "What're you talking about?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_8030_0042_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8030_0060_cld_1",
+            "text": "C'mon, let's get back to the crane.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_8110_0010_tif_0",
+            "text": "Almost there. Come on!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_8110_0020_cld_0",
+            "text": "Right.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_8110_0030_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8110_0032_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8110_0034_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8110_0040_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8110_0050_art_0",
+            "text": "Cloud!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_8110_0052_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8110_0060_cld_0",
+            "text": "Aerith!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_8110_0070_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8110_0080_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8110_0090_mrn_0",
+            "text": "The kids that the black wind carries away have to live in the train graveyard forever and ever!",
+            "speaker": "Marlene"
+        },
+        {
+            "id": "$ev_grav7_8120_0003_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8120_0006_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8120_0010_art_0",
+            "text": "You're just trying to help, aren't you?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_8120_0012_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8120_0014_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8120_0016_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8120_0018_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8120_0020_art_0",
+            "text": "You. You're the one who...",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_8130_0010_hs01_0",
+            "text": "Are you ready?",
+            "speaker": "Boy"
+        },
+        {
+            "id": "$ev_grav7_8130_0020_hs01_0",
+            "text": "Well, are ya!?",
+            "speaker": "Boy"
+        },
+        {
+            "id": "$ev_grav7_8130_0030_hs02_0",
+            "text": "I'm ready now!",
+            "speaker": "Boy"
+        },
+        {
+            "id": "$ev_grav7_8130_0040_hs03_0",
+            "text": "Me too!",
+            "speaker": "Girl"
+        },
+        {
+            "id": "$ev_grav7_8130_0050_hs01_0",
+            "text": "Found you!",
+            "speaker": "Boy"
+        },
+        {
+            "id": "$ev_grav7_8130_0060_hs03_0",
+            "text": "No way!",
+            "speaker": "Girl"
+        },
+        {
+            "id": "$ev_grav7_8130_0070_hs01_0",
+            "text": "We found you!",
+            "speaker": "Boy"
+        },
+        {
+            "id": "$ev_grav7_8130_0080_hs02_0",
+            "text": "Aw, you got me.",
+            "speaker": "Boy"
+        },
+        {
+            "id": "$ev_grav7_8130_0090_hs03_0",
+            "text": "Hey, where's Aerith?",
+            "speaker": "Boy"
+        },
+        {
+            "id": "$ev_grav7_8130_0100_art_0",
+            "text": "I'm ready!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_8130_0110_art_0",
+            "text": "I'm ready!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_8130_0115_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8130_0118_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8130_0120_art_0",
+            "text": "I said I'm ready!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_8130_0130_art_0",
+            "text": "Come get me!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_8130_0135_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8130_0140_art_0",
+            "text": "I'm right here...",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_8130_0150_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8130_0155_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8130_0160_art_0",
+            "text": "Mooom...?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_8130_0162_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8130_0165_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0010_cld_0",
+            "text": "Aerith!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_8140_0020_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0022_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0023_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0025_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0026_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0027_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0030_tif_0",
+            "text": "Hey. We found you.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_8140_0032_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0035_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0040_art_0",
+            "text": "I guess you did.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_8140_0042_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0044_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0050_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0054_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0056_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0060_cld_0",
+            "text": "Let's go.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_8140_0065_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0070_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8150_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8150_0020_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8150_0030_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8150_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8150_0050_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8150_0060_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8160_0002_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8160_0004_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8160_0006_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8160_0008_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8160_0010_art_0",
+            "text": "Cloud!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_8160_0020_tif_0",
+            "text": "Look out!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_8160_0030_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8160_0040_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8170_0005_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8170_0010_tif_0",
+            "text": "Hold on, guys. We're coming.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_8170_0020_tif_0",
+            "text": "And you...can go to hell!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_8170_0022_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8170_0024_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8170_0030_tif_0",
+            "text": "Let's go.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_8170_0040_cld_0",
+            "text": "Right.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_grav7_8170_0050_art_0",
+            "text": "Right!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_grav7_8170_0052_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8170_0054_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8170_0060_tif_0",
+            "text": "It's that ghost...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_8170_0070_tif_0",
+            "text": "Wow...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_grav7_8170_0080_art_0",
+            "text": "So long.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$level_grav7_sys_turnrail",
+            "text": "The turntable has been activated.",
+            "info": ""
+        },
+        {
+            "id": "$lv_grav7_0430_0050_art_0",
+            "text": "I found you!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$lv_grav7_0460_0010_tif_0",
+            "text": "Do you think there's...more in here?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$lv_grav7_0460_0020_art_0",
+            "text": "Looks like.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$lv_grav7_0460_0030_art_0",
+            "text": "Aha! Found you!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_grav7_0030_0010_cld_0",
+            "text": "We could get lost in here.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_grav7_0030_0020_tif_0",
+            "text": "This is the train graveyard all right─a real treasure trove of scrap.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_grav7_0030_0030_tif_0",
+            "text": "Sector 7 should be just past that large maintenance facility over there.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_grav7_0030_0040_tif_0",
+            "text": "I vote we stay in the light so we can see where we're going.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_grav7_0030_0050_art_0",
+            "text": "Dark, dark, everywhere...",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_grav7_0030_0060_cld_0",
+            "text": "That it?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_grav7_0050_0010_art_0",
+            "text": "It's deserted...and kinda creepy.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_grav7_0050_0020_tif_0",
+            "text": "People don't come around here often.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_grav7_0050_0030_tif_0",
+            "text": "And not just because of the monsters, but...because of the stories.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_grav7_0050_0040_art_0",
+            "text": "What kind?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_grav7_0050_0050_tif_0",
+            "text": "Everyone seems to think that the train graveyard...is haunted.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_grav7_0050_0060_tif_0",
+            "text": "\"Those who lose their way out there in the dark of night will never, ever find their way back home again.\"",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_grav7_0050_0070_art_0",
+            "text": "",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_grav7_0050_0080_cld_0",
+            "text": "Is that right?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_grav7_0050_0090_tif_0",
+            "text": "I mean, it's not like I think it's true or anything, but you know...it's just...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_grav7_0050_0100_cld_0",
+            "text": "Then let's hurry.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_grav7_0120_0010_tif_0",
+            "text": "Guys, what was that!?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_grav7_0121_0002_dl02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_grav7_0125_0020_tif_0",
+            "text": "Don't scare me like that!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_grav7_0130_0010_tif_0",
+            "text": "I think I just heard a little kid... Did you guys hear it too?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_grav7_0130_0020_cld_0",
+            "text": "Why would there be kids out here this late?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_grav7_0130_0030_tif_0",
+            "text": "What? Then─",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_grav7_0161_0002_dl02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_grav7_0181_0002_dl02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_grav7_0241_0001_dl02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_grav7_0290_0010_cld_0",
+            "text": "Alright, let's see what's inside.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_grav7_0320_0010_tif_0",
+            "text": "What was that!?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_grav7_0320_0020_art_0",
+            "text": "Look! Over there!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_grav7_0321_0001_dl02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_grav7_0350_0010_art_0",
+            "text": "It's you...",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_grav7_0370_0020_tif_0",
+            "text": "Wh-what now?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_grav7_0370_0030_gan_0",
+            "text": "This train will be stopping at the Sector 7 slums...and is bound for the train graveyard.",
+            "speaker": "???"
+        },
+        {
+            "id": "$pv_grav7_0370_0040_gan_0",
+            "text": "The train will depart shortly. Please stand clear of the closing doors.",
+            "speaker": "???"
+        },
+        {
+            "id": "$pv_grav7_0370_0050_gan_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_grav7_0375_0020_tif_0",
+            "text": "Wh-what now?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_grav7_0375_0030_gan_0",
+            "text": "This train will be stopping at the Sector 7 slums and is bound for the train graveyard.",
+            "speaker": "???"
+        },
+        {
+            "id": "$pv_grav7_0375_0040_gan_0",
+            "text": "The train will depart shortly. Please stand clear of the closing doors.",
+            "speaker": "???"
+        },
+        {
+            "id": "$pv_grav7_0375_0050_gan_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_grav7_0380_0040_art_0",
+            "text": "That's not funny, you know.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_grav7_0380_0050_cld_0",
+            "text": "Guess the crane's up there.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_grav7_0381_0021_dl02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_grav7_0400_0010_cld_0",
+            "text": "It's not working. There's no power coming through.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_grav7_0400_0020_art_0",
+            "text": "I wonder if this is another prank? Someone might be messing with the power supply to make us run around.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_grav7_0401_0011_dl02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_grav7_0411_0001_dl02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_grav7_0621_0010_tif_0",
+            "text": "Just like we hoped! What a relief.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_grav7_0621_0020_art_0",
+            "text": "We should be able to get through now.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_grav7_0621_0030_cld_0",
+            "text": "Let's find out.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_grav7_0695_0010_art_0",
+            "text": "It's moving!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_grav7_0695_0020_tif_0",
+            "text": "Maybe now we can get to the other side.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_grav7_0760_0010_tif_0",
+            "text": "This path is blocked too? But we're so close, I can see it.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_grav7_0760_0020_art_0",
+            "text": "Hey, do you think these trains might still run?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_grav7_0760_0030_cld_0",
+            "text": "Could give it a try.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_grav7_0765_0010_cld_0",
+            "text": "Good call. Looks like it still works.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_grav7_0765_0030_art_0",
+            "text": "I knew it!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_grav7_0830_0010_cld_0",
+            "text": "Why am I not surprised?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_grav7_0830_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_grav7_0041_0001_dl02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_grav7_0091_0001_dl02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_grav7_0130_0010_tif_0",
+            "text": "I'm pretty sure I saw a door on the other side of this place. I think our only choice might be to find another route.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_grav7_0180_0010_tif_0",
+            "text": "\"Those who lose their way out there in the dark of night will never, ever find their way back home again.\"",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_grav7_0180_0020_tif_0",
+            "text": "What do you guys think would've happened if they'd caught us?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_grav7_0180_0030_art_0",
+            "text": "I wonder... Maybe they're the ones who were caught.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$tk_grav7_0180_0040_cld_0",
+            "text": "Can we just drop the whole─",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_grav7_0180_0050_art_0",
+            "text": "What if they're trapped here and can't leave?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$tk_grav7_0200_0010_cld_0",
+            "text": "What was that about?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_grav7_0200_0020_tif_0",
+            "text": "Nothing you need to worry about. Let's get going.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_grav7_0260_0010_tif_0",
+            "text": "I wonder if some of the cars here can still move.",
+            "speaker": "Tifa"
+        }
+    ],
+    "meta": {
+        "tool": "FF7R text mod tools",
+        "version": "1.4.2",
+        "game": "FF7R"
+    }
+}

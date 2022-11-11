@@ -1,0 +1,3249 @@
+{
+    "data": [
+        {
+            "id": "$ev_undg6_0010_0010_pre_0",
+            "text": "Are we on schedule?",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_undg6_0010_0020_hyd_0",
+            "text": "The Turks are on top of it.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_undg6_0010_0020_hyd_1",
+            "text": "Yes, there will be no delays.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_undg6_0010_0030_riv_0",
+            "text": "Please, Mr. President! I am asking you to reconsider─no, begging.",
+            "speaker": "Reeve"
+        },
+        {
+            "id": "$ev_undg6_0010_0030_riv_1",
+            "text": "The Sector 7 undercity is home to more than 50,000─",
+            "speaker": "Reeve"
+        },
+        {
+            "id": "$ev_undg6_0010_0040_pre_0",
+            "text": "Director Tuesti.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_undg6_0010_0050_riv_0",
+            "text": "At least let us issue a warning, sir.",
+            "speaker": "Reeve"
+        },
+        {
+            "id": "$ev_undg6_0010_0060_hyd_0",
+            "text": "The stench of the director's cowardice fills the room yet again.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_undg6_0010_0065_riv_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0010_0070_pre_0",
+            "text": "Reeve.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_undg6_0010_0070_pre_1",
+            "text": "Learn to live with it.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_undg6_0010_0070_pre_2",
+            "text": "Progress requires sacrifice.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_undg6_0010_0080_riv_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0020_0001_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0020_0002_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0020_0003_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0020_0004_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0020_0005_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0020_0006_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0020_0010_cld_0",
+            "text": "Where in the...?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_0020_0013_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0020_0016_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0020_0020_cld_0",
+            "text": "Damn, it reeks.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_0060_0010_cld_0",
+            "text": "Aerith.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_0060_0020_art_0",
+            "text": "Cloud...",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0060_0030_art_0",
+            "text": "We have to get to Sector 7...",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0060_0040_cld_0",
+            "text": "Yeah.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_0060_0048_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0060_0050_tif_0",
+            "text": "That bastard!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0060_0051_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0060_0052_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0060_0054_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0060_0055_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0060_0057_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0060_0058_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0060_0059_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0060_0060_tif_0",
+            "text": "You gotta be kidding me!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0080_0010_cld_0",
+            "text": "Tifa?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_0080_0018_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0020_tif_0",
+            "text": "Cloud...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0080_0030_tif_0",
+            "text": "We have to get back to the slums─right now!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0080_0040_cld_0",
+            "text": "Yeah.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_0080_0045_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0050_tif_0",
+            "text": "I didn't wanna drag Aerith into all this...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0080_0060_cld_0",
+            "text": "She'll understand.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_0080_0070_tif_0",
+            "text": "How do you two know each other?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0080_0080_cld_0",
+            "text": "I saved her, she saved me... Round and round it goes.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_0080_0090_tif_0",
+            "text": "And...that's all there is to it?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0080_0090_tif_1",
+            "text": "Sure there isn't something else going on?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0080_0092_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0100_art_0",
+            "text": "Dammit.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0080_0101_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0102_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0103_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0104_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0105_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0106_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0108_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0109_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0110_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0005_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0010_tif_0",
+            "text": "Dammit. I can't stop thinking about what Corneo said.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0450_0020_art_0",
+            "text": "I know... Me too.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0450_0030_tif_0",
+            "text": "It's gotta be a trick. There's no way they'd go that far.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0450_0040_tif_0",
+            "text": "But... But what if Corneo really was telling the truth...?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0450_0040_tif_1",
+            "text": "We have to get there in time to stop it. We have to.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0450_0050_art_0",
+            "text": "Right.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0450_0055_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0057_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0060_tif_0",
+            "text": "Aerith, what are you not telling me?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0450_0070_art_0",
+            "text": "Huh?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0450_0078_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0080_cld_0",
+            "text": "Guys! C'mon! We gotta keep moving!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_0450_0090_tif_0",
+            "text": "Coming!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0450_0100_tif_0",
+            "text": "I'll go first.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0450_0102_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0104_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0105_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0110_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0120_tif_0",
+            "text": "Okay Aerith! Your turn!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0450_0130_art_0",
+            "text": "On my way!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0450_0140_art_0",
+            "text": "Here we...go.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0450_0143_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0146_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0150_tif_0",
+            "text": "Almost there!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0450_0160_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0168_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0170_tif_0",
+            "text": "Aerith!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0450_0180_cld_0",
+            "text": "Jump!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_0450_0182_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0184_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0185_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0187_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0190_tif_0",
+            "text": "That was close.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0450_0200_art_0",
+            "text": "Thanks. You saved me.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0450_0210_tif_0",
+            "text": "Least I could do.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0450_0220_art_0",
+            "text": "Hear that, Cloud?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0450_0223_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0226_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0230_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0240_art_0",
+            "text": "C'mon.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0450_0245_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0250_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0010_tif_0",
+            "text": "Focus!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0460_0020_art_0",
+            "text": "Still thinking about the plate?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0460_0030_tif_0",
+            "text": "Yeah.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0460_0040_art_0",
+            "text": "The future isn't...set in stone.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0460_0050_art_0",
+            "text": "That's what I always tell myself.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0460_0060_tif_0",
+            "text": "Yeah...? I hope you're right.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0460_0070_art_0",
+            "text": "How 'bout this, then? Think of something fun.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0460_0070_art_1",
+            "text": "After saving Sector 7, you're gonna...?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0460_0080_tif_0",
+            "text": "I'm gonna...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0460_0090_tif_0",
+            "text": "Go shopping─topside!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0460_0090_tif_1",
+            "text": "I'll buy...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0460_0100_tif_0",
+            "text": "Stuff for the bar! Decorations, coasters...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0460_0110_art_0",
+            "text": "Can I come?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0460_0120_tif_0",
+            "text": "You'd better!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0460_0130_art_0",
+            "text": "Then it's a date!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0460_0132_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0133_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0140_tif_0",
+            "text": "Cloud can carry all our stuff!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0460_0150_art_0",
+            "text": "He'll be our pack chocobo!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0460_0155_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0160_cld_0",
+            "text": "What was that about me?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_0460_0170_tif_0",
+            "text": "Nothing!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0460_0175_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0180_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0185_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0190_tif_0",
+            "text": "Huh!? No way!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0460_0195_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0197_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0200_art_0",
+            "text": "C'mon, Tifa!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0460_0210_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0215_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0220_art_0",
+            "text": "Cloud!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0460_0225_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0227_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0230_art_0",
+            "text": "Hold on tight!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0460_0240_tif_0",
+            "text": "On three, okay?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0460_0240_tif_1",
+            "text": "One, two, three!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0460_0242_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0250_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0260_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0262_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0264_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0270_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0275_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0280_cld_0",
+            "text": "Sorry 'bout that.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_0460_0290_art_0",
+            "text": "No need to be.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0460_0293_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0295_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0300_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0010_tif_0",
+            "text": "Cloud!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0640_0012_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0013_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0014_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0015_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0017_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0020_tif_0",
+            "text": "Looks like they're hungry for more.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0640_0030_art_0",
+            "text": "We're not delicious! Not even a little bit!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0640_0033_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0034_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0035_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0035_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0036_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0040_cld_0",
+            "text": "Get going.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_0640_0050_tif_0",
+            "text": "Now!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0640_0060_art_0",
+            "text": "Okay!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_0640_0061_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0062_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0063_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0063_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0064_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0065_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0067_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0070_cld_0",
+            "text": "You too!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_0640_0071_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0080_tif_0",
+            "text": "But there's too many of them!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0640_0085_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0090_cld_0",
+            "text": "Not for me.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_0640_0100_tif_0",
+            "text": "Hurry.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0640_0102_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0105_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0110_cld_0",
+            "text": "Last warning! Back off, or die!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_0640_0120_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0122_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0123_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0124_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0125_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0126_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0130_tif_0",
+            "text": "Cloud!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_0640_0140_art_0",
+            "text": "C'mon!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_2010_0001_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2010_0003_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2010_0010_blt_0",
+            "text": "You <i>are</i> gonna hold up your end of the bargain, right?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg6_2010_0020_rez_0",
+            "text": "Long as you hold up yours─yeah.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2010_0030_blt_0",
+            "text": "I don't trust you, and I don't like you.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg6_2010_0030_blt_1",
+            "text": "So if you so much as breathe in a suspicious way...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg6_2010_0040_blt_0",
+            "text": "I'll turn that face of yours into a honeycomb.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg6_2010_0050_rez_0",
+            "text": "I'd save your bullets for the monsters, if I were you.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2010_0050_rez_1",
+            "text": "Some are a lot tougher than you'd think.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2010_0060_rez_0",
+            "text": "Hate to say it, but I can barely take 'em on my own.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2010_0060_rez_1",
+            "text": "You, on the other hand, shouldn't have any trouble, am I right?",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2010_0080_cld_0",
+            "text": "Let's get this over with.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_2130_0010_blt_0",
+            "text": "This it?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg6_2130_0020_rez_0",
+            "text": "Yeah.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2130_0030_cld_0",
+            "text": "So how we supposed to get topside?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_2130_0040_rez_0",
+            "text": "Through here.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2130_0050_cld_0",
+            "text": "Then you're telling me we're not done?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_2130_0060_rez_0",
+            "text": "Sorry guys, but it's not that simple─",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2130_0064_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0065_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0066_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0070_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0080_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0090_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0100_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0102_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0105_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0106_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0110_rez_0",
+            "text": "No...",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2130_0120_rez_0",
+            "text": "Wait!",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2130_0130_rez_0",
+            "text": "We gotta catch him!",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2130_0140_tif_0",
+            "text": "Huh?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_2130_0150_rez_0",
+            "text": "He took the key to the door!",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2130_0160_rez_0",
+            "text": "Without it, we're screwed!",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2130_0163_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0166_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0170_cld_0",
+            "text": "Let's go.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_2130_0180_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0190_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2270_0005_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2270_0008_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2270_0010_rez_0",
+            "text": "Give it back.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2270_0012_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2270_0015_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2270_0020_tif_0",
+            "text": "That's...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_2270_0030_rez_0",
+            "text": "Give it back.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2270_0035_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2270_0040_blt_0",
+            "text": "That's not a key.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg6_2270_0050_rez_0",
+            "text": "Sorry.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2270_0060_blt_0",
+            "text": "That's not your pendant either.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg6_2270_0060_blt_1",
+            "text": "Were they family?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg6_2270_0070_rez_0",
+            "text": "No...",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2280_0010_wm01_0",
+            "text": "It was all just a dream, wasn't it...",
+            "speaker": "Leslie's Fiancée"
+        },
+        {
+            "id": "$ev_undg6_2280_0020_wm01_0",
+            "text": "But one day...",
+            "speaker": "Leslie's Fiancée"
+        },
+        {
+            "id": "$ev_undg6_2280_0030_wm01_0",
+            "text": "No.",
+            "speaker": "Leslie's Fiancée"
+        },
+        {
+            "id": "$ev_undg6_2280_0030_wm01_1",
+            "text": "Time to wake up. And forget.",
+            "speaker": "Leslie's Fiancée"
+        },
+        {
+            "id": "$ev_undg6_2280_0040_rez_0",
+            "text": "Six months ago...",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2290_0020_rez_0",
+            "text": "On that day Corneo picked her as a bride. And on the next she vanished without a trace.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2290_0030_rez_0",
+            "text": "But before she did, she gave it back.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2290_0040_rez_0",
+            "text": "Salt on the wound.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2290_0040_rez_1",
+            "text": "Thing cost me a small fortune.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2290_0050_tif_0",
+            "text": "Why did you wanna come down here?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_2290_0060_rez_0",
+            "text": "Revenge.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2290_0070_rez_0",
+            "text": "I know I need to let go, but I can't.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2290_0080_rez_0",
+            "text": "I need closure, 'cause without it...I'll never be able to move on.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2290_0090_cld_0",
+            "text": "It's fine.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_2290_0090_cld_1",
+            "text": "As long as you get us topside, we're still in.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_2290_0100_rez_0",
+            "text": "Thanks. And don't worry, I got you.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_2290_0105_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2290_0110_blt_0",
+            "text": "You all right.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg6_8010_0005_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8010_0010_cld_0",
+            "text": "Good to go?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_8010_0020_art_0",
+            "text": "You bet!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_8010_0030_tif_0",
+            "text": "Bring it on!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_8020_0000_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0001_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0002_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0003_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0004_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0005_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0006_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0007_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0009_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0010_tif_0",
+            "text": "There it goes...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_8020_0020_art_0",
+            "text": "Do you think it lives down here, or...?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_8020_0030_cld_0",
+            "text": "Was probably Corneo's pet.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_8020_0040_cld_0",
+            "text": "And we were dinner.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_8020_0050_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0060_tif_0",
+            "text": "Hey... You don't believe that crazy story of his, do you?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_8020_0070_tif_0",
+            "text": "Shinra wouldn't sacrifice a whole sector just to take out Avalanche, would they?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_8020_0080_tif_0",
+            "text": "Destroying part of the city─killing all those people, just to get at us?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_8020_0087_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0090_cld_0",
+            "text": "I dunno... Is Corneo the kind of guy who'd make up shit just to screw with you?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_8020_0100_tif_0",
+            "text": "I wouldn't put it past him.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_8020_0110_art_0",
+            "text": "But...if he was telling the truth...",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_8020_0115_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0120_art_0",
+            "text": "And there's still a chance he was, isn't there?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_8020_0120_art_1",
+            "text": "Then...we should go.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_8020_0130_art_0",
+            "text": "And if it turns out he was lying, then so what? Right?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$ev_undg6_8020_0135_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0136_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0140_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0141_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0142_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0145_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0150_cld_0",
+            "text": "Tifa!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_8110_0010_rez_0",
+            "text": "It's Leslie!",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_8110_0010_rez_1",
+            "text": "Got some urgent info for the don!",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_8110_0020_cln_0",
+            "text": "Oho?",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0030_cln_0",
+            "text": "Come alone?",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0040_rez_0",
+            "text": "'Course.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_8110_0050_cln_0",
+            "text": "Really? Without my little Avalanche kittens?",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0050_cln_1",
+            "text": "I thought I told you to round them up and bring them to me.",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0060_rez_0",
+            "text": "Actually...it's them I came to talk about.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_8110_0070_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0071_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0072_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0073_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0074_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0075_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0076_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0077_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0078_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0080_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0090_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0092_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0098_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0100_cln_0",
+            "text": "Leslie.",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0110_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0120_cln_0",
+            "text": "I don't think I need to remind you why I'm down here.",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0125_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0130_cln_0",
+            "text": "Spilling the beans to those three escape artists was a serious mistake.",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0140_cln_0",
+            "text": "And now I'm on Shinra's shitlist!",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0150_cln_0",
+            "text": "The plate stunt was meant to be an unprecedented tragedy claiming countless innocent lives...",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0155_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0160_cln_0",
+            "text": "But those naughty little kittens organized an evacuation and screwed up the plan.",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0165_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0170_cln_0",
+            "text": "I'll let you in on a secret. Shinra's going to abandon Midgar...",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0180_cln_0",
+            "text": "and build something close to paradise.",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0185_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0190_cln_0",
+            "text": "I was invited to be a part of it─don of a new and improved Wall Market.",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0195_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0200_cln_0",
+            "text": "I'll be lucky to live another week.",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0203_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0206_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0210_cln_0",
+            "text": "Leslie...",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0210_cln_1",
+            "text": "I was gonna let you run your own place─give you a piece of the action.",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0220_cln_0",
+            "text": "What a shame.",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0230_cln_0",
+            "text": "Pop quiz time, kiddo!",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0230_cln_1",
+            "text": "Villains like us only divulge our evil plans...",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0235_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0240_cln_0",
+            "text": "in a certain situation. But what is that situation, hm?",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0250_rez_0",
+            "text": "When you think...you've already won.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_8110_0255_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0260_cln_0",
+            "text": "Goodbye.",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0270_cld_0",
+            "text": "Think again, Don.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_8110_0280_cln_0",
+            "text": "Oho!",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0290_cln_0",
+            "text": "It's you!",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0300_blt_0",
+            "text": "You were talking 'bout the Sector 7 plan. Keep talking, asshole.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg6_8110_0310_cln_0",
+            "text": "Ahh! Over there! Over there, look!",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0320_blt_0",
+            "text": "Don't try to bullshit us!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg6_8110_0330_cln_0",
+            "text": "But that's the thing!",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0330_cln_1",
+            "text": "It's not technically bullshit when it's true.",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0332_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0333_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0334_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0335_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0336_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0338_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0340_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0350_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0358_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0360_cln_0",
+            "text": "Good Abzu! Feel free to play with your food!",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0360_cln_1",
+            "text": "Don out...",
+            "speaker": "Don Corneo"
+        },
+        {
+            "id": "$ev_undg6_8110_0370_blt_0",
+            "text": "Bastard!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg6_8110_0372_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0380_cld_0",
+            "text": "First him, then Corneo.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_8120_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8120_0020_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8120_0030_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8120_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8120_0050_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8130_0010_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8130_0020_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8130_0030_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8130_0040_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8130_0050_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8130_0060_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8130_0070_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0003_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0006_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0010_cld_0",
+            "text": "You okay?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_undg6_8140_0015_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0020_rez_0",
+            "text": "Where's Corneo?",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_8140_0030_blt_0",
+            "text": "Sorry. Bastard got away.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg6_8140_0035_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0040_rez_0",
+            "text": "It's fine.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_8140_0045_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0050_rez_0",
+            "text": "I'll track him down eventually. Not like I have anything better to do.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_8140_0060_tif_0",
+            "text": "You know, I wouldn't be so sure about that.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_8140_0062_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0068_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0070_tif_0",
+            "text": "She could still be out there.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_8140_0080_blt_0",
+            "text": "Can never be sure how much someone means to ya till they're gone.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg6_8140_0080_blt_1",
+            "text": "Don't give up on her yet.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg6_8140_0085_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0090_rez_0",
+            "text": "Was it a message?",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_8140_0100_rez_0",
+            "text": "What was she trying to tell me?",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_8140_0105_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0110_tif_0",
+            "text": "\"We'll meet again.\"",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_8140_0115_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0120_rez_0",
+            "text": "Huh?",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_8140_0130_tif_0",
+            "text": "It's a symbol of \"reunion.\"",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_undg6_8140_0135_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0140_rez_0",
+            "text": "Then I guess I've got no choice but to find her first.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_8140_0143_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0150_rez_0",
+            "text": "Thanks.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_8140_0160_blt_0",
+            "text": "Hold up. I think ya might be forgetting something.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_undg6_8140_0170_rez_0",
+            "text": "I haven't.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_8140_0175_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0180_rez_0",
+            "text": "Found it.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_8140_0190_rez_0",
+            "text": "Let's get outta here.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$ev_undg6_8140_0190_rez_1",
+            "text": "And then I'll give you what you need.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$pv_und6a_2400_0010_sys_0",
+            "text": "Head back up?",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_und6a_2400_0020_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_und6a_2400_0030_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_und6a_2401_0010_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_und6a_2500_0010_sys_0",
+            "text": "Head back up?",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_und6a_2500_0020_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_und6a_2500_0030_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_und6a_2501_0010_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0090_0010_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0090_0020_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0090_0030_cld_0",
+            "text": "What is it?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0090_0040_tif_0",
+            "text": "I'm pretty sure we can use these tunnels to make our way back to Sector 7.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0090_0050_tif_0",
+            "text": "The sewers under Sectors 6 and 7 should be connected. \"If you get in trouble, just follow the stench.\"",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0090_0060_cld_0",
+            "text": "Another one of those lessons?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0090_0070_tif_0",
+            "text": "An Avalanche saying, actually. We use them to move around the undercity.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0090_0080_tif_0",
+            "text": "In emergencies.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0090_0090_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0090_0100_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0090_0120_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0158_0010_cld_0",
+            "text": "That's a power generator, all right.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0160_0010_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0160_0020_art_0",
+            "text": "Wow. Talk about ancient.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_undg6_0160_0030_cld_0",
+            "text": "It's an antique─older than the mako reactors even. It'll be a miracle if it still works.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0160_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0190_0010_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0190_0020_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0190_0030_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0190_0040_cld_0",
+            "text": "Locked up tight.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0190_0060_tif_0",
+            "text": "But not if we used the skeleton key Jessie made.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0190_0080_art_0",
+            "text": "Huh. Does this mean it's in the water?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_undg6_0190_0100_cld_0",
+            "text": "We'll see.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0190_0110_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0190_0120_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0190_0130_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0190_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0194_0010_cld_0",
+            "text": "Need to find that key.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0250_0010_cld_0",
+            "text": "This it?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0250_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0252_0010_cld_0",
+            "text": "A key?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0252_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0260_0010_art_0",
+            "text": "It worked!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_undg6_0260_0020_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0260_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0280_0040_tif_0",
+            "text": "Wait a minute.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0280_0050_tif_0",
+            "text": "I know this place. Sector 7 should be just on the other side of this waterway.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0280_0060_cld_0",
+            "text": "So this is where Sector 6 ends.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0280_0080_tif_0",
+            "text": "And where Sector 7 begins. Once we cross over we can start looking for a way back to the surface.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0280_0090_cld_0",
+            "text": "Might be harder than you think.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0280_0110_tif_0",
+            "text": "Let's just try to make our way down this tunnel. See if we can't use those gates to clear a path.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0280_0130_tif_0",
+            "text": "We can do this. We'll figure it out.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0280_0140_art_0",
+            "text": "Yeah, for sure.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_undg6_0280_0150_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0280_0160_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0280_0170_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0440_0010_cld_0",
+            "text": "I'll go first, okay?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0440_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0610_0030_art_0",
+            "text": "Look. That must be the way out!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_undg6_0610_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0620_0020_tif_0",
+            "text": "Guys, check it out.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0620_0030_tif_0",
+            "text": "Seventh Heaven's water tank has something similar. I'm betting we can use this to control the sewage level.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0620_0040_art_0",
+            "text": "Hey Cloud─you wanna give it a try?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_undg6_0620_0050_cld_0",
+            "text": "This oughta drain the water...right?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0629_0010_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0629_0020_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0629_0030_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0629_0040_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0629_0050_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0629_0060_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0629_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0630_0010_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0630_0020_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0630_0030_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0630_0040_art_0",
+            "text": "No luck?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_undg6_0630_0050_cld_0",
+            "text": "Must be busted.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0630_0060_tif_0",
+            "text": "A red light indicates a blockage, apparently.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0630_0070_tif_0",
+            "text": "We can use the hand pump to clear the blockage. Sounds about right.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0630_0080_tif_0",
+            "text": "I remember having to do this at the bar before.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0630_0090_cld_0",
+            "text": "All right. I'll─",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0630_0100_tif_0",
+            "text": "Aerith, you mind giving me hand? Cloud, you stay put. Keep an eye out for more red lights.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0630_0110_cld_0",
+            "text": "Wait, I'm not sure─",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0630_0120_tif_0",
+            "text": "Trust me. This is the best way to handle it.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0630_0130_tif_0",
+            "text": "We'll be back soon.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0630_0140_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0630_0150_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0630_0160_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0630_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0632_0090_tif_0",
+            "text": "So maybe this is a little different from the one at the bar. More...industrial?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0637_0070_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0637_0080_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0637_0090_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0637_0110_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0637_0120_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0637_0130_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0637_0140_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0637_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0638_0150_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0638_0160_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0638_0170_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0638_0180_cld_0",
+            "text": "Nicely done.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_0638_0190_tif_0",
+            "text": "We make a great team.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0638_0200_art_0",
+            "text": "Go team!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_undg6_0638_0210_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0638_0220_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0638_0230_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0638_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0641_0010_art_0",
+            "text": "Here goes.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_undg6_0642_0010_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0643_0010_art_0",
+            "text": "All good.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_undg6_0644_0010_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0645_0010_art_0",
+            "text": "Okay.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_undg6_0646_0010_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0651_0010_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0652_0010_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0653_0010_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0654_0010_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0661_0010_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0662_0010_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0663_0010_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0671_0010_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0672_0010_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0673_0010_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0681_0010_tif_0",
+            "text": "Try to stay in sync.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0682_0010_tif_0",
+            "text": "Keep calm.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0683_0010_art_0",
+            "text": "Coulda gone better...",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_undg6_0691_0010_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0692_0010_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0693_0010_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0701_0010_tif_0",
+            "text": "Spectacular!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0702_0010_art_0",
+            "text": "That went well.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_undg6_0703_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0730_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0730_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0730_0030_tif_0",
+            "text": "Alright, I think that did it!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0730_0040_art_0",
+            "text": "Wonderful!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$pv_undg6_0730_0050_tif_0",
+            "text": "Okay, let's head back. Cloud's probably getting worried.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_0730_0060_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0730_0070_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_0730_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_2029_0010_rez_0",
+            "text": "Head for the trunk line─it marks the border with Sector 7.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$pv_undg6_2030_0070_rez_0",
+            "text": "You three lead the way. I'll follow a short distance behind.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$pv_undg6_2030_0080_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_2098_0030_blt_0",
+            "text": "The mark of Avalanche.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg6_2098_0040_blt_0",
+            "text": "Right. Jessie and Biggs stashed a skeleton key down here.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg6_2100_0050_tif_0",
+            "text": "I never got the chance to thank them for what they did.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_2100_0060_cld_0",
+            "text": "Tifa...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_2100_0070_tif_0",
+            "text": "Let's just keep moving, okay?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_2100_0080_rez_0",
+            "text": "Hate to interrupt, but the trunk line's just through that door. The one over there.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$pv_undg6_2100_0090_blt_0",
+            "text": "Yeah, we heard you.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg6_2120_0070_tif_0",
+            "text": "Hey...wasn't this locked before?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_2120_0080_rez_0",
+            "text": "Your time to shine. Clear the path ahead, would you?",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$pv_undg6_2120_0090_blt_0",
+            "text": "Yeah, yeah...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg6_2120_0100_tif_0",
+            "text": "Can I ask you something?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_2120_0110_tif_0",
+            "text": "Why did you help us out before? You could've lost everything.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_2120_0120_rez_0",
+            "text": "Andrea. He told me to.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$pv_undg6_2120_0130_tif_0",
+            "text": "That really it?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_2120_0140_rez_0",
+            "text": "And I couldn't bring myself to let it happen again...",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$pv_undg6_2120_0150_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_undg6_2120_0160_rez_0",
+            "text": "It doesn't matter. Let's go.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$pv_undg6_2120_0170_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_2150_0010_blt_0",
+            "text": "Where in the hell did that thing run off to?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg6_2150_0020_rez_0",
+            "text": "Up. As if this wasn't enough fun already.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$pv_undg6_2180_0010_blt_0",
+            "text": "We ain't got time to play hide-and-seek, ya little shit!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg6_2210_0050_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_2210_0060_cld_0",
+            "text": "Take the right.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_2210_0070_tif_0",
+            "text": "I'm on it.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_undg6_2210_0080_blt_0",
+            "text": "Your days're numbered, ratboy!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_undg6_2210_0090_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_2210_0100_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_2210_0110_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_2210_0120_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_undg6_2300_0050_rez_0",
+            "text": "Wait outside.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$pv_undg6_2300_0070_blt_0",
+            "text": "Think the kid's gonna be okay goin' it alone?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg6_0005_0010_tif_0",
+            "text": "I knew it. These tunnels are all connected.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_undg6_0010_0010_cld_0",
+            "text": "Sure we're not lost?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_undg6_0010_0020_tif_0",
+            "text": "Positive. There should be a big waterway just up ahead. Let's find that first.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_undg6_0010_0030_art_0",
+            "text": "Lead the way.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$tk_undg6_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_undg6_0060_0010_art_0",
+            "text": "Ugh, it reeks down here.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$tk_undg6_0060_0020_tif_0",
+            "text": "Well the undercity isn't exactly the prettiest place, and we're under that so...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_undg6_0060_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_undg6_0070_0010_tif_0",
+            "text": "Is it safe to go through here?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_undg6_0070_0020_art_0",
+            "text": "It's really dark.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$tk_undg6_0070_0030_tif_0",
+            "text": "I'm sure we'll be fine. Come on.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_undg6_0070_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_undg6_0080_0010_tif_0",
+            "text": "Hey, Cloud... Assuming Corneo was telling us the truth...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_undg6_0080_0020_tif_0",
+            "text": "What do you think Shinra's really up to? I mean, they've gotta have an endgame, but I can't imagine what it is.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_undg6_0080_0030_tif_0",
+            "text": "Destroying a whole chunk of the city just to get back at us doesn't make any kind of sense.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_undg6_0080_0040_cld_0",
+            "text": "Yeah. I can't imagine any way they could profit from it. It's gonna cost them a fortune to rebuild.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_undg6_0080_0050_tif_0",
+            "text": "Corneo's lying. He's gotta be. Guys like him do it all the time out of habit.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_undg6_0080_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_undg6_0095_0010_tif_0",
+            "text": "Hey, would you look at that!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_undg6_0095_0020_art_0",
+            "text": "And let there be light!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$tk_undg6_0095_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_undg6_0300_0030_tif_0",
+            "text": "All right! Now we should be able to get across.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_undg6_0360_0010_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_undg6_0360_0020_tif_0",
+            "text": "I wonder. There must be some way we can lower the water level.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_undg6_0360_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_undg6_0370_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_undg6_0370_0020_cld_0",
+            "text": "Don't worry, I got it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_undg6_0370_0030_cld_0",
+            "text": "Just shout if you need anything.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_undg6_0370_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_undg6_0420_0010_art_0",
+            "text": "Sure is nice to go up for a change.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$tk_undg6_0420_0020_tif_0",
+            "text": "Hope the pillar's not much further...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_undg6_0420_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_undg6_0440_0010_cld_0",
+            "text": "Hang back. I'll go on ahead and secure the exit.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_undg6_0440_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_undg6_2075_0010_blt_0",
+            "text": "Made it. 'Bout time.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg6_2075_0020_rez_0",
+            "text": "This way.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$tk_undg6_2075_0030_rez_0",
+            "text": "There should be a door with Corneo's mark on it around here somewhere.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$tk_undg6_2083_0020_rez_0",
+            "text": "Wait.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$tk_undg6_2084_0010_rez_0",
+            "text": "We're getting close to Corneo's hideout. From here on, I'll take the lead.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$tk_undg6_2088_0010_blt_0",
+            "text": "Bastard went that way!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg6_2088_0020_rez_0",
+            "text": "Shit! Don't lose him!",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$tk_undg6_2090_0010_rez_0",
+            "text": "Deal with 'em!",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$tk_undg6_2094_0010_rez_0",
+            "text": "The area up ahead─it's that thing's den.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$tk_undg6_2094_0020_rez_0",
+            "text": "Keep your eyes peeled. You never know when its friends're gonna pop up, or where.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$tk_undg6_2108_0010_blt_0",
+            "text": "Gotcha now!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg6_2110_0010_blt_0",
+            "text": "So, gonna make us work for it, are ya!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg6_2110_0020_blt_0",
+            "text": "I'm not gonna hurt ya, little fella. So just stay st─",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg6_2110_0040_blt_0",
+            "text": "",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg6_2121_0010_tif_0",
+            "text": "He's so slippery!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_undg6_2121_0020_cld_0",
+            "text": "Just like his owner.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_undg6_2121_0030_rez_0",
+            "text": "Give it back!",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$tk_undg6_2125_0010_rez_0",
+            "text": "I know a shortcut. Follow me.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$tk_undg6_2130_0010_blt_0",
+            "text": "That twisted piece of shit. I'm gonna enjoy beatin' him to a pulp.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg6_2130_0020_rez_0",
+            "text": "Corneo's mine, and mine alone.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$tk_undg6_2130_0030_blt_0",
+            "text": "Huh?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg6_2130_0040_rez_0",
+            "text": "Please.",
+            "speaker": "Leslie"
+        },
+        {
+            "id": "$tk_undg6_2130_0050_cld_0",
+            "text": "Fine.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_undg6_2860_0010_blt_0",
+            "text": "Okay then. Y'all think we got everything?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg6_2860_0020_blt_0",
+            "text": "Question is: now what?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg6_2860_0030_blt_0",
+            "text": "It's not gonna be easy selling this stuff.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_undg6_2860_0040_tif_0",
+            "text": "Oh, I know. What about Marle? We could ask her to help. I'm sure she'd be happy to.",
+            "speaker": "Tifa"
+        }
+    ],
+    "meta": {
+        "tool": "FF7R text mod tools",
+        "version": "1.4.2",
+        "game": "FF7R"
+    }
+}

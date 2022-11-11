@@ -1,0 +1,1349 @@
+{
+    "data": [
+        {
+            "id": "$ba_plat4_5010_2000_0010_blt_0",
+            "text": "あぶなかったぜ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ba_plat4_5010_2000_0020_cld_0",
+            "text": "安心するのはまだ早い",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ba_plat4_5010_2000_0030_blt_0",
+            "text": "わーってるよ\r\nさっさと撃ち落とすぞ！",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ba_plat4_5010_3000_0010_blt_0",
+            "text": "おいおい　マジかよ！",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ba_plat4_5010_3000_0020_cld_0",
+            "text": "射線に注意しろ！",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ba_plat4_5010_3050_0010_tif_0",
+            "text": "あのレーザー\r\nヘリに当てられないかな？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ba_plat4_5010_3210_0010_cld_0",
+            "text": "レーザーをヘリまで誘導する",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ba_plat4_5010_3220_0010_blt_0",
+            "text": "あのレーザーなら\r\nバリアを破れんじゃねえか？",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ba_plat4_5010_3230_0010_tif_0",
+            "text": "あのレーザー\r\nヘリに当てられないかな？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ba_plat7_0030_0010_0000_sl1_0",
+            "text": "",
+            "speaker": "ソルジャー"
+        },
+        {
+            "id": "$ba_plat7_0030_0010_0020_sl1_0",
+            "text": "おまえら　アバランチ……",
+            "speaker": "ソルジャー"
+        },
+        {
+            "id": "$ba_plat7_0040_0010_0000_ss1_0",
+            "text": "ウータイの手先が",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_plat7_0040_0010_0010_ss2_0",
+            "text": "取り押さえろ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_plat7_0050_0010_0000_ss3_0",
+            "text": "いたぞ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_plat7_0050_0010_0010_ss3_0",
+            "text": "捕らえろ！",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_plat7_0051_0010_0000_ss5_0",
+            "text": "見つけたぞ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_plat7_0051_0010_0010_ss5_0",
+            "text": "囲め！",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_plat7_0060_0010_0000_ss4_0",
+            "text": "ターゲットを確認した",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_plat7_0150_0010_0000_blt_0",
+            "text": "抜かりはねえってわけか！",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_plat7_0010_0001_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0010_0003_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0010_0004_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0010_0005_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0010_0010_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0010_0020_blt_0",
+            "text": "星を壊す悪い奴らをぶっつぶす",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_plat7_0010_0020_blt_1",
+            "text": "お姉ちゃんを助けて　絶対帰る！",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_plat7_0010_0025_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0010_0030_cld_0",
+            "text": "行くぞ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_plat7_0050_0003_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0050_0005_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0050_0010_blt_0",
+            "text": "楽勝だな\r\nもっとペースを上げてもいいぜ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_plat7_0050_0011_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0050_0013_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0050_0016_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0050_0030_cld_0",
+            "text": "捜索か",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_plat7_0050_0050_blt_0",
+            "text": "上等だ！",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_plat7_0050_0055_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0050_0060_cld_0",
+            "text": "目的を忘れるな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_plat7_0050_0063_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0050_0066_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0050_0070_blt_0",
+            "text": "わかってるよ\r\nまずは　エアリスの救出だろ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_plat7_0050_0075_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0070_0005_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0070_0010_mus_0",
+            "text": "何があった？",
+            "speaker": "無線"
+        },
+        {
+            "id": "$ev_plat7_0070_0020_mus_0",
+            "text": "応答しろ　おい！",
+            "speaker": "無線"
+        },
+        {
+            "id": "$ev_plat7_0070_0022_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0070_0025_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0070_0030_cld_0",
+            "text": "問題ない",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_plat7_0070_0030_cld_1",
+            "text": "モンスターが出たが　こっちで対処した",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_plat7_0070_0040_mus_0",
+            "text": "アバランチめ　仕事を増やしやがって",
+            "speaker": "無線"
+        },
+        {
+            "id": "$ev_plat7_0070_0040_mus_1",
+            "text": "どうせ　怯えて隠れてるんだろ",
+            "speaker": "無線"
+        },
+        {
+            "id": "$ev_plat7_0070_0050_mus_0",
+            "text": "見つけ出して\r\nモンスターのエサにしてやれ",
+            "speaker": "無線"
+        },
+        {
+            "id": "$ev_plat7_0070_0053_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0070_0056_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0070_0060_blt_0",
+            "text": "上等だ！",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_plat7_0070_0060_blt_1",
+            "text": "オレは逃げも隠れもしねえぞ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_plat7_0070_0060_blt_2",
+            "text": "エサになんのがどっちか\r\nわからせてやるよ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_plat7_0070_0065_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0070_0070_cld_0",
+            "text": "もう切れてる",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_plat7_0070_0075_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0070_0080_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0070_0082_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0070_0085_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0100_0001_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0100_0002_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0100_0003_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0100_0008_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0100_0010_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0100_0020_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0100_0023_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0100_0025_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0100_0030_ss1_0",
+            "text": "なんだ！？",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ev_plat7_0100_0040_ss2_0",
+            "text": "おまえら　アバランチか！",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ev_plat7_0100_0050_ss1_0",
+            "text": "見つけた　至急応援をよこしてくれ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ev_plat7_0100_0060_blt_0",
+            "text": "ど派手な登場になっちまったな",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_plat7_0120_0010_tif_0",
+            "text": "クラウド",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_plat7_0120_0015_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0120_0020_blt_0",
+            "text": "また　店やろうぜ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_plat7_0120_0030_tif_0",
+            "text": "うん　やろう",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_plat7_0120_0040_tif_0",
+            "text": "クラウドも手伝ってくれる？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_plat7_0120_0050_cld_0",
+            "text": "安くないぞ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_plat7_0120_0060_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0120_0065_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0120_0070_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0130_0001_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0130_0002_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0130_0004_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0130_0010_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0130_0011_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0130_0015_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0130_0019_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0130_0020_cld_0",
+            "text": "走れ！",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_plat7_0130_0030_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_0130_0040_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8010_0001_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8010_0002_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8010_0003_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8010_0004_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8010_0005_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8010_0006_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8010_0007_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8010_0008_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8010_0010_blt_0",
+            "text": "追いかけっこは　おしまいか",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_plat7_8010_0020_cld_0",
+            "text": "くるぞ！",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_plat7_8010_0025_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8020_0002_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8020_0003_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8020_0004_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8020_0006_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8020_0007_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8020_0008_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8020_0010_cld_0",
+            "text": "大丈夫か？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_plat7_8020_0013_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8020_0015_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8020_0020_tif_0",
+            "text": "クラウド！",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_plat7_8020_0025_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8020_0030_cld_0",
+            "text": "つかまれ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_plat7_8020_0035_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8020_0040_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8020_0050_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8020_0060_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8020_0070_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8020_0075_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8020_0080_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8020_0090_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8030_0010_blt_0",
+            "text": "なんだあ？",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_plat7_8030_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8030_0030_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8030_0040_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0003_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0005_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0010_blt_0",
+            "text": "やったぜ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_plat7_8040_0010_blt_1",
+            "text": "これが　オレらの実力よ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_plat7_8040_0013_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0016_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0018_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0020_blt_0",
+            "text": "なんだ？",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_plat7_8040_0030_cld_0",
+            "text": "しまった",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_plat7_8040_0040_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0041_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0042_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0043_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0045_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0046_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0047_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0049_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0050_cld_0",
+            "text": "ティファ！",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_plat7_8040_0060_tif_0",
+            "text": "バレット！",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_plat7_8040_0061_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0063_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0064_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0065_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0067_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0068_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0069_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0070_blt_0",
+            "text": "スリル満点だったな",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_plat7_8040_0080_tif_0",
+            "text": "うん",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_plat7_8040_0090_tif_0",
+            "text": "さあ　もう一息",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_plat7_8040_0100_blt_0",
+            "text": "こっからだな",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_plat7_8040_0110_cld_0",
+            "text": "準備運動は終わりだ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_plat7_8040_0201_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0202_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0203_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0204_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0205_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0211_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0213_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0214_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0215_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0216_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0217_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0219_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0221_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat7_8040_0222_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_plat7_0020_0020_blt_0",
+            "text": "うおっ！",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_plat7_0022_0005_blt_0",
+            "text": "ほらな",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_plat7_0030_0010_vig_0",
+            "text": "この先は　もっと危険ですよ",
+            "speaker": "自警団"
+        },
+        {
+            "id": "$pv_plat7_0030_0030_tif_0",
+            "text": "助けたい人がいるの",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_plat7_0030_0040_vig_0",
+            "text": "後悔しますよ",
+            "speaker": "自警団"
+        },
+        {
+            "id": "$pv_plat7_0030_0050_cld_0",
+            "text": "俺たちは　特別だ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_plat7_0040_0010_blt_0",
+            "text": "行き止まりか",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_plat7_0040_0012_tif_0",
+            "text": "このロープ　救助隊のかな",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_plat7_0040_0014_blt_0",
+            "text": "この辺から　あがれんじゃねえか",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_plat7_0042_0010_tif_0",
+            "text": "ワイヤーが使えそうだね",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_plat7_0042_0020_tif_0",
+            "text": "ロープが垂れ下がってるところを狙って",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_plat7_0042_0030_blt_0",
+            "text": "失敗して　落ちんなよ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_plat7_0042_0035_blt_0",
+            "text": "いいか　ワイヤーはな\r\nセンスだ　わかるか",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_plat7_0042_0040_tif_0",
+            "text": "登ると　戻れないからね\r\n準備はいい？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_plat7_0080_0005_sys_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_plat7_0080_0010_blt_0",
+            "text": "さっきのやつか！",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_plat7_0080_0020_tif_0",
+            "text": "いまのうちに　ビルへ",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_plat7_0090_0040__0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_plat7_0090_0060_blt_0",
+            "text": "あそこに　ワイヤーを引っかけてよ\r\n飛び越しちまおうぜ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_plat7_0090_0065_cld_0",
+            "text": "賭けてみるか",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_plat7_0092_0030_cld_0",
+            "text": "賭けてみるか",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_plat7_0110_0007__0",
+            "text": "（攻撃してくる）",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_plat7_0110_0010_cld_0",
+            "text": "隠れろ！",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_plat7_0110_0015_blt_0",
+            "text": "あの野郎　戻ってきやがった",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_plat7_0110_0020_blt_0",
+            "text": "もう　戻れねえな",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_plat7_0110_0040_cld_0",
+            "text": "進めるなら　問題ない",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_plat7_1000_0010_blt_0",
+            "text": "こりゃ　いつどこが崩れてくるか\r\nわかんねえぞ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_plat7_1002_0010_vig_0",
+            "text": "忠告は　しましたよ",
+            "speaker": "自警団"
+        },
+        {
+            "id": "$tk_plat7_1004_0010_vig_0",
+            "text": "気をつけてくださいね",
+            "speaker": "自警団"
+        },
+        {
+            "id": "$tk_plat7_1030_0030_tif_0",
+            "text": "あそこを　登るんだよね",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_plat7_1030_0050_blt_0",
+            "text": "ちょっとでも崩れたら\r\nひゅううう～……ドン！　だな",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_plat7_1030_0060_cld_0",
+            "text": "今に始まったことじゃない",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_plat7_1030_0070_blt_0",
+            "text": "安全な道なんて　とっくになかったな",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_plat7_1035_0010_blt_0",
+            "text": "上の方からロープが垂れてねえか",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_plat7_1050_0020_mus_0",
+            "text": "おい　どうした",
+            "speaker": "無線"
+        },
+        {
+            "id": "$tk_plat7_1050_0030_mus_0",
+            "text": "応答しろ",
+            "speaker": "無線"
+        },
+        {
+            "id": "$tk_plat7_1050_0040_mus_0",
+            "text": "聞こえないのか",
+            "speaker": "無線"
+        },
+        {
+            "id": "$tk_plat7_1066_0010_tif_0",
+            "text": "完全にバレたよね",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_plat7_1066_0020_blt_0",
+            "text": "こうなりゃ　堂々と行こうぜ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_plat7_1066_0030_tif_0",
+            "text": "はぁ……",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_plat7_1080_0010_tif_0",
+            "text": "これ　のぼれるかな",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_plat7_1080_0020_blt_0",
+            "text": "ワイヤーがあれば　いけんだろ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_plat7_1080_0030_tif_0",
+            "text": "今度は　崩れないといいけど",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_plat7_1120_0010_blt_0",
+            "text": "こりゃまた\r\nどっか崩れりゃ　真っ逆さまだな",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_plat7_1130_0010_tif_0",
+            "text": "街が……",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_plat7_1130_0020_blt_0",
+            "text": "目に焼きつけておこうぜ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_plat7_1150_0010_blt_0",
+            "text": "神羅のド真ん中に行くのかと思うと\r\n燃えてくるぜ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_plat7_1150_0020_cld_0",
+            "text": "燃え尽きるなよ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_plat7_1150_0030_blt_0",
+            "text": "心配すんな　この気持ちは尽きねえよ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_plat7_1160_0010_blt_0",
+            "text": "こんなとこ通るのかよ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_plat7_1170_0010_blt_0",
+            "text": "こわくねえ　こわくねえ……",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_plat7_1205_0020_blt_0",
+            "text": "こんにゃろ！",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_plat7_1205_0025_blt_0",
+            "text": "オレがひきつける\r\nおまえらは　道を探せ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_plat7_1207_0005_sys_0",
+            "text": "（ヘリガンナーが移動していく）",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_1207_0007_blt_0",
+            "text": "なんだ……？",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_plat7_1207_0010_cld_0",
+            "text": "屋根の下へ　避難しろ！",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_plat7_1220_0010_blt_0",
+            "text": "諦めたのか？",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_plat7_1230_0010_blt_0",
+            "text": "抜かりはねえ　ってワケか",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_plat7_1260_0010_blt_0",
+            "text": "うおおおお\r\n走れ走れ走れ走れ走れ！",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_plat7_1260_0040_blt_0",
+            "text": "まずいぞ　おい",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_plat7_2020_0010_mm3_0",
+            "text": "母を見ませんでしたか",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_2040_0010_mm5_0",
+            "text": "ねえ　お父さんは？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_2040_0020_mw2_0",
+            "text": "大丈夫　大丈夫だから",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_2050_0010_mw3_0",
+            "text": "ケガはない？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_2050_0020_mm6_0",
+            "text": "うん……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_2050_0030_mw4_0",
+            "text": "腰が痛いけど　これは元からだね",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_2050_0040_mw3_0",
+            "text": "立てそう？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_2060_0010_mbn_0",
+            "text": "こんなの　どうしろってんだよ！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_2062_0020_mm8_0",
+            "text": "神羅の救助はまだか",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_2070_0010_mm9_0",
+            "text": "くそ　またかよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_2080_0010_mm11_0",
+            "text": "ウータイのせいで……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_2082_0030_mw8_0",
+            "text": "なんで　こんなことに",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_2100_0010_mm15_0",
+            "text": "ここも　いつ崩れるか",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3010_0010_sys_0",
+            "text": "（エネミー登場演出）\r\nプレート崩落でモンスターも気が立っている風１⇒",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3010_0020_sys_0",
+            "text": "⇒画面外・左上から弧を描いて飛び立ってくる（鳴き声とセット）",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3020_0010_sys_0",
+            "text": "（エネミー登場演出）\r\nプレート崩落でモンスターも気が立っている風２⇒",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3020_0020_sys_0",
+            "text": "⇒画面左から逃げ込んでくるフライヴァギドポリスとディーングロウたち",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3030_0010_sys_0",
+            "text": "（エネミー登場演出）\r\nアバランチを捜索中の神羅兵たち⇒",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3030_0020_sys_0",
+            "text": "⇒前方（進路方向）から次々とやってくる　空中兵は土管上から降りてくる　",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3060_0010_sys_0",
+            "text": "（エネミー登場演出）\r\nラッシュの最後を〆る　少し印象的な演出⇒",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3060_0020_sys_0",
+            "text": "⇒走ってくる地上兵たち　空中兵は上から降りてくる（左前方の土管上から）",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3070_0010_sys_0",
+            "text": "（エネミー登場演出）\r\nここにもか！的な演出⇒",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3070_0020_sys_0",
+            "text": "⇒ビルの向こう（画面左奥）側から周りこむように降りてくる空中兵たち　",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3090_0010_sys_0",
+            "text": "（エネミー登場演出はなく　徘徊系）\r\nフロアを巡回するスタンレイたち⇒",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3090_0020_sys_0",
+            "text": "⇒巡回ルート上にはワイヤーアクションをする場所も含む　",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3120_0010_sys_0",
+            "text": "（エネミー登場演出）\r\n新種スタンレイをしっかり印象付けたい⇒",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3120_0020_sys_0",
+            "text": "⇒右前方にあるタンク足を伝って降りてくる　そこから地面にジャンプし　プレイヤーへ一目散　",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3130_0010_sys_0",
+            "text": "（エネミー登場演出）\r\n再・興奮した野生モンスターたちの様子１",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3130_0020_sys_0",
+            "text": "⇒ヒヤヒヤポイントを渡りおえて左に曲がったとこどで正面にあらわれる（飛んでくる）",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3140_0010_sys_0",
+            "text": "（エネミー登場演出）\r\n再・興奮した野生モンスターたちの様子2",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3140_0020_sys_0",
+            "text": "⇒ヒヤヒヤ中　下の方からぐる～っと上まで飛んでくて前方へ　",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3150_0010_sys_0",
+            "text": "（エネミー登場演出）\r\nプレイヤーが降り切ったタイミングで敵がわらわら来るように⇒",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3150_0020_sys_0",
+            "text": "⇒巡回中のスタンレイ（大x1）がプレイヤーに気づいてサイレン",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat7_3150_0030_sys_0",
+            "text": "⇒次から次へ空中兵が飛び込んでくる",
+            "speaker": ""
+        }
+    ],
+    "meta": {
+        "tool": "FF7R text mod tools",
+        "version": "1.4.2",
+        "game": "FF7R"
+    }
+}

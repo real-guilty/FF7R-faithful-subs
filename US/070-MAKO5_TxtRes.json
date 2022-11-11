@@ -1,0 +1,3534 @@
+{
+    "data": [
+        {
+            "id": "$ba_mako5_0030_0010_0010_tif_0",
+            "text": "Guys!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_mako5_0030_0010_0020_blt_0",
+            "text": "Well, well! What we got here!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_0030_0010_0030_cld_0",
+            "text": "Turrets up top.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_0030_0010_0040_blt_0",
+            "text": "I can deal with those things!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_0080_0010_0010_ts02_0",
+            "text": "Surprise, grounders!",
+            "speaker": "Elite Shock Trooper"
+        },
+        {
+            "id": "$ba_mako5_0131_0010_0010_blt_0",
+            "text": "Shit! We too late?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_0131_0010_0020_tif_0",
+            "text": "Look!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_mako5_0131_0010_0030_cld_0",
+            "text": "They're deploying it in that state?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_0131_0020_0010_tj01_0",
+            "text": "That's far enough, you bastards! I'm taking you down!",
+            "speaker": "Engineering Officer"
+        },
+        {
+            "id": "$ba_mako5_5010_1010_0010_tif_0",
+            "text": "Cloud, are you all right?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_mako5_5010_1010_0020_cld_0",
+            "text": "I'm fine. You guys good to go?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_1010_0030_blt_0",
+            "text": "As good as I'll ever be!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_5010_1140_0010_tif_0",
+            "text": "Cloud? What'd it do to you?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_mako5_5010_1140_0020_blt_0",
+            "text": "Dammit! Big boy means business!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_5010_1160_0010_tif_0",
+            "text": "Gotta stop it quick!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_mako5_5010_1160_0020_cld_0",
+            "text": "We gotta pour it on from both sides!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_1180_0010_blt_0",
+            "text": "Hey! We gotta stop this thing!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_5010_1180_0020_cld_0",
+            "text": "Go all out, guys!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_1210_0010_blt_0",
+            "text": "Dammit! Not this again!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_5010_1210_0020_tif_0",
+            "text": "We need to find a way to stop it!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_mako5_5010_1220_0010_tif_0",
+            "text": "Not this again! Cloud, can you move?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_mako5_5010_1220_0020_cld_0",
+            "text": "I'm good! Let's do this!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_1230_0010_blt_0",
+            "text": "Hey! He's going after Tifa!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_5010_1230_0020_cld_0",
+            "text": "Not if I can help it!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_2050_0010_tif_0",
+            "text": "Check it out!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_mako5_5010_2050_0020_cld_0",
+            "text": "Don't stand in front of it. Run!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_2050_0030_blt_0",
+            "text": "Shit! Run, run!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_5010_2060_0010_cld_0",
+            "text": "Gotta back off.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_2070_0010_blt_0",
+            "text": "Time to haul ass!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_5010_2080_0010_tif_0",
+            "text": "Better run before it's too late!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_mako5_5010_2090_0010_blt_0",
+            "text": "Damn, that thing's powerful!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_5010_2090_0020_tif_0",
+            "text": "That was too close...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_mako5_5010_2090_0030_cld_0",
+            "text": "We need to come up with a plan.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_2140_0010_cld_0",
+            "text": "Incoming! Gotta move!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_2150_0010_blt_0",
+            "text": "This guy really wants to see us dead.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_5010_2160_0010_tif_0",
+            "text": "It's coming! Gotta find someplace safe!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_mako5_5010_2170_0010_tif_0",
+            "text": "I hate when they do that!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_mako5_5010_2170_0020_cld_0",
+            "text": "Let's take care of them first.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_2310_0010_cld_0",
+            "text": "Damn, I can't get to it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_2330_0010_blt_0",
+            "text": "This is gettin' ridiculous... If only those damn things weren't in the way!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_5010_2350_0010_tif_0",
+            "text": "We have to start taking down the ones that we can.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_mako5_5010_2430_0010_cld_0",
+            "text": "Now we can finally take it down!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_2440_0010_blt_0",
+            "text": "All right! Now this is what I'm talkin' about!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_5010_2450_0010_tif_0",
+            "text": "Now we can hit it where it hurts!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_mako5_5010_3010_0010_cld_0",
+            "text": "Damn, all those drones. Time to do your thing, big man.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_3010_0020_blt_0",
+            "text": "Watch and learn! Just make sure you got my back, all right?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_5010_3050_0010_cld_0",
+            "text": "Now! Get in there!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_3050_0020_tif_0",
+            "text": "Yep! I hear you loud and clear!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_mako5_5010_3090_0010_blt_0",
+            "text": "Not that shit again!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_5010_3090_0020_cld_0",
+            "text": "It's coming. Move!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_3130_0010_blt_0",
+            "text": "Let me show ya how it's done!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_5010_3130_0020_cld_0",
+            "text": "Yeah. Light 'em up!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_3170_0010_cld_0",
+            "text": "Now!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_3170_0020_tif_0",
+            "text": "Right! Give it all you've got!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_mako5_5010_3180_0010_blt_0",
+            "text": "Dammit! Why won't it give up?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_5010_3180_0020_cld_0",
+            "text": "No time for questions. Gotta move.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_4010_0010_cld_0",
+            "text": "We almost got this. Come on, guys!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_4010_0020_tif_0",
+            "text": "Bring it on!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_mako5_5010_4010_0030_blt_0",
+            "text": "Let's show 'em what we're made of!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_5010_4110_0010_cld_0",
+            "text": "Incoming!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_mako5_5010_4110_0020_blt_0",
+            "text": "Gotta hit it right after it attacks!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_5010_4130_0010_blt_0",
+            "text": "Damn, big boy is tough!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_mako5_5010_4130_0020_tif_0",
+            "text": "Hit it right after it strikes!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_mako5_5010_4150_0010_tif_0",
+            "text": "Again!?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_mako5_5010_4150_0020_cld_0",
+            "text": "This ends right here!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako5_0010_0002_tcr1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0010_0004_tcr2_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0010_0006_tcr3_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0010_0010_hyd_0",
+            "text": "Quickly now. Quickly!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_0010_0012_tcr4_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0010_0020_pre_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0020_0005_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0020_0010_blt_0",
+            "text": "That's it. That's the smell. This place reeks of mako.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_0020_0020_tif_0",
+            "text": "Looks like we made it.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_mako5_0020_0030_blt_0",
+            "text": "Layout's the same as Reactor 1?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_0020_0040_cld_0",
+            "text": "Yeah. We're near mako storage.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako5_0020_0050_blt_0",
+            "text": "Let's move.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_0060_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0070_0005_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0070_0010_tif_0",
+            "text": "Sephiroth... SOLDIERs...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_mako5_0070_0010_tif_1",
+            "text": "Mako... Shinra...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_mako5_0070_0010_tif_2",
+            "text": "I'm sick of this!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_mako5_0070_0020_tif_0",
+            "text": "I'm sick of all of this!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_mako5_0070_0030_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0070_0040_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0070_0050_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0080_0010_blt_0",
+            "text": "Hey! SOLDIER boy!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_0080_0015_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0080_0020_cld_0",
+            "text": "Tifa─",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako5_0080_0030_tif_0",
+            "text": "What?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_mako5_0080_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0090_0005_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0090_0010_cld_0",
+            "text": "How much time we need?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako5_0090_0020_blt_0",
+            "text": "Got all the time in the world.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_0090_0025_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0090_0030_blt_0",
+            "text": "This one comes with a remote detonator.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_0090_0040_tif_0",
+            "text": "Courtesy of Jessie.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_mako5_0090_0050_blt_0",
+            "text": "We withdraw to a safe distance─",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_0090_0050_blt_1",
+            "text": "then...kaboom!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_0090_0060_cld_0",
+            "text": "\"Safe\" distance?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako5_0090_0070_blt_0",
+            "text": "What? No such thing?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_0090_0080_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0110_0010_blt_0",
+            "text": "What the─ Where you goin'!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_0110_0015_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0110_0020_cld_0",
+            "text": "Weirdly perfect timing.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako5_0110_0025_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0110_0030_tif_0",
+            "text": "Wait a minute. Is someone watching us?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_mako5_0110_0031_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0110_0032_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0110_0033_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0110_0035_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0110_0035_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0110_0040_hyd_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0110_0040_hyd_1",
+            "text": "Greetings, my dear sewer rats!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_0110_0050_hyd_0",
+            "text": "As architect of our populace engagement campaign, I, Heidegger, head of Public Security...",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_0110_0060_hyd_0",
+            "text": "bid you welcome.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_0110_0070_blt_0",
+            "text": "The chief warmonger.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_0110_0080_hyd_0",
+            "text": "You should be flattered.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_0110_0090_hyd_0",
+            "text": "Right now, you command the undivided attention of every soul in Midgar.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_0110_0095_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0110_0096_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0110_0097_tif_0",
+            "text": "What is this!?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_mako5_0110_0100_fan_0",
+            "text": "Breaking news from Mako Reactor 5.",
+            "speaker": "Announcer"
+        },
+        {
+            "id": "$ev_mako5_0110_0110_fan_0",
+            "text": "Shinra has confirmed the reactor to be the target of the bomb threat issued by the terrorist group Avalanche.",
+            "speaker": "Announcer"
+        },
+        {
+            "id": "$ev_mako5_0110_0120_fan_0",
+            "text": "Members of the group were observed entering the facility, and security is currently sweeping it for explosive devices.",
+            "speaker": "Announcer"
+        },
+        {
+            "id": "$ev_mako5_0110_0125_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0110_0126_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0110_0130_fan_0",
+            "text": "We now go live to the scene...",
+            "speaker": "Announcer"
+        },
+        {
+            "id": "$ev_mako5_0111_0140_rpo_0",
+            "text": "I'm here in the Sector 5 undercity.",
+            "speaker": "Reporter"
+        },
+        {
+            "id": "$ev_mako5_0111_0150_rpo_0",
+            "text": "Having confirmed the terrorists' target...",
+            "speaker": "Reporter"
+        },
+        {
+            "id": "$ev_mako5_0111_0151_mbn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0111_0160_rpo_0",
+            "text": "the Shinra Emergency Operations Center has issued an evacuation advisory.",
+            "speaker": "Reporter"
+        },
+        {
+            "id": "$ev_mako5_0111_0162_mbn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0111_0164_mbn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0111_0170_rpo_0",
+            "text": "Residents are outraged that the tragedy of Mako Reactor 1 was only the first attack...",
+            "speaker": "Reporter"
+        },
+        {
+            "id": "$ev_mako5_0111_0171_mbn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0111_0180_rpo_0",
+            "text": "in a campaign of violence.",
+            "speaker": "Reporter"
+        },
+        {
+            "id": "$ev_mako5_0112_0190_fan_0",
+            "text": "President Shinra has issued a statement providing assurances that the terrorists will soon be brought to justice.",
+            "speaker": "Announcer"
+        },
+        {
+            "id": "$ev_mako5_0112_0200_hyd_0",
+            "text": "And so, to a people beset by chaos and uncertainty, we will offer the finest comfort:",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_0112_0210_hyd_0",
+            "text": "bread and circus!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_0112_0220_blt_0",
+            "text": "The big boy!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_0112_0230_hyd_0",
+            "text": "I give you Shinra's latest triumph of technology!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_0112_0230_hyd_1",
+            "text": "The airbuster! Your executioner!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_0112_0233_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0112_0234_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0112_0235_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0112_0236_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0112_0240_hyd_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0112_0250_kb01_0",
+            "text": "Engineering on the line.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_mako5_0112_0250_kb01_1",
+            "text": "Currently, the airbuster is only sixty percent operational.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_mako5_0112_0255_hyd_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0112_0260_kb01_0",
+            "text": "The estimates were optimistic...",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_mako5_0112_0270_hyd_0",
+            "text": "I'm on air!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_0112_0275_kb01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0112_0280_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0112_0285_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0112_0290_hyd_0",
+            "text": "To the imbecile in charge down there─",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_0112_0300_hyd_0",
+            "text": "you are hereby ordered to seize those intruders and bring them to me!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_0112_0305_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0112_0310_ts01_0",
+            "text": "Come quietly or there'll be trouble!",
+            "speaker": "Elite Shock Trooper"
+        },
+        {
+            "id": "$ev_mako5_0112_0320_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0112_0330_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0112_0340_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0120_0010_kb01_0",
+            "text": "You heard the man! Get these components prepped for the airbuster ASAP!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_mako5_0120_0020_kb02_0",
+            "text": "It's ready, sir!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_mako5_0120_0030_kb01_0",
+            "text": "Component outbound from B8.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_mako5_0120_0040_tj01_0",
+            "text": "Copy, B8.",
+            "speaker": "Engineering Officer"
+        },
+        {
+            "id": "$ev_mako5_0120_0045_kb01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0120_0050_kb01_0",
+            "text": "Intruders!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_mako5_0120_0060_kb02_0",
+            "text": "Take 'em out!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_mako5_0250_0010_tj01_0",
+            "text": "Status report!",
+            "speaker": "Engineering Officer"
+        },
+        {
+            "id": "$ev_mako5_0250_0020_tj03_0",
+            "text": "We're short on AI cores, but tracking down replacements!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_mako5_0250_0030_tj03_0",
+            "text": "We're short on BBs, but tracking down replacements!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_mako5_0250_0040_tj03_0",
+            "text": "We're short on M units, but tracking down replacements!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_mako5_0250_0050_tj03_0",
+            "text": "We're making our final adjustments!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_mako5_0250_0060_tj01_0",
+            "text": "Work faster! Or you'll hear it from the brass!",
+            "speaker": "Engineering Officer"
+        },
+        {
+            "id": "$ev_mako5_0250_0065_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0250_0070_blt_0",
+            "text": "Look! They're still preppin' it!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_0250_0080_tj01_0",
+            "text": "They're here!",
+            "speaker": "Engineering Officer"
+        },
+        {
+            "id": "$ev_mako5_0250_0090_tj01_0",
+            "text": "Hold 'em back! Buy us every second you can!",
+            "speaker": "Engineering Officer"
+        },
+        {
+            "id": "$ev_mako5_0320_0000_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0320_0005_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0320_0010_blt_0",
+            "text": "We're gonna get through this. We're gonna make it home.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_0320_0010_blt_1",
+            "text": "All of us. No exceptions.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_0320_0020_tif_0",
+            "text": "Right. We don't wanna disappoint Marlene.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_mako5_0320_0020_tif_1",
+            "text": "That goes for you too, Cloud.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_mako5_0320_0030_tif_0",
+            "text": "Right?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_mako5_0320_0040_blt_0",
+            "text": "You'd better give her a big ol' smile this time.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_0320_0050_cld_0",
+            "text": "If the price is right.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako5_0320_0060_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0320_0070_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_0320_0080_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0005_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0006_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0010_tif_0",
+            "text": "Look!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_mako5_8010_0015_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0016_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0020_blt_0",
+            "text": "President Shinra!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8010_0030_pre_0",
+            "text": "Oho. The eyes of one who has bathed in mako...",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_mako5_8010_0030_pre_1",
+            "text": "Which would make you...a SOLDIER?",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_mako5_8010_0040_cld_0",
+            "text": "Ex-SOLDIER.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako5_8010_0050_pre_0",
+            "text": "Once a SOLDIER, always a SOLDIER.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_mako5_8010_0050_pre_1",
+            "text": "Though not, alas, for very long.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_mako5_8010_0055_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0060_pre_0",
+            "text": "Accelerated cellular degradation being the most common cause of death by far.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_mako5_8010_0070_pre_0",
+            "text": "This is classified, of course, but every SOLDIER knows the truth.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_mako5_8010_0075_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0080_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0080_cld_1",
+            "text": "...That's right.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako5_8010_0090_blt_0",
+            "text": "Think you forgettin' someone!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8010_0095_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0100_pre_0",
+            "text": "Would that I could. You strike me as the type to go on without end.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_mako5_8010_0110_blt_0",
+            "text": "Ain't enough hours in the day to hold you to account for all your crimes!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8010_0120_pre_0",
+            "text": "And what a wasteful indulgence it would be even if there were.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_mako5_8010_0125_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0130_blt_0",
+            "text": "Oh, okay then...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8010_0130_blt_1",
+            "text": "Let's talk about wasteful indulgences.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8010_0140_blt_0",
+            "text": "What is mako? The lifestream!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8010_0140_blt_1",
+            "text": "The lifeblood of the planet─our planet!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8010_0150_blt_0",
+            "text": "But Shinra keeps on slurping it up like a thirsty dog!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8010_0150_blt_1",
+            "text": "Whadda you think's gonna happen if you don't stop, huh!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8010_0160_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0170_pre_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0170_pre_1",
+            "text": "But...for whose benefit, I wonder.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_mako5_8010_0170_pre_2",
+            "text": "We do indeed keep on \"slurping it up,\" as you say...",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_mako5_8010_0175_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0180_pre_0",
+            "text": "The true nature of mako is known to one and all, yet the people willfully turn a blind eye to the cost.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_mako5_8010_0185_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0190_pre_0",
+            "text": "As you must surely be aware?",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_mako5_8010_0200_blt_0",
+            "text": "Don't you dare try to put this on us!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8010_0200_blt_1",
+            "text": "If anyone's going along with your plans...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8010_0210_blt_0",
+            "text": "it's 'cause you brainwashed 'em!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8010_0220_pre_0",
+            "text": "Such methods are beneath me.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_mako5_8010_0220_pre_1",
+            "text": "As are you, my faithful sewer rats.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_mako5_8010_0230_pre_0",
+            "text": "Henceforth allies of wicked Wutai, our sworn enemy.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_mako5_8010_0230_pre_1",
+            "text": "Thank you for stoking our people's patriotic fervor.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_mako5_8010_0235_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0240_blt_0",
+            "text": "Wutai? The hell we are!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8010_0250_hyd_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0250_hyd_1",
+            "text": "You still don't understand your role in this.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_8010_0260_blt_0",
+            "text": "What are they doin'!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8010_0270_hyd_0",
+            "text": "Don't you see? You fools were never in control.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_8010_0280_hyd_0",
+            "text": "Never anything but pawns in our plans to sell great and glorious war to the people!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_8010_0290_hyd_0",
+            "text": "And your instruments of insurrection will detonate─",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_8010_0295_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0300_hyd_0",
+            "text": "when we so choose!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_8010_0305_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0310_blt_0",
+            "text": "Goddammit!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8010_0320_hyd_0",
+            "text": "Now let us raise the curtain on our main event!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_8010_0321_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0322_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0325_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0326_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0330_hyd_0",
+            "text": "The trial of the eco-extremist group \"Avalanche\"!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_8010_0330_hyd_1",
+            "text": "Terrorists who conspired with Wutai against Midgar!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_8010_0340_hyd_0",
+            "text": "Your guilt is undeniable! Your punishment: death!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_8010_0343_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0345_hyd_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0350_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0350_tif_1",
+            "text": "I'm sick of this.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_mako5_8010_0350_tif_2",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8010_0360_tif_0",
+            "text": "I'm sick of all of this!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_mako5_8011_0370_cld_0",
+            "text": "<i>It's just like...</i>",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8012_0370_cld_1",
+            "text": "<i>like when I failed you.</i>",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8012_0380_blt_0",
+            "text": "Cloud! Get your head in the game!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8012_0390_blt_0",
+            "text": "We're counting on you, man.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8020_0005_hyd_0",
+            "text": "Behold the full potential of the airbuster!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_8020_0010_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8020_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8020_0030_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8020_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8020_0050_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8020_0060_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8020_0070_hyd_0",
+            "text": "Time to carry out your executions!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_mako5_8030_0002_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8030_0003_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8030_0004_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8030_0005_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8030_0010_blt_0",
+            "text": "We don't have long to get clear!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8030_0020_cld_0",
+            "text": "Take Tifa, and get outta here!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako5_8030_0030_blt_0",
+            "text": "I...I was wrong aboutchya─",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8030_0040_cld_0",
+            "text": "This ain't the end of the line for you <i>or</i> me!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_mako5_8030_0050_tif_0",
+            "text": "Cloud!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_mako5_8030_0055_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8030_0065_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8030_0066_blt_0",
+            "text": "C'mon!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_mako5_8030_0067_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8030_0070_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8030_0080_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8030_0090_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8030_0100_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_mako5_8030_0110_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$lv_mako5_0300_0010_blt_0",
+            "text": "Hey, watch it!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0030_0010_blt_0",
+            "text": "I'm not seeing a way down...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0040_0010_blt_0",
+            "text": "Hey! Check it out.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0040_0020_blt_0",
+            "text": "They sic this big boy on us, we'd be screwed six ways from Sunday.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0040_0030_cld_0",
+            "text": "Mechanized units like these were designed to take out giant monsters. Probably a new prototype.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0040_0035_cld_0",
+            "text": "If they do decide to deploy it, then our best bet would be to run like hell.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0040_0040_blt_0",
+            "text": "Then let's hope he sleeps through the explosion.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0050_0010_tif_0",
+            "text": "Almost there...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0055_0010_tif_0",
+            "text": "The smell... It takes me back...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0115_0030_blt_0",
+            "text": "Shut the hell up!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0115_0040_tif_0",
+            "text": "I don't believe it... We played right into Shinra's hands!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0115_0050_blt_0",
+            "text": "Yeah. And their bullshit news is already peddling their false narrative.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0115_0060_tif_0",
+            "text": "So we're screwed.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0115_0070_blt_0",
+            "text": "No no no no no! Hell no!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0115_0080_blt_0",
+            "text": "Listen! They wanna turn this into a spectacle? Then I say let's give 'em one!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0115_0085_blt_0",
+            "text": "Let's take down Shinra's big-ass mech in front of everybody!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0115_0090_cld_0",
+            "text": "Okay. I'm sold.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0123_0010_tif_0",
+            "text": "Barret, Cloud! Over here!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0130_0030_tif_0",
+            "text": "It looks like a few of its components are still in transit...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0130_0040_blt_0",
+            "text": "We'll see about that.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0130_0050_cld_0",
+            "text": "Could tamper a little with its loadout...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0130_0060_tif_0",
+            "text": "And give ourselves an edge?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0130_0070_cld_0",
+            "text": "There should be a console somewhere...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0130_0090_blt_0",
+            "text": "This the console you talking about?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0140_0060_blt_0",
+            "text": "Think you can get it to work?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0140_0070_cld_0",
+            "text": "Needs a keycard.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0140_0100_blt_0",
+            "text": "Well, let's find it then!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0141_0020_blt_0",
+            "text": "Try that keycard of yours.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0143_0060_tif_0",
+            "text": "\"M units,\" huh? I'm guessing that's some sort of component?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0143_0070_cld_0",
+            "text": "Yep. An enhancement powered by liquefied materia.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0143_0080_blt_0",
+            "text": "Sounds bad.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0143_0090_cld_0",
+            "text": "Pretty sure I can divert this unit for disposal.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0145_0010_tif_0",
+            "text": "You know, I think I saw one of them trying to hide something...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0155_0030_tif_0",
+            "text": "You think they're watching us? Even now?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0155_0040_cld_0",
+            "text": "Yep. Probably got a live feed.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0155_0050_blt_0",
+            "text": "Nothing we can do about it...'cept smile for the folks at home.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0160_0030_tj02_0",
+            "text": "Component outbound from B7.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_mako5_0160_0060_tj01_0",
+            "text": "Copy.",
+            "speaker": "Engineering Officer"
+        },
+        {
+            "id": "$pv_mako5_0160_0065_tj01_0",
+            "text": "We've lost contact with B8. Send some men to check it out. We've got a schedule to keep!",
+            "speaker": "Engineering Officer"
+        },
+        {
+            "id": "$pv_mako5_0160_0100_kb03_0",
+            "text": "Intruders! Seize them!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_mako5_0162_0020_tif_0",
+            "text": "What does an \"AI programming core\" do?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0162_0030_cld_0",
+            "text": "Increases processing power dedicated to motor function computation. Makes it move real quick.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0162_0040_tif_0",
+            "text": "A \"real quick\" giant robot, huh? That doesn't sound good. Anyway, we should weigh our options carefully.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0163_0020_blt_0",
+            "text": "Console talks about big bomber shells. You acquainted?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0163_0030_cld_0",
+            "text": "We called 'em BBs. One's enough to blow you to hell and back.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0163_0040_blt_0",
+            "text": "Could divert them and give it a couple less shots to take us out. Make the call.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0164_0020_tif_0",
+            "text": "AI programming core... Hmm... What are you thinking, Cloud? Should we get rid of it?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0165_0020_blt_0",
+            "text": "Feel like scrapping some BBs?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0165_0030_blt_0",
+            "text": "Hurry up and decide what you wanna get rid of. It's past time we taught Shinra a lesson!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0166_0020_blt_0",
+            "text": "Hell is this?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0166_0030_cld_0",
+            "text": "M unit. Another type of enhancement.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0166_0040_blt_0",
+            "text": "Your call if you wanna nix it.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0167_0020_tif_0",
+            "text": "An AI programming core. Should we discard this or something else?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0168_0020_blt_0",
+            "text": "Big bomber shells. We should divert them if you think it'll improve our odds.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0169_0020_blt_0",
+            "text": "That's an M unit, right?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0169_0030_cld_0",
+            "text": "Yep.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0169_0040_blt_0",
+            "text": "This is our chance to really stick it to Shinra. We should think it through before we make a decision.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0170_0020_tj02_0",
+            "text": "Engineering, this is B7! We've got hostiles! Requesting backup!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_mako5_0170_0030_tj01_0",
+            "text": "Negative B7, airbuster prep is priority. You're on your own!",
+            "speaker": "Engineering Officer"
+        },
+        {
+            "id": "$pv_mako5_0170_0040_tj02_0",
+            "text": "Copy!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_mako5_0171_0020_tif_0",
+            "text": "AI programming cores help it move faster, right? Divert it or not?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0172_0020_blt_0",
+            "text": "From what you said, even one big bomber shell is too many. But I'll let you be the judge of that.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0173_0020_blt_0",
+            "text": "The more M units it's got, the tougher it'll be, right? We could do something about that. If you want.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0184_0030_tif_0",
+            "text": "",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0184_0040_tif_0",
+            "text": "",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0184_0050_tif_0",
+            "text": "",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0184_0060_tif_0",
+            "text": "",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0184_0070_tif_0",
+            "text": "",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0184_0080_tif_0",
+            "text": "",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0184_0090_tif_0",
+            "text": "",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0184_0100_tif_0",
+            "text": "",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0184_0110_tif_0",
+            "text": "",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0184_0510_tif_0",
+            "text": "So, where did we send the discarded stuff?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0184_0520_cld_0",
+            "text": "To a storeroom for defective equipment, I'm guessing.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0184_0530_blt_0",
+            "text": "That so... You think these defective shells and programming cores might be valuable enough to warrant a little...detour?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0184_0540_cld_0",
+            "text": "Maybe.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0184_0550_blt_0",
+            "text": "I say we grab 'em.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0184_0560_cld_0",
+            "text": "Hmph. If we get that far.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0188_0025_blt_0",
+            "text": "",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0188_0030_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_mako5_0188_0035_blt_0",
+            "text": "Okay! Listen up, y'all!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0188_0040_blt_0",
+            "text": "Everything Shinra has told you is a goddamn lie! Mako is the lifeblood of our planet!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0188_0045_blt_0",
+            "text": "Those greedy bastards are bleeding it dry! Y'all gotta rise up─",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0188_0050_tif_0",
+            "text": "Barret!? Who are you talking to?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0188_0060_blt_0",
+            "text": "The people! Put me on TV, I'mma drop some truth!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0188_0070_cld_0",
+            "text": "Thousand gil says they cut the sound.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0192_0020_ks02_0",
+            "text": "Good to go?",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_mako5_0192_0030_kb04_0",
+            "text": "Locked and loaded!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_mako5_0196_0020_ks02_0",
+            "text": "Heads up! We got company!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_mako5_0196_0030_kb04_0",
+            "text": "Take 'em down!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_mako5_0196_0040_ks02_0",
+            "text": "Engineering, this is B6─enemy contact! Enemy contact!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_mako5_0196_0050_tj01_0",
+            "text": "Shit! We can't afford any more delays. You need to keep those components coming─do whatever it takes!",
+            "speaker": "Engineering Officer"
+        },
+        {
+            "id": "$pv_mako5_0196_0060_ks02_0",
+            "text": "Solid copy. B6 will hold the line!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_mako5_0197_0040_trm_0",
+            "text": "Error. Keycard required for operation.",
+            "speaker": "Console"
+        },
+        {
+            "id": "$pv_mako5_0198_0110_blt_0",
+            "text": "Heidegger's got no idea who he's messin' with!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0198_0120_blt_0",
+            "text": "Serves y'all right!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0198_0130_blt_0",
+            "text": "Just imagining their faces when they find out...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0198_0220_tif_0",
+            "text": "That should slow them down some.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0198_0230_tif_0",
+            "text": "Heidegger's not gonna like that.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0198_0240_tif_0",
+            "text": "I was thinking the same thing.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0198_0250_tif_0",
+            "text": "Yeah. That'll do.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0199_0110_blt_0",
+            "text": "What the hell? You got a better plan or something?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0199_0120_blt_0",
+            "text": "We doing this or not?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0199_0130_blt_0",
+            "text": "Make up your damn mind already!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0199_0140_blt_0",
+            "text": "Why you overthinking this, man?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0199_0210_tif_0",
+            "text": "We're running out of time here...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0210_0030_blt_0",
+            "text": "I tell you what, I ain't never looked forward to an execution more in my entire life!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0210_0040_tif_0",
+            "text": "You don't say.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0210_0050_blt_0",
+            "text": "We're about to make fools outta Shinra while the whole damn city's watching!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0210_0053_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_mako5_0210_0057_blt_0",
+            "text": "Times like these you gotta savor!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0210_0060_tif_0",
+            "text": "Oh no─if you're about to ask me to dance, then don't.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0210_0070_blt_0",
+            "text": "C'mon, don't be shy! How 'bout you, Cloud?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0210_0080_cld_0",
+            "text": "I don't dance.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0211_0042_sys_0",
+            "text": "Dispose of a programming core?\r\n(Cost: 1 Keycard)",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_mako5_0211_0052_sys_0",
+            "text": "Dispose of a big bomber shell?\r\n(Cost: 1 Keycard)",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_mako5_0211_0062_sys_0",
+            "text": "Dispose of an M unit?\r\n(Cost: 1 Keycard)",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_mako5_0220_0030_tj01_0",
+            "text": "B5, this is Engineering. You need to pick up the pace─we're running dangerously low on components because of those terrorists!",
+            "speaker": "Engineering Officer"
+        },
+        {
+            "id": "$pv_mako5_0220_0040_ks03_0",
+            "text": "Copy!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_mako5_0220_0080_tj03_0",
+            "text": "They're here!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_mako5_0225_0020_ks03_0",
+            "text": "Stop them!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_mako5_0227_0040_trm_0",
+            "text": "Programming core flagged for disposal.",
+            "speaker": "Console"
+        },
+        {
+            "id": "$pv_mako5_0227_0042_trm_0",
+            "text": "Big bomber shell flagged for disposal.",
+            "speaker": "Console"
+        },
+        {
+            "id": "$pv_mako5_0227_0044_trm_0",
+            "text": "M unit flagged for disposal.",
+            "speaker": "Console"
+        },
+        {
+            "id": "$pv_mako5_0240_0030_blt_0",
+            "text": "We're coming up on the exit.\r\nTifa─detonator still in range?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0240_0040_tif_0",
+            "text": "We should be good.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0240_0050_blt_0",
+            "text": "The moment big boy goes down, you hit that switch.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0240_0060_tif_0",
+            "text": "Right.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0241_0050_trm_0",
+            "text": "Diverting programming core to disposal room.",
+            "speaker": "Console"
+        },
+        {
+            "id": "$pv_mako5_0242_0010_trm_0",
+            "text": "Diverting big bomber shell to disposal room.",
+            "speaker": "Console"
+        },
+        {
+            "id": "$pv_mako5_0243_0010_trm_0",
+            "text": "Diverting M unit to disposal room.",
+            "speaker": "Console"
+        },
+        {
+            "id": "$pv_mako5_0246_0010_blt_0",
+            "text": "Hey─you still got keycards? You might wanna use 'em before the showdown.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0246_0030_sys_0",
+            "text": "Proceed without using keycards?",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_mako5_0249_0020_blt_0",
+            "text": "Can't say we didn't prepare. Now we just gotta get it done!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0260_0020_hyd_0",
+            "text": "What is the status of my airbuster? Report!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$pv_mako5_0260_0030_tj01_0",
+            "text": "I'm sorry, sir. We're going to need more time!",
+            "speaker": "Engineering Officer"
+        },
+        {
+            "id": "$pv_mako5_0260_0035_tj01_0",
+            "text": "The terrorists have breached the room and are engaging our forces. At this rate, there's no telling when we'll have it fully operational!",
+            "speaker": "Engineering Officer"
+        },
+        {
+            "id": "$pv_mako5_0260_0040_hyd_0",
+            "text": "As expected. Deploy it at once!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$pv_mako5_0260_0050_tj01_0",
+            "text": "But sir, it's not ready yet!",
+            "speaker": "Engineering Officer"
+        },
+        {
+            "id": "$pv_mako5_0260_0060_hyd_0",
+            "text": "That was an order!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$pv_mako5_0260_0770_tj01_0",
+            "text": "Understood. Prepare the airbuster for immediate deployment!",
+            "speaker": "Engineering Officer"
+        },
+        {
+            "id": "$pv_mako5_0280_0010_blt_0",
+            "text": "Y'all never had a chance!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0280_0020_tif_0",
+            "text": "Hey, guys.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0290_0020_tif_0",
+            "text": "Looks like a performance assessment, don't you think?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0291_0010_tif_0",
+            "text": "Reduced response time... Should work in our favor.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0292_0010_cld_0",
+            "text": "We'll figure out its weaknesses as we fight it. As long as we stay focused, we'll be fine. We can do this.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0293_0010_cld_0",
+            "text": "We definitely took it down a peg or two... Yeah, I'd give us a fighting chance.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0294_0020_blt_0",
+            "text": "For real, though, we need to talk victory poses. Something coordinated for the live, on-camera finish!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0294_0025_blt_0",
+            "text": "Could blow up big─start a new trend!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0294_0030_cld_0",
+            "text": "Veto.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0296_0010_blt_0",
+            "text": "Huh. No way up?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0297_0010_tif_0",
+            "text": "No way we're getting back up that pipe...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0297_0020_cld_0",
+            "text": "Keep looking.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0298_0010_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_mako5_0298_0020_tif_0",
+            "text": "Hear that?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0300_0010_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_mako5_0300_0020_blt_0",
+            "text": "Damn near gave me a heart attack!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0310_0010_blt_0",
+            "text": "Big boy's going to an execution all right. We're gonna put him out of his misery while the whole damn city watches!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0310_0020_tif_0",
+            "text": "We give it our all and we'll win!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0330_0020_blt_0",
+            "text": "What? Open it already!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0330_0030_cld_0",
+            "text": "It's locked down.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0330_0040_tif_0",
+            "text": "Is there any way we can get it open?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0330_0050_cld_0",
+            "text": "Yeah. From that room over there.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0330_0060_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0340_0020_tif_0",
+            "text": "So how do we do this?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0340_0030_cld_0",
+            "text": "It's simple, really.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0340_0040_cld_0",
+            "text": "We move the levers at the same time.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0340_0050_tif_0",
+            "text": "Got these ones.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0340_0060_blt_0",
+            "text": "I'll take left. Which just leaves right, SOLDIER boy.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0350_0020_trm_0",
+            "text": "Emergency lockdown is currently in effect.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_mako5_0350_0030_tif_0",
+            "text": "So we need to synchronize our movements?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0350_0040_blt_0",
+            "text": "In that case, follow my lead.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0350_0050_cld_0",
+            "text": "Nah─Tifa's.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0350_0060_blt_0",
+            "text": "Fine! Have it your way!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0350_0070_tif_0",
+            "text": "Okay, pay attention, you two...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0350_0080_tif_0",
+            "text": "Three, two, one...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0351_0130_tif_0",
+            "text": "Watch carefully!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0351_0160_tif_0",
+            "text": "Move yours the same way as mine.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0351_0190_blt_0",
+            "text": "Hey, are you even trying?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0351_0191_blt_0",
+            "text": "Mother─",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0351_0210_blt_0",
+            "text": "How did we screw that up?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0351_0211_tif_0",
+            "text": "Try to match my timing, okay?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0351_0430_tif_0",
+            "text": "Don't rush it!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0351_0460_tif_0",
+            "text": "Um... Breathe when I breathe!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0351_0490_blt_0",
+            "text": "No need to grip it so hard!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0351_0491_blt_0",
+            "text": "Shit!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0351_0510_blt_0",
+            "text": "Your timing is all wrong, man!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0351_0511_blt_0",
+            "text": "I'm, uh, still getting warmed up!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0352_0120_tif_0",
+            "text": "Focus! Three, two, one...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0352_0220_tif_0",
+            "text": "Shake it off. Three, two, one...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0352_0320_tif_0",
+            "text": "We got this. Three, two, one...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0352_5120_blt_0",
+            "text": "How 'bout a chant to help us time it right? Aaa-vaaa-lanche!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0352_5130_tif_0",
+            "text": "This is exhausting...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0352_5140_tif_0",
+            "text": "We'll get it this time. Three, two, one...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0352_5220_blt_0",
+            "text": "Hey, I think I should lead after all. Five...four...three-two-one-go!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0352_5230_cld_0",
+            "text": "Much better.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0352_5240_tif_0",
+            "text": "Let's just get through this. Three, two, one...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0352_5320_blt_0",
+            "text": "Got an idea! Seventh seventh heaven heaven hoo-ah! Seventh seventh heaven heaven hoo-ah!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0352_5330_cld_0",
+            "text": "Hell no!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0352_5340_blt_0",
+            "text": "How 'bout this then? Seveeenth heaven! Heaven! Heaven!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0352_5350_tif_0",
+            "text": "We're doing it my way! Three, two, one...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0356_0010_trm_0",
+            "text": "Emergency lockdown─disengaged.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_mako5_0357_0030_blt_0",
+            "text": "Hell yeah!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0357_0040_tif_0",
+            "text": "We really did it!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0357_0050_tif_0",
+            "text": "Great timing─right on the money!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0357_0060_cld_0",
+            "text": "Yeah...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0358_0030_blt_0",
+            "text": "Gotcha!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0358_0040_tif_0",
+            "text": "Now that is what I call teamwork!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0358_0050_cld_0",
+            "text": "Go team.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0359_0030_tif_0",
+            "text": "Thank god...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0359_0040_blt_0",
+            "text": "How the hell we made it through with dumbass here, I'll never know.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0359_0050_cld_0",
+            "text": "We really are in sync. Took the words right outta my mouth.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0359_0060_blt_0",
+            "text": "What did you say!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0359_0070_tif_0",
+            "text": "Okay, that's it. Let's go.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0360_0020_blt_0",
+            "text": "This would be the treasure vault?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0360_0030_cld_0",
+            "text": "That's right.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0360_0040_tif_0",
+            "text": "What's the catch?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0360_0050_cld_0",
+            "text": "Need to bypass a high-level security lock.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0360_0060_blt_0",
+            "text": "Different from the other one?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0360_0070_cld_0",
+            "text": "Same deal, but we gotta do it several times.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0361_0020_blt_0",
+            "text": "Not a problem!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0361_0030_tif_0",
+            "text": "Yeah, let's try!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0362_0020_blt_0",
+            "text": "Tightwads! But hearing that just makes me wanna rob 'em more!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0362_0030_tif_0",
+            "text": "Yeah. Let's stick it to 'em!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0363_0020_blt_0",
+            "text": "Was hoping you'd say anything but that...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0363_0030_cld_0",
+            "text": "Screw it?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0363_0040_blt_0",
+            "text": "Aw, hell no! We're doing this!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0363_0050_tif_0",
+            "text": "Yeah. We gotta try!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0364_0020_blt_0",
+            "text": "Both of 'em sound like a real pain in the ass.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0366_0010_blt_0",
+            "text": "So this is some hardcore shit... We up for this?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0367_0010_sys_0",
+            "text": "Disable security system?",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_mako5_0370_0020_trm_0",
+            "text": "Delta-level security lockdown is currently in effect.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_mako5_0370_0030_tif_0",
+            "text": "Okay, guys. You know what we have to do.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0370_0040_blt_0",
+            "text": "Copy me?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0370_0050_cld_0",
+            "text": "No, Tifa leads.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0370_0060_blt_0",
+            "text": "Oh, fine! After you, girl.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0370_0070_tif_0",
+            "text": "Gotta get past level one first, right? Three, two, one...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0373_0010_trm_0",
+            "text": "Alpha-level security─disengaged.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_mako5_0373_0020_tif_0",
+            "text": "That was great, you guys! Let's keep it up!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0373_0030_tif_0",
+            "text": "Alright. Three, two, one...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0374_0010_trm_0",
+            "text": "Beta-level security─disengaged.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_mako5_0374_0020_tif_0",
+            "text": "Wow! Think we've got this?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0374_0030_blt_0",
+            "text": "Hell yeah, bring it on! Ain't nothing I love more than sticking it to Shinra!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0374_0040_tif_0",
+            "text": "Halfway there. Steady, guys. Three, two, one...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0375_0010_trm_0",
+            "text": "Gamma-level security─disengaged.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_mako5_0375_0020_tif_0",
+            "text": "No way! You guys are naturals!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0375_0030_tif_0",
+            "text": "Okay, final round. Don't lose focus. Three, two, one...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0376_0010_trm_0",
+            "text": "Delta-level security─disengaged. Disposal room now accessible.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_mako5_0377_0030_blt_0",
+            "text": "Boo-yah! Bet all the Shinra suits watching enjoyed that!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0377_0040_tif_0",
+            "text": "You guys were great!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0377_0050_tif_0",
+            "text": "I swear, your timing was perfect. It's almost like...you could read my mind. SOLDIERs can't do that, can they?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0377_0060_cld_0",
+            "text": "I can't─yet.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0377_0070_tif_0",
+            "text": "Thank god.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0377_0080_blt_0",
+            "text": "C'mon, you two, let's see what we got.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0378_0030_blt_0",
+            "text": "Take that, Shinra! Makin' us jump through hoops to steal your shit...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0378_0040_tif_0",
+            "text": "Didn't take as long as I expected! Good work guys!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0378_0050_cld_0",
+            "text": "Likewise. You made it easy.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0378_0060_tif_0",
+            "text": "I put my heart and soul into those countdowns...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0379_0030_tif_0",
+            "text": "Finally. I was beginning to think it'd never end.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0379_0040_blt_0",
+            "text": "Ayo, Cloud, what's the deal? You really a bona fide SOLDIER?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0379_0050_cld_0",
+            "text": "We didn't train for this stuff.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_mako5_0379_0060_blt_0",
+            "text": "All that marching with no rhythm? How did you SOLDIER on?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_0379_0070_tif_0",
+            "text": "Okay, that's enough of that. Let's see what's inside.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_mako5_0390_0010_blt_0",
+            "text": "All right, time to go!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_mako5_1170_1010_tj02_0",
+            "text": "Then we'll deal with you ourselves!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_mako5_1225_1010_ks03_0",
+            "text": "Dammit! You'll pay for this!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_mako5_1015_0010_tif_0",
+            "text": "Here maybe?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_1015_0020_blt_0",
+            "text": "Well now! That could work.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_1023_0010_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_mako5_1023_0020_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_mako5_1030_0010_blt_0",
+            "text": "I'm next.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_1050_0010_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_mako5_1050_0020_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_mako5_1075_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_mako5_1076_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_mako5_1077_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_mako5_10_1010_0010_hyd_0",
+            "text": "Witness the full potential of Shinra's technology!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_1020_0010_hyd_0",
+            "text": "Engage the electro-magnetic field. See how the airbuster sits safely beyond your reach.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_1200_0010_hyd_0",
+            "text": "Quake in fear at the big bomber's destructive power!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_1240_0010_hyd_0",
+            "text": "The big bomber will soon be ready to fire again, and you will know true pain.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_1280_0010_hyd_0",
+            "text": "Why, you sneaky little rats. Don't think you can put off judgment forever!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_1370_0010_hyd_0",
+            "text": "The battle's far from over.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_1390_0010_hyd_0",
+            "text": "Why you impudent wretches!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_1410_0010_hyd_0",
+            "text": "What? How is that even possible!?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_2130_0010_hyd_0",
+            "text": "Tankbuster ready to fire! Now, show me how fast you can run!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_2240_0010_hyd_0",
+            "text": "You are helpless before its defenses. I will watch you perish right there!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_2250_0010_hyd_0",
+            "text": "You sewer rats are truly pathetic!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_2260_0010_hyd_0",
+            "text": "You struggle in vain against the airbuster. Shinra's advanced weapons are unstoppable!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_2420_0010_hyd_0",
+            "text": "Hmph! I hope this isn't the end for you three. I was looking forward to a battle against worthy opponents.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_2470_0010_hyd_0",
+            "text": "Hmph! Don't think you've won just yet. Unless of course you think you can keep this up.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_3200_0010_hyd_0",
+            "text": "Didn't expect that? Let's see how you do now!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_3220_0010_hyd_0",
+            "text": "How does it feel to hear your friends cry out in agony?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_3240_0010_hyd_0",
+            "text": "Insolent fools! You brought this torment upon yourselves by opposing us!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_5280_0010_hyd_0",
+            "text": "You are no match for this perfect specimen of AI─the great airbuster!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_5290_0010_hyd_0",
+            "text": "Huh? An error with an AI core? As long as the airbuster operates as intended. This will end soon enough.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_5300_0010_hyd_0",
+            "text": "Hmm, it's taking some time. Must be a flaw in the AI programming cores. No matter─we have all the time in the world.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_5310_0010_hyd_0",
+            "text": "<>",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_5320_0010_hyd_0",
+            "text": "Multiple malfunctioning cores? They should've done a thorough check. This may take more time than I thought, but only a little. Now we can enjoy toying with our prey.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_5322_0010_hyd_0",
+            "text": "What do you mean the AI cores are all offline? Heads will roll for this! But we have plenty of time. We will destroy these sewer rats.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_5324_0010_hyd_0",
+            "text": "Sewer rats of Avalanche, pawns of Wutai! The people of Midgar will now see you for the cowards you are!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8000_0010_hyd_0",
+            "text": "Now, let me hear you scream!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8010_0010_hyd_0",
+            "text": "Impressive. Most impressive.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8020_0010_hyd_0",
+            "text": "It's even more magnificent than I'd imagined.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8030_0010_hyd_0",
+            "text": "To fan the flames of hatred, you need a suitably spectacular display!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8040_0010_hyd_0",
+            "text": "Once caught in our magnetic field, you'll be utterly at our mercy.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8050_0010_hyd_0",
+            "text": "This is what I like to see. Things working better than intended.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8060_0010_hyd_0",
+            "text": "How does it feel to be a prisoner in your own body?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8070_0010_hyd_0",
+            "text": "Enjoying the staggering sensation?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8080_0010_hyd_0",
+            "text": "This is proof that our combat AI cannot be outdone!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8090_0010_hyd_0",
+            "text": "Programmed with only the most perfect strategies!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8110_0010_hyd_0",
+            "text": "Commencing phase two of the combat trial. You've seen but a fraction of this machine's true capabilities!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8120_0010_hyd_0",
+            "text": "Your efforts are futile. It'll chase you to the edge of the world if need be.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8122_0010_hyd_0",
+            "text": "Now this is a splendid sight.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8130_0010_hyd_0",
+            "text": "Like rats in a trap─how's that feel!?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8140_0010_hyd_0",
+            "text": "It's no use. There's no escape.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8150_0010_hyd_0",
+            "text": "Yes, that's it! Very good.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8150_0020_hyd_0",
+            "text": "Now you will learn what happens to all those who oppose Shinra.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8160_0010_hyd_0",
+            "text": "Enjoying your time with Shinra's new weapon?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8170_0010_hyd_0",
+            "text": "Writhe and squirm for me! You didn't think your deaths would be quick, did you?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8180_0010_hyd_0",
+            "text": "Behold the full potential of the airbuster!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8190_0010_hyd_0",
+            "text": "Time to carry out your executions!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8200_0010_hyd_0",
+            "text": "And now for the grand finale! The tankbuster is ready to be deployed!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8210_0010_hyd_0",
+            "text": "I have toyed with you three for long enough. Now I shall watch you die screaming!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8220_0010_hyd_0",
+            "text": "This airbuster is more flawed than I had hoped. I expected better from Advanced Weaponry boys.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8230_0010_hyd_0",
+            "text": "This data will prove most useful!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8240_0010_hyd_0",
+            "text": "It's almost time for the grand finale! You will burn like the reactors you so hate!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8250_0010_hyd_0",
+            "text": "My dearest Avalanche. My apologies, but it is time that we part ways.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_8250_0020_hyd_0",
+            "text": "This footage will prove invaluable in raising the morale of our Shinra rank and file.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_9010_0010_hyd_0",
+            "text": "Heidegger dummy data",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_9020_0010_hyd_0",
+            "text": "Dummy data - Don't think you can easily get to the airbuster!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_9030_0010_hyd_0",
+            "text": "Dummy data - A new phase is about to commence!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_9040_0010_hyd_0",
+            "text": "Dummy data - The airbuster's in its final phase. What now?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_10_9050_0010_hyd_0",
+            "text": "Dummy data - Avalanche, it's time to say goodbye. Don't worry, I'll put your battle data to good use!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_1100_0010_tif_0",
+            "text": "Kinda scary, huh?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_1100_0020_cld_0",
+            "text": "S'all in the mind.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako5_1100_0025_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_mako5_1300_0010_tif_0",
+            "text": "Where is everybody?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_1300_0020_blt_0",
+            "text": "You mean Shinra? Got spooked and cleared out, is my guess.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_1400_0010_tif_0",
+            "text": "So...it was like this last time?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_1400_0020_blt_0",
+            "text": "Little more chaotic─ain't that right?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_1400_0030_cld_0",
+            "text": "Yeah.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako5_1500_0010_blt_0",
+            "text": "We get out the same way we got in. Let's double back.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_1600_0010_hyd_0",
+            "text": "Attention all security forces! I repeat─",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_1600_0015_hyd_0",
+            "text": "you are to bring the insurgents to the command center without further delay!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_1600_0020_hyd_0",
+            "text": "What's Engineering's progress on getting that airbuster operational?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_1600_0025_hyd_0",
+            "text": "...Still only sixty percent!? Bullshit!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_1600_0030_hyd_0",
+            "text": "I swear, if you fail me, I'll throw you off the plate myself!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_1600_0035_hyd_0",
+            "text": "So get it done already!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$tk_mako5_1700_0010_kb01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_mako5_1750_0010_kb01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_mako5_1750_0030_kb01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_mako5_2025_0010_blt_0",
+            "text": "All clear! Now let's see what these bastards were up to...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_2045_0010_blt_0",
+            "text": "Hold up. Ain't we gonna sabotage this thing?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_2046_0010_blt_0",
+            "text": "Pretty sure that console controls the door.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_2048_0010_tif_0",
+            "text": "Let's not leave before we're done, huh?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2049_0010_tif_0",
+            "text": "We shouldn't rush this, Cloud. Really.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2050_0010_blt_0",
+            "text": "Hey, don't go off on your own!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_2051_0010_tif_0",
+            "text": "You really that impatient, Cloud?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2055_0010_blt_0",
+            "text": "Hey! Get over here!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_2056_0010_tif_0",
+            "text": "You really need to see this!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2057_0010_tif_0",
+            "text": "Cloud, check this out!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2063_0010_blt_0",
+            "text": "Huh? Find something?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_2063_0020_cld_0",
+            "text": "Keycard. Might come in handy.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako5_2063_0030_blt_0",
+            "text": "You think!? Nice work!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_2064_0010_tif_0",
+            "text": "You find it?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2064_0020_cld_0",
+            "text": "Yeah.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako5_2064_0030_blt_0",
+            "text": "Good job! Now, let's check out that console.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_2100_0010_tif_0",
+            "text": "So far so good.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2100_0020_blt_0",
+            "text": "Right. Let's move!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_2200_0010_tif_0",
+            "text": "Looks like there's two consoles this time.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2200_0020_blt_0",
+            "text": "Hah! Double the sabotage!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_2200_0030_cld_0",
+            "text": "<i>If</i> we can find the keycards.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako5_2226_0010_tif_0",
+            "text": "Any luck with the keycards?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2227_0010_tif_0",
+            "text": "Barret's console must be for other components.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2228_0010_tif_0",
+            "text": "\"AI programming cores,\" it says...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2251_0010_blt_0",
+            "text": "Find those keycards.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_2252_0010_blt_0",
+            "text": "Without keycards we can't do shit.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_2253_0010_blt_0",
+            "text": "This console's for big bomber shells.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_2275_0010_tif_0",
+            "text": "Any cards?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2275_0020_cld_0",
+            "text": "Just the one.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako5_2275_0030_tif_0",
+            "text": "Two choices, and only one single-use card...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2275_0040_tif_0",
+            "text": "It's up to you, Cloud.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2400_0010_blt_0",
+            "text": "Piece o' cake!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_2500_0010_tif_0",
+            "text": "Find any cards?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2500_0040_cld_0",
+            "text": "Only one. And this time we've got three choices...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako5_2500_0050_tif_0",
+            "text": "Take your pick.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2501_0010_cld_0",
+            "text": "Only one.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako5_2501_0020_tif_0",
+            "text": "Gotta put it to good use...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2600_0010_blt_0",
+            "text": "Buncha pushovers. C'mon, y'all. Let's see what kinda mischief they were getting up to.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_2700_0010_cld_0",
+            "text": "Four consoles. And never enough keycards...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako5_2800_0010_tif_0",
+            "text": "Think we've done enough to weaken the robot?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2800_0020_cld_0",
+            "text": "All that we can, at least.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako5_2800_0030_blt_0",
+            "text": "It's all good. The stage is set─all that's left is to hijack Heidegger's show!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_2910_0010_tif_0",
+            "text": "Not that way!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2920_0010_tif_0",
+            "text": "That just leads back down.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_2930_0010_blt_0",
+            "text": "Got no time to double back.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_2940_0010_blt_0",
+            "text": "We gotta go the other way!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_3050_0010_blt_0",
+            "text": "Bastard cleared the way for us.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_3050_0020_cld_0",
+            "text": "Real subtle invitation.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako5_3050_0030_blt_0",
+            "text": "We were gonna spring the trap anyway!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_3200_0010_blt_0",
+            "text": "Huh? You headed back down? You got shit to do, I won't stop you, but...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_3210_0020_blt_0",
+            "text": "It's cool if you wanna go back, but...for what?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_3400_0010_trm_0",
+            "text": "Emergency lockdown is in effect.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$tk_mako5_3500_0010_blt_0",
+            "text": "Why does everything have to be so damn complicated...?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_3500_0020_cld_0",
+            "text": "You know, the faulty equipment storeroom's that way too.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_mako5_3500_0030_tif_0",
+            "text": "Do you think we'll find the components we diverted there?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_3500_0040_blt_0",
+            "text": "It's like a treasure vault! Hoo, I like the sound of that!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_4000_0010_blt_0",
+            "text": "Whatcha'll got tucked away in that vault, huh?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_4030_0010_blt_0",
+            "text": "Wait. That our priority?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_mako5_4070_0010_trm_0",
+            "text": "Delta-level security lockdown is in effect.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$tk_mako5_4100_0010_tif_0",
+            "text": "Score! It's just like Cloud said!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_mako5_4100_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_mako5_4100_0030_blt_0",
+            "text": "They say a job well done's its own reward... I say take everything that ain't nailed down!",
+            "speaker": "Barret"
+        }
+    ],
+    "meta": {
+        "tool": "FF7R text mod tools",
+        "version": "1.4.2",
+        "game": "FF7R"
+    }
+}

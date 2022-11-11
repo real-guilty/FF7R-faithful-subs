@@ -1,0 +1,4294 @@
+{
+    "data": [
+        {
+            "id": "$ba_psbl0_0210_0000_0000_yfi_0",
+            "text": "Let's go!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_0210_0000_0010_snn_0",
+            "text": "Right behind ya! We may not have that materia, but we do have good intel.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ba_psbl0_0210_0000_0020_snn_0",
+            "text": "And we can't afford to let it die with us!",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ba_psbl0_0260_1000_0010_yfi_0",
+            "text": "What the─!? Why can't I hit it!?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_0260_1000_0020_snn_0",
+            "text": "Cause that tentacled freak won't let you. We're gonna have to tough this one out.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ba_psbl0_0260_1010_0010_snn_0",
+            "text": "Boss, the projector! While it's down!",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ba_psbl0_0260_1010_0020_yfi_0",
+            "text": "Leave it to me!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_1010_0010_yfi_0",
+            "text": "What's with this company? They have a \"freaks only\" policy?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_1010_0020_snn_0",
+            "text": "Careful. This \"freak's\" no pushover.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_1010_0110_ner_0",
+            "text": "Do I frighten you?",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_1010_0120_yfi_0",
+            "text": "He's creepin' me out...",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_1010_0130_snn_0",
+            "text": "Don't get distracted!",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_1010_0210_ner_0",
+            "text": "I have you now.",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_1010_0220_yfi_0",
+            "text": "Sonon, help! Get this creep off'a me!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_1010_0310_ner_0",
+            "text": "You cannot run from me.",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_1010_0320_snn_0",
+            "text": "Now, Boss. While he's distracted!",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_2010_0010_yfi_0",
+            "text": "Dunno what this crap is, but it's definitely not good!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_2010_0020_ner_0",
+            "text": "Surrender to the darkness. Embrace it.",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_2010_0110_yfi_0",
+            "text": "Ew...I don't want that stuff anywhere near me!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_2010_0120_snn_0",
+            "text": "Stay focused. We'll get through this.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_2010_0210_yfi_0",
+            "text": "Uhn heh...! Urk...!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_2010_0220_ner_0",
+            "text": "All your suffering will soon be at an end.",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_2010_0310_snn_0",
+            "text": "Aaah! Gah... Raaah!",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_2010_0320_ner_0",
+            "text": "Yes, savor this pain.",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_2010_0410_ner_0",
+            "text": "Oh, Weiss. This is it. This is it!",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_2010_0420_yfi_0",
+            "text": "No darkness! Get it away from me! Get it away!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_3010_0010_yfi_0",
+            "text": "Gross! It's everywhere!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_3010_0020_snn_0",
+            "text": "Let's end this before it swallows us too.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_3010_0110_ner_0",
+            "text": "Come closer. Allow me to hasten the inevitable.",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_3010_0120_yfi_0",
+            "text": "Yeah, no. I don't think so.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_3010_0210_snn_0",
+            "text": "Not my finest moment.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_3010_0220_yfi_0",
+            "text": "Just stand back. Your boss has got ya covered!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_3010_0310_ner_0",
+            "text": "It's time I brought this to a close.",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ba_psbl0_20_5010_3010_0410_ner_0",
+            "text": "This is impossible. I will not stand for it! I refuse to believe it!!",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ba_psbl0_5010_1010_0010_yfi_0",
+            "text": "Oh look, we're surrounded!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_5010_1010_0020_snn_0",
+            "text": "But not for much longer, eh, Boss?",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ba_psbl0_5010_1010_0030_yfi_0",
+            "text": "Right on! They're as good as scrap!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_5010_1020_0010_scr_0",
+            "text": "Rather rude to ignore your playmates, is it not?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_1020_0020_yfi_0",
+            "text": "Hey, no fair!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_5010_1030_0010_scr_0",
+            "text": "Shoot to kill!",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_1030_0020_scr_0",
+            "text": "No warning shots now.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_1030_0030_scr_0",
+            "text": "Hit the target...or else!",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_1040_0010_snn_0",
+            "text": "Got 'em.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ba_psbl0_5010_1040_0020_yfi_0",
+            "text": "Suck it, loser!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_5010_1040_0040_scr_0",
+            "text": "Clean up this filth.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_1050_0010_scr_0",
+            "text": "Insolent vermin!",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_1050_0020_scr_0",
+            "text": "Dammit!",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_1050_0030_scr_0",
+            "text": "You worthless pieces of...!",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_1050_0040_scr_0",
+            "text": "Can't you stupid things aim!?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_1060_0010_scr_0",
+            "text": "This will be quite the show.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_1060_0020_yfi_0",
+            "text": "She's gonna pick us off!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_5010_1070_0010_scr_0",
+            "text": "I do hope you're ready.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_1070_0020_scr_0",
+            "text": "This <i>will</i> hurt.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_1070_0030_scr_0",
+            "text": "You can't beat a good torture session.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_1080_0010_scr_0",
+            "text": "Well-done Wutaians, coming up!",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_1080_0020_yfi_0",
+            "text": "Chill out a little, lady!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_5010_1090_0010_scr_0",
+            "text": "Open wide!",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_1090_0020_scr_0",
+            "text": "Oh, you think you can run?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_1090_0030_scr_0",
+            "text": "No ratholes for you to hide in here.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_2010_0010_snn_0",
+            "text": "That's a long-range loadout.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ba_psbl0_5010_2010_0020_yfi_0",
+            "text": "So what! Just smash it up!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_5010_2020_0010_scr_0",
+            "text": "My, aren't we tenacious.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_2020_0020_yfi_0",
+            "text": "And then some!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_5010_2030_0010_scr_0",
+            "text": "Not a fan of my handiwork, I take it?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_2030_0020_yfi_0",
+            "text": "Well, duh!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_5010_2040_0010_scr_0",
+            "text": "Another of my toys broken.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_2040_0020_scr_0",
+            "text": "A production issue, perhaps?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_2040_0030_scr_0",
+            "text": "When will you learn some manners?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_2050_0010_scr_0",
+            "text": "A moment, if you please.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_2050_0020_yfi_0",
+            "text": "Hey! Don't you know that's cheating!?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_5010_2060_0010_scr_0",
+            "text": "A present, from me to you.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_2060_0020_scr_0",
+            "text": "Not getting tired, are you?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_2060_0030_scr_0",
+            "text": "You savages are nothing if not resilient.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_2060_0040_scr_0",
+            "text": "How loud can you scream?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_2070_0010_scr_0",
+            "text": "Pardon the wait.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_2070_0020_yfi_0",
+            "text": "More? How many of those things you got?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ba_psbl0_5010_2080_0010_scr_0",
+            "text": "Here, a personal favorite.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_2080_0020_scr_0",
+            "text": "Yes, this will do nicely.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_2080_0030_scr_0",
+            "text": "So many toys, so little time.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ba_psbl0_5010_2080_0040_scr_0",
+            "text": "We can't have you getting bored, now can we?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0010_0010_pre_0",
+            "text": "Are we on schedule?",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_psbl0_0010_0020_hyd_0",
+            "text": "The Turks are on top of it.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_psbl0_0010_0020_hyd_1",
+            "text": "Yes, there will be no delays.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_psbl0_0010_0030_riv_0",
+            "text": "Please, Mr. President! I am asking you to reconsider─no, begging.",
+            "speaker": "Reeve"
+        },
+        {
+            "id": "$ev_psbl0_0010_0030_riv_1",
+            "text": "The Sector 7 undercity is home to more than 50,000─",
+            "speaker": "Reeve"
+        },
+        {
+            "id": "$ev_psbl0_0010_0040_pre_0",
+            "text": "Director Tuesti.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_psbl0_0010_0050_riv_0",
+            "text": "At least let us issue a warning, sir.",
+            "speaker": "Reeve"
+        },
+        {
+            "id": "$ev_psbl0_0010_0060_hyd_0",
+            "text": "The stench of the director's cowardice fills the room yet again.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_psbl0_0010_0065_riv_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0010_0070_pre_0",
+            "text": "Reeve.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_psbl0_0010_0070_pre_1",
+            "text": "Learn to live with it.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_psbl0_0010_0070_pre_2",
+            "text": "Progress requires sacrifice.",
+            "speaker": "President Shinra"
+        },
+        {
+            "id": "$ev_psbl0_0010_0080_riv_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0010_snn_0",
+            "text": "Whoa, look at all these people...",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0020_0015_dem_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0020_yfi_0",
+            "text": "Enough to make you sick. Let's get this over with.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0020_0023_dem_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0026_dem_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0030_dem_0",
+            "text": "Excuse me! I have some questions!",
+            "speaker": "Newspaper Reporter"
+        },
+        {
+            "id": "$ev_psbl0_0020_0032_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0040_dem_0",
+            "text": "You work for Shinra, isn't that right?",
+            "speaker": "Newspaper Reporter"
+        },
+        {
+            "id": "$ev_psbl0_0020_0050_dem_0",
+            "text": "Then would you care to comment on the rumors that Sector 7 will be the terrorists' next target?",
+            "speaker": "Newspaper Reporter"
+        },
+        {
+            "id": "$ev_psbl0_0020_0055_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0060_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0062_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0063_cut0_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0068_dem_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0070_dem_0",
+            "text": "They're going to hit the reactor, aren't they?",
+            "speaker": "Newspaper Reporter"
+        },
+        {
+            "id": "$ev_psbl0_0020_0072_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0080_kb01_0",
+            "text": "You!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_psbl0_0020_0080_kb01_1",
+            "text": "Stop right there!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_psbl0_0020_0081_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0082_dem_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0083_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0084_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0085_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0086_dem_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0087_dem_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0088_dem_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0089_dem_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0090_snn_0",
+            "text": "Elevators're right there. Let's catch one.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0020_0092_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0130_cut0_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0140_cut0_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0150_cut0_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0160_cut0_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0170_cut0_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0180_cut0_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0190_cut0_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0200_cut0_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0210_cut0_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0270_cut0_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0280_cut0_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0290_cut0_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0300_cut0_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0310_cut0_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0020_0315_cut0_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0000_yfi_0",
+            "text": "You're up, High-D!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0030_0001_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0001_snn_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0001_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0002_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0002_yfi_0",
+            "text": "C'mon, c'mon, c'mon!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0030_0002_yfi_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0003_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0005_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0007_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0010_kb02_0",
+            "text": "Hold the door.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_psbl0_0030_0011_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0012_kb02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0015_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0017_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0020_kb03_0",
+            "text": "What floor?",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_psbl0_0030_0030_snn_0",
+            "text": "The basement. Advanced Weaponry.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0030_0040_ele_0",
+            "text": "Going down.",
+            "speaker": "Elevator"
+        },
+        {
+            "id": "$ev_psbl0_0030_0050_ele_0",
+            "text": "Doors closing.",
+            "speaker": "Elevator"
+        },
+        {
+            "id": "$ev_psbl0_0030_0060_scr_0",
+            "text": "Perfect. Just perfect.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0030_0062_scr_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0063_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0064_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0066_scr_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0067_scr_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0070_scr_0",
+            "text": "But oh, how the mighty are fallen─",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0030_0080_scr_0",
+            "text": "Wutai...colluding with Avalanche and resorting to terrorism?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0030_0090_scr_0",
+            "text": "I always thought the Wutaians an honorable people. They used to be, certainly...",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0030_0100_scr_0",
+            "text": "But now? Now they're nothing but blood-sucking flies, buzzing around Shinra's face.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0030_0105_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0110_scr_0",
+            "text": "Would you not agree? In light of recent events, I mean.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0030_0115_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0120_yfi_0",
+            "text": "I would.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0030_0120_yfi_1",
+            "text": "A hundred percent!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0030_0125_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0130_scr_0",
+            "text": "What a lovely smile.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0030_0140_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0142_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0143_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0144_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0145_yfi_0",
+            "text": "Open up!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0030_0146_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0150_scr_0",
+            "text": "I think not. Foreign visitors should take the scenic route.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0030_0153_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0156_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0160_scr_0",
+            "text": "...And savor the opportunity to meet our latest autonomous weapons.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0030_0162_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0165_scr_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0167_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0168_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0170_snn_0",
+            "text": "Dammit!",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0030_0175_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0030_0180_snn_0",
+            "text": "I'll never get a better chance.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0032_0202_snn_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0032_0220_yfi_0",
+            "text": "Calm down.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0032_0230_yfi_0",
+            "text": "Remember: we're here for a reason.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0032_0240_snn_0",
+            "text": "Right, Boss... I'm sorry.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0032_0250_yfi_0",
+            "text": "Don't be. I was ready to strangle her myself.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0032_0260_yfi_0",
+            "text": "And that's before she sent us off in the wrong direction...",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0032_0265_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0032_0270_snn_0",
+            "text": "Where <i>did</i> she send us?",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0032_0273_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0032_0275_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0032_0280_yfi_0",
+            "text": "Only one way to find out.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0032_0290_yfi_0",
+            "text": "Don't worry, we'll get to Materia Research eventually.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0032_0300_yfi_0",
+            "text": "Just a little longer, my precious...",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0040_0010_cut0_0",
+            "text": "Madam Director.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_psbl0_0040_0020_cut0_0",
+            "text": "The intruders are about to reach the research facility.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_psbl0_0040_0030_scr_0",
+            "text": "And we'll let them. Meanwhile, find out what it is they want.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0040_0040_cut0_0",
+            "text": "Uh...?",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_psbl0_0040_0050_scr_0",
+            "text": "You do have eyes, don't you?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0040_0060_scr_0",
+            "text": "Then you can see that, while they are simpletons, they've made it further than any normal Wutaian ever could.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0040_0070_scr_0",
+            "text": "Clearly, they are ninjas.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0040_0080_scr_0",
+            "text": "<i>Teenage</i> ninjas.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0040_0085_scr_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0040_0090_scr_0",
+            "text": "And they've come such a long way. We simply must roll out the red carpet.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0040_0100_scr_0",
+            "text": "My trusty steed should provide a fitting welcome, I think.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0040_0110_scr_0",
+            "text": "Keep me apprised, would you?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0040_0120_cut0_0",
+            "text": "Ma'am.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_psbl0_0040_0130_cut0_0",
+            "text": "Cut system power to the research facility.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_psbl0_0040_0140_cut0_0",
+            "text": "Bar access to confidential data, then retrace their steps. Find out why they're here.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_psbl0_0040_0150_cut0_0",
+            "text": "Above all, do <i>not</i> let them out of your sight.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_psbl0_0040_0160_ev1_0",
+            "text": "Sir!",
+            "speaker": "Subordinates"
+        },
+        {
+            "id": "$ev_psbl0_0210_0010_yfi_0",
+            "text": "Uh...uh-oh.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0210_0015_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0210_0020_yfi_0",
+            "text": "Aw, c'mon! How could we have gotten so lost!?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0210_0030_snn_0",
+            "text": "Easy now. Focus.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0210_0040_snn_0",
+            "text": "Ah, I know. Spare a Da-chao bean?",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0210_0050_yfi_0",
+            "text": "Sure...",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0210_0053_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0210_0056_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0210_0060_yfi_0",
+            "text": "You ate it!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0210_0070_snn_0",
+            "text": "You sound surprised.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0210_0075_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0210_0080_yfi_0",
+            "text": "Man, I'm glad you're here!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0210_0090_snn_0",
+            "text": "Likewise.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0210_0100_yfi_0",
+            "text": "It really helps─knowing I'm not alone in all this.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0210_0110_snn_0",
+            "text": "Yeah, same here.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0210_0113_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0210_0116_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0210_0117_yfi_0",
+            "text": "Aha!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0210_0118_yfi_0",
+            "text": "Think I found our way across!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0210_0120_snn_0",
+            "text": "Right. Shall we?",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0215_0002_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0215_0003_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0215_0004_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0215_0005_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0215_0006_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0215_0010_yfi_0",
+            "text": "Sonon!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0215_0020_yfi_0",
+            "text": "Check <i>that</i> out!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0215_0025_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0215_0030_snn_0",
+            "text": "It does look more important than the others...",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0215_0040_yfi_0",
+            "text": "This has to be it! Oh, sweet baby, come to mama!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0215_0043_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0215_0046_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0215_0050_yfi_0",
+            "text": "Can't see squat.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0215_0060_yfi_0",
+            "text": "Light. Light! I need more light!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0220_0005_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0220_0010_scr_0",
+            "text": "So─have you found out what they want yet?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0220_0020_cut0_0",
+            "text": "We think so. We can't say for certain, as their behavior is...erratic.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_psbl0_0220_0030_cut0_0",
+            "text": "But they appear to be searching for materia.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_psbl0_0220_0040_scr_0",
+            "text": "Excuse me?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0220_0050_scr_0",
+            "text": "You mean to say that these savages have gone to all this trouble for <i>materia</i>?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0220_0060_cut0_0",
+            "text": "So far as we can tell, yes.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_psbl0_0220_0070_scr_0",
+            "text": "How very dull.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0220_0080_scr_0",
+            "text": "Be that as it may, I suppose I should talk to them.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0220_0090_cut0_0",
+            "text": "Ma'am!",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_psbl0_0220_0100_scr_0",
+            "text": "Enjoying yourselves, I trust?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0220_0110_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0220_0112_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0220_0120_scr_0",
+            "text": "Awed by a simple hologram? How precious.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0220_0121_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0220_0123_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0220_0124_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0220_0130_scr_0",
+            "text": "But I know just what you need─to loosen up a little. After such a long journey...",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0220_0130_scr_1",
+            "text": "you must be so tense!",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0220_0133_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0220_0140_scr_0",
+            "text": "Luckily, I have toys for that─all far more entertaining than this.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0220_0150_snn_0",
+            "text": "What do you want!?",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0220_0160_scr_0",
+            "text": "Oh dear. Is that any way to talk to your host?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0220_0162_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0220_0170_scr_0",
+            "text": "Really though, as guests, it's more about what you want. And I think you'll find it just up ahead.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0220_0172_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0220_0175_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0220_0177_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0220_0180_scr_0",
+            "text": "Hurry now. Don't keep me waiting.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0220_0190_snn_0",
+            "text": "So, Boss. What're you thinking?",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0220_0200_yfi_0",
+            "text": "That we're walking into a trap, I guess.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0220_0210_yfi_0",
+            "text": "But it's nothing we can't handle, right?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0220_0220_snn_0",
+            "text": "Couldna said it better myself.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0310_0010_yfi_0",
+            "text": "Where are we?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0310_0020_yfi_0",
+            "text": "That thing...can't be operational, can it?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0310_0030_snn_0",
+            "text": "We better hope not, boss.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0310_0040_scr_1",
+            "text": "At long last, Wutai's finest deign to join us.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0310_0042_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0310_0044_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0310_0050_scr_0",
+            "text": "You've performed admirably.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0310_0060_yfi_0",
+            "text": "Quit acting all superior. We both know you're afraid of us!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0310_0070_scr_0",
+            "text": "Is that so? Well, maybe I am!",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0310_0080_yfi_0",
+            "text": "You should know there's more where we came from─lots more!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0310_0090_yfi_0",
+            "text": "And you'll never see 'em comin'! Just imagine a whole clan of ninjas landing on your doorstep!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0310_0095_yfi_0",
+            "text": "Shih, shih, hahn!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0310_0100_scr_0",
+            "text": "Oh my! We must do something right away!",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0310_0110_yfi_0",
+            "text": "Well, you can't!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0310_0120_scr_0",
+            "text": "Don't say that. Won't you at least give us a chance?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0310_0130_yfi_0",
+            "text": "What the─",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0310_0140_scr_0",
+            "text": "Allow me to present...the latest innovation in Shinra battle armor...",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0310_0150_scr_0",
+            "text": "Designed by yours truly.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0310_0152_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0310_0154_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0310_0170_scr_0",
+            "text": "This'll be a memory to cherish for the rest of your lives. All thirty seconds of them.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0320_0010_scr_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0320_0020_yfi_0",
+            "text": "Wha─ Come back!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0320_0030_scr_0",
+            "text": "Oh, I will, my dear.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0320_0040_scr_0",
+            "text": "But I rather suspect you'll wish that I hadn't.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0320_0050_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0320_0060_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0320_0065_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0320_0070_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0410_0005_scr_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0410_0010_scr_0",
+            "text": "Useless!",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0410_0015_scr_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0410_0020_scr_0",
+            "text": "Not nearly mobile enough.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0410_0030_scr_0",
+            "text": "Should've known those actuators weren't up to the task. Time for an overhaul.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0410_0040_yfi_0",
+            "text": "Hellooo!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0410_0045_scr_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0410_0048_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0410_0050_yfi_0",
+            "text": "My, my, my, how the tables have turned...",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0410_0055_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0410_0058_scr_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0410_0060_scr_0",
+            "text": "Proud of yourself, little savage?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0410_0062_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0410_0067_scr_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0410_0070_snn_0",
+            "text": "What're you doing!?",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0410_0080_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0420_0010_wis_0",
+            "text": "Sleep well?",
+            "speaker": "Weiss"
+        },
+        {
+            "id": "$ev_psbl0_0420_0020_ner_0",
+            "text": "Weiss? This is a surprise. To what do I owe the pleasure?",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ev_psbl0_0420_0030_wis_0",
+            "text": "These idiots want to \"digitally replicate\" me, so I'm indulging them.",
+            "speaker": "Weiss"
+        },
+        {
+            "id": "$ev_psbl0_0420_0033_cut1_0",
+            "text": "All set.",
+            "speaker": "Researcher"
+        },
+        {
+            "id": "$ev_psbl0_0420_0036_cut2_0",
+            "text": "Transporting...",
+            "speaker": "Researcher"
+        },
+        {
+            "id": "$ev_psbl0_0420_0040_ner_0",
+            "text": "When will Shinra learn?",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ev_psbl0_0420_0050_ner_0",
+            "text": "There is no replicating <i>you</i>. They ought to know better.",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ev_psbl0_0420_0058_wis_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0420_0060_wis_0",
+            "text": "Looking forward to this?",
+            "speaker": "Weiss"
+        },
+        {
+            "id": "$ev_psbl0_0420_0070_ner_0",
+            "text": "I am. It has been too long since my last hunt.",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ev_psbl0_0430_0005_scr_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0430_0010_snn_0",
+            "text": "What'd you do? Tell us!",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0430_0015_scr_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0430_0020_scr_0",
+            "text": "Is this how it's done in Wutai? You just howl until you get what you want?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0430_0030_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0430_0040_yfi_0",
+            "text": "That's enough, Sonon. I got this.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0430_0050_yfi_0",
+            "text": "Alright, lady, out with it.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0430_0060_yfi_0",
+            "text": "Tell us where you're hiding the new materia.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0430_0070_yfi_0",
+            "text": "Don't play dumb now. We know you've been cooking up something super-powerful.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0430_0080_scr_0",
+            "text": "Well, well... Wutai must have some highly skilled intelligence operatives.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0430_0090_scr_0",
+            "text": "That...or we have a mole in our midst.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0430_0095_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0430_0100_yfi_0",
+            "text": "What was...?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0430_0110_snn_0",
+            "text": "I'll check on it.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0430_0120_yfi_0",
+            "text": "Alright, but make it quick.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0430_0130_scr_0",
+            "text": "You <i>are</i> correct that we're in the process of creating an exquisite new materia.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0430_0140_scr_0",
+            "text": "However, it is far from complete.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0430_0150_yfi_0",
+            "text": "Yeah right. You must think I'm stupid.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0430_0160_scr_0",
+            "text": "Would I lie to you?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0430_0170_scr_0",
+            "text": "Regrettable though it is, other plans have been deemed a higher priority.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0430_0180_yfi_0",
+            "text": "What other plans?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0430_0190_scr_0",
+            "text": "Well...just between you and me...",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0430_0200_scr_0",
+            "text": "My colleagues and I...are going to drop Plate Number 7 on the slums.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0430_0210_scr_0",
+            "text": "And then we're going to blame it on Avalanche and Wutai.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0430_0220_yfi_0",
+            "text": "I don't get it.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0430_0230_yfi_0",
+            "text": "You're gonna drop a plate? And?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0430_0240_yfi_0",
+            "text": "What the─!?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0430_0250_scr_0",
+            "text": "Oh dear. I think your friend might've run into trouble.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0430_0260_scr_0",
+            "text": "Aren't you going to save him?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0430_0270_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0430_0275_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0430_0280_scr_0",
+            "text": "Quickly now!",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0510_0005_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0010_snn_0",
+            "text": "There you are!",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0510_0012_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0020_yfi_0",
+            "text": "Who're these assholes!?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0510_0030_snn_0",
+            "text": "No clue. They just appeared!",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0510_0032_cut0_0",
+            "text": "Targets surrounded.",
+            "speaker": "Deepground SOLDIER"
+        },
+        {
+            "id": "$ev_psbl0_0510_0035_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0037_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0040_yfi_0",
+            "text": "I hate to be the bearer of bad news, but...",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0510_0050_snn_0",
+            "text": "Just hit me with it.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0510_0060_yfi_0",
+            "text": "There is no ultimate materia─not yet. She said it's still in the works.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0510_0065_cut0_0",
+            "text": "Push up!",
+            "speaker": "Deepground SOLDIER"
+        },
+        {
+            "id": "$ev_psbl0_0510_0070_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0080_yfi_0",
+            "text": "And she mentioned somethin' else.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0510_0090_yfi_0",
+            "text": "They're gonna drop Plate Number 7.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0510_0092_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0094_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0096_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0100_snn_0",
+            "text": "They're gonna do <i>what</i>?",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0510_0110_yfi_0",
+            "text": "They're gonna drop Plate Number 7 on the slums...apparently.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0510_0120_snn_0",
+            "text": "But that's the whole upper part of the sector!",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0510_0130_yfi_0",
+            "text": "Wait!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0510_0140_yfi_0",
+            "text": "So Zhijie was being serious!?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0510_0150_snn_0",
+            "text": "This is bad.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0510_0160_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0161_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0162_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0163_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0164_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0165_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0166_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0167_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0168_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0170_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0171_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0172_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0173_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0174_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0175_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0176_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0510_0177_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0610_0001_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0610_0002_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0610_0003_cut0_0",
+            "text": "Have visual. Commence cleansing!",
+            "speaker": "Deepground SOLDIER"
+        },
+        {
+            "id": "$ev_psbl0_0610_0005_cut0_0",
+            "text": "They're cornered. Box 'em in!",
+            "speaker": "Deepground SOLDIER"
+        },
+        {
+            "id": "$ev_psbl0_0610_0006_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0610_0007_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0610_0008_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0610_0009_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0610_0010_yfi_0",
+            "text": "No way I'm givin' up!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0610_0020_snn_0",
+            "text": "That's the spirit. Let 'em have it!",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0610_0025_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0610_0030_yfi_0",
+            "text": "I'm not goin' down till I've been to the Happy Turtle!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0610_0032_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0610_0033_cut0_0",
+            "text": "Opening doors. Set it up!",
+            "speaker": "Deepground SOLDIER"
+        },
+        {
+            "id": "$ev_psbl0_0610_0034_cut0_0",
+            "text": "Grenade out!",
+            "speaker": "Deepground SOLDIER"
+        },
+        {
+            "id": "$ev_psbl0_0610_0035_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0610_0040_snn_0",
+            "text": "Yuffie!",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0610_0042_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0610_0045_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0610_0047_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0610_0048_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0610_0050_yfi_0",
+            "text": "Is it over?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0610_0060_snn_0",
+            "text": "Somehow, I seriously doubt it...",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0610_0070_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0620_0001_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0620_0002_yfi_0",
+            "text": "Work, you stupid...",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0620_0005_yfi_0",
+            "text": "No good. Door won't budge.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0620_0008_snn_0",
+            "text": "Meaning we're trapped.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0620_0010_scr_0",
+            "text": "I want them...to suffer.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0620_0015_scr_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0620_0020_scr_0",
+            "text": "The rest, I leave to you.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$ev_psbl0_0620_0030_ner_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0620_0050_ner_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0630_0003_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0630_0006_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0630_0010_vrs_0",
+            "text": "Pain Sensation Level set to: maximum.",
+            "speaker": "Combat Simulator"
+        },
+        {
+            "id": "$ev_psbl0_0630_0020_yfi_0",
+            "text": "What was that?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0630_0030_snn_0",
+            "text": "They figure we need a challenge.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0630_0040_snn_0",
+            "text": "Meaning we're in for a world of hurt.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0630_0050_yfi_0",
+            "text": "No fair!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0630_0060_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0630_0070_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0630_0080_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0630_0090_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0810_0001_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0810_0002_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0810_0003_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0810_0005_cut1_0",
+            "text": "Subjects on site.",
+            "speaker": "Researcher"
+        },
+        {
+            "id": "$ev_psbl0_0810_0006_cut1_0",
+            "text": "It's time. Initiate the Tsviet field test.",
+            "speaker": "Researcher"
+        },
+        {
+            "id": "$ev_psbl0_0810_0007_cut2_0",
+            "text": "Sir.",
+            "speaker": "Researcher"
+        },
+        {
+            "id": "$ev_psbl0_0810_0009_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0810_0010_yfi_0",
+            "text": "What are you doing? Aren't you all on the same team?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0810_0020_ner_0",
+            "text": "\"Team\"?",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ev_psbl0_0810_0040_ner_0",
+            "text": "Fool. There are no \"teams\" in Deepground.",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ev_psbl0_0810_0050_yfi_0",
+            "text": "Deep...ground?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0810_0060_ner_0",
+            "text": "The place where my brother and I like to play.",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ev_psbl0_0810_0070_yfi_0",
+            "text": "Cool. Now, mind moving aside?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0810_0071_ner_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0810_0080_snn_0",
+            "text": "Let's take a different tack.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0810_0090_yfi_0",
+            "text": "Well, can't blame a girl for trying.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0810_0100_ner_0",
+            "text": "Now...let the games begin.",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ev_psbl0_0820_0010_ner_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0020_cut2_0",
+            "text": "Abnormal readings detected. The control program's been compromised!",
+            "speaker": "Researcher"
+        },
+        {
+            "id": "$ev_psbl0_0820_0030_cut1_0",
+            "text": "Containment protocol!",
+            "speaker": "Researcher"
+        },
+        {
+            "id": "$ev_psbl0_0820_0035_cut2_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0040_ner_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0050_yfi_0",
+            "text": "You're dead!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0820_0055_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0060_ner_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0062_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0063_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0065_ner_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0070_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0078_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0080_snn_0",
+            "text": "Boss!",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0820_0082_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0085_ner_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0086_cut1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0086_cut1_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0087_cut2_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0088_cut3_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0090_ner_0",
+            "text": "How dare you? How <i>dare</i> you stand in my way?",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ev_psbl0_0820_0092_cut1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0094_cut2_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0096_cut3_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0100_cut2_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0110_cut1_0",
+            "text": "No, please─",
+            "speaker": "Researcher"
+        },
+        {
+            "id": "$ev_psbl0_0820_0112_cut3_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0117_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0120_yfi_0",
+            "text": "Wh-what in the...",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0820_0125_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0130_ner_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0820_0140_ner_0",
+            "text": "Now then...where were we?",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ev_psbl0_0820_0150_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0830_0010_ner_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0830_0020_ner_0",
+            "text": "It hurts, Brother. It hurts...so much...",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ev_psbl0_0830_0025_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0830_0027_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0830_0030_yfi_0",
+            "text": "This is bad!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0830_0040_snn_0",
+            "text": "Agreed. Let's get outta here.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0830_0042_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0830_0045_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0830_0047_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0830_0050_yfi_0",
+            "text": "No!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0830_0058_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0830_0060_snn_0",
+            "text": "Boss!",
+            "speaker": "sonon"
+        },
+        {
+            "id": "$ev_psbl0_0830_0062_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0830_0065_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0830_0067_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0830_0070_ner_0",
+            "text": "This is where you die.",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ev_psbl0_0830_0080_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0910_0010_ner_0",
+            "text": "Yes, yes!",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ev_psbl0_0910_0020_ner_0",
+            "text": "I must know more of this feeling! Of pain! Of death!",
+            "speaker": "Nero"
+        },
+        {
+            "id": "$ev_psbl0_0910_0030_snn_0",
+            "text": "Now, Boss! Let's finish this!",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0910_0035_ner_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0910_0040_yfi_0",
+            "text": "Don't gotta tell me twice!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0910_0041_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0910_0041_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0910_0041_yfi_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0910_0042_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0910_0043_ner_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0910_0043_ner_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0910_0043_ner_2",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0910_0044_ner_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0910_0045_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0910_0046_ner_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0910_0050_yfi_0",
+            "text": "Did we?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0910_0055_snn_0",
+            "text": "We did.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0910_0060_yfi_0",
+            "text": "Awesome...",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0910_0062_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0910_0065_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0910_0070_snn_0",
+            "text": "Don't wanna spoil the moment, but...",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0910_0080_snn_0",
+            "text": "we should prob'ly get going.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0910_0090_yfi_0",
+            "text": "But I'm so tired...",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0910_0100_snn_0",
+            "text": "I could carry you.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0910_0110_yfi_0",
+            "text": "You win.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0910_0112_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0910_0117_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0910_0118_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0910_0119_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0910_0120_yfi_0",
+            "text": "Aha!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0910_0121_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0910_0122_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0123_snn_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0124_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0124_yfi_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0125_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0130_yfi_0",
+            "text": "Hey, whaddaya think you're─",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0912_0135_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0140_yfi_0",
+            "text": "Sonon?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0912_0147_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0148_ner_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0148_ner_4",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0149_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0150_snn_0",
+            "text": "Go...",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0912_0153_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0155_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0160_yfi_0",
+            "text": "No, I─",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0912_0170_snn_0",
+            "text": "Please.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0912_0180_yfi_0",
+            "text": "But...",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0912_0183_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0185_ner_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0187_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0188_yfi_0",
+            "text": "Sonon...?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0912_0190_snn_0",
+            "text": "Yuffie... You gotta keep going...",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0912_0192_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0200_snn_0",
+            "text": "for <i>us</i>.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0912_0201_yfi_0",
+            "text": "No... Stop it...",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0912_0202_yfi_0",
+            "text": "Sonon!?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$ev_psbl0_0912_0203_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0206_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0207_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0208_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0210_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0212_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0214_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0215_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0215_snn_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0219_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0912_0220_snn_0",
+            "text": "Damn...",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0912_0225_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0914_0229_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0914_0230_snn_0",
+            "text": "Melphie...",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$ev_psbl0_0914_0240_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_psbl0_0914_0250_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$level_psbl0_clabox_cancel",
+            "text": "Cancel",
+            "info": null
+        },
+        {
+            "id": "$level_psbl0_clabox_hard",
+            "text": "SOLDIER Training",
+            "info": null
+        },
+        {
+            "id": "$level_psbl0_clabox_normal",
+            "text": "Basic Training",
+            "info": null
+        },
+        {
+            "id": "$level_psbl0_clashbox_clear",
+            "text": "Achieved target score of <count=0>.",
+            "info": null
+        },
+        {
+            "id": "$level_psbl0_clashbox_openhard_1l",
+            "text": "Shinra Box Buster",
+            "info": null
+        },
+        {
+            "id": "$level_psbl0_clashbox_openhard_2l",
+            "text": "<color=yellow>SOLDIER training</color> program unlocked!",
+            "info": null
+        },
+        {
+            "id": "$level_psbl0_clashbox_openhard_3l",
+            "text": "<>",
+            "info": null
+        },
+        {
+            "id": "$level_psbl0_elevator_destination_1f",
+            "text": "B15 - Production",
+            "info": ""
+        },
+        {
+            "id": "$level_psbl0_elevator_destination_2f",
+            "text": "B14 - Maintenance",
+            "info": ""
+        },
+        {
+            "id": "$level_psbl0_elevator_destination_3f",
+            "text": "B13 - Development",
+            "info": ""
+        },
+        {
+            "id": "$level_psbl0_elevator_destination_cancel",
+            "text": "Stay on This Floor",
+            "info": ""
+        },
+        {
+            "id": "$mv_psbl0_0031_0190_snn_0",
+            "text": "That was Scarlet, director of Advanced Weaponry.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$mv_psbl0_0031_0200_snn_0",
+            "text": "It was one of <i>her</i> machines that killed Melphie!",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$mv_psbl0_0031_0202_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0031_0210_yfi_0",
+            "text": "Calm down, Sonon.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$mv_psbl0_0911_0123_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_0010_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_0012_mbn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_0013_mbn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_0014_mbn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_0015_mbn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_0016_mbn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_0017_mbn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_0018_mbn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_0020_yfi_0",
+            "text": "You asshole!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$mv_psbl0_0920_0022_mbn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_0030_yfi_0",
+            "text": "I'm not a kid!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$mv_psbl0_0920_0040_yfi_0",
+            "text": "I'm not your sister!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$mv_psbl0_0920_0045_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_0050_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_0055_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_0060_yfi_0",
+            "text": "This is just wrong...",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$mv_psbl0_0920_0065_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_0070_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_0110_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_0125_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_0130_yfi_0",
+            "text": "Don't think I can do this alone.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$mv_psbl0_0920_0132_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_0135_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_0140_yfi_0",
+            "text": "The Amazing Yuffie wants <i>you</i>!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$mv_psbl0_0920_0140_yfi_1",
+            "text": "Join her team and the sky's the limit!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$mv_psbl0_0920_1010_tif_0",
+            "text": "Hey, Barret.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$mv_psbl0_0920_1020_tif_0",
+            "text": "We really walking the whole way?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$mv_psbl0_0920_1030_blt_0",
+            "text": "Yup.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$mv_psbl0_0920_1040_tif_0",
+            "text": "Kalm's still pretty far, though, isn't it?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$mv_psbl0_0920_1050_blt_0",
+            "text": "'Nother full day, give or take.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$mv_psbl0_0920_1060_art_0",
+            "text": "Question...",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$mv_psbl0_0920_1070_art_0",
+            "text": "When my mom says, \"a full day,\" she means from the time you get up in the morning till the time you go to bed...",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$mv_psbl0_0920_1080_art_0",
+            "text": "but for me, it means from the time you get up in the morning all the way through till the time you get up the <i>next</i> morning.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$mv_psbl0_0920_1090_art_0",
+            "text": "So, which is it for you?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$mv_psbl0_0920_1100_blt_0",
+            "text": "Gotta go with Elmyra on that one.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$mv_psbl0_0920_1110_art_0",
+            "text": "Phew, that's a relief!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$mv_psbl0_0920_1120_tif_0",
+            "text": "Is it, though?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$mv_psbl0_0920_1130_blt_0",
+            "text": "Cloud.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$mv_psbl0_0920_1140_blt_0",
+            "text": "Bet you've had to hoof it from sunup to sundown tons of times.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$mv_psbl0_0920_1150_blt_0",
+            "text": "This is all just same old, same old, right?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$mv_psbl0_0920_1160_cld_0",
+            "text": "That's right.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$mv_psbl0_0920_1170_cld_0",
+            "text": "But even so, we're all gonna need to stop and rest. Especially you.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$mv_psbl0_0920_1180_blt_0",
+            "text": "Yeah, yeah, I know...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$mv_psbl0_0920_1190_blt_0",
+            "text": "Anyway, marchin' into the unknown ain't easy, but don't worry, 'cause I'm here to lead the way!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$mv_psbl0_0920_1200_art_0",
+            "text": "That's comforting!",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$mv_psbl0_0920_1210_blt_0",
+            "text": "Of course it is!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$mv_psbl0_0920_1220_blt_0",
+            "text": "Alright, everyone─let's stop here for a minute. Leader's orders!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$mv_psbl0_0920_1230_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1240_blt_0",
+            "text": "Now breathe in that fresh air!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$mv_psbl0_0920_1250_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1260_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1270_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1280_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1290_blt_0",
+            "text": "Actually, scratch that.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$mv_psbl0_0920_1300_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1310_blt_0",
+            "text": "Let's, uh...save it for later.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$mv_psbl0_0920_1320_blt_0",
+            "text": "When we're not so close to Midgar.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$mv_psbl0_0920_1330_tif_0",
+            "text": "Guess this is good-bye, City of Mako.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$mv_psbl0_0920_1340_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1350_art_0",
+            "text": "Like this?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$mv_psbl0_0920_1360_tif_0",
+            "text": "Yup. Just like that.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$mv_psbl0_0920_1370_art_0",
+            "text": "Cool.",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$mv_psbl0_0920_1380_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1390_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1400_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1410_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1420_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1430_tif_0",
+            "text": "No way! A car!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$mv_psbl0_0920_1440_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1450_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1460_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1470_blt_0",
+            "text": "Hey! Stop!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$mv_psbl0_0920_1480_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1490_blt_0",
+            "text": "What is it with these damn birds!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$mv_psbl0_0920_1500_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1510_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1520_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1530_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1535_cut0_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1540_tif_0",
+            "text": "Uh, sorry 'bout that.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$mv_psbl0_0920_1550_cut0_0",
+            "text": "No need to apologize, ma'am!",
+            "speaker": "Chocobo Bill"
+        },
+        {
+            "id": "$mv_psbl0_0920_1560_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1570_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1580_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1590_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1600_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1610_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1620_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1630_art_0",
+            "text": "Look at that...",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$mv_psbl0_0920_1640_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1650_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1660_art_0",
+            "text": "Where's a roof when you need one?",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$mv_psbl0_0920_1670_cld_0",
+            "text": "Gonna be okay?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$mv_psbl0_0920_1680_art_0",
+            "text": "Should be, but...",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$mv_psbl0_0920_1690_art_0",
+            "text": "Weird... My stomach's in knots...",
+            "speaker": "Aerith"
+        },
+        {
+            "id": "$mv_psbl0_0920_1700_blt_0",
+            "text": "That's its way of telling you it's hungry.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$mv_psbl0_0920_1710_blt_0",
+            "text": "Let's move.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$mv_psbl0_0920_1720_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1730_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1740_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1750_zax_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1750_zax_1",
+            "text": "Long time, no see.",
+            "speaker": "Zack"
+        },
+        {
+            "id": "$mv_psbl0_0920_1750_zax_2",
+            "text": "How you been?",
+            "speaker": "Zack"
+        },
+        {
+            "id": "$mv_psbl0_0920_1750_zax_3",
+            "text": "Listen...",
+            "speaker": "Zack"
+        },
+        {
+            "id": "$mv_psbl0_0920_1750_zax_4",
+            "text": "Hey...",
+            "speaker": "Zack"
+        },
+        {
+            "id": "$mv_psbl0_0920_1750_zax_5",
+            "text": "It's been a while, huh?",
+            "speaker": "Zack"
+        },
+        {
+            "id": "$mv_psbl0_0920_1760_zax_0",
+            "text": "I'm back!",
+            "speaker": "Zack"
+        },
+        {
+            "id": "$mv_psbl0_0920_1770_zax_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1780_zax_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$mv_psbl0_0920_1790_zax_0",
+            "text": "Aerith...?",
+            "speaker": "Zack"
+        },
+        {
+            "id": "$pv_psbl0_0920_0010_sys_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_psbl0_0930_0010_sys_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_psbl0_1200_0010_yfi_0",
+            "text": "Just look at this place. Weapons here, weapons there, weapons everywhere!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_1200_0020_yfi_0",
+            "text": "They're ready for some serious action.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_1200_0030_snn_0",
+            "text": "It sounds like you are, too.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_1200_0040_yfi_0",
+            "text": "Duh. Unlike my old man, I'm not some lazy drunk.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_1200_0050_yfi_0",
+            "text": "I fight for what I believe in, something <i>he'd</i> never understand.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_1200_0060_snn_0",
+            "text": "Wonder how he's holding up...",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_1200_0070_yfi_0",
+            "text": "Behind bars, you mean? Not well, if the government's got anything to say about it.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_1200_0080_yfi_0",
+            "text": "Good on 'em. Jail's where he belongs.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_1200_0090_snn_0",
+            "text": "That's my master you're talking about. Mind laying off him a little?",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_1200_0100_yfi_0",
+            "text": "You know what? Let's drop it. Not exactly my favorite topic.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_1200_0110_yfi_0",
+            "text": "It's only gonna make me mad.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_1200_0120_yfi_0",
+            "text": "More importantly...",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_1300_0010_scr_0",
+            "text": "My god, you people are deadly boring.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$pv_psbl0_1300_0020_scr_0",
+            "text": "Luckily, I know exactly how to liven things up...with a little experiment.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$pv_psbl0_1300_0030_scr_0",
+            "text": "Just don't go dying on me─that wouldn't yield very interesting results, now would it?",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$pv_psbl0_1400_0010_sys_0",
+            "text": "Unit calibration complete.\r\nInitiating combat data-collection sequence.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_psbl0_1500_0010_sys_0",
+            "text": "Data collection complete.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_psbl0_1500_0020_sys_0",
+            "text": "Re-calibrating for next test.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_psbl0_1500_0030_yfi_0",
+            "text": "What? There's more?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_1520_0010_sys_0",
+            "text": "Data collection complete.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_psbl0_1520_0020_scr_0",
+            "text": "Credit where credit is due. You exceeded my every expectation.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$pv_psbl0_1520_0030_scr_0",
+            "text": "And for being such good sports...you may now leave.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$pv_psbl0_1520_0040_yfi_0",
+            "text": "Why did I ever think for a second she'd be nice to us!? She knows damn well it's gonna be a pain in the ass gettin' up there.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_1700_0010_yfi_0",
+            "text": "There we go. Honestly, how <i>do</i> I do it? Now then, Sonon, how ya feel about givin' me a boost?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_1700_0020_snn_0",
+            "text": "Ecstatic.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_1800_0010_snn_0",
+            "text": "And...go!",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_1800_0020_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_psbl0_1900_0005_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_psbl0_1900_0010_yfi_0",
+            "text": "Okay, get to climbin'!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_2100_0010_yfi_0",
+            "text": "Oh, materia, where are you?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_2200_0010_yfi_0",
+            "text": "Hm? Is that materia I smell?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_2200_0040_st01_0",
+            "text": "End of the line, Wutai scum!",
+            "speaker": "Shock Trooper"
+        },
+        {
+            "id": "$pv_psbl0_2300_0010_yfi_0",
+            "text": "This their idea of mood lighting? 'Cause it's bad.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_2300_0020_snn_0",
+            "text": "Might be the power. That thing's off too.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_2400_0010_yfi_0",
+            "text": "Talk about hitting the jackpot! This must be where they make their materia!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_2400_0020_snn_0",
+            "text": "Maybe─but they're not what we came for. Let's keep movin', Boss.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_2400_0030_yfi_0",
+            "text": "Totally. After I grab a few souvenirs.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_2600_0010_ele_0",
+            "text": "System offline. Please activate central terminal.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_psbl0_2610_0010_ele_0",
+            "text": "Access denied. No floors currently accessible.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_psbl0_2610_0020_yfi_0",
+            "text": "Oh, not in the mood, huh? Fine! We'll find another way up!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_2700_0010_ana_0",
+            "text": "Level one power grid: online.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_psbl0_2700_0020_ana_0",
+            "text": "Initiating mako energy saturation.\r\nDeploying security grate.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_psbl0_3000_0010_yfi_0",
+            "text": "Wait, is that a security grate or a <i>ladder</i>? Thanks, Shinra!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_3100_0010_yfi_0",
+            "text": "Huh, that's weird... Not even a whiff of materia up here...",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_3100_0020_yfi_0",
+            "text": "But then there's nowhere else to go.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_3400_0005_sys_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_psbl0_3400_0010_ana_0",
+            "text": "Level two power grid: online.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_psbl0_3400_0020_ana_0",
+            "text": "Initiating mako energy saturation.\r\nDeploying security grate.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_psbl0_3400_0030_yfi_0",
+            "text": "Not long now, my precious. You'll be safe in my arms soon!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_3400_0040_ana_0",
+            "text": "Entry lock released.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_psbl0_3400_0050_yfi_0",
+            "text": "And what do we have here? A secret materia vault perhaps?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_3800_0005_sys_0",
+            "text": "<>",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_psbl0_3800_0010_ana_0",
+            "text": "Level three power grid: online.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_psbl0_3800_0020_ana_0",
+            "text": "Initiating mako energy saturation.\r\nDeploying security grate.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_psbl0_3800_0030_yfi_0",
+            "text": "Now we're cookin'! I'm comin', materia, ready or not!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_3900_0010_yfi_0",
+            "text": "Hey, Sonon.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_3900_0020_snn_0",
+            "text": "What?",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_3900_0030_yfi_0",
+            "text": "You remember what Nayo said? About helping us?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_3900_0040_yfi_0",
+            "text": "That it was \"necessary for building a brighter future\"? What did she mean?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_3900_0050_snn_0",
+            "text": "Well...you know how it is between Wutai and Avalanche. We're never gonna see eye-to-eye.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_3900_0060_snn_0",
+            "text": "And we're bound to come up against each other someday.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_3900_0070_snn_0",
+            "text": "But, when we do, the fact they worked with us might help both parties put their differences aside and avoid a conflict.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_3900_0080_snn_0",
+            "text": "That's what I got out of it anyway.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_3900_0090_yfi_0",
+            "text": "Figured as much.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_3900_0100_snn_0",
+            "text": "Before you got here, I did a little bit of recon.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_3900_0110_snn_0",
+            "text": "Found out what they want. Free elections, workers' rights, fair distribution of wealth...",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_3900_0120_snn_0",
+            "text": "They don't see the world how we see it.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_3900_0130_yfi_0",
+            "text": "And when you look at the world, what is it that you see?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_3900_0140_snn_0",
+            "text": "Homes bombed to dust...plumes of gunsmoke...people pleading...bloodshed.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_3900_0150_yfi_0",
+            "text": "Me too.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_3900_0160_yfi_0",
+            "text": "And I'll never forget.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_4000_0010_yfi_0",
+            "text": "Man... Another stupid dud!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_4000_0020_yfi_0",
+            "text": "Wha─? Uh-oh...",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_4000_0030_yfi_0",
+            "text": "Quit holdin' out on us, Shinra! We're here for materia, not these dorks!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_4100_0010_scr_0",
+            "text": "Welcome to our state-of-the-art weapons testing facility.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$pv_psbl0_4100_0020_scr_0",
+            "text": "This is where we push every piece of ordnance to its limits...and beyond.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$pv_psbl0_4100_0030_scr_0",
+            "text": "Such tests are an invaluable part of the development process.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$pv_psbl0_4100_0040_scr_0",
+            "text": "Go on, see where the magic happens.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$pv_psbl0_4100_0050_sys_0",
+            "text": "Commencing ordnance testing.",
+            "speaker": "Research Program"
+        },
+        {
+            "id": "$pv_psbl0_4200_0010_sys_0",
+            "text": "Select ordnance type to deploy for this trial.",
+            "speaker": "Research Program"
+        },
+        {
+            "id": "$pv_psbl0_4210_0010_sys_0",
+            "text": "Selection confirmed. Initiating ordnance deployment procedure.",
+            "speaker": "Research Program"
+        },
+        {
+            "id": "$pv_psbl0_4220_0010_sys_0",
+            "text": "Subjects approaching test site.",
+            "speaker": "Research Program"
+        },
+        {
+            "id": "$pv_psbl0_4220_0020_sys_0",
+            "text": "Test will begin momentarily.",
+            "speaker": "Research Program"
+        },
+        {
+            "id": "$pv_psbl0_4230_0010_sys_0",
+            "text": "Beginning analysis.",
+            "speaker": "Research Program"
+        },
+        {
+            "id": "$pv_psbl0_4240_0010_sys_0",
+            "text": "Analysis concluded. Continuing trial.",
+            "speaker": "Research Program"
+        },
+        {
+            "id": "$pv_psbl0_4240_0020_sys_0",
+            "text": "Select ordnance type to deploy for this trial.",
+            "speaker": "Research Program"
+        },
+        {
+            "id": "$pv_psbl0_4250_0010_sys_0",
+            "text": "Analysis concluded. Beginning final test.",
+            "speaker": "Research Program"
+        },
+        {
+            "id": "$pv_psbl0_4260_0010_sys_0",
+            "text": "Undergo further testing?",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_psbl0_4265_0010_sys_0",
+            "text": "Commencing ordnance testing.",
+            "speaker": "Research Program"
+        },
+        {
+            "id": "$pv_psbl0_4265_0020_sys_0",
+            "text": "Please proceed to platform.",
+            "speaker": "Research Program"
+        },
+        {
+            "id": "$pv_psbl0_4266_0010_sys_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_psbl0_4700_0010_scr_0",
+            "text": "My, my, how impressive!",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$pv_psbl0_4700_0020_scr_0",
+            "text": "Seems I may have underestimated how resilient you ninjas can be.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$pv_psbl0_4700_0030_yfi_0",
+            "text": "\"May have\"!? How 'bout \"did\", you old hag!?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_4700_0040_scr_0",
+            "text": "You Wutaians, so feisty. But let's see how you fare against what I have in store for you next.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$pv_psbl0_4700_0050_scr_0",
+            "text": "It's quite the treat, I assure you. Only the best for our honored guests, after all.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$pv_psbl0_4700_0060_scr_0",
+            "text": "Whenever you're ready.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$pv_psbl0_4900_0010_scr_0",
+            "text": "What are you waiting for? Better hurry.",
+            "speaker": "Scarlet"
+        },
+        {
+            "id": "$pv_psbl0_4950_0010_snn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_psbl0_5200_0010_yfi_0",
+            "text": "Ow...",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_5200_0020_yfi_0",
+            "text": "Man, I so don't wanna go back out there...but I don't think we've got a choice.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_5400_0010_vrs_0",
+            "text": "Pain Sensation: Max.",
+            "speaker": "Combat Simulator"
+        },
+        {
+            "id": "$pv_psbl0_5400_0020_vrs_0",
+            "text": "Deploying additional combatants.",
+            "speaker": "Combat Simulator"
+        },
+        {
+            "id": "$pv_psbl0_5400_0030_yfi_0",
+            "text": "Where are these freaks even coming from!? 'Cause I'd really like 'em to stop!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_5500_0010_vrs_0",
+            "text": "Pain Sensation: Max.",
+            "speaker": "Combat Simulator"
+        },
+        {
+            "id": "$pv_psbl0_5500_0020_vrs_0",
+            "text": "Deploying additional combatants.",
+            "speaker": "Combat Simulator"
+        },
+        {
+            "id": "$pv_psbl0_5500_0030_yfi_0",
+            "text": "Joke's on you, Shinra, if you think we're dying in this ugly box!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_5600_0010_vrs_0",
+            "text": "Pain Sensation: Max.",
+            "speaker": "Combat Simulator"
+        },
+        {
+            "id": "$pv_psbl0_5600_0020_vrs_0",
+            "text": "Deploying additional combatants.",
+            "speaker": "Combat Simulator"
+        },
+        {
+            "id": "$pv_psbl0_5600_0030_yfi_0",
+            "text": "Okay, this is gettin' old!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_5600_0040_snn_0",
+            "text": "There's gotta be a projection mechanism around here somewhere.",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_5600_0050_snn_0",
+            "text": "If we can just find it...",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_5700_0010_snn_0",
+            "text": "Boss!",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_5800_0010_yfi_0",
+            "text": "Now can we <i>please</i> get outta here already?",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_6100_0010_yfi_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_psbl0_6100_0020_snn_0",
+            "text": "Who could've done this?",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_6300_0010_yfi_0",
+            "text": "I don't like the looks of this... I doubt they're here to help.",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_8001_0010_sys_0",
+            "text": "Go to which floor?\r\nCurrently on B15 (Production)",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_psbl0_8001_0020_sys_0",
+            "text": "Go to which floor?\r\nCurrently on B14 (Maintenance)",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_psbl0_8101_0010_sys_0",
+            "text": "Go to which floor?\r\nCurrently on B15 (Production)",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_psbl0_8101_0020_sys_0",
+            "text": "Go to which floor?\r\nCurrently on B14 (Maintenance)",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_psbl0_8101_0030_sys_0",
+            "text": "Go to which floor?\r\nCurrently on B13 (Development)",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_psbl0_9110_0010_ana_0",
+            "text": "Employee identity confirmed.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_psbl0_9110_0020_ana_0",
+            "text": "Access granted. Occupancy limited to one subject. Proceed to gate to begin training exercise.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_psbl0_9110_0030_yfi_0",
+            "text": "Training? Really? Just give us what we came for already!",
+            "speaker": "Yuffie"
+        },
+        {
+            "id": "$pv_psbl0_9110_0035_sys_0",
+            "text": "Select a training program to run.",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_psbl0_9110_0040_snn_0",
+            "text": "Might still be worth a shot. Could be something in it for us. Just...be careful, 'kay?",
+            "speaker": "Sonon"
+        },
+        {
+            "id": "$pv_psbl0_9110_0050_sys_0",
+            "text": "Run the <color=yellow>basic training</color> program?",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_psbl0_9110_0055_sys_0",
+            "text": "Run the <color=yellow>SOLDIER training</color> program?",
+            "speaker": ""
+        }
+    ],
+    "meta": {
+        "tool": "FF7R text mod tools",
+        "version": "1.4.2",
+        "game": "FF7R"
+    }
+}

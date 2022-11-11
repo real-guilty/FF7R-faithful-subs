@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "$ev_comon_0100_0000_chd_0",
+            "text": "では　携帯バトルシミュレーターを\r\n装着してください",
+            "speaker": "チャドリー"
+        },
+        {
+            "id": "$ev_comon_0220_0010_wis_0",
+            "text": "縊り　バラし　斬り　殺し",
+            "speaker": "ヴァイス"
+        },
+        {
+            "id": "$ev_comon_0220_0020_wis_0",
+            "text": "撲殺して　刺殺して　圧殺して\r\n扼殺し　突き殺し　射殺して",
+            "speaker": "ヴァイス"
+        },
+        {
+            "id": "$ev_comon_0220_0030_wis_0",
+            "text": "鏖殺しよう",
+            "speaker": "ヴァイス"
+        },
+        {
+            "id": "$ev_comon_0220_0035_wis_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_comon_0220_0040_wis_0",
+            "text": "さあ　狩りを始めようか",
+            "speaker": "ヴァイス"
+        },
+        {
+            "id": "$ev_comon_0230_0005_wis_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_comon_0230_0010_wis_0",
+            "text": "肉体を越えて戦うか",
+            "speaker": "ヴァイス"
+        },
+        {
+            "id": "$ev_comon_0230_0020_wis_0",
+            "text": "面白い",
+            "speaker": "ヴァイス"
+        },
+        {
+            "id": "$ev_comon_0230_0022_wis_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_comon_0230_0024_hjo_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_comon_0230_0030_wis_0",
+            "text": "いずれ　ディープグラウンドでまみえよう",
+            "speaker": "ヴァイス"
+        },
+        {
+            "id": "$ev_comon_0230_0040_wis_0",
+            "text": "",
+            "speaker": ""
+        }
+    ],
+    "meta": {
+        "tool": "FF7R text mod tools",
+        "version": "1.4.2",
+        "game": "FF7R"
+    }
+}

@@ -1,0 +1,3249 @@
+{
+    "data": [
+        {
+            "id": "$ev_undg6_0010_0010_pre_0",
+            "text": "進捗はどうだ？",
+            "speaker": "プレジデント"
+        },
+        {
+            "id": "$ev_undg6_0010_0020_hyd_0",
+            "text": "タークスが動いています",
+            "speaker": "ハイデッカー"
+        },
+        {
+            "id": "$ev_undg6_0010_0020_hyd_1",
+            "text": "はい　順調順調",
+            "speaker": "ハイデッカー"
+        },
+        {
+            "id": "$ev_undg6_0010_0030_riv_0",
+            "text": "プレジデント\r\nどうか計画の見直し　いや　中止を",
+            "speaker": "リーブ"
+        },
+        {
+            "id": "$ev_undg6_0010_0030_riv_1",
+            "text": "七番街直下のスラムには推計で\r\nおよそ　５万──",
+            "speaker": "リーブ"
+        },
+        {
+            "id": "$ev_undg6_0010_0040_pre_0",
+            "text": "リーブ君",
+            "speaker": "プレジデント"
+        },
+        {
+            "id": "$ev_undg6_0010_0050_riv_0",
+            "text": "せめて　避難勧告の許可を",
+            "speaker": "リーブ"
+        },
+        {
+            "id": "$ev_undg6_0010_0060_hyd_0",
+            "text": "また分別くさい顔で　青くさいことを",
+            "speaker": "ハイデッカー"
+        },
+        {
+            "id": "$ev_undg6_0010_0065_riv_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0010_0070_pre_0",
+            "text": "リーブ君",
+            "speaker": "プレジデント"
+        },
+        {
+            "id": "$ev_undg6_0010_0070_pre_1",
+            "text": "腹をくくりたまえ",
+            "speaker": "プレジデント"
+        },
+        {
+            "id": "$ev_undg6_0010_0070_pre_2",
+            "text": "これも発展の潤滑油だ",
+            "speaker": "プレジデント"
+        },
+        {
+            "id": "$ev_undg6_0010_0080_riv_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0020_0001_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0020_0002_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0020_0003_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0020_0004_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0020_0005_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0020_0006_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0020_0010_cld_0",
+            "text": "ここは？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_0020_0013_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0020_0016_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0020_0020_cld_0",
+            "text": "ひどいにおいだ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_0060_0010_cld_0",
+            "text": "エアリス？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_0060_0020_art_0",
+            "text": "クラウド",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0060_0030_art_0",
+            "text": "早く　七番街へ行こう？",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0060_0040_cld_0",
+            "text": "ああ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_0060_0048_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0060_0050_tif_0",
+            "text": "もう　最低",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0060_0051_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0060_0052_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0060_0054_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0060_0055_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0060_0057_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0060_0058_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0060_0059_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0060_0060_tif_0",
+            "text": "うっそ～！",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0080_0010_cld_0",
+            "text": "ティファ？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_0080_0018_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0020_tif_0",
+            "text": "クラウド",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0080_0030_tif_0",
+            "text": "七番街へ急がなくちゃ",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0080_0040_cld_0",
+            "text": "ああ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_0080_0045_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0050_tif_0",
+            "text": "エアリス　巻き込んじゃうね",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0080_0060_cld_0",
+            "text": "わかってくれる",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_0080_0070_tif_0",
+            "text": "どういう知り合いなの？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0080_0080_cld_0",
+            "text": "助けられて　助けて\r\nまた助けられてる",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_0080_0090_tif_0",
+            "text": "ごまかしてない？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0080_0090_tif_1",
+            "text": "どうして　助けてくれるのかな",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0080_0092_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0100_art_0",
+            "text": "いったぁ",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0080_0101_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0102_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0103_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0104_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0105_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0106_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0108_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0109_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0080_0110_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0005_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0010_tif_0",
+            "text": "ダメ……\r\n最悪の事態　考えちゃう",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0450_0020_art_0",
+            "text": "気持ち　わかるよ",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0450_0030_tif_0",
+            "text": "七番街の破壊なんて\r\nタチの悪い冗談",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0450_0040_tif_0",
+            "text": "もし　もし　もし　本当でも",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0450_0040_tif_1",
+            "text": "ギリギリで中止になる　そうなる",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0450_0050_art_0",
+            "text": "うん",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0450_0055_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0057_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0060_tif_0",
+            "text": "エアリス　何か知ってるの？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0450_0070_art_0",
+            "text": "え？",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0450_0078_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0080_cld_0",
+            "text": "ティファ　エアリス\r\nひとりずつ　渡ってくれ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_0450_0090_tif_0",
+            "text": "了解",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0450_0100_tif_0",
+            "text": "先に行くね",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0450_0102_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0104_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0105_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0110_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0120_tif_0",
+            "text": "エアリス　来ていいよ",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0450_0130_art_0",
+            "text": "わかった",
+            "speaker": "エアリス　"
+        },
+        {
+            "id": "$ev_undg6_0450_0140_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0143_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0146_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0150_tif_0",
+            "text": "もう少し",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0450_0160_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0168_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0170_tif_0",
+            "text": "エアリス！",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0450_0180_cld_0",
+            "text": "飛べ！",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_0450_0182_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0184_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0185_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0187_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0190_tif_0",
+            "text": "びっくりした",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0450_0200_art_0",
+            "text": "ティファ　ありがとう",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0450_0210_tif_0",
+            "text": "どういたしまして",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0450_0220_art_0",
+            "text": "クラウドも",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0450_0223_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0226_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0230_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0240_art_0",
+            "text": "行こう",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0450_0245_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0450_0250_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0010_tif_0",
+            "text": "ああ　また",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0460_0020_art_0",
+            "text": "最悪の事態？",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0460_0030_tif_0",
+            "text": "うん",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0460_0040_art_0",
+            "text": "どんな未来でも変えられるよ？",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0460_0050_art_0",
+            "text": "わたし　そう信じてる",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0460_0060_tif_0",
+            "text": "そっか　そうだね",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0460_0070_art_0",
+            "text": "楽しいことも　考えるの",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0460_0070_art_1",
+            "text": "七番街　守ったら",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0460_0080_tif_0",
+            "text": "守れたら",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0460_0090_tif_0",
+            "text": "上で買い物　どう？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0460_0090_tif_1",
+            "text": "えっと",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0460_0100_tif_0",
+            "text": "たとえば　雰囲気のある小物や食器を探すの",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0460_0110_art_0",
+            "text": "ティファと？",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0460_0120_tif_0",
+            "text": "よければ",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0460_0130_art_0",
+            "text": "絶対　行く",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0460_0132_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0133_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0140_tif_0",
+            "text": "クラウドは荷物持ち",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0460_0150_art_0",
+            "text": "い～っぱい　持たせちゃう",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0460_0155_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0160_cld_0",
+            "text": "俺が　どうかしたか？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_0460_0170_tif_0",
+            "text": "なんでもない",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0460_0175_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0180_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0185_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0190_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0195_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0197_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0200_art_0",
+            "text": "まずい　これ",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0460_0210_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0215_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0220_art_0",
+            "text": "つかまって！",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0460_0225_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0227_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0230_art_0",
+            "text": "離さないでね",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0460_0240_tif_0",
+            "text": "一気に上げるよ",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0460_0240_tif_1",
+            "text": "せーの！",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0460_0242_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0250_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0260_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0262_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0264_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0270_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0275_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0280_cld_0",
+            "text": "悪いな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_0460_0290_art_0",
+            "text": "いえいえ",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0460_0293_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0295_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0460_0300_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0010_tif_0",
+            "text": "クラウド！",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0640_0012_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0013_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0014_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0015_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0017_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0020_tif_0",
+            "text": "見逃してはくれないね",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0640_0030_art_0",
+            "text": "私たち　おいしくないよ",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0640_0033_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0034_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0035_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0035_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0036_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0040_cld_0",
+            "text": "先に行け",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_0640_0050_tif_0",
+            "text": "エアリス！",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0640_0060_art_0",
+            "text": "うん",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_0640_0061_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0062_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0063_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0063_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0064_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0065_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0067_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0070_cld_0",
+            "text": "ティファも行け",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_0640_0071_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0080_tif_0",
+            "text": "でもこれ　ひとりじゃ",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0640_0085_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0090_cld_0",
+            "text": "誰に言ってる？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_0640_0100_tif_0",
+            "text": "早くね",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0640_0102_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0105_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0110_cld_0",
+            "text": "もう知ってるよな　俺は強いぞ？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_0640_0120_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0122_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0123_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0124_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0125_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0126_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_0640_0130_tif_0",
+            "text": "クラウド！",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_0640_0140_art_0",
+            "text": "早く！",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_2010_0001_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2010_0003_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2010_0010_blt_0",
+            "text": "本当に　上へ行く方法を教えんだな",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_undg6_2010_0020_rez_0",
+            "text": "あんたらが仕事をしたらな",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2010_0030_blt_0",
+            "text": "オレはまだ信用しちゃいねえぞ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_undg6_2010_0030_blt_1",
+            "text": "少しでも　妙な真似しやがったら",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_undg6_2010_0040_blt_0",
+            "text": "ハチの巣にはなりたくねえよな？",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_undg6_2010_0050_rez_0",
+            "text": "それは　モンスターに頼む",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2010_0050_rez_1",
+            "text": "手強いヤツが多くてな",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2010_0060_rez_0",
+            "text": "おれひとりじゃ　さすがにキツい",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2010_0060_rez_1",
+            "text": "でも　あんたたちなら楽勝だろ？",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2010_0080_cld_0",
+            "text": "さっさと済ませよう",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_2130_0010_blt_0",
+            "text": "ここか？",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_undg6_2130_0020_rez_0",
+            "text": "ああ",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2130_0030_cld_0",
+            "text": "プレートの上へ行く方法は？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_2130_0040_rez_0",
+            "text": "中だ",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2130_0050_cld_0",
+            "text": "最後まで付き合えって？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_2130_0060_rez_0",
+            "text": "悪いね　だがあんたたちには",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2130_0064_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0065_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0066_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0070_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0080_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0090_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0100_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0102_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0105_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0106_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0110_rez_0",
+            "text": "それは……",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2130_0120_rez_0",
+            "text": "待て！",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2130_0130_rez_0",
+            "text": "あいつを追う",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2130_0140_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0150_rez_0",
+            "text": "大事なものなんだ",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2130_0160_rez_0",
+            "text": "ここの鍵が入ってる",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2130_0163_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0166_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0170_cld_0",
+            "text": "追うぞ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_2130_0180_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2130_0190_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2270_0005_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2270_0008_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2270_0010_rez_0",
+            "text": "返してくれ",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2270_0012_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2270_0015_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2270_0020_tif_0",
+            "text": "それ……",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_2270_0030_rez_0",
+            "text": "返してくれ",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2270_0035_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2270_0040_blt_0",
+            "text": "鍵じゃねえのか",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_undg6_2270_0050_rez_0",
+            "text": "すまない",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2270_0060_blt_0",
+            "text": "おまえのもんじゃねえよな",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_undg6_2270_0060_blt_1",
+            "text": "身内の形見か？",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_undg6_2270_0070_rez_0",
+            "text": "家族はいない",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2280_0010_wm01_0",
+            "text": "夢を見てたんだよ　わたしたち",
+            "speaker": "レズリーの恋人"
+        },
+        {
+            "id": "$ev_undg6_2280_0020_wm01_0",
+            "text": "花言葉",
+            "speaker": "レズリーの恋人"
+        },
+        {
+            "id": "$ev_undg6_2280_0030_wm01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2280_0030_wm01_1",
+            "text": "わたしのことは　忘れて",
+            "speaker": "レズリーの恋人"
+        },
+        {
+            "id": "$ev_undg6_2280_0040_rez_0",
+            "text": "半年前――",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2290_0020_rez_0",
+            "text": "彼女はコルネオの嫁に選ばれたあと\r\nそのまま姿を消した",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2290_0030_rez_0",
+            "text": "そのとき　突っ返されたんだ",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2290_0040_rez_0",
+            "text": "ひどいだろ？",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2290_0040_rez_1",
+            "text": "結構　いい値段したんだけどな",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2290_0050_tif_0",
+            "text": "あなたの目的って",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_2290_0060_rez_0",
+            "text": "復讐だ",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2290_0070_rez_0",
+            "text": "今さらだってことはわかってる",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2290_0080_rez_0",
+            "text": "それでも　片をつけないと\r\n俺は　どこにも行けないんだ",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2290_0090_cld_0",
+            "text": "好きにしろ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_2290_0090_cld_1",
+            "text": "俺たちは上に行ければ　それでいい",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_2290_0100_rez_0",
+            "text": "わかってる\r\nそっちは　まかせてくれ",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_2290_0105_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_2290_0110_blt_0",
+            "text": "気に入ったぜ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_undg6_8010_0005_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8010_0010_cld_0",
+            "text": "いけるか？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_8010_0020_art_0",
+            "text": "だいじょうぶ",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_8010_0030_tif_0",
+            "text": "もちろん！",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_8020_0000_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0001_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0002_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0003_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0004_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0005_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0006_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0007_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0009_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0010_tif_0",
+            "text": "行っちゃった",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_8020_0020_art_0",
+            "text": "ここに住んでるのかな",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_8020_0030_cld_0",
+            "text": "コルネオが飼ってるのかもな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_8020_0040_cld_0",
+            "text": "エサは──",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_8020_0050_art_0",
+            "text": "ほひ～",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_8020_0060_tif_0",
+            "text": "ねえ　コルネオの話　信じる？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_8020_0070_tif_0",
+            "text": "プレートを落とすなんて\r\nアバランチをつぶすどころじゃない",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_8020_0080_tif_0",
+            "text": "ミッドガルの危機だよ\r\n神羅カンパニーが　そんなことする？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_8020_0087_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0090_cld_0",
+            "text": "コルネオは　ありもしない計画で\r\n俺たちを脅したのか？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_8020_0100_tif_0",
+            "text": "あいつなら　やりそう",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_8020_0110_art_0",
+            "text": "でも　もし本当だったら？",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_8020_0115_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0120_art_0",
+            "text": "万が一って　あるよね",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_8020_0120_art_1",
+            "text": "ね　急ごう？",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_8020_0130_art_0",
+            "text": "何も起こらなかったら\r\nそれで良し　でしょ？",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_undg6_8020_0135_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0136_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0140_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0141_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0142_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0145_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8020_0150_cld_0",
+            "text": "ティファ？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_8110_0010_rez_0",
+            "text": "レズリーです",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_8110_0010_rez_1",
+            "text": "コルネオさんに報告があってきました",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_8110_0020_cln_0",
+            "text": "ほひ？",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0030_cln_0",
+            "text": "ひとりか？",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0040_rez_0",
+            "text": "はい",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_8110_0050_cln_0",
+            "text": "ほひ？\r\nアバランチの子猫ちゃんたちは？",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0050_cln_1",
+            "text": "つかまえてくるのが\r\nおまえの仕事だろうが",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0060_rez_0",
+            "text": "すいません　そのことで報告が",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_8110_0070_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0071_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0072_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0073_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0074_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0075_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0076_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0077_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0078_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0080_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0090_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0092_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0098_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0100_cln_0",
+            "text": "レズリー！",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0110_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0120_cln_0",
+            "text": "俺がなんで隠れてるか知ってるよな",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0125_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0130_cln_0",
+            "text": "アバランチの子猫ちゃんに\r\nちい～っと　喋りすぎて",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0140_cln_0",
+            "text": "神羅に　にらまれちまったんだよ",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0150_cln_0",
+            "text": "プレートが　どがががーんで\r\nもっともーっと被害が大きくなるはずが",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0155_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0160_cln_0",
+            "text": "あいつらがスラムのやつらを\r\n避難させちまいやがって",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0165_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0170_cln_0",
+            "text": "ここだけの話\r\n神羅はミッドガルを捨てて",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0180_cln_0",
+            "text": "新しい楽園を作るつもりだ",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0185_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0190_cln_0",
+            "text": "俺はそこで　新生ウォール・マーケットの\r\nドンになるはずが",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0195_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0200_cln_0",
+            "text": "今は　お尋ね者",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0203_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0206_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0210_cln_0",
+            "text": "レズリー！",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0210_cln_1",
+            "text": "おまえには　新しい店を\r\nまかせようと思ってたのによ",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0220_cln_0",
+            "text": "残念だよ",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0230_cln_0",
+            "text": "さ～て　問題です",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0230_cln_1",
+            "text": "俺たちみたいな悪党が\r\nこうやってべらべらと",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0235_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0240_cln_0",
+            "text": "真相をしゃべるのは\r\n一体　どんな時でしょう～か？",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0250_rez_0",
+            "text": "勝利を確信している時……",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_8110_0255_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0260_cln_0",
+            "text": "正解",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0270_cld_0",
+            "text": "本当にそうか？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_8110_0280_cln_0",
+            "text": "ほひ？",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0290_cln_0",
+            "text": "おまえら",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0300_blt_0",
+            "text": "七番街の件　詳しく聞かせてもらおうか",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_undg6_8110_0310_cln_0",
+            "text": "あ～～～～あっ！",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0320_blt_0",
+            "text": "てめえ　ふざけてんのか？",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_undg6_8110_0330_cln_0",
+            "text": "ほひ～　残念！",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0330_cln_1",
+            "text": "でも　ふざけてないんだな　これが",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0332_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0333_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0334_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0335_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0336_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0338_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0340_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0350_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0358_cln_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0360_cln_0",
+            "text": "それじゃあ　アプスちゃん\r\nあとは　よろしく",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0360_cln_1",
+            "text": "グッバーイ",
+            "speaker": "コルネオ"
+        },
+        {
+            "id": "$ev_undg6_8110_0370_blt_0",
+            "text": "野郎！",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_undg6_8110_0372_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8110_0380_cld_0",
+            "text": "まずは　こいつを黙らせる",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_8120_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8120_0020_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8120_0030_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8120_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8120_0050_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8130_0010_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8130_0020_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8130_0030_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8130_0040_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8130_0050_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8130_0060_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8130_0070_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0003_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0006_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0010_cld_0",
+            "text": "大丈夫か",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_undg6_8140_0015_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0020_rez_0",
+            "text": "コルネオは？",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_8140_0030_blt_0",
+            "text": "すまねえ　逃がしちまった",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_undg6_8140_0035_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0040_rez_0",
+            "text": "そうか",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_8140_0045_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0050_rez_0",
+            "text": "また探すさ\r\nどうせ　他にやることもない",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_8140_0060_tif_0",
+            "text": "探すのは　コルネオでいいの？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_8140_0062_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0068_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0070_tif_0",
+            "text": "大事な人なんでしょ？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_8140_0080_blt_0",
+            "text": "いなくなってから　気がつくんだよな",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_undg6_8140_0080_blt_1",
+            "text": "おまえは　まだ間に合うだろ？",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_undg6_8140_0085_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0090_rez_0",
+            "text": "花言葉……",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_8140_0100_rez_0",
+            "text": "どういう意味だったんだろうな",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_8140_0105_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0110_tif_0",
+            "text": "再会だよ",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_8140_0115_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0120_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0130_tif_0",
+            "text": "花言葉は“再会”",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_undg6_8140_0135_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0140_rez_0",
+            "text": "あいつを探すのが先だな",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_8140_0143_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0150_rez_0",
+            "text": "ありがとう",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_8140_0160_blt_0",
+            "text": "おっと\r\n約束　忘れてねえだろうな",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_undg6_8140_0170_rez_0",
+            "text": "わかってる",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_8140_0175_rez_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_undg6_8140_0180_rez_0",
+            "text": "あった",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_8140_0190_rez_0",
+            "text": "地上に出よう",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$ev_undg6_8140_0190_rez_1",
+            "text": "上へ行く方法を教える",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$pv_und6a_2400_0010_sys_0",
+            "text": "地上に戻りますか？",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_und6a_2400_0020_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_und6a_2400_0030_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_und6a_2401_0010_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_und6a_2500_0010_sys_0",
+            "text": "地上に戻りますか？",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_und6a_2500_0020_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_und6a_2500_0030_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_und6a_2501_0010_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0090_0010_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0090_0020_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0090_0030_cld_0",
+            "text": "どうした",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0090_0040_tif_0",
+            "text": "水路を辿っていけば　七番街に着けるはず",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0090_0050_tif_0",
+            "text": "六番街と七番街の下水は繋がってるの\r\n迷ったら水路を辿れってね",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0090_0060_cld_0",
+            "text": "スラムの心得か",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0090_0070_tif_0",
+            "text": "ううん　下水道はアバランチの逃走経路",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0090_0080_tif_0",
+            "text": "いざって時のね",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0090_0090_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0090_0100_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0090_0120_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0158_0010_cld_0",
+            "text": "おそらく　発電施設だ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0160_0010_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0160_0020_art_0",
+            "text": "すっごく　古そう",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0160_0030_cld_0",
+            "text": "魔晄以前の骨董品だ\r\nいくら神羅製でも　動いたら奇跡だな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0160_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0190_0010_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0190_0020_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0190_0030_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0190_0040_cld_0",
+            "text": "ダメか",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0190_0060_tif_0",
+            "text": "合カギ　ジェシーたちが作ってた",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0190_0080_art_0",
+            "text": "水の中に　お宝？",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0190_0100_cld_0",
+            "text": "探すぞ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0190_0110_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0190_0120_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0190_0130_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0190_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0194_0010_cld_0",
+            "text": "カギを探そう",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0250_0010_cld_0",
+            "text": "これだな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0250_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0252_0010_cld_0",
+            "text": "カギ？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0252_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0260_0010_art_0",
+            "text": "やった！",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0260_0020_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0260_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0280_0040_tif_0",
+            "text": "ここ……",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0280_0050_tif_0",
+            "text": "この大きな水路　知ってる\r\n向こう側は七番街だよ",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0280_0060_cld_0",
+            "text": "六番街との境目か",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0280_0080_tif_0",
+            "text": "とにかく　七番街側の扉に入ろう\r\nスラムに繋がってるはずなんだ",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0280_0090_cld_0",
+            "text": "簡単ではなさそうだ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0280_0110_tif_0",
+            "text": "あの給水ポンプを　目印にしない？\r\n迷わないようにしないと",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0280_0130_tif_0",
+            "text": "落ち着いて　乗り切ろう",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0280_0140_art_0",
+            "text": "うん　そうだね",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0280_0150_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0280_0160_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0280_0170_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0440_0010_cld_0",
+            "text": "先に渡って　様子をみる",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0440_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0610_0030_art_0",
+            "text": "あれ　出口だよね",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0610_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0620_0020_tif_0",
+            "text": "これ見て",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0620_0030_tif_0",
+            "text": "店の貯水槽に　同じようなパネルがあったよ\r\n流れる水の量を調節するの",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0620_0040_art_0",
+            "text": "なんでも屋さん　どう？",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0620_0050_cld_0",
+            "text": "排水……これだな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0629_0010_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0629_0020_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0629_0030_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0629_0040_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0629_0050_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0629_0060_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0629_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0630_0010_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0630_0020_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0630_0030_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0630_0040_art_0",
+            "text": "失敗？",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0630_0050_cld_0",
+            "text": "故障らしい",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0630_0060_tif_0",
+            "text": "『赤いランプは　排水パイプのつまり』",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0630_0070_tif_0",
+            "text": "『手動ポンプで\r\n　ゴミを押し流してください』って",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0630_0080_tif_0",
+            "text": "私　店でやったことがあるよ",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0630_0090_cld_0",
+            "text": "よし　俺がやろう",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0630_0100_tif_0",
+            "text": "エアリス　ついてきてくれる？\r\nクラウドは他のエラーが出ないか見ていて",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0630_0110_cld_0",
+            "text": "いや　俺が……",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0630_0120_tif_0",
+            "text": "力の差がありすぎると　ダメなんだ",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0630_0130_tif_0",
+            "text": "すぐ　戻るから",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0630_0140_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0630_0150_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0630_0160_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0630_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0632_0090_tif_0",
+            "text": "店のとはやっぱり違うな\r\nこれはもっと　本格的",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0637_0070_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0637_0080_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0637_0090_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0637_0110_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0637_0120_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0637_0130_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0637_0140_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0637_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0638_0150_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0638_0160_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0638_0170_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0638_0180_cld_0",
+            "text": "うまくいったな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0638_0190_tif_0",
+            "text": "がんばったよね",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0638_0200_art_0",
+            "text": "うん！",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0638_0210_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0638_0220_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0638_0230_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0638_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0641_0010_art_0",
+            "text": "いくよ",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0642_0010_art_0",
+            "text": "",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0643_0010_art_0",
+            "text": "いいよ",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0644_0010_art_0",
+            "text": "",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0645_0010_art_0",
+            "text": "はい",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0646_0010_art_0",
+            "text": "",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0651_0010_tif_0",
+            "text": "",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0652_0010_tif_0",
+            "text": "",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0653_0010_tif_0",
+            "text": "",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0654_0010_tif_0",
+            "text": "",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0661_0010_art_0",
+            "text": "いきます！",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0662_0010_art_0",
+            "text": "まかせて！",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0663_0010_art_0",
+            "text": "せーの！",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0671_0010_art_0",
+            "text": "",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0672_0010_art_0",
+            "text": "",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0673_0010_art_0",
+            "text": "",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0681_0010_tif_0",
+            "text": "息をあわせよう",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0682_0010_tif_0",
+            "text": "あせらないで",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0683_0010_art_0",
+            "text": "ダメか～",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0691_0010_art_0",
+            "text": "",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0692_0010_art_0",
+            "text": "",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0693_0010_art_0",
+            "text": "",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0701_0010_tif_0",
+            "text": "完璧だね",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0702_0010_art_0",
+            "text": "うまくいったね",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0703_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0730_0010_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0730_0020_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0730_0030_tif_0",
+            "text": "やった！",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0730_0040_art_0",
+            "text": "成功～！",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_undg6_0730_0050_tif_0",
+            "text": "さあ　戻ろう\r\nクラウド　寂しがってるかも",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_0730_0060_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0730_0070_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_0730_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_2029_0010_rez_0",
+            "text": "七番街との境界にある　大水路に向かう",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$pv_undg6_2030_0070_rez_0",
+            "text": "先に行ってくれ\r\nおれは　少し離れてついていく",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$pv_undg6_2030_0080_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_2098_0030_blt_0",
+            "text": "アバランチのしるしか",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_undg6_2098_0040_blt_0",
+            "text": "ジェシーが　ビッグス巻き込んで\r\n合カギ仕込んでたやつだ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_undg6_2100_0050_tif_0",
+            "text": "役に立ったよって　言えなかった",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_2100_0060_cld_0",
+            "text": "ティファ……",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_2100_0070_tif_0",
+            "text": "先を　急がなきゃね",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_2100_0080_rez_0",
+            "text": "話し込んでるところ悪いが\r\nその扉の先が　目指す水路だ",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$pv_undg6_2100_0090_blt_0",
+            "text": "わかってるよ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_undg6_2120_0070_tif_0",
+            "text": "ここ　前は閉まってた",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_2120_0080_rez_0",
+            "text": "安全確保　よろしく",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$pv_undg6_2120_0090_blt_0",
+            "text": "はいはい",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_undg6_2120_0100_tif_0",
+            "text": "聞いてもいい？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_2120_0110_tif_0",
+            "text": "オーディションのとき\r\nどうして　助けてくれたの？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_2120_0120_rez_0",
+            "text": "アニヤンに　頼まれたからだ",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$pv_undg6_2120_0130_tif_0",
+            "text": "それだけ？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_2120_0140_rez_0",
+            "text": "おれは　あそこまで\r\n捨て身にはなれなかった",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$pv_undg6_2120_0150_tif_0",
+            "text": "",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_2120_0160_rez_0",
+            "text": "ほら　早く行ってくれ",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$pv_undg6_2120_0170_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_2150_0010_blt_0",
+            "text": "さっきの野郎　どこ行きやがった",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_undg6_2150_0020_rez_0",
+            "text": "上だ　面倒なことになったぞ",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$pv_undg6_2180_0010_blt_0",
+            "text": "追いかけっこに　かくれんぼかよ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_undg6_2210_0050_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_2210_0060_cld_0",
+            "text": "はさみこむぞ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_2210_0070_tif_0",
+            "text": "了解",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_undg6_2210_0080_blt_0",
+            "text": "逃がすなよ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_undg6_2210_0090_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_2210_0100_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_2210_0110_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_2210_0120_cld_0",
+            "text": "　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_undg6_2300_0050_rez_0",
+            "text": "ここで　待っててくれ",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$pv_undg6_2300_0070_blt_0",
+            "text": "あいつひとりで　本当に大丈夫かよ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_undg6_0005_0010_tif_0",
+            "text": "やっぱり　下水道と繋がってる",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_undg6_0010_0010_cld_0",
+            "text": "入り組んでそうだな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_undg6_0010_0020_tif_0",
+            "text": "この先に　大きな水路があるんだ\r\nまずはそこを目指そう",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_undg6_0010_0030_art_0",
+            "text": "りょうかい",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$tk_undg6_0010_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_undg6_0060_0010_art_0",
+            "text": "におい　すごいね",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$tk_undg6_0060_0020_tif_0",
+            "text": "きれいとは言えないスラムの\r\nその下水だからね",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_undg6_0060_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_undg6_0070_0010_tif_0",
+            "text": "ここ　通るの？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_undg6_0070_0020_art_0",
+            "text": "真っ暗　だね",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$tk_undg6_0070_0030_tif_0",
+            "text": "平気なふりして　行こう",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_undg6_0070_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_undg6_0080_0010_tif_0",
+            "text": "ねえ　クラウド\r\nコルネオの話が本当だったとして",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_undg6_0080_0020_tif_0",
+            "text": "その場合　神羅の狙いはなんだと思う？\r\n神羅の本当の目的",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_undg6_0080_0030_tif_0",
+            "text": "私たちを潰すためだけなら\r\n代償が大きすぎるよね",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_undg6_0080_0040_cld_0",
+            "text": "七番街の破壊と引き換えの利益か\r\n俺には　想像がつかない",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_undg6_0080_0050_tif_0",
+            "text": "コルネオの嘘だよね\r\nだって　コルネオだもの",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_undg6_0080_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_undg6_0095_0010_tif_0",
+            "text": "やった！",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_undg6_0095_0020_art_0",
+            "text": "いい　明るいのいい",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$tk_undg6_0095_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_undg6_0300_0030_tif_0",
+            "text": "ついてる\r\n向こうに渡れるよ",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_undg6_0360_0010_art_0",
+            "text": "",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$tk_undg6_0360_0020_tif_0",
+            "text": "この水　なくすか減らすかできないかな",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_undg6_0360_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_undg6_0370_0010_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_undg6_0370_0020_cld_0",
+            "text": "こっちは大丈夫だ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_undg6_0370_0030_cld_0",
+            "text": "なにかあったら　呼んでくれ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_undg6_0370_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_undg6_0420_0010_art_0",
+            "text": "ようやく上　行けそう",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$tk_undg6_0420_0020_tif_0",
+            "text": "近い場所に出ますように",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_undg6_0420_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_undg6_0440_0010_cld_0",
+            "text": "俺が先に行って　出口を確保する",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_undg6_0440_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_undg6_2075_0010_blt_0",
+            "text": "さあ　着いたぜ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_undg6_2075_0020_rez_0",
+            "text": "こっちだ",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$tk_undg6_2075_0030_rez_0",
+            "text": "近くに　コルネオのしるしがついた扉がある",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$tk_undg6_2083_0020_rez_0",
+            "text": "待て",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$tk_undg6_2084_0010_rez_0",
+            "text": "もうすぐコルネオの隠れ家だ\r\nここからは　おれが先に行く",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$tk_undg6_2088_0010_blt_0",
+            "text": "あそこ　曲がったぞ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_undg6_2088_0020_rez_0",
+            "text": "クソ　急いでくれ",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$tk_undg6_2090_0010_rez_0",
+            "text": "頼む！",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$tk_undg6_2094_0010_rez_0",
+            "text": "ここから先は　あいつらの根城だ",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$tk_undg6_2094_0020_rez_0",
+            "text": "どこから飛び出してくるかわからない\r\n油断するな",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$tk_undg6_2108_0010_blt_0",
+            "text": "追い詰めたぞ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_undg6_2110_0010_blt_0",
+            "text": "手間かけさせやがって",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_undg6_2110_0020_blt_0",
+            "text": "悪いようにはしねえから　おとなしく――",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_undg6_2110_0040_blt_0",
+            "text": "",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_undg6_2121_0010_tif_0",
+            "text": "しぶとい",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_undg6_2121_0020_cld_0",
+            "text": "飼い主似か",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_undg6_2121_0030_rez_0",
+            "text": "返せ！",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$tk_undg6_2125_0010_rez_0",
+            "text": "こっちへ進もう　近道だ",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$tk_undg6_2130_0010_blt_0",
+            "text": "コルネオの野郎　首洗って待ってろよ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_undg6_2130_0020_rez_0",
+            "text": "やつは　おれにやらせてくれ",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$tk_undg6_2130_0030_blt_0",
+            "text": "ああ？",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_undg6_2130_0040_rez_0",
+            "text": "頼む",
+            "speaker": "レズリー"
+        },
+        {
+            "id": "$tk_undg6_2130_0050_cld_0",
+            "text": "わかった",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_undg6_2860_0010_blt_0",
+            "text": "コルネオの財宝は　これで全部だろうな",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_undg6_2860_0020_blt_0",
+            "text": "で　どうするよ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_undg6_2860_0030_blt_0",
+            "text": "売ったりなんだり　結構時間かかるぜ？",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_undg6_2860_0040_tif_0",
+            "text": "そうだ　七番街の復興に役立てるなら\r\nマーレさんに預けようよ",
+            "speaker": "ティファ"
+        }
+    ],
+    "meta": {
+        "tool": "FF7R text mod tools",
+        "version": "1.4.2",
+        "game": "FF7R"
+    }
+}

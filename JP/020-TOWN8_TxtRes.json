@@ -1,0 +1,5829 @@
+{
+    "data": [
+        {
+            "id": "$ba_town8_0020_0010_0000_kb06_0",
+            "text": "おい　そこの男",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0020_0010_0010_kb06_0",
+            "text": "止まれ！",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0020_0010_0020_kb06_0",
+            "text": "行け！",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0030_0010_0000_kb09_0",
+            "text": "貴様だな　見つけたぞ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0030_0010_0010_td01_0",
+            "text": "こちら　八番街警備四班\r\n報告の男を発見",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0030_0010_0020_td01_0",
+            "text": "増援求む！\r\n繰り返す　こちら八番街警備四班――",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0040_0010_0000_kb11_0",
+            "text": "おまえ！",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0040_0010_0010_kb11_0",
+            "text": "おとなしくしろ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0040_0010_0020_kb11_0",
+            "text": "やれ！",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0050_0010_0000_kb26_0",
+            "text": "抵抗はよせ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0050_0010_0010_kb26_0",
+            "text": "逃がすか",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0050_0010_0020_kb26_0",
+            "text": "かかれ！",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0055_0010_0000_kb22_0",
+            "text": "見つけたぞ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0055_0010_0010_kb22_0",
+            "text": "覚悟しろ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0055_0010_0020_kb22_0",
+            "text": "行くんだ！",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0056_0010_0000_kb24_0",
+            "text": "貴様だな",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0056_0010_0010_kb24_0",
+            "text": "通さん",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0056_0010_0020_kb24_0",
+            "text": "あきらめろ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0061_0010_0000_td15_0",
+            "text": "出口はないぞ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0061_0010_0010_td15_0",
+            "text": "追い込め",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0100_0010_0000_kb30_0",
+            "text": "慎重に行け",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0101_0010_0000_kb32_0",
+            "text": "逃がさない",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0110_0010_0000_td35_0",
+            "text": "ターゲット確認　交戦する",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0111_0010_0000_kb35_0",
+            "text": "ターゲットと遭遇",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0111_0010_0010_kb36_0",
+            "text": "行かせるか",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0200_0010_0000_cn40_0",
+            "text": "かかれ！",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0201_0010_0000_cn42_0",
+            "text": "来たな",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ba_town8_0300_0010_0000_cn45_0",
+            "text": "通さんぞ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ev_town8_0010_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0020_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0030_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0040_blt_0",
+            "text": "全員いるな？",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0010_0045_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0050_blt_0",
+            "text": "ケガは　ねえみてえ――",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0010_0060_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0070_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0080_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0085_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0090_blt_0",
+            "text": "爆発が派手すぎねえか？",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0010_0100_jec_0",
+            "text": "爆弾は　レシピどおりに作ったはず",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0010_0100_jec_1",
+            "text": "でも　気化した魔晄が反応してるのかも",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0010_0110_blt_0",
+            "text": "こりゃ　街までイっちまったかもな",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0010_0120_big_0",
+            "text": "街より　星だろ？",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$ev_town8_0010_0130_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0140_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0150_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0151_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0152_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0010_0160_big_0",
+            "text": "星の命　ちょっとは延びたかな",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$ev_town8_0010_0170_jec_0",
+            "text": "そうじゃないと　困る",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0010_0170_jec_1",
+            "text": "さあ　外に出よう\r\nここ八番街でしょ？",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0010_0180_wed_0",
+            "text": "まだ先ッス",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$ev_town8_0010_0200_blt_0",
+            "text": "よし　先導してくれ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0010_0210_wed_0",
+            "text": "了解ッス",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$ev_town8_0010_0220_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0000_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0001_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0002_jec_0",
+            "text": "セット完了",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0090_0010_jec_0",
+            "text": "バクハーツ！",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0090_0011_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0012_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0013_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0014_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0015_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0016_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0017_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0018_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0090_0020_big_0",
+            "text": "あいてる　あいてる",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$ev_town8_0090_0030_jec_0",
+            "text": "邪魔者は　木っ端みじん\r\nさあ　行こう",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0100_0010_ana_0",
+            "text": "緊急事態発生　緊急事態発生\r\nこちらは神羅カンパニー危機対策本部です",
+            "speaker": "アナウンス"
+        },
+        {
+            "id": "$ev_town8_0100_0020_ana_0",
+            "text": "壱番魔晄炉が　何者かの攻撃を受け\r\n爆破されました",
+            "speaker": "アナウンス"
+        },
+        {
+            "id": "$ev_town8_0100_0020_ana_1",
+            "text": "現在も　断続的な爆発があり\r\n火災が発生しています",
+            "speaker": "アナウンス"
+        },
+        {
+            "id": "$ev_town8_0100_0030_ana_0",
+            "text": "壱番街　および八番街は\r\n警戒区域に指定されました",
+            "speaker": "アナウンス"
+        },
+        {
+            "id": "$ev_town8_0100_0040_ana_0",
+            "text": "このあたりは　建物の倒壊の恐れがあり\r\n瓦礫やガラスが落下する危険があります",
+            "speaker": "アナウンス"
+        },
+        {
+            "id": "$ev_town8_0100_0050_ana_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0060_ana_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0060_ana_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0070_ana_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0080_jec_0",
+            "text": "予想……以上",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0100_0090_big_0",
+            "text": "こりゃ　いくらなんでも",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$ev_town8_0100_0100_wed_0",
+            "text": "やりすぎッスね",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$ev_town8_0100_0110_cld_0",
+            "text": "今さらなにを",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0100_0115_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0120_blt_0",
+            "text": "ああ　そのとおり",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0100_0120_blt_1",
+            "text": "オレたちは　この先も\r\nもっともっと　魔晄炉をぶっ壊す",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0100_0130_blt_0",
+            "text": "星の命を　救うためにな",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0100_0140_big_0",
+            "text": "だよな\r\n覚悟を決めて　始めたことだ",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$ev_town8_0100_0150_wed_0",
+            "text": "まだ　始まったばかりッス",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$ev_town8_0100_0160_blt_0",
+            "text": "オレたちの活動は　星を救う\r\nそのために　必要な犠牲は払う",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0100_0170_blt_0",
+            "text": "ああ　星だけじゃねえ\r\nおまえらの悲鳴が聞こえるぜ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0100_0180_blt_0",
+            "text": "ハッ　上等だ！",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0100_0180_blt_1",
+            "text": "ぜーんぶ　オレが背負ってやる",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0100_0190_blt_0",
+            "text": "不安　疑問　悩み事",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0100_0190_blt_1",
+            "text": "それから　報酬も",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0100_0190_blt_2",
+            "text": "まとめて　オレにおっかぶせろ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0100_0191_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0192_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0193_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0200_big_0",
+            "text": "で　リーダー　どうするよ",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$ev_town8_0100_0210_blt_0",
+            "text": "計画どおりだ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0100_0210_blt_1",
+            "text": "全力で逃げる！",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0100_0220_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0230_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0240_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0250_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0260_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0100_0270_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0130_0010_jec_0",
+            "text": "トントン",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0130_0015_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0130_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0130_0030_jec_0",
+            "text": "これ　ソルジャーならわかるよね？",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0130_0040_cld_0",
+            "text": "回復マテリア　当然だ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0130_0050_jec_0",
+            "text": "あげる　助けてもらったお礼",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0130_0060_cld_0",
+            "text": "仕事のうちだ　礼はいらない",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0130_0070_jec_0",
+            "text": "いいから　いいから",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0130_0070_jec_1",
+            "text": "おかげで今　わたしはここにいる",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0130_0071_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0130_0072_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0130_0073_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0130_0080_cld_0",
+            "text": "生き延びるのは\r\n運がいいやつか　強いやつだ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0130_0080_cld_1",
+            "text": "あんたがどっちかは　知らないけど",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0130_0090_jec_0",
+            "text": "しみる～",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0130_0100_cld_0",
+            "text": "これは　もらっておく",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0130_0110_jec_0",
+            "text": "使い方は　知ってるよね？",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0130_0120_cld_0",
+            "text": "俺をなんだと思ってる",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0190_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0190_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0210_0000_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0210_0010_cld_0",
+            "text": "なんだ？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0210_0015_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0210_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0230_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0240_0000_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0240_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0240_0015_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0240_0016_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0240_0017_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0240_0020_cld_0",
+            "text": "なぜだ……",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0290_0030_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0290_0040_cld_0",
+            "text": "ありえない　あんたは",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0290_0040_cld_1",
+            "text": "死んだ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0290_0050_sep_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0290_0060_cld_0",
+            "text": "俺が　この手で",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0290_0090_sep_0",
+            "text": "もちろん　覚えているとも",
+            "speaker": "セフィロス"
+        },
+        {
+            "id": "$ev_town8_0290_0090_sep_1",
+            "text": "我々の 大切な思い出だからな",
+            "speaker": "セフィロス"
+        },
+        {
+            "id": "$ev_town8_0290_0095_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0290_0100_sep_0",
+            "text": "さて　クラウド\r\nおまえに頼みがある",
+            "speaker": "セフィロス"
+        },
+        {
+            "id": "$ev_town8_0290_0110_sep_0",
+            "text": "この星が　死のうとしている",
+            "speaker": "セフィロス"
+        },
+        {
+            "id": "$ev_town8_0290_0110_sep_1",
+            "text": "悲鳴もあげず\r\n静かに　ゆっくりと",
+            "speaker": "セフィロス"
+        },
+        {
+            "id": "$ev_town8_0290_0120_sep_0",
+            "text": "私たちの星が　消えてしまうのだ",
+            "speaker": "セフィロス"
+        },
+        {
+            "id": "$ev_town8_0290_0120_sep_1",
+            "text": "クラウド",
+            "speaker": "セフィロス"
+        },
+        {
+            "id": "$ev_town8_0300_0010_cld_0",
+            "text": "母さん　母さん……",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0300_0015_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0300_0020_sep_0",
+            "text": "星が死ねば　この艶やかに燃える\r\nおまえの故郷が　消えてしまう",
+            "speaker": "セフィロス"
+        },
+        {
+            "id": "$ev_town8_0300_0020_sep_1",
+            "text": "息子だけは　助けてくれと\r\n泣きついた女の声",
+            "speaker": "セフィロス"
+        },
+        {
+            "id": "$ev_town8_0300_0020_sep_2",
+            "text": "斬り捨てた時の感触さえ\r\n消えてしまうのだ",
+            "speaker": "セフィロス"
+        },
+        {
+            "id": "$ev_town8_0310_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0310_0020_sep_0",
+            "text": "我々を繋ぐ絆の喪失は\r\n私自身の死よりも耐え難い",
+            "speaker": "セフィロス"
+        },
+        {
+            "id": "$ev_town8_0310_0020_sep_1",
+            "text": "なあ　クラウド\r\n力を貸してくれ",
+            "speaker": "セフィロス"
+        },
+        {
+            "id": "$ev_town8_0310_0020_sep_2",
+            "text": "なに　簡単なことだ",
+            "speaker": "セフィロス"
+        },
+        {
+            "id": "$ev_town8_0310_0040_sep_0",
+            "text": "クラウド　走るんだ",
+            "speaker": "セフィロス"
+        },
+        {
+            "id": "$ev_town8_0310_0040_sep_1",
+            "text": "逃げて　生き延びて",
+            "speaker": "セフィロス"
+        },
+        {
+            "id": "$ev_town8_0310_0060_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0310_0070_cld_0",
+            "text": "ふざけるな！",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0310_0080_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0310_0090_sep_0",
+            "text": "いいぞ　それでいい",
+            "speaker": "セフィロス"
+        },
+        {
+            "id": "$ev_town8_0310_0090_sep_1",
+            "text": "私を忘れるな",
+            "speaker": "セフィロス"
+        },
+        {
+            "id": "$ev_town8_0310_0100_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0310_0140_cld_0",
+            "text": "幻覚か……\r\n魔晄に近づきすぎたな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0310_0160_cld_0",
+            "text": "さあ　行くぞ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0380_0000_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0001_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0004_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0005_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0007_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0010_sep_0",
+            "text": "おまえには　誰も守れない",
+            "speaker": "セフィロス"
+        },
+        {
+            "id": "$ev_town8_0380_0010_sep_1",
+            "text": "自分さえもな",
+            "speaker": "セフィロス"
+        },
+        {
+            "id": "$ev_town8_0380_0020_ath_0",
+            "text": "だいじょうぶ？",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0030_ath_0",
+            "text": "ねぇ　だいじょうぶ？",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0040_cld_0",
+            "text": "ああ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0380_0045_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0050_ath_0",
+            "text": "お花　どうぞ",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0060_cld_0",
+            "text": "花？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0380_0070_ath_0",
+            "text": "うん　お礼",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0070_ath_1",
+            "text": "追い払って　助けてくれた",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0080_cld_0",
+            "text": "なんの話だ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0380_0090_ath_0",
+            "text": "じゃあ　出会いを記念して",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0100_cld_0",
+            "text": "面倒だな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0380_0110_ath_0",
+            "text": "聞こえてますけど",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0120_cld_0",
+            "text": "いくらだ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0380_0130_ath_0",
+            "text": "値段は相手　見て決めるの",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0130_ath_1",
+            "text": "タダでいいや",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0130_ath_2",
+            "text": "あなたは……",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0135_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0140_cld_0",
+            "text": "いらない",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0380_0150_ath_0",
+            "text": "まあまあ　そんなこと言わないで",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0160_ath_0",
+            "text": "本物のお花　貴重なんだよ？",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0160_ath_1",
+            "text": "カノジョさんにあげたら\r\n喜ぶこと　間違いなし",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0170_cld_0",
+            "text": "バカにするな　２ギルでいいか",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0380_0180_ath_0",
+            "text": "２ギル？\r\nこれ　本物のお花だよ？",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0190_cld_0",
+            "text": "３ギル足そう",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0380_0200_ath_0",
+            "text": "全然　足りませんけど",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0210_ath_0",
+            "text": "それに　タダでいいって言ってるのに",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0210_ath_1",
+            "text": "追い払おうとしてる！\r\nしかも　５ギルで",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0215_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0216_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0220_ath_0",
+            "text": "そうは行きませんからね～",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0230_ath_0",
+            "text": "花言葉は　“再会”",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0233_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_0240_cld_0",
+            "text": "警告しておこう",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0380_0240_cld_1",
+            "text": "俺は強いぞ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0380_0250_ath_0",
+            "text": "うん　そんな感じするよ",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0260_cld_0",
+            "text": "脅しには屈しない",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0380_0270_ath_0",
+            "text": "怖いお兄さん\r\n脅しにくるとか　警戒してる？",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0270_ath_1",
+            "text": "ないない",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0270_ath_2",
+            "text": "そういう心配　しなくていいから",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0280_cld_0",
+            "text": "いくらだ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0380_0290_ath_0",
+            "text": "値段は相手　見て決めるの",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0290_ath_1",
+            "text": "タダでいいや",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_0290_ath_2",
+            "text": "あなたは……",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0380_9000_cut0_0",
+            "text": "お花　どうぞ？",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_9001_cut1_0",
+            "text": "いくらだ",
+            "info": ""
+        },
+        {
+            "id": "$ev_town8_0380_9002_cut2_0",
+            "text": "いらない",
+            "info": ""
+        },
+        {
+            "id": "$ev_town8_0380_9010_cut0_0",
+            "text": "あなたは……タダでいいや",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_9011_cut1_0",
+            "text": "バカにするな",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0380_9012_cut2_0",
+            "text": "受け取る",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0020_cld_0",
+            "text": "魔晄炉が爆発したんだ　",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0390_0020_cld_1",
+            "text": "あんたも　今夜は店じまいして",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0390_0025_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0050_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0060_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0060_ath_1",
+            "text": "助けて",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0390_0070_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0073_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0075_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0077_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0080_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0085_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0100_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0110_ath_0",
+            "text": "これ　なに？",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0390_0113_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0115_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0117_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0119_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0120_kb01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0120_kb01_1",
+            "text": "武器を捨てろ！",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ev_town8_0390_0125_cld_0",
+            "text": "見えてないのか？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0390_0130_ath_0",
+            "text": "やっぱり　いっかい解散",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0390_0135_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0140_ath_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0150_cld_0",
+            "text": "おい",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0390_0160_ath_0",
+            "text": "またね",
+            "speaker": "花売りの女性"
+        },
+        {
+            "id": "$ev_town8_0390_0170_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0390_0180_kb01_0",
+            "text": "剣を地面に置け",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ev_town8_0390_0180_kb01_1",
+            "text": "ゆっくり",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ev_town8_0390_0190_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0510_0005_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0510_0010_kb39_0",
+            "text": "袋のネズミだ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ev_town8_0510_0011_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0510_0020_kb49_0",
+            "text": "てこずらせやがって",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ev_town8_0510_0021_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0510_0030_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0510_0035_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0510_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0010_kb91_0",
+            "text": "追いつめろ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ev_town8_0520_0015_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0020_kb90_0",
+            "text": "逃がすな",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ev_town8_0520_0030_kb91_0",
+            "text": "八番街警備二班\r\n男を追いつめた　これより確保する",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ev_town8_0520_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0050_kb92_0",
+            "text": "おい　その剣は――",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$ev_town8_0520_0060_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0065_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0066_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0110_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0115_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0120_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0125_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0520_0130_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0005_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0010_wed_0",
+            "text": "クラウドさん　来なかったッスね",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$ev_town8_0550_0020_big_0",
+            "text": "そんな顔するな\r\nあいつは　きっと無事さ",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$ev_town8_0550_0020_big_1",
+            "text": "あの身のこなし　見ただろ？",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$ev_town8_0550_0020_big_2",
+            "text": "ソルジャーってのは\r\nやっぱり　ただモンじゃない",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$ev_town8_0550_0025_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0030_jec_0",
+            "text": "うん　本気で誘わない？",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0550_0040_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0050_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0060_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0070_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0100_blt_0",
+            "text": "ちょっと待て",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0550_0110_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0150_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0160_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0170_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0180_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0190_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0200_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0210_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0220_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0230_blt_0",
+            "text": "心配したじゃねえか",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0550_0240_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0250_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0260_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0280_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0290_blt_0",
+            "text": "なにしてやがったんだ？",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0550_0295_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0300_cld_0",
+            "text": "治安維持部隊が　うろついていたから\r\nかき回してやった",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0550_0300_cld_1",
+            "text": "連中を　駅から引き離せたはずだ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0550_0315_jec_0",
+            "text": "よゆう～",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0550_0320_big_0",
+            "text": "な　頼りになるだろ？",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$ev_town8_0550_0325_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0326_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0330_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0340_cld_0",
+            "text": "待て",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0550_0340_cld_1",
+            "text": "ひとつ　聞きたいことがある",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0550_0341_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0345_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0350_cld_0",
+            "text": "見えない敵を　見たことはあるか？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0550_0351_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0352_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0353_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0354_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0550_0360_cld_0",
+            "text": "ローブを着た　霧のようなやつだ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0550_0370_big_0",
+            "text": "それ　見えてるし",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$ev_town8_0550_0380_cld_0",
+            "text": "突然見える\r\nおそらく　接触がきっかけだ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0550_0390_jec_0",
+            "text": "神羅の新兵器？",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0550_0400_blt_0",
+            "text": "びびって　幻覚でも見たのだろう",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0550_0410_cld_0",
+            "text": "もういい　聞く相手を間違えた",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0550_0420_blt_0",
+            "text": "車両　変えんぞ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0550_0430_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0001_sbf_0",
+            "text": "魔晄炉を爆破するなんて\r\n迷惑な連中ですね",
+            "speaker": "神羅社員"
+        },
+        {
+            "id": "$ev_town8_0710_0002_snk_0",
+            "text": "公表されていないが\r\n犯人は十中八九　アバランチだ",
+            "speaker": "神羅課長"
+        },
+        {
+            "id": "$ev_town8_0710_0003_sbf_0",
+            "text": "昔から　うちのプレジデントを\r\nつけ狙ってた連中ですね",
+            "speaker": "神羅社員"
+        },
+        {
+            "id": "$ev_town8_0710_0004_sbm_0",
+            "text": "神羅にたかるつもりか",
+            "speaker": "神羅社員"
+        },
+        {
+            "id": "$ev_town8_0710_0005_snk_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0010_blt_0",
+            "text": "おい　適当なこと言うな",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0710_0010_blt_1",
+            "text": "アバランチの目的は　『星を救う』だろ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0710_0012_snk_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0013_sbm_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0014_sbf_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0015_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0020_snk_0",
+            "text": "なんなんだ　君は？",
+            "speaker": "神羅課長"
+        },
+        {
+            "id": "$ev_town8_0710_0030_blt_0",
+            "text": "星を思う　善良な市民よ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0710_0038_sbm_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0040_sbf_0",
+            "text": "どこが善良？",
+            "speaker": "神羅社員"
+        },
+        {
+            "id": "$ev_town8_0710_0045_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0047_snk_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0050_sbm_0",
+            "text": "殴られるぞ",
+            "speaker": "神羅社員"
+        },
+        {
+            "id": "$ev_town8_0710_0052_sbf_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0059_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0060_blt_0",
+            "text": "あの爆発は　悪党への警告に\r\n決まってるじゃねえか",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0710_0070_blt_0",
+            "text": "星の命を搾取する　悪党へのよ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0710_0070_blt_1",
+            "text": "悪党の名前は\r\nてめえら　よ～く知ってるよな？",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0710_0074_sbf_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0075_sbm_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0080_snk_0",
+            "text": "あたしらは　暴力なんかに屈しない",
+            "speaker": "神羅課長"
+        },
+        {
+            "id": "$ev_town8_0710_0080_snk_1",
+            "text": "なにがあっても\r\n変わらない日常を送ってやる",
+            "speaker": "神羅課長"
+        },
+        {
+            "id": "$ev_town8_0710_0090_snk_0",
+            "text": "これが　神羅社員の戦い方だ",
+            "speaker": "神羅課長"
+        },
+        {
+            "id": "$ev_town8_0710_0091_snk_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0100_sbf_0",
+            "text": "異議なし",
+            "speaker": "神羅社員"
+        },
+        {
+            "id": "$ev_town8_0710_0108_sbm_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0110_sbm_0",
+            "text": "これぞ　神羅魂！",
+            "speaker": "神羅社員"
+        },
+        {
+            "id": "$ev_town8_0710_0115_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0116_snk_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0117_sbf_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0118_sbm_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0120_blt_0",
+            "text": "いっぱいいっぱいじゃねえか",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0710_0123_sbf_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0124_sbm_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0130_snk_0",
+            "text": "悪いか",
+            "speaker": "神羅課長"
+        },
+        {
+            "id": "$ev_town8_0710_0130_snk_1",
+            "text": "いつだって　精一杯生きてる",
+            "speaker": "神羅課長"
+        },
+        {
+            "id": "$ev_town8_0710_0131_sbm_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0132_sbm_0",
+            "text": "行きましょう",
+            "speaker": "神羅社員"
+        },
+        {
+            "id": "$ev_town8_0710_0135_snk_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0136_sbf_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0140_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0145_sbf_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0710_0146_sbm_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0760_0010_jec_0",
+            "text": "ちょっと　話そ？",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0760_0030_jec_0",
+            "text": "新しい仲間には\r\nこれを使って　説明するんだ",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0760_0030_jec_1",
+            "text": "知ってることばかりだろうけど\r\n儀式だと思って　聞いて",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0760_0040_cld_0",
+            "text": "何度も言ったはずだ　俺は──",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0760_0050_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0760_0055_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0760_0060_jec_0",
+            "text": "否定ばかりじゃ　イイ男が台なし",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0760_0080_jec_0",
+            "text": "ほら　見て\r\n魔晄都市ミッドガルのフレームモデル",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0760_0080_jec_1",
+            "text": "地上３００メートルに持ち上げられた\r\nプレートと呼ばれる　鋼鉄の大地",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0760_0080_jec_2",
+            "text": "その上に整備された　ピカピカの都市",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0760_0080_jec_3",
+            "text": "魔晄炉で作る電力が　住民たちを\r\n“無敵の消費モンスター”に変えてしまった",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0760_0100_ana_0",
+            "text": "まもなく　ＩＤスキャニングエリアを通過します",
+            "speaker": "アナウンス"
+        },
+        {
+            "id": "$ev_town8_0760_0120_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0760_0130_jec_0",
+            "text": "これは　列車の運行ルート",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0760_0130_jec_1",
+            "text": "メインピラーの周囲を\r\n螺旋状に線路が走っていて",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0760_0130_jec_2",
+            "text": "ほら　今はちょうど中間地点",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0760_0130_jec_3",
+            "text": "ＩＤスキャニングエリアはここにあって\r\n乗客をチェックするわけ",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0760_0130_jec_4",
+            "text": "生年月日　居住許可区分　賞罰",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0760_0130_jec_5",
+            "text": "わたしたちのことを　なんでも知ってる\r\nデータベースで照会して",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0760_0130_jec_6",
+            "text": "主に治安維持に役立てる",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0760_0130_jec_7",
+            "text": "ほら　来た",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0760_0140_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0760_0150_jec_0",
+            "text": "ＩＤは偽造だから　安心して",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0760_0170_jec_0",
+            "text": "ね？　腕によりをかけたんだから",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0760_0190_jec_0",
+            "text": "地上まであと少し　ホッとしない？",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$ev_town8_0760_0200_blt_0",
+            "text": "見ろよ　あの腐ったピザのせいで\r\n下の人間がどんなに苦しんでることか",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0760_0200_blt_1",
+            "text": "神羅がどんどん魔晄をくみ上げちまうから\r\n土地は枯れ　空気はよどみ　花も咲かねえ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0760_0205_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0760_0210_cld_0",
+            "text": "嫌なら　街を出ればいい",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0760_0220_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0760_0230_cld_0",
+            "text": "俺は　そうやって生きてきた",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0760_0240_blt_0",
+            "text": "自分は強いって自覚があるなら",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$ev_town8_0760_0255_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town8_0760_0260_cld_0",
+            "text": "みんな　この列車と同じ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0760_0260_cld_1",
+            "text": "敷かれたレールには　逆らえないんだ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_town8_0760_0270_blt_0",
+            "text": "もちっと　他人の弱さに\r\n寄りそってみねえか？",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$lv_town8_0080_0010_wed_0",
+            "text": "あの辺りから出るのがいいッス",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$lv_town8_0080_0030_jec_0",
+            "text": "じゃ　爆弾仕掛けるから離れて",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$lv_town8_0080_0040_blt_0",
+            "text": "待ってろよ　マリン",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$lv_town8_0080_0050_big_0",
+            "text": "待ってろよ　シャワー",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$lv_town8_0420_0010_tb01_0",
+            "text": "貴様だな　見つけたぞ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$lv_town8_0420_0020_tb02_0",
+            "text": "こちら　八番街警備二班\r\n報告の男を発見　増援求む",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$lv_town8_0420_0020_tb02_1",
+            "text": "繰り返す\r\nこちら　八番街警備二班――",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$lv_town8_0430_0030_kb19_0",
+            "text": "囲め　囲め！",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$lv_town8_0430_0050_kb20_0",
+            "text": "逃げ場はないぞ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$pv_town8_0030_0010_wed_0",
+            "text": "あちこち漏電してるッスよ\r\n気をつけて",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$pv_town8_0040_0010_big_0",
+            "text": "鉄臭いサビ臭い\r\n新鮮な空気　カモン",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$pv_town8_0060_0010_big_0",
+            "text": "この鼻腔を切り裂く\r\nすっぱいにおいは　なんだ",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$pv_town8_0060_0011_big_0",
+            "text": "あ　俺か",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$pv_town8_0060_0020_big_0",
+            "text": "変な汗　いっぱいかいたからな",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$pv_town8_0065_0010_jec_0",
+            "text": "ウェッジ　まだ？",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0065_0020_wed_0",
+            "text": "もう少しッス",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$pv_town8_0070_0010_jec_0",
+            "text": "魔晄濃度　触媒……まさか火薬？",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0070_0020_big_0",
+            "text": "ジェシー　あとにしようぜ",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$pv_town8_0070_0030_wed_0",
+            "text": "おなかがグーグー　鳴いちゃって",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$pv_town8_0070_0040_blt_0",
+            "text": "アジトまで　我慢してろ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_town8_0070_0050_wed_0",
+            "text": "次は　お弁当持ってこなくちゃ",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$pv_town8_0110_0010_blt_0",
+            "text": "八番街ステーションから　最終に乗り込む",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_town8_0110_0020_blt_0",
+            "text": "いったんばらけて　貨物車に集合だ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_town8_0112_0010_wed_0",
+            "text": "じゃ　あとで！",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$pv_town8_0115_0010_cld_0",
+            "text": "おい　約束の金は？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0116_0010_blt_0",
+            "text": "アジトに帰るまでが　作戦だ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_town8_0146_0008_jec_0",
+            "text": "",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0146_0010_jec_0",
+            "text": "倒れる前に　ちゃんと使ってね",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0146_0020_jec_0",
+            "text": "それからこっちは\r\n新入りくんの度胸を称えて",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0146_0030_jec_0",
+            "text": "スリル満点の　ごほうび",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0146_0040_jec_0",
+            "text": "じゃ　貨物車で",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0150_0008_jec_0",
+            "text": "",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0150_0010_jec_0",
+            "text": "倒れる前に　ちゃんと使ってね",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0150_0011_jec_0",
+            "text": "じゃ　貨物車で",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0170_0010_cld_0",
+            "text": "逃げ切れるか",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0180_0010_jec_0",
+            "text": "ここ　崩れやすいから気をつけて",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0180_0015_jec_0",
+            "text": "のぼるのは　そこの階段からね",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0180_0020_jec_0",
+            "text": "",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0185_0010_mn09_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town8_0186_0010_mn10_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town8_0187_0010_wm03_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town8_0188_0010_wm04_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town8_0200_0010_cld_0",
+            "text": "駅は無事か",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0255_0010_cld_0",
+            "text": "やつはどこだ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0260_0010_cld_0",
+            "text": "まさか　どうして",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0270_0010_cld_0",
+            "text": "嘘だ……",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0280_0010_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0280_0020_cld_0",
+            "text": "待て……",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0321_0010_cld_0",
+            "text": "こっちは　無理だな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0322_0010_cld_0",
+            "text": "別のルートを探すか",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0323_0010_cld_0",
+            "text": "まずいな　そろそろ時間だ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0350_0010_cld_0",
+            "text": "予想以上か",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0354_0010_cld_0",
+            "text": "こっちも手配済みか",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0355_0010_cld_0",
+            "text": "ここで騒ぐと　いろいろ面倒だ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0396_0010_gng_0",
+            "text": "報告のあった不審者は\r\nまだ　近くに居るはずだ",
+            "speaker": "部隊長"
+        },
+        {
+            "id": "$pv_town8_0396_0020_cld_0",
+            "text": "一度　ここから離れるか",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0397_0010_gng_0",
+            "text": "怪しい奴は　すべて捕らえろ",
+            "speaker": "部隊長"
+        },
+        {
+            "id": "$pv_town8_0397_0020_cld_0",
+            "text": "回り込むしかなさそうだ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0398_0010_gng_0",
+            "text": "ターゲットは武器を携行している\r\n絶対に逃がすな",
+            "speaker": "部隊長"
+        },
+        {
+            "id": "$pv_town8_0398_0020_cld_0",
+            "text": "正面突破は難しいな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0411_0010_kb11_0",
+            "text": "異常なし",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$pv_town8_0412_0010_kb11_0",
+            "text": "問題ないな",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$pv_town8_0421_0010_gng_0",
+            "text": "ターゲットは１名　見逃がすなよ",
+            "speaker": "部隊長"
+        },
+        {
+            "id": "$pv_town8_0421_0020_cld_0",
+            "text": "今は駅から離れたほうがいいな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0422_0010_gng_0",
+            "text": "六班から十班も　まもなく合流する",
+            "speaker": "部隊長"
+        },
+        {
+            "id": "$pv_town8_0422_0020_cld_0",
+            "text": "広場まで引き返すか",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0423_0010_gng_0",
+            "text": "絶対に駅に入れるな",
+            "speaker": "部隊長"
+        },
+        {
+            "id": "$pv_town8_0423_0020_cld_0",
+            "text": "戻って　別の道を探そう",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0463_0010_cld_0",
+            "text": "駅方面は　警備を固めているはずだ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0463_0020_cld_0",
+            "text": "上から行くのが　無難だな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0465_0010_td25_0",
+            "text": "あそこだ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$pv_town8_0465_0020_kb26_0",
+            "text": "撃て　撃て！",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$pv_town8_0468_0010_cld_0",
+            "text": "強行突破しかないな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0469_0010_cld_0",
+            "text": "ギリギリか",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0475_0010_kb30_0",
+            "text": "いたぞ　あそこだ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$pv_town8_0475_0020_cld_0",
+            "text": "迷っている時間はない",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0490_0010_sh01_0",
+            "text": "ターゲットは住宅街を進攻中",
+            "speaker": "神羅ヘリ"
+        },
+        {
+            "id": "$pv_town8_0490_0011_sh01_0",
+            "text": "道路封鎖と　増援を急げ",
+            "speaker": "神羅ヘリ"
+        },
+        {
+            "id": "$pv_town8_0560_0010_wed_0",
+            "text": "混んでるッスね",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$pv_town8_0560_0020_jec_0",
+            "text": "貨物車なのに",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0560_0030_big_0",
+            "text": "避難命令のせいか",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$pv_town8_0560_0040_blt_0",
+            "text": "運が回ってきたな　人ごみにまぎれるぞ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_town8_0630_0010_ana_0",
+            "text": "ミッドガル八番街ステーション発\r\n終点　スラム七番街駅",
+            "speaker": "アナウンス"
+        },
+        {
+            "id": "$pv_town8_0630_0020_ana_0",
+            "text": "この列車は　壱番魔晄炉爆破により\r\n避難用特別ダイヤで運行しております",
+            "speaker": "アナウンス"
+        },
+        {
+            "id": "$pv_town8_0630_0030_ana_0",
+            "text": "車内混み合いまして　ご迷惑をおかけします",
+            "speaker": "アナウンス"
+        },
+        {
+            "id": "$pv_town8_0630_0040_blt_0",
+            "text": "到着までに　先頭車両に集合だ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_town8_0640_0010_wed_0",
+            "text": "ああ　せまい",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$pv_town8_0650_0020_wed_0",
+            "text": "みんな　ピリピリッス",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$pv_town8_0650_0030_cld_0",
+            "text": "当然だろう",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0650_0035_wed_0",
+            "text": "",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$pv_town8_0650_0040_wed_0",
+            "text": "クラウドさん　オレ……",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$pv_town8_0650_0050_cld_0",
+            "text": "罪の告白なら　ほかでやってくれ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0650_0060_wed_0",
+            "text": "厳しいッスね",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$pv_town8_0660_0010_big_0",
+            "text": "ちょっと聞いていいか",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$pv_town8_0670_0020_big_0",
+            "text": "あんた　ああいう状況には慣れてるのか\r\nさっきの駅前とか　八番街とか",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$pv_town8_0670_0030_cld_0",
+            "text": "ソルジャーだからな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0670_0040_big_0",
+            "text": "俺は足が震えてる　やばい",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$pv_town8_0670_0050_cld_0",
+            "text": "そのうち慣れる",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0670_0060_big_0",
+            "text": "だと　いいけどな",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$pv_town8_0670_0061_big_0",
+            "text": "いや　いいのかな……",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$pv_town8_0680_0010_jec_0",
+            "text": "クラウド　ＳＯＳ",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0690_0020_jec_0",
+            "text": "ドキドキが止まらないの\r\nやっぱり　八番街の被害が大きすぎる",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0690_0030_jec_0",
+            "text": "わけがわからない",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0690_0040_cld_0",
+            "text": "気化した魔晄が誘爆を起こした\r\nそう言ってなかったか",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0690_0050_jec_0",
+            "text": "最初はそう思ったけど\r\n魔晄炉は　そんなこと想定内じゃない？",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0690_0060_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0690_0070_jec_0",
+            "text": "見えない敵がいるって　言ってたよね",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0690_0080_cld_0",
+            "text": "ああ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0690_0090_jec_0",
+            "text": "ううん　ダメ",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0690_0091_jec_0",
+            "text": "ほかを疑うより\r\n先に自分のミスを検証しなくちゃ",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0690_0100_jec_0",
+            "text": "そう　そうしないと進歩しないもの",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0690_0105_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_0690_0110_jec_0",
+            "text": "クラウド　聞いてくれてありがと",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0721_0010_blt_0",
+            "text": "お子様じゃねえんだ　おとなしくしてろ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_town8_0722_0010_wed_0",
+            "text": "クラウドさん　どこ行くッスか",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$pv_town8_0723_0010_big_0",
+            "text": "あまり　ウロウロすんなよ",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$pv_town8_0724_0010_jec_0",
+            "text": "クラウド　こっち来て",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_0726_0010_blt_0",
+            "text": "くだらねえ　なにが神羅魂だ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_town8_0727_0010_blt_0",
+            "text": "オレは　間違っちゃいねえ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$pv_town8_0736_0010_wed_0",
+            "text": "オレたち　嫌われ者ッス",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$pv_town8_0737_0010_wed_0",
+            "text": "仕方ない　仕方ない……",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$pv_town8_0746_0010_big_0",
+            "text": "まあ　理解されるとは思ってないさ",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$pv_town8_0747_0010_big_0",
+            "text": "早く洗い流してえな　いろいろ",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$pv_town8_1180_0010_jec_0",
+            "text": "クラウドこっち　上　上\r\n上を見て！",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_1185_0010_jec_0",
+            "text": "階段の先　崩れやすいから気をつけて",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_1186_0010_jec_0",
+            "text": "わざとやってる？　ガレキの上",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_1191_0010_jec_0",
+            "text": "そっちじゃなくて　右",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_1192_0010_jec_0",
+            "text": "上だってば！",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_1193_0010_jec_0",
+            "text": "もうちょい　左かな",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_1194_0010_jec_0",
+            "text": "そこから　ぐっと視線を下げて",
+            "speaker": "ジェシー"
+        },
+        {
+            "id": "$pv_town8_1440_0010_sh01_0",
+            "text": "ターゲットを発見\r\n繰り返す　ターゲットを発見",
+            "speaker": "神羅ヘリ"
+        },
+        {
+            "id": "$pv_town8_1440_0020_sh01_0",
+            "text": "戦闘員　降下準備開始",
+            "speaker": "神羅ヘリ"
+        },
+        {
+            "id": "$pv_town8_1440_0030_sh01_0",
+            "text": "降下準備　完了",
+            "speaker": "神羅ヘリ"
+        },
+        {
+            "id": "$pv_town8_1440_0040_sh01_0",
+            "text": "集中攻撃　開始",
+            "speaker": "神羅ヘリ"
+        },
+        {
+            "id": "$pv_town8_1451_0010_sh01_0",
+            "text": "噴水広場にて　ターゲットと交戦中\r\n周辺の部隊はただちに急行せよ",
+            "speaker": "神羅ヘリ"
+        },
+        {
+            "id": "$pv_town8_1452_0020_sh01_0",
+            "text": "ターゲットは\r\n駅を目指していた可能性あり",
+            "speaker": "神羅ヘリ"
+        },
+        {
+            "id": "$pv_town8_1453_0020_sh01_0",
+            "text": "こちら噴水広場　増援を求む",
+            "speaker": "神羅ヘリ"
+        },
+        {
+            "id": "$pv_town8_1460_0010_sh01_0",
+            "text": "ターゲット健在\r\n駅周辺に警備を集中せよ",
+            "speaker": "神羅ヘリ"
+        },
+        {
+            "id": "$pv_town8_1460_0021_cld_0",
+            "text": "ほかの道は……",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_1460_0030_cld_0",
+            "text": "建物をつたっていくか",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_town8_1470_0010_sh01_0",
+            "text": "ターゲットは住宅街方面へ逃走した模様\r\n周辺道路を封鎖せよ",
+            "speaker": "神羅ヘリ"
+        },
+        {
+            "id": "$pv_town8_1490_0010_sh01_0",
+            "text": "貴様に逃げ場などない\r\n武器を捨てて　投降しろ",
+            "speaker": "神羅ヘリ"
+        },
+        {
+            "id": "$pv_town8_1500_0010_sh01_0",
+            "text": "逃亡犯に告ぐ\r\n貴様の位置はこちらで捕捉済みだ",
+            "speaker": "神羅ヘリ"
+        },
+        {
+            "id": "$pv_town8_1500_0011_sh01_0",
+            "text": "おとなしく投降しろ",
+            "speaker": "神羅ヘリ"
+        },
+        {
+            "id": "$pv_town8_7030_0010_mn25_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town8_7031_0010_wm19_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_0050_0010_ev1_0",
+            "text": "",
+            "speaker": "一同"
+        },
+        {
+            "id": "$tk_town8_0050_0020_wed_0",
+            "text": "腹まで揺れたッス",
+            "speaker": "ウェッジ"
+        },
+        {
+            "id": "$tk_town8_0050_0030_big_0",
+            "text": "爆発　止まらねえな",
+            "speaker": "ビッグス"
+        },
+        {
+            "id": "$tk_town8_0050_0040_blt_0",
+            "text": "潰されちまう前に　出るぞ",
+            "speaker": "バレット"
+        },
+        {
+            "id": "$tk_town8_0355_0010_kb01_0",
+            "text": "不審者を見逃がすな",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$tk_town8_0356_0010_kb01_0",
+            "text": "近くにいるはずだ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$tk_town8_3011_0010_mn28_0",
+            "text": "どうすりゃいいんだよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3012_0010_mn28_0",
+            "text": "これは夢　ゆめ　ユメ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3013_0010_mn28_0",
+            "text": "爆破……\r\n嘘だろ　爆破？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3014_0010_mn28_0",
+            "text": "ははは……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3015_0010_mn28_0",
+            "text": "揺れて　看板が上から落ちて",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3016_0010_mn28_0",
+            "text": "攻撃……まさかウータイ？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3017_0010_mn28_0",
+            "text": "家が燃えた",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3018_0010_mn28_0",
+            "text": "駅は無事らしい",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3021_0010_mn37_0",
+            "text": "魔晄漏れとか　してねえよな",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3022_0010_mn37_0",
+            "text": "神羅を嫌ってるやつらが？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3023_0010_mn37_0",
+            "text": "どこ行きゃいい",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3024_0010_mn37_0",
+            "text": "ケガしちまって",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3025_0010_mn37_0",
+            "text": "爆破とか意味わかんねえ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3026_0010_mn37_0",
+            "text": "七番は大丈夫なのか",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3027_0010_mn37_0",
+            "text": "駅に行けばいいのかよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3028_0010_mn37_0",
+            "text": "なんなんだよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3031_0010_snr03_0",
+            "text": "急げ　ここだけじゃない！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3031_0020_snr01_0",
+            "text": "ちくしょう！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3031_0030_snr02_0",
+            "text": "なんで　爆破なんか……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3031_0040_snr03_0",
+            "text": "火を消すことに　集中しろ！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3032_0010_snr03_0",
+            "text": "応援は？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3032_0020_snr04_0",
+            "text": "要請はしています！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3032_0030_snr03_0",
+            "text": "遅い……！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3032_0040_snr04_0",
+            "text": "あちこちで火災が発生していて\r\n消防も救急も　手が足りていません！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3032_0050_snr03_0",
+            "text": "わかっている！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3041_0010_mn44_0",
+            "text": "プレートが崩れるかと思った",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3042_0010_mn44_0",
+            "text": "この世の終わりだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3043_0010_mn44_0",
+            "text": "魔晄炉って爆発するんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3044_0010_mn44_0",
+            "text": "なんでだ　なあ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3045_0010_mn44_0",
+            "text": "めちゃくちゃ揺れて\r\n俺　なにもできなくて",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3046_0010_mn44_0",
+            "text": "震えが止まらないんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3047_0010_mn44_0",
+            "text": "爆発の音が　まだ耳に残ってて",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3048_0010_mn44_0",
+            "text": "車は無理だ　歩くしかない",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3049_0010_mn44_0",
+            "text": "知り合いは　駅に行くって",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3051_0010_mn04_0",
+            "text": "誰か　説明してくれ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3052_0010_mn04_0",
+            "text": "どこのバカがやった",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3053_0010_mn04_0",
+            "text": "信じねえぞ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3054_0010_mn04_0",
+            "text": "避難場所まで　誘導しろよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3055_0010_mn04_0",
+            "text": "おい　避難場所ってどこだ？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3056_0010_mn04_0",
+            "text": "プレートの上は安全なんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3057_0010_mn04_0",
+            "text": "恋人とはぐれたんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3058_0010_mn04_0",
+            "text": "参番街には行けるのか？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3061_0010_mn05_0",
+            "text": "痛え……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3062_0010_mn05_0",
+            "text": "誰か……！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3063_0010_mn05_0",
+            "text": "なんで……痛えよ……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3064_0010_mn05_0",
+            "text": "ううう……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3065_0010_mn05_0",
+            "text": "くっ……うう……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3071_0010_mn09_0",
+            "text": "帰れんのか？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3072_0010_mn09_0",
+            "text": "すげえ揺れて　それで……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3073_0010_mn09_0",
+            "text": "スラムに帰らねえと",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3074_0010_mn09_0",
+            "text": "店が　めちゃくちゃだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3081_0010_mn07_0",
+            "text": "とにかく　逃げないと",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3081_0020_wm01_0",
+            "text": "避難場所がわからないわ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3081_0030_gr01_0",
+            "text": "おにいちゃんは　無事？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3081_0040_mn07_0",
+            "text": "駅で会えるはずだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3081_0050_gr01_0",
+            "text": "あえなかったら　どうしよう……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3082_0010_gr01_0",
+            "text": "おにいちゃん……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3082_0020_mn07_0",
+            "text": "あいつは　しっかりしてるからな\r\nきっと大丈夫だ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3082_0030_wm01_0",
+            "text": "無事でいますように",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3091_0010_mn41_0",
+            "text": "冗談だろ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3092_0010_mn41_0",
+            "text": "来週から　魔晄炉勤務だったんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3093_0010_mn41_0",
+            "text": "反神羅どうこう言ってるやつらか",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3094_0010_mn41_0",
+            "text": "駅は安全か？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3101_0010_mn02_0",
+            "text": "家に　帰りてぇよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3102_0010_mn02_0",
+            "text": "ここで　死ぬんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3103_0010_mn02_0",
+            "text": "怖い怖い　怖い",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3104_0010_mn02_0",
+            "text": "列車は止まってるんじゃないのか",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3111_0010_mn34_0",
+            "text": "プレートが壊れるかと思った",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3112_0010_mn34_0",
+            "text": "揺れがマジヤバくて　やべえ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3113_0010_mn34_0",
+            "text": "爆破ってなんだよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3114_0010_mn34_0",
+            "text": "列車は動いてるのか？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3115_0010_mn34_0",
+            "text": "誰か　駅まで案内してくれ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3121_0010_wm28_0",
+            "text": "どこに行けばいいの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3122_0010_wm28_0",
+            "text": "夢よ　こんなの……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3123_0010_wm28_0",
+            "text": "信じない　信じない！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3124_0010_wm28_0",
+            "text": "魔晄炉が……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3125_0010_wm28_0",
+            "text": "もう　無理",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3126_0010_wm28_0",
+            "text": "八番街は　終わりでしょ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3127_0010_wm28_0",
+            "text": "彼　ひとりで逃げていっちゃった",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3128_0010_wm28_0",
+            "text": "ガレキで道が通れなくなってるって",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3131_0010_wm08_0",
+            "text": "爆破って　なんなの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3131_0020_wm07_0",
+            "text": "きっと　勘違い",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3131_0030_wm08_0",
+            "text": "でも　燃えてる",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3131_0040_wm07_0",
+            "text": "悪い夢よ……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3132_0010_wm08_0",
+            "text": "いつも通りの１日だったのに",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3132_0020_wm07_0",
+            "text": "知ってるわ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3132_0030_wm08_0",
+            "text": "どうして落ち着いてるのよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3141_0010_snr05_0",
+            "text": "もしもし　聞こえていますか",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3141_0020_snr05_0",
+            "text": "返事をするか\r\n手を動かしてみて",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3141_0030_snr06_0",
+            "text": "急病人を発見し　救助中だ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3141_0040_snr06_0",
+            "text": "担架を頼む！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3142_0010_snr05_0",
+            "text": "医者に連れてくから\r\nもう少し　がんばって！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3142_0020_snr06_0",
+            "text": "七番街からの応援がそろそろ来るはずだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3142_0021_snr06_0",
+            "text": "そうすれば……ああ　頼む",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3151_0010_snr07_0",
+            "text": "もうガレキは落ちてこないから",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3151_0020_snr08_0",
+            "text": "負傷者１名\r\n自力での歩行困難",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3151_0030_snr08_0",
+            "text": "担架を頼む",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3151_0040_snr08_0",
+            "text": "あまり待てない",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3151_0050_snr07_0",
+            "text": "病院に連れていきます\r\nもう少し　がんばって！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3152_0010_snr07_0",
+            "text": "聞こえてますか",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3152_0020_snr07_0",
+            "text": "応援はまだなのか",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3152_0030_snr08_0",
+            "text": "担架は？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3152_0040_snr08_0",
+            "text": "ダメだ　向こうも混乱している",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3152_0050_snr07_0",
+            "text": "せかし続けろ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3152_0060_snr08_0",
+            "text": "担架を早く！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3153_0010_snr07_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3154_0010_snr08_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3161_0010_wm30_0",
+            "text": "誰か　なんとかして",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3162_0010_wm30_0",
+            "text": "また　爆発する？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3163_0010_wm30_0",
+            "text": "家にいちゃダメなの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3164_0010_wm30_0",
+            "text": "燃えてる……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3165_0010_wm30_0",
+            "text": "避難って　どこに……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3166_0010_wm30_0",
+            "text": "逃げろって言われても",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3167_0010_wm30_0",
+            "text": "理解できない",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3168_0010_wm30_0",
+            "text": "車は諦めて　歩きで",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3171_0010_wm15_0",
+            "text": "歩けそうにないわ　ひとりで逃げて",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3171_0020_mn20_0",
+            "text": "バカなこと言うな",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3171_0030_wm15_0",
+            "text": "かっこつけないで",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3171_0040_mn20_0",
+            "text": "つけさせてくれ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3172_0010_mn20_0",
+            "text": "もうすぐ　救助が来る",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3172_0020_wm15_0",
+            "text": "間に合うかしら",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3172_0030_mn20_0",
+            "text": "これ以上揺れなければ\r\n大丈夫なはずだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3176_0010_mn21_0",
+            "text": "すぐに助けが来る",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3176_0020_wm16_0",
+            "text": "神羅は私たちを見捨てないわ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3176_0030_mn21_0",
+            "text": "ああ　絶対に",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3177_0010_wm16_0",
+            "text": "爆破って　本当かしら",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3177_0020_mn21_0",
+            "text": "わからん　間違いかもしれん",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3177_0030_wm16_0",
+            "text": "きっと間違いね",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3180_0010_wm17_0",
+            "text": "これじゃ　駅に行けない",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3180_0020_wm18_0",
+            "text": "どこかに道があるかも",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3180_0030_wm17_0",
+            "text": "探してられないわよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3191_0010_wm23_0",
+            "text": "プレート　壊れないよね",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3192_0010_wm23_0",
+            "text": "ウータイがどうのって言ってる人が",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3193_0010_wm23_0",
+            "text": "爆破って　嘘でしょ？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3194_0010_wm23_0",
+            "text": "足元が崩れそうで　怖くて",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3195_0010_wm23_0",
+            "text": "逃げるって　どこに",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3196_0010_wm23_0",
+            "text": "死にたくない",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3197_0010_wm23_0",
+            "text": "友達が遊びに来る予定で\r\n今ごろ駅に……どうしよう",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3198_0010_wm23_0",
+            "text": "駅に向かった人もいるみたい",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3201_0010_wm25_0",
+            "text": "ああもう　どうして……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3202_0010_wm25_0",
+            "text": "全部　燃えちゃうのよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3203_0010_wm25_0",
+            "text": "車じゃ行けないの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3204_0010_wm25_0",
+            "text": "駅に行ったほうがいい？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3205_0010_wm25_0",
+            "text": "私たち　なにか悪いことした？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3206_0010_wm25_0",
+            "text": "道は　ふさがってる",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3207_0010_wm25_0",
+            "text": "変なにおい　まさか魔晄？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3208_0010_wm25_0",
+            "text": "兵士は　助けてくれないの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3209_0010_wm25_0",
+            "text": "家の中はぐちゃぐちゃ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3211_0010_mn25_0",
+            "text": "家も職場も　めちゃくちゃだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3211_0020_wm19_0",
+            "text": "なんでこんなことになっちゃったの",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3212_0010_mn25_0",
+            "text": "元通りにしねえと　許さねえ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3212_0020_wm19_0",
+            "text": "誰を許さないのよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3212_0030_mn25_0",
+            "text": "知らねえよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3213_0010_wm19_0",
+            "text": "離れろ！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3213_0020_mn25_0",
+            "text": "なに　なんなの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3221_0010_wm20_0",
+            "text": "嘘よね？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3221_0020_mn26_0",
+            "text": "まずは　落ち着こう",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3221_0030_wm20_0",
+            "text": "嘘だと言ってよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3222_0010_wm20_0",
+            "text": "理解できない",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3222_0020_mn26_0",
+            "text": "無理にしなくていい",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3222_0030_wm20_0",
+            "text": "あなたは理解できる？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3222_0040_mn26_0",
+            "text": "できない……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3231_0010_wm04_0",
+            "text": "怖い　助けて",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3232_0010_wm04_0",
+            "text": "プレートが崩れたら　どうするの",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3233_0010_wm04_0",
+            "text": "なんで　この街なのよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3234_0010_wm04_0",
+            "text": "スラムに帰りたい",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3241_0010_wm21_0",
+            "text": "まさか　反神羅勢力ってやつ？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3242_0010_wm21_0",
+            "text": "仕事中に　いきなりよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3243_0010_wm21_0",
+            "text": "避難用の列車が出てるって",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3244_0010_wm21_0",
+            "text": "駅への道がわからなくて",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3251_0010_wm03_0",
+            "text": "このまま　帰れなかったら……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3252_0010_wm03_0",
+            "text": "七番街スラムに帰りたいの",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3253_0010_wm03_0",
+            "text": "列車　乗れるの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3254_0010_wm03_0",
+            "text": "もう揺れない？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3261_0010_wm22_0",
+            "text": "あんな揺れが　またきたら……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3262_0010_wm22_0",
+            "text": "地上に戻りたい",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3263_0010_wm22_0",
+            "text": "ガレキで通行止めよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3264_0010_wm22_0",
+            "text": "裏道なんて知らない",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3271_0010_mn31_0",
+            "text": "軍はなにをしてる",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3272_0010_mn31_0",
+            "text": "こんな　こんなのは知らん",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3273_0010_mn31_0",
+            "text": "神羅の敵は　俺たちの敵だ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3274_0010_mn31_0",
+            "text": "娘夫婦が　迎えにくる予定だ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3281_0010_mn29_0",
+            "text": "もう　動けん",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3282_0010_mn29_0",
+            "text": "誰か駅に連れていってくれ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3283_0010_mn29_0",
+            "text": "息子と連絡が取れん",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3284_0010_mn29_0",
+            "text": "嘘だと言ってくれ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3285_0010_mn29_0",
+            "text": "夢なんだろ？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3311_0010_mn38_0",
+            "text": "魔晄炉が止まったら　俺らは……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3312_0010_mn38_0",
+            "text": "スラムは　無事だろうな？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3313_0010_mn38_0",
+            "text": "駅への道がない",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3321_0010_mn17_0",
+            "text": "避難所があるのか？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3322_0010_mn17_0",
+            "text": "子供が向こうの通りに住んでるんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3323_0010_mn17_0",
+            "text": "孫の家を訪ねる途中で……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3331_0010_mn32_0",
+            "text": "大丈夫かよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3332_0010_wm27_0",
+            "text": "平気なの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3333_0010_wm27_0",
+            "text": "あなた　大丈夫？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3334_0010_mn32_0",
+            "text": "びびったぜ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3335_0010_mn32_0",
+            "text": "ケガはないのか？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3336_0010_wm27_0",
+            "text": "びっくりした……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3337_0010_mn32_0",
+            "text": "信じられねえ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3338_0010_wm27_0",
+            "text": "これ以上は崩れない？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3339_0010_wm27_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3341_0010_mn33_0",
+            "text": "もっと崩れるぞ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3342_0010_mn33_0",
+            "text": "ガレキの山……スラムかよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3351_0010_wm06_0",
+            "text": "家が揺れたの　急に家が……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3352_0010_wm06_0",
+            "text": "どうしてなの",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3353_0010_wm06_0",
+            "text": "孫の誕生日だったのよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3354_0010_wm06_0",
+            "text": "終わりだわ……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3355_0010_wm06_0",
+            "text": "あたま　真っ白よ……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3361_0010_mn36_0",
+            "text": "残業なんてしなきゃよかった",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3361_0020_mn35_0",
+            "text": "今さらだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3361_0030_wm29_0",
+            "text": "列車さえ動いていれば家に帰れるわ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3362_0010_wm29_0",
+            "text": "少し休んだら　駅に行きましょう",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3362_0020_mn36_0",
+            "text": "無理だ……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3362_0030_mn35_0",
+            "text": "おい　諦めるな",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3371_0010_wm02_0",
+            "text": "息子が様子を見にいったままなの",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3372_0010_wm02_0",
+            "text": "揺れて　すごく揺れて",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3373_0010_wm02_0",
+            "text": "車は　無理なの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3374_0010_wm02_0",
+            "text": "ガレキなんて　越えられないわ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3375_0010_wm02_0",
+            "text": "早く逃げないと",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3381_0010_wm26_0",
+            "text": "急に揺れて大きな音が　嫌……！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3382_0010_wm26_0",
+            "text": "目の前で　大きなガレキが落ちてきて",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3383_0010_wm26_0",
+            "text": "信じられないわ……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3391_0010_wm12_0",
+            "text": "まるで　戦争じゃない！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3392_0010_wm12_0",
+            "text": "スラムには　帰れるの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3393_0010_wm12_0",
+            "text": "ミッドガルの終わりよ！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3401_0010_mn50_0",
+            "text": "助けて　スタンプ！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3402_0010_mn50_0",
+            "text": "プレート　こわれるの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3403_0010_mn50_0",
+            "text": "父さんは　どこ？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3411_0010_mn51_0",
+            "text": "地面　崩れたらどうしよう",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3412_0010_mn51_0",
+            "text": "棚が倒れてきたから\r\nびっくりして　すぐよけたんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3413_0010_mn51_0",
+            "text": "僕たち　死なないよね？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3421_0010_mn52_0",
+            "text": "おかあさん　どこ？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3422_0010_mn52_0",
+            "text": "はぐれた……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3423_0010_mn52_0",
+            "text": "オレのおとうと　見なかった？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3431_0010_mn53_0",
+            "text": "早く帰らないと",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3432_0010_mn53_0",
+            "text": "スラム行きの列車って動いてんの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3433_0010_mn53_0",
+            "text": "もし　列車が止まったら……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3441_0010_wm60_0",
+            "text": "おうちが……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3442_0010_wm60_0",
+            "text": "もえてる……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3443_0010_wm60_0",
+            "text": "おとうさん……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3451_0010_mn18_0",
+            "text": "ガレキ　くぐったらまずいよな",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3452_0010_mn18_0",
+            "text": "ガレキさえなけりゃ　駅まですぐなんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3461_0010_mn19_0",
+            "text": "駅に行きてえけど\r\nガレキをのぼる勇気はねえな",
+            "speaker": "プレート住民"
+        },
+        {
+            "id": "$tk_town8_3462_0010_mn19_0",
+            "text": "この向こうが　駅なんだがな",
+            "speaker": "プレート住民"
+        },
+        {
+            "id": "$tk_town8_3463_0010_mn19_0",
+            "text": "ガレキの上を行くとか\r\n正気じゃねえぞ",
+            "speaker": "プレート住民"
+        },
+        {
+            "id": "$tk_town8_3471_0010_wm02_0",
+            "text": "これから　どうするの",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3471_0020_mn08_0",
+            "text": "駅に行こう\r\n七番街のおばさんのところに",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3471_0030_gr02_0",
+            "text": "なんで……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3471_0040_mn08_0",
+            "text": "大丈夫だ　大丈夫だぞ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3481_0010_wm33_0",
+            "text": "遅いわ……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3481_0020_by03_0",
+            "text": "おとうさん　いつもどる？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3481_0030_wm33_0",
+            "text": "きっと　もうすぐ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3491_0010_wm34_0",
+            "text": "いや　もういや",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3491_0020_mn43_0",
+            "text": "ここは　大丈夫ですから",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3491_0030_wm34_0",
+            "text": "ぜんぶ崩れたの　ぜんぶ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3491_0040_mn43_0",
+            "text": "うん　うん",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3492_0010_wm34_0",
+            "text": "私たち死ぬのよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3492_0020_mn43_0",
+            "text": "神羅が守ってくれます",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3492_0030_mn43_0",
+            "text": "信じましょう",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3511_0010_wm62_0",
+            "text": "おうちにかえりたい",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3512_0010_wm62_0",
+            "text": "スラムは　なんともない？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3513_0010_wm62_0",
+            "text": "いつものみち　ふさがってた",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3531_0010_wm52_0",
+            "text": "おかしくなりそう……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3532_0010_wm52_0",
+            "text": "あのあたり　また崩れそう",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_3541_0010_mn19_0",
+            "text": "そこの階段からガレキの上に出れば\r\n駅まですぐだ　俺は怖くて無理だけどね",
+            "speaker": "プレート住民"
+        },
+        {
+            "id": "$tk_town8_3542_0010_mn19_0",
+            "text": "そこの階段をのぼれば\r\nガレキを　越えられるよ",
+            "speaker": "プレート住民"
+        },
+        {
+            "id": "$tk_town8_4011_0010_mn04_0",
+            "text": "終わりだな",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4012_0010_mn04_0",
+            "text": "見たか　道路が……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4013_0010_mn04_0",
+            "text": "プレートが落ちるんじゃ……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4014_0010_mn04_0",
+            "text": "家族が待ってるんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4021_0010_mn03_0",
+            "text": "おい　また崩れそうだぞ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4022_0010_mn03_0",
+            "text": "ガレキから離れた方が……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4023_0010_mn03_0",
+            "text": "ここも爆破されたのか？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4024_0010_mn03_0",
+            "text": "犯人は　なにがしたい",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4031_0010_mn27_0",
+            "text": "向こうに友達が……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4032_0010_mn27_0",
+            "text": "一瞬だった……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4033_0010_mn27_0",
+            "text": "助けてくれよ　神羅",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4034_0010_mn27_0",
+            "text": "笑うしかねえ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4041_0010_mn03_0",
+            "text": "すっげえ音で　いきなりで……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4042_0010_mn03_0",
+            "text": "どうして　八番街なんだよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4043_0010_mn03_0",
+            "text": "助けてくれよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4044_0010_mn03_0",
+            "text": "俺は駅に行くぞ　絶対",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4051_0010_mn01_0",
+            "text": "なんで　なんでだよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4052_0010_mn01_0",
+            "text": "家に帰してくれ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4053_0010_mn01_0",
+            "text": "スラムに帰らせてくれよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4054_0010_mn01_0",
+            "text": "落ちて……落ちてきて　上から",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4061_0010_mn05_0",
+            "text": "俺たちは助かる\r\n神羅を信じるんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4062_0010_mn05_0",
+            "text": "列車はまだ　動いてる",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4063_0010_mn05_0",
+            "text": "家に帰らなきゃ　家族が待ってる",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4064_0010_mn05_0",
+            "text": "ガレキ　越えていけないか？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4065_0010_mn05_0",
+            "text": "深呼吸だ……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4071_0010_mn02_0",
+            "text": "列車に間に合わない",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4072_0010_mn02_0",
+            "text": "裏通りから行きゃよかった",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4073_0010_mn02_0",
+            "text": "恨むぞ　犯人め",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4074_0010_mn02_0",
+            "text": "ギリギリで助かった",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4075_0010_mn02_0",
+            "text": "恋人が先に駅に行ったはずで……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4081_0010_wm02_0",
+            "text": "いや　いや……！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4082_0010_wm02_0",
+            "text": "早く助けてよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4083_0010_wm02_0",
+            "text": "信じたくない……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4084_0010_wm02_0",
+            "text": "もう　逃げられないの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4091_0010_wm29_0",
+            "text": "子供が駅にいるの",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4092_0010_wm29_0",
+            "text": "こんなの無理",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4093_0010_wm29_0",
+            "text": "駅に……駅に行かないと　早く",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4094_0010_wm29_0",
+            "text": "いきなり……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4101_0010_wm01_0",
+            "text": "どうして　こんな目にあうのよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4102_0010_wm01_0",
+            "text": "駅で家族が待ってるのよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4103_0010_wm01_0",
+            "text": "高速道路も爆破されたの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4104_0010_wm01_0",
+            "text": "犯人はどういうつもりなの",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4111_0010_wm01_0",
+            "text": "道路が落ちてきて",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4112_0010_wm01_0",
+            "text": "もし　今また崩れたら……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4113_0010_wm01_0",
+            "text": "こんな時は　深呼吸よ\r\n神羅本社の危機管理講座で聞いたの",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4114_0010_wm01_0",
+            "text": "落ち着きましょう",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4121_0010_wm04_0",
+            "text": "神羅がなんとかしてくれるよね",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4122_0010_wm04_0",
+            "text": "落ち着こう　みんな",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4123_0010_wm04_0",
+            "text": "ギリギリだった……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4124_0010_wm04_0",
+            "text": "ガレキなんて　のぼっちゃえば……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4131_0010_wm03_0",
+            "text": "家族が待ってるのに",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4132_0010_wm03_0",
+            "text": "これも　爆破のせいなのね？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4133_0010_wm03_0",
+            "text": "ここで死ぬのね……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4134_0010_wm03_0",
+            "text": "どうにかして　駅に行けない？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4135_0010_wm03_0",
+            "text": "子供とはぐれたの",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4141_0010_wm22_0",
+            "text": "まだ崩れるの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4142_0010_wm22_0",
+            "text": "列車が止まる前に　なんとかして",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4143_0010_wm22_0",
+            "text": "腕が痛い　誰か……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4144_0010_wm22_0",
+            "text": "プレートの上なんて二度と来ない",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4145_0010_wm22_0",
+            "text": "耐えられない",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4151_0010_mn03_0",
+            "text": "ああ　もうダメだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4152_0010_mn03_0",
+            "text": "子供の無事だけ知りたい",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4153_0010_mn03_0",
+            "text": "死にたくはない",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4154_0010_mn03_0",
+            "text": "八番街が　終わる……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4161_0010_mn07_0",
+            "text": "足が　震えて……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4162_0010_mn07_0",
+            "text": "もう　逃げられん",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4163_0010_mn07_0",
+            "text": "危ないところだった",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4164_0010_mn07_0",
+            "text": "孫が待ってるんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4171_0010_wm02_0",
+            "text": "まさか……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4172_0010_wm02_0",
+            "text": "列車が動いてたって　これじゃあ……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4173_0010_wm02_0",
+            "text": "お願い　娘を探して",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4174_0010_wm02_0",
+            "text": "子供が無事でありますように",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4181_0010_wm50_0",
+            "text": "あきらめましょう",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4182_0010_wm50_0",
+            "text": "助かると思ったのに",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4183_0010_wm50_0",
+            "text": "もうダメ　動けない",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4184_0010_wm50_0",
+            "text": "このまま　ここで……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4191_0010_by02_0",
+            "text": "神羅が助けてくれるよね？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4192_0010_by02_0",
+            "text": "なんで……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4201_0010_gr02_0",
+            "text": "おかあさん……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4202_0010_gr02_0",
+            "text": "なんでよお……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4210_0010_wm05_0",
+            "text": "この先はガレキでふさがってるわよ\r\n戻った方がよくない？",
+            "speaker": "プレート住民"
+        },
+        {
+            "id": "$tk_town8_4210_0020_mn09_0",
+            "text": "軍がどかしてくれるだろ",
+            "speaker": "プレート住民"
+        },
+        {
+            "id": "$tk_town8_4221_0010_mn09_0",
+            "text": "そこの路地を戻れば駅に抜けられるんだけど\r\nちょっと危険なんだよね",
+            "speaker": "プレート住民"
+        },
+        {
+            "id": "$tk_town8_4221_0020_wm05_0",
+            "text": "絶対に戻るべきよ",
+            "speaker": "プレート住民"
+        },
+        {
+            "id": "$tk_town8_4222_0010_wm05_0",
+            "text": "駅に行きたいの？",
+            "speaker": "プレート住民"
+        },
+        {
+            "id": "$tk_town8_4222_0011_wm05_0",
+            "text": "そこの路地を抜けた先の\r\n建物の屋上を通り抜ければいいわ",
+            "speaker": "プレート住民"
+        },
+        {
+            "id": "$tk_town8_4222_0020_mn09_0",
+            "text": "簡単に言うなよ",
+            "speaker": "プレート住民"
+        },
+        {
+            "id": "$tk_town8_4231_0010_wm04_0",
+            "text": "嘘でしょ　早く助けて",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4231_0020_mn08_0",
+            "text": "軍がすぐに来る　そうすれば……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4231_0030_wm04_0",
+            "text": "早く来てよ　早く！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4232_0010_wm04_0",
+            "text": "私たち　なにか悪いことしたの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4232_0020_mn08_0",
+            "text": "してない\r\nこんなことは　許されない",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4241_0010_mn55_0",
+            "text": "なにがあった",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4242_0010_mn55_0",
+            "text": "どういうことなんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4243_0010_mn55_0",
+            "text": "大丈夫か？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4251_0010_mn57_0",
+            "text": "安心しろ　近くに軍が来てる",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4252_0010_mn57_0",
+            "text": "できることはあるか？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4253_0010_mn57_0",
+            "text": "落ち着け",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4261_0010_wm54_0",
+            "text": "これ　どういうこと？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4262_0010_wm54_0",
+            "text": "なにがあったのよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4263_0010_wm54_0",
+            "text": "大丈夫？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4271_0010_wm53_0",
+            "text": "いるものがあれば　持ってくわよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4272_0010_wm53_0",
+            "text": "きっとすぐ　救助が来るわ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4273_0010_wm53_0",
+            "text": "みんな　落ち着いて",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4281_0010_wm06_0",
+            "text": "この世の終わりだわ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4281_0020_mn10_0",
+            "text": "ひどいな……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4282_0010_wm06_0",
+            "text": "怖くて　たまらない……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4282_0020_mn10_0",
+            "text": "なにがあっても　一緒にいるよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4291_0010_mn11_0",
+            "text": "まだ　立てそうにないか？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4291_0020_wm07_0",
+            "text": "ごめんね　お父さん\r\n様子が見たいって私が言ったのに",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4291_0030_mn11_0",
+            "text": "気にするな",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4292_0010_wm07_0",
+            "text": "まだ　燃えてる？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4292_0020_mn11_0",
+            "text": "ああ……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4292_0030_wm07_0",
+            "text": "ここも燃えちゃったら　どうしよう",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4301_0010_mn12_0",
+            "text": "火　消えねえ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4302_0010_mn12_0",
+            "text": "魔晄も　燃えてるのか？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4303_0010_mn12_0",
+            "text": "やばいぜ……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4304_0010_mn12_0",
+            "text": "これ　元に戻るのか？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4311_0010_wm09_0",
+            "text": "こわい……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4312_0010_wm09_0",
+            "text": "魔晄炉が　魔晄炉が……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4313_0010_wm09_0",
+            "text": "知り合いが働いてるの",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4314_0010_wm09_0",
+            "text": "これからどうなるの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4321_0010_mn13_0",
+            "text": "そこの階段をおりりゃ\r\n裏通りまで続く通りに出る",
+            "speaker": "プレート住民"
+        },
+        {
+            "id": "$tk_town8_4322_0010_mn13_0",
+            "text": "裏通りから駅に行くんなら\r\nまずは階段おりて　噴水広場を目指しな",
+            "speaker": "プレート住民"
+        },
+        {
+            "id": "$tk_town8_4331_0010_by01_0",
+            "text": "ねえ　おもちゃとってきていい？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4331_0020_wm10_0",
+            "text": "ダメ　ここにいて",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4331_0030_gr01_0",
+            "text": "あとで　とりにかえってこれるよね",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4331_0040_mn11_0",
+            "text": "ああ　大丈夫だ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4332_0010_wm10_0",
+            "text": "せめて　この子たちだけでも先に",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4332_0020_mn11_0",
+            "text": "全員いっしょに逃げるんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4332_0030_by01_0",
+            "text": "おとうさんとおかあさんも\r\nいっしょじゃないと　ダメ！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4332_0040_gr01_0",
+            "text": "みんな　いっしょなの！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4341_0010_mn15_0",
+            "text": "まさか　崩れるとは",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4342_0010_mn15_0",
+            "text": "完成まで何年もかかったのに",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4343_0010_mn15_0",
+            "text": "こりゃ　市長交代だな",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4344_0010_mn15_0",
+            "text": "裏通りから行くしかない",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4351_0010_mn14_0",
+            "text": "高速道路まで……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4352_0010_mn14_0",
+            "text": "駅がダメなら　どこに逃げんだよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4361_0010_wm14_0",
+            "text": "知り合いが　駅に行ったの",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4362_0010_wm14_0",
+            "text": "行かなくてよかった",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4363_0010_wm14_0",
+            "text": "あんまりだわ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4364_0010_wm14_0",
+            "text": "軍は予想していたの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4371_0010_wm11_0",
+            "text": "ハイウェイも爆破されたわけ？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4372_0010_wm11_0",
+            "text": "放送で　逃げろって言ってた",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4381_0010_mn21_0",
+            "text": "よし　軍が来たぞ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4382_0010_mn21_0",
+            "text": "早く　犯人を捕まえてくれ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4383_0010_mn21_0",
+            "text": "いつかこうなると思ってたんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4384_0010_mn21_0",
+            "text": "さすがに　ここまで火はこないだろ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4391_0010_mn18_0",
+            "text": "プレジデントの声明はまだか",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4392_0010_mn18_0",
+            "text": "八番魔晄炉が無事なら　なんとかなる",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4393_0010_mn18_0",
+            "text": "この混乱は　市長の責任だ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4394_0010_mn18_0",
+            "text": "噴水広場が　通行止め？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4401_0010_mn28_0",
+            "text": "魔晄炉がやられたってことは職場が……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4402_0010_mn28_0",
+            "text": "非番で命拾いしたよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4403_0010_mn28_0",
+            "text": "駅って　この先の広場を\r\n抜けていくんだよね？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4404_0010_mn28_0",
+            "text": "無理に逃げなくても……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4411_0010_mn27_0",
+            "text": "裏通りって　噴水広場の先だろ？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4412_0010_mn27_0",
+            "text": "魔晄炉近くは悲惨らしいぞ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4413_0010_mn27_0",
+            "text": "いちおう　避難はした方がいい",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4414_0010_mn27_0",
+            "text": "知り合いが本社ビルに向かった",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4421_0010_mn19_0",
+            "text": "スラムに帰りたいんだけど",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4422_0010_mn19_0",
+            "text": "八番街には　遊びにきたんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4423_0010_mn19_0",
+            "text": "実はただの事故とか　ない？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4431_0010_wm33_0",
+            "text": "朝から　嫌な予感がしたのよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4432_0010_wm33_0",
+            "text": "このあたりも危険？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4433_0010_wm33_0",
+            "text": "できれば　家にいたい",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4434_0010_wm33_0",
+            "text": "市長は　なにをしてるの",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4441_0010_wm22_0",
+            "text": "軍が来たし　大丈夫よ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4442_0010_wm22_0",
+            "text": "魔晄漏れが心配",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4443_0010_wm22_0",
+            "text": "噴水広場　通らせてくれないかしら",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4444_0010_wm22_0",
+            "text": "広場が通行止め？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4451_0010_wm13_0",
+            "text": "どうやって駅に行けばいいのよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4452_0010_wm13_0",
+            "text": "犯人は　まだ捕まってないの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4453_0010_wm13_0",
+            "text": "避難場所って　どこ？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4454_0010_wm13_0",
+            "text": "どこに逃げればいいの",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4461_0010_wm23_0",
+            "text": "爆破じゃなくて　事故だったりして",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4462_0010_wm23_0",
+            "text": "プレジデントの見解を聞きたい",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4463_0010_wm23_0",
+            "text": "本社ビルに逃げた人もいるって",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4464_0010_wm23_0",
+            "text": "魔晄炉がない生活なんて　無理",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4471_0010_wm34_0",
+            "text": "言うほど　建物は壊れてないね",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4472_0010_wm34_0",
+            "text": "軍がいるなら　安全よ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4473_0010_wm34_0",
+            "text": "プレジデントなら\r\nちゃんと対応してくれる",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4481_0010_mn20_0",
+            "text": "軍が来たなら　安心だ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4482_0010_mn20_0",
+            "text": "犯人には　極刑を望むぞ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4483_0010_mn20_0",
+            "text": "市長は役に立たん",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4484_0010_mn20_0",
+            "text": "プレジデントからの説明が聞きたい",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4491_0010_mn20_0",
+            "text": "このあたりは安全だろう",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4492_0010_mn20_0",
+            "text": "神羅は　このくらいでは倒れん",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4501_0010_wm15_0",
+            "text": "軍が守ってくれる？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4502_0010_wm15_0",
+            "text": "状況がよくわからないわ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4503_0010_wm15_0",
+            "text": "家には帰れるの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4504_0010_wm15_0",
+            "text": "列車に乗れるなら　そうしたいけど",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4511_0010_wm30_0",
+            "text": "スラムには戻れるの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4512_0010_wm30_0",
+            "text": "プレジデントの発表は　まだ？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4521_0010_mn31_0",
+            "text": "兵隊さん　銃持ってた",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4522_0010_mn31_0",
+            "text": "すっごい音がして　めちゃくちゃゆれた",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4531_0010_wm32_0",
+            "text": "軍のひとが　いっぱい",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4532_0010_wm32_0",
+            "text": "あんなこわいの　もうやだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4541_0010_mn16_0",
+            "text": "お客様　一度ホテルの中にお戻りください",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4541_0020_mn17_0",
+            "text": "軍に事情を聞くだけだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4541_0030_wm12_0",
+            "text": "じゃないと　安心できないわ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4542_0010_mn16_0",
+            "text": "お客様たちは　当ホテルが責任もって\r\n避難場所まで誘導します",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4542_0020_mn17_0",
+            "text": "軍に協力してもらおう",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4542_0030_wm12_0",
+            "text": "そうよ　そのほうが安心よ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4551_0010_mn30_0",
+            "text": "店はぐちゃぐちゃ\r\nとっておきの食器も全滅だよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4551_0020_wm31_0",
+            "text": "きっと神羅が補償してくれるわよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4552_0010_wm32_0",
+            "text": "おじさん　にげないの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4552_0020_mn30_0",
+            "text": "ああ　この店を放っておけないんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4561_0010_wm18_0",
+            "text": "狙われたのは　ミッドガル市民よ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4561_0020_wm17_0",
+            "text": "は……？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4561_0030_wm18_0",
+            "text": "上層市民に嫉妬した　スラムの人たちがさ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4561_0040_wm16_0",
+            "text": "ああ……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4562_0010_wm18_0",
+            "text": "プレジデント神羅は　無能",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4562_0020_wm17_0",
+            "text": "ええっ！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4562_0030_wm18_0",
+            "text": "そう思わせたい　市長の陰謀って可能性も",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_4562_0040_wm16_0",
+            "text": "えぇ～？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7001_0010_wm01_0",
+            "text": "貨物車にも乗ってる人いたんだね\r\nま　あの混乱じゃ仕方ないか",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7002_0010_wm01_0",
+            "text": "ひとりになりたいんだよね",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7011_0010_mn03_0",
+            "text": "ん？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7012_0010_mn03_0",
+            "text": "なんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7013_0010_mn03_0",
+            "text": "押すな",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7014_0010_mn03_0",
+            "text": "おい",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7015_0010_mn03_0",
+            "text": "あ　わりぃ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7021_0010_mn02_0",
+            "text": "っと",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7022_0010_mn02_0",
+            "text": "なんだよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7023_0010_mn02_0",
+            "text": "気をつけろ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7031_0010_wm14_0",
+            "text": "えっ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7032_0010_wm14_0",
+            "text": "もう",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7033_0010_wm14_0",
+            "text": "なに？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7034_0010_wm14_0",
+            "text": "あ　ごめん",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7035_0010_wm14_0",
+            "text": "気をつけてよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7041_0010_mn32_0",
+            "text": "ちょっと",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7042_0010_mn32_0",
+            "text": "押さないで",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7043_0010_mn32_0",
+            "text": "はぁ……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7051_0010_mn31_0",
+            "text": "んん？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7052_0010_mn31_0",
+            "text": "ちゃんと前を見ろ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7053_0010_mn31_0",
+            "text": "まったく",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7061_0010_wm15_0",
+            "text": "え？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7062_0010_wm15_0",
+            "text": "すみません",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7063_0010_wm15_0",
+            "text": "邪魔だったわね",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7071_0010_by02_0",
+            "text": "うわ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7072_0010_by02_0",
+            "text": "ごめん！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7073_0010_by02_0",
+            "text": "人が多すぎるね",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7081_0010_gr02_0",
+            "text": "わ……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7082_0010_gr02_0",
+            "text": "ごめんなさい",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7083_0010_gr02_0",
+            "text": "っとと",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7091_0010_mn06_0",
+            "text": "貨物車にして正解だぜ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7092_0010_mn06_0",
+            "text": "あいつは乗れたかな",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7093_0010_mn06_0",
+            "text": "目の前でハイウェイが落ちたんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7094_0010_mn06_0",
+            "text": "帰れりゃ　それでいい",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7095_0010_mn06_0",
+            "text": "見まわり　ねえよな？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7101_0010_wm05_0",
+            "text": "よかった　乗れて",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7102_0010_wm05_0",
+            "text": "バレても　おろされないよね",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7103_0010_wm05_0",
+            "text": "スラムは無事かしら",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7104_0010_wm05_0",
+            "text": "これで帰れる",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7105_0010_wm05_0",
+            "text": "友達とはぐれちゃったの",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7111_0010_mn08_0",
+            "text": "爆破ってマジかよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7112_0010_mn08_0",
+            "text": "下に影響はねえよな",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7113_0010_mn08_0",
+            "text": "犯人は捕まったのか？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7114_0010_mn08_0",
+            "text": "仕事がなくなっちまった",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7121_0010_mn01_0",
+            "text": "すげえ炎だったぜ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7122_0010_mn01_0",
+            "text": "この世の終わりだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7123_0010_mn01_0",
+            "text": "反神羅勢力……聞いたことある",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7124_0010_mn01_0",
+            "text": "スラムは無事かな",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7131_0010_mn02_0",
+            "text": "ボロ家でも　燃えるよりマシ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7132_0010_mn02_0",
+            "text": "スラムを見下してたやつらは　いい気味",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7133_0010_mn02_0",
+            "text": "早く帰りてえ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7134_0010_mn02_0",
+            "text": "魔晄炉なんて　いらないさ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7141_0010_mn10_0",
+            "text": "参番街に逃げたかったのに",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7142_0010_mn10_0",
+            "text": "スラムって　宿はあんの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7151_0010_mn08_0",
+            "text": "スラムは何年ぶりかな",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7152_0010_mn08_0",
+            "text": "八番街　元に戻るよな？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7153_0010_mn08_0",
+            "text": "もし　ほかの魔晄炉もやられたら……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7161_0010_wm01_0",
+            "text": "炎　怖かった",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7162_0010_wm01_0",
+            "text": "スラムがこんなに恋しいなんて",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7163_0010_wm01_0",
+            "text": "職場はめちゃくちゃよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7164_0010_wm01_0",
+            "text": "疲れた　寝たい……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7171_0010_wm02_0",
+            "text": "恋人とデートだったの",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7172_0010_wm02_0",
+            "text": "誰があんなことしたの",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7173_0010_wm02_0",
+            "text": "すごい勢いで燃えてた",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7174_0010_wm02_0",
+            "text": "乗れてよかった",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7181_0010_wm02_0",
+            "text": "プレートの上も危険ね",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7182_0010_wm02_0",
+            "text": "攻撃って言ってたけど　本当かしら",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7183_0010_wm02_0",
+            "text": "ウータイが関わってるって噂よ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7184_0010_wm02_0",
+            "text": "星を守るためなんて　嘘よね",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7191_0010_wm07_0",
+            "text": "まさか　アバランチの仕業なの？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7192_0010_wm07_0",
+            "text": "弐番街行きに乗りたかったのよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7201_0010_wm10_0",
+            "text": "今夜は帰れそうもないな",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7202_0010_wm10_0",
+            "text": "八番街　どうなるのかな",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7211_0010_mn20_0",
+            "text": "出かけたりしないで\r\nうちにいればよかった",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7212_0010_mn20_0",
+            "text": "ウータイが絡んどるのか？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7221_0010_mn29_0",
+            "text": "死ぬかと思ったが\r\nなんとか助かったようだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7222_0010_mn29_0",
+            "text": "ほかの魔晄炉も狙われるかもしれんな",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7231_0010_wm11_0",
+            "text": "娘が八番街に住んでいてね",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7232_0010_wm11_0",
+            "text": "犯人はどうなったのかしら",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7241_0010_wm13_0",
+            "text": "やっぱり　地上がいちばんよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7242_0010_wm13_0",
+            "text": "反神羅勢力って　噂は知ってるわ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7251_0010_by01_0",
+            "text": "家は大丈夫かな",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7252_0010_by01_0",
+            "text": "弟たちに話してやるんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7261_0010_gr01_0",
+            "text": "はんにん　神羅がつかまえた？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7262_0010_gr01_0",
+            "text": "すごく　もえてた",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7271_0010_kre_0",
+            "text": "なに　仕事の邪魔だよ",
+            "speaker": "キリエ"
+        },
+        {
+            "id": "$tk_town8_7276_0010_kre_0",
+            "text": "なにか用なの？",
+            "speaker": "キリエ"
+        },
+        {
+            "id": "$tk_town8_7277_0010_kre_0",
+            "text": "いい加減にしてほしいなぁ",
+            "speaker": "キリエ"
+        },
+        {
+            "id": "$tk_town8_7281_0010_mn15_0",
+            "text": "なんかくすぐったくて……\r\n気のせいか",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7282_0010_mn15_0",
+            "text": "財布……\r\nうん　ちゃんとある",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7291_0010_mn13_0",
+            "text": "おい！\r\nあ　いや……なんでもない",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7292_0010_mn13_0",
+            "text": "ポケットのあたりがくすぐったいんだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7293_0010_mn13_0",
+            "text": "すみません　ぶつかって……あれ？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7341_0010_wm05_0",
+            "text": "いま引っ張ったの　誰？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7342_0010_wm05_0",
+            "text": "スリに気をつけないと",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7351_0010_wm06_0",
+            "text": "財布は大丈夫ね",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7352_0010_wm06_0",
+            "text": "袖を掴んだの　あなた？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7361_0010_mn05_0",
+            "text": "スラムをバカにしてきた罰だって\r\n見方もあるぜ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7361_0020_wm04_0",
+            "text": "冗談やめてよ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7361_0030_mn04_0",
+            "text": "魔晄炉がなけりゃ　俺らも困る",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7362_0010_wm04_0",
+            "text": "電気がない生活なんて無理だわ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7362_0020_mn04_0",
+            "text": "七番にも影響があるはずだ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7362_0030_mn05_0",
+            "text": "神羅がなんとかしてくれんじゃねえの",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7371_0010_mn32_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7381_0010_mn31_0",
+            "text": "なんにも聞こえなかったぜ",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7382_0010_mn31_0",
+            "text": "早く着かねえかな～！",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7391_0010_wm15_0",
+            "text": "別に　怖くない……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7392_0010_wm15_0",
+            "text": "早く駅についてよ……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7401_0010_wm14_0",
+            "text": "嘘でしょ？",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_7402_0010_wm14_0",
+            "text": "寝たふり……",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town8_btsc054_0020_kb20_0",
+            "text": "ここから出すな",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$tk_town8_btsc054_0030_kb21_0",
+            "text": "逃がさん！",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$tk_town8_btsc055_0010_kb22_0",
+            "text": "探せ　絶対に逃がすな",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$tk_town8_btsc056_0010_kb24_0",
+            "text": "上空部隊から伝達\r\n駅周辺の警備を固めろとのことだ",
+            "speaker": "警備兵"
+        },
+        {
+            "id": "$tk_town8_btsc056_0020_cld_0",
+            "text": "駅から離れて　様子を見るか",
+            "speaker": "クラウド"
+        }
+    ],
+    "meta": {
+        "tool": "FF7R text mod tools",
+        "version": "1.4.2",
+        "game": "FF7R"
+    }
+}

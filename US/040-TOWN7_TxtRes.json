@@ -1,0 +1,6144 @@
+{
+    "data": [
+        {
+            "id": "$ba_town7_2303_01_en11_0",
+            "text": "We've spotted more intruders. Send backup.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town7_2303_02_en12_0",
+            "text": "They have a sniper. Get him first!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town7_2303_en10_0",
+            "text": "They're up there too!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town7_2307_01_02_en11_0",
+            "text": "Come on! What the hell are the others doing!?",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town7_2307_01_en10_0",
+            "text": "They're headed this way!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town7_2307_02_02_en05_0",
+            "text": "Where's our damn backup!?",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town7_2307_02_en04_0",
+            "text": "Focus on the other one! Quickly, before we're surrounded!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town7_2310_en01_0",
+            "text": "Who're you!?",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town7_2312_01_en20_0",
+            "text": "Focus! Stay with your team!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town7_2312_en19_0",
+            "text": "Take 'em all down!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town7_2313_01_02_en20_0",
+            "text": "What is this shit!?",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town7_2313_01_en19_0",
+            "text": "Dammit! There's just too many of them!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town7_2313_02_02_en23_0",
+            "text": "Why you─! Who the hell are you!?",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town7_2313_02_en22_0",
+            "text": "You're gonna pay!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town7_2315_01_02_big_0",
+            "text": "Nice job! Give 'em hell!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ba_town7_2315_01_wed_0",
+            "text": "That was over super quick!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ba_town7_2345_01_en27_0",
+            "text": "Puttin' up a fight, huh?",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_town7_2345_02_en29_0",
+            "text": "Don't let them escape!",
+            "speaker": "Elite Shock Trooper"
+        },
+        {
+            "id": "$ba_town7_2365_01_wed_0",
+            "text": "Tasty treats! Come and get 'em!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ba_town7_2365_02_wed_0",
+            "text": "Don't eat me! Please don't eat me!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ba_town7_2365_03_wed_0",
+            "text": "Midgar Special, don't fail me now!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ba_town7_2365_04_wed_0",
+            "text": "I'm not tired! I can do this all night!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ba_town7_2365_05_wed_0",
+            "text": "How much...more time...do you think...you'll need...?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ba_town7_7200_01_wed_0",
+            "text": "Cloud! Try and lead them toward the mines!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ba_town7_7200_02_wed_0",
+            "text": "All set and ready to go! Bring 'em in Cloud!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ba_town7_7200_03_wed_0",
+            "text": "My mines will do real damage!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ba_town7_7200_04_wed_0",
+            "text": "Cloud, our best bet is to lead them toward the mines!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ba_town7_7200_05_wed_0",
+            "text": "I laid a few more mines for ya!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ba_town7_7200_06_wed_0",
+            "text": "Hurry! Lead the sweepers toward the mines!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ba_town7_7200_07_wed_0",
+            "text": "Cloud, it's over there!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ba_town7_7200_08_wed_0",
+            "text": "There still some left, you know! You should make use of them while you can!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ba_town7_8150_rch_0",
+            "text": "At last, our long-awaited dance begins! Here's to a fair fight, my friend!",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_0010_0000_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_0010_0010_big_0",
+            "text": "Tough break. They changed the times.\r\nLast train's already left.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_0010_0010_big_1",
+            "text": "Which is why we borrowed these bikes. Need a lift to the plate?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_0010_0020_jec_0",
+            "text": "How did you guess...?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0010_0030_wed_0",
+            "text": "Easy. You've been acting weird.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_0010_0030_wed_1",
+            "text": "Like, talking about one thing when you're obviously thinking about something else.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_0010_0040_big_0",
+            "text": "Yeah, and don't get me started on all that pep.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_0010_0050_jec_0",
+            "text": "All right, I'll give you that─but how did you know I wanted to head topside?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0010_0050_jec_1",
+            "text": "Was I talking in my sleep? What else did I say!?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0010_0060_wed_0",
+            "text": "No. We just figured you wanted to see your parents. That's all.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_0010_0070_big_0",
+            "text": "Nailed it, huh?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_0010_0080_jec_0",
+            "text": "Yup. Right on the head.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0010_0090_big_0",
+            "text": "So─seeing as we don't have any family of our own...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_0010_0090_big_1",
+            "text": "How about you let us be a part of yours for a bit? You know, spread the wealth.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_0010_0100_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_0010_0100_jec_1",
+            "text": "Are your parents still around?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0010_0110_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_0010_0110_cld_1",
+            "text": "No.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_0010_0120_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_0010_0140_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_0010_0150_jec_0",
+            "text": "Okay, then. Guess you're all invited!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0010_0150_jec_1",
+            "text": "Here's to awkward family reunions!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0010_0151_big_0",
+            "text": "Yeah!",
+            "speaker": "Biggs & Wedge"
+        },
+        {
+            "id": "$ev_town7_0010_0152_wed_0",
+            "text": "Yeah!",
+            "speaker": "Biggs & Wedge"
+        },
+        {
+            "id": "$ev_town7_0010_0153_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_0010_0160_jec_0",
+            "text": "I take it you boys have your brand-spanking-new IDs?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0010_0170_ev1_0",
+            "text": "Yes, ma'am!",
+            "speaker": "Biggs & Wedge"
+        },
+        {
+            "id": "$ev_town7_0010_0180_jec_0",
+            "text": "Then let's lay down some rubber!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0010_0190_big_0",
+            "text": "Crank that throttle!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_0010_0200_wed_0",
+            "text": "Okay, you got it!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_0020_0010_jec_0",
+            "text": "You hear me?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0020_0020_cld_0",
+            "text": "Yeah.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_0020_0030_jec_0",
+            "text": "Just so you know, I'm not going plateside for the reason they think I am.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0020_0030_jec_1",
+            "text": "Look─you saw the way the reactor went up. It was huge, right?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0020_0040_cld_0",
+            "text": "Because of all the mako. Isn't that what you said?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_0020_0050_jec_0",
+            "text": "Yeah...that was wishful thinking.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0020_0050_jec_1",
+            "text": "Deep down, I know it was my fault.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0020_0055_jec_0",
+            "text": "I used a more powerful blasting agent than the directions called for.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0020_0055_jec_1",
+            "text": "It had nothing to do with the mako.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0020_0060_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_0020_0060_cld_1",
+            "text": "Let's say you're right. So what?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_0020_0070_jec_0",
+            "text": "I'm planning on using a weaker blasting agent this time.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0020_0070_jec_1",
+            "text": "But...since I can't get in touch with my supplier, our only option is to loot a warehouse owned by Shinra.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0020_0080_cld_0",
+            "text": "Shinra?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_0020_0080_cld_1",
+            "text": "Good luck with that.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_0020_0090_jec_0",
+            "text": "With your help, we won't need luck.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0020_0095_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_0020_0096_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_0020_0110_jec_0",
+            "text": "ID scan!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_0020_0110_jec_1",
+            "text": "Ready!?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1060_0010_ks01_0",
+            "text": "Targets sighted. Moving to intercept.",
+            "speaker": "Mobile Unit Officer"
+        },
+        {
+            "id": "$ev_town7_1060_0020_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1080_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1080_0020_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1110_0005_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1110_0010_wed_0",
+            "text": "We made it!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_1110_0020_big_0",
+            "text": "Woo-hoo! Topside!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_1170_0001_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1170_0003_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1170_0005_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1170_0007_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1170_0010_jec_0",
+            "text": "Who's that?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1170_0017_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1170_0020_cld_0",
+            "text": "A SOLDIER.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_1170_0021_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1170_0022_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1170_0024_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1170_0030_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0010_cld_0",
+            "text": "Had enough?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_1210_0020_rch_0",
+            "text": "Don't be absurd.",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_1210_0020_rch_1",
+            "text": "As if I could ever grow tired of your company!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_1210_0025_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0027_rch_0",
+            "text": "Naughty, naughty!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_1210_0030_rch_0",
+            "text": "Until one of our flames is forever extinguished, our dance will never end!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_1210_0030_rch_1",
+            "text": "Burn for me!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_1210_0031_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0032_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0033_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0034_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0034_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0035_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0036_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0037_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0037_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0038_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0038_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0039_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0040_rch_0",
+            "text": "Come on! Let's push it past the redline!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_1210_0050_cld_0",
+            "text": "Jessie, take over.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_1210_0060_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0061_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0062_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0063_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0065_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0065_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0066_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0066_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0067_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0068_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0069_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1210_0070_rch_0",
+            "text": "Well, well, well!\r\nI do believe this round is yours.",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_1210_0080_rch_0",
+            "text": "Maybe next time we can keep it just between the two of us.",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_1210_0090_cld_0",
+            "text": "Maybe.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_1210_0100_rch_0",
+            "text": "Until we meet again, my friend!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_1210_0110_big_0",
+            "text": "We did it!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_1210_0120_wed_0",
+            "text": "Go team!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_1210_0130_jec_0",
+            "text": "Don't get too excited.\r\nReinforcements are hot on our trail.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1230_0010_jec_0",
+            "text": "You passed the test!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1230_0020_cld_0",
+            "text": "What test?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_1230_0030_jec_0",
+            "text": "Driving.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1230_0035_cld_0",
+            "text": "Been driving for years.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_1230_0040_jec_0",
+            "text": "So you don't need a reward?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1230_0050_cld_0",
+            "text": "No.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_1230_0055_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1230_0060_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1230_0065_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1230_0070_jec_0",
+            "text": "Well, you got one anyway.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1230_0080_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1230_0085_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1230_0090_jec_0",
+            "text": "You can thank me later. I'll wait.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1230_0100_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1230_0110_jec_0",
+            "text": "Giving me the cold shoulder?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1230_0120_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1230_0130_jec_0",
+            "text": "Aw, would you look at that... It's the end of the ride.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1240_0010_jec_0",
+            "text": "You passed the test!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1240_0020_cld_0",
+            "text": "What test?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_1240_0030_jec_0",
+            "text": "Driving.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1240_0035_cld_0",
+            "text": "Did more than just pass.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_1240_0040_jec_0",
+            "text": "Not really. You made it by the skin of your teeth, if we're being honest.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1240_0050_cld_0",
+            "text": "Whatever.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_1240_0060_jec_0",
+            "text": "I bet you held back because I was with you.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1240_0070_cld_0",
+            "text": "Didn't want you to fall.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_1240_0080_jec_0",
+            "text": "So now I'm too weak to stay on a bike?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1240_0080_jec_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1240_0090_cld_0",
+            "text": "Just hold on tight, will you?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_1240_0100_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1240_0110_cld_0",
+            "text": "What?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_1240_0120_jec_0",
+            "text": "I might...be falling after all.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1240_0130_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1240_0140_jec_0",
+            "text": "Psych!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1240_0150_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1240_0160_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1240_0170_jec_0",
+            "text": "Aw, would you look at that... It's the end of the ride.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1250_0010_jec_0",
+            "text": "You failed the test.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1250_0020_cld_0",
+            "text": "What test?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_1250_0030_jec_0",
+            "text": "Driving.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1250_0035_cld_0",
+            "text": "I'm great at driving.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_1250_0040_jec_0",
+            "text": "Hah! Great at scaring your passengers more like...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1250_0050_cld_0",
+            "text": "Not used to having any.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_1250_0060_jec_0",
+            "text": "Maybe you should just let <i>me</i> drive.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1250_0070_cld_0",
+            "text": "Nope.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_1250_0075_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1250_0080_jec_0",
+            "text": "Guess I'll take one for the team and be your back warmer again.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_1250_0090_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1250_0100_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_1250_0110_jec_0",
+            "text": "Aw, would you look at that... It's the end of the ride.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2010_0000_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2010_0001_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2010_0010_jec_0",
+            "text": "We'll go on foot from here.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2010_0010_jec_1",
+            "text": "Don't wanna draw too much attention to ourselves.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2010_0020_wed_0",
+            "text": "Hey, did these things leave a mark?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2010_0030_big_0",
+            "text": "They got you pretty good.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2010_0040_wed_0",
+            "text": "Aw...<i>and</i> I'm running on fumes...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2010_0050_jec_0",
+            "text": "Don't worry, we'll top you up soon enough.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2010_0050_jec_1",
+            "text": "Now let's roll.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2010_0060_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2020_0000_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2020_0010_jec_0",
+            "text": "Here we are─the employee housing district. Where they put you when your parents work for Shinra.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2020_0020_jec_0",
+            "text": "While their reactors were slowly killing the planet, we were living the good life...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2020_0030_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2080_0010_jec_0",
+            "text": "With your help, we won't need luck.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2080_0020_jec_0",
+            "text": "You'll take on just about any job, right?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2080_0020_jec_1",
+            "text": "Well, I need you to rob my house. Think you can do that for me?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2080_0025_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2080_0030_jec_0",
+            "text": "Go in through the back door when the coast is clear. The signal will be obvious.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2080_0040_cld_0",
+            "text": "Once the lights come on, it's go time.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2080_0050_cld_0",
+            "text": "Time to go.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2090_0010_jec_0",
+            "text": "Inside, you'll find a room with two doors.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2090_0020_jec_0",
+            "text": "Don't take the one in front of you. You want the room on the right. That's where you'll find it.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2110_0020_jec_0",
+            "text": "We'll be chatting Mom up in the kitchen, so don't even bother being quiet.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2110_0020_jec_1",
+            "text": "Dad'll be in there, but it's okay.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2110_0020_jec_2",
+            "text": "There's no way she'll ever hear you.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2110_0025_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2110_0030_jec_0",
+            "text": "I need you to grab his Shinra ID card. And yeah, I know I should do it myself, but...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2110_0030_jec_1",
+            "text": "but I honestly don't think I'm up to it.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2110_0030_jec_2",
+            "text": "Just do this for me, okay?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2150_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2170_0010_jem_0",
+            "text": "When are you going to give up on the Gold Saucer? How long has it been since you even performed?",
+            "speaker": "Jessie's Mom"
+        },
+        {
+            "id": "$ev_town7_2170_0015_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2170_0020_wed_0",
+            "text": "A lot of people really rely on Jessie.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2170_0030_jem_0",
+            "text": "As a stagehand though, right? You can be one of those anywhere.",
+            "speaker": "Jessie's Mom"
+        },
+        {
+            "id": "$ev_town7_2170_0040_jem_0",
+            "text": "So why not come home and get a job at the Sector 8 theater?",
+            "speaker": "Jessie's Mom"
+        },
+        {
+            "id": "$ev_town7_2170_0050_jec_0",
+            "text": "Uhhh, I'll think about it.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2170_0050_jec_1",
+            "text": "You know, I'd really love to stay and chat, but we gotta go.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2170_0060_jem_0",
+            "text": "So soon!?",
+            "speaker": "Jessie's Mom"
+        },
+        {
+            "id": "$ev_town7_2170_0080_jec_0",
+            "text": "Yeah, well, we hadn't even planned on dropping by.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2170_0080_jec_1",
+            "text": "But Wedge wanted some of your famous pizza.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2170_0089_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2170_0090_wed_0",
+            "text": "So good!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2170_0100_jem_0",
+            "text": "Sure I can't tempt you with some more?",
+            "speaker": "Jessie's Mom"
+        },
+        {
+            "id": "$ev_town7_2170_0110_wed_0",
+            "text": "Maybe just a couple slices, Missus R.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2170_0120_ev1_0",
+            "text": "Wedge!",
+            "speaker": "Biggs & Jessie"
+        },
+        {
+            "id": "$ev_town7_2170_0140_wed_0",
+            "text": "Hey! I'm...I'm doing it for you guys!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2170_0140_wed_1",
+            "text": "You don't want me going to work on an empty stomach.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2180_0010_jec_0",
+            "text": "I'm planning on using a weaker blasting agent this time.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0020_jec_0",
+            "text": "Since I can't get in touch with my supplier, our only option is to loot a warehouse owned by Shinra.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0030_jec_0",
+            "text": "Hey there.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0040_cld_0",
+            "text": "This it?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2180_0045_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2180_0050_jec_0",
+            "text": "Now comes the hard part.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0060_jec_0",
+            "text": "I'm gonna use this to sneak into the 7-6 Annex.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0069_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2180_0070_big_0",
+            "text": "All right, let's get to it.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2180_0080_jec_0",
+            "text": "Sorry, but you're staying outside.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0080_jec_1",
+            "text": "Only I know what to steal from where, so it's gotta be me who goes in.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0090_big_0",
+            "text": "So...we came all this way just to eat pizza!?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2180_0100_jec_0",
+            "text": "You think I'd let you off that easy?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0100_jec_1",
+            "text": "You're gonna earn every slice helping Cloud.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0110_jec_0",
+            "text": "Just do the thing where you draw everyone's attention away, like you did at my parents'.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0110_jec_1",
+            "text": "What's the word again? Maybe I'm more nervous than I thought.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0120_cld_0",
+            "text": "Diversion.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2180_0130_jec_0",
+            "text": "Yeah, that! Nice one, military man.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0140_wed_0",
+            "text": "So what, does this mean we're gonna ask some Shinra folks out to dinner?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2180_0150_big_0",
+            "text": "You know damn well what she means.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2180_0155_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2180_0160_big_0",
+            "text": "While you're inside, we make sure the guards are focused on the outside. Yeah?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2180_0170_jec_0",
+            "text": "Exactly. Couldn't've put it any better.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0180_jec_0",
+            "text": "When you see a flare go up, that's your cue. Rush the front gates and make for the warehouse plaza.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0180_jec_1",
+            "text": "The more hell you raise, the more time you buy me.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0190_big_0",
+            "text": "You're gonna run this guy into the ground, aren'tcha?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2180_0200_cld_0",
+            "text": "How much time do you think you'll need?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2180_0210_jec_0",
+            "text": "Not too much. I'll be in and out.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0220_jec_0",
+            "text": "I'll send up another flare when I'm done. We rendezvous in the vacant lot up ahead.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0230_big_0",
+            "text": "Hold on. How are we supposed to get back to the slums? Wait for the first train?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2180_0240_jec_0",
+            "text": "No, I wanna be back before that.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0250_jec_0",
+            "text": "Don't worry, I have something worked out.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0250_jec_1",
+            "text": "Now, let's get this done.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2180_0251_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2180_0260_big_0",
+            "text": "Well, that diversion's not gonna create itself.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2210_0010_big_0",
+            "text": "Just need to get past this gate.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2210_0020_cld_0",
+            "text": "Wait.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2210_0020_cld_1",
+            "text": "Where are the guards?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2210_0021_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2210_0022_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2210_0025_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2210_0026_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2210_0030_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2210_0035_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2210_0040_big_0",
+            "text": "Looks like someone beat us here.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2210_0050_wed_0",
+            "text": "And I don't think it was Jessie.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2210_0060_big_0",
+            "text": "This had better not get in the way of our plans...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2210_0065_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2210_0070_cld_0",
+            "text": "It won't.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2210_0080_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2210_0090_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2240_0005_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2240_0010_big_0",
+            "text": "You start things off by cutting loose where everyone can see you.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2240_0015_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2240_0020_wed_0",
+            "text": "And us?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2240_0030_big_0",
+            "text": "We're the backup.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2240_0030_big_1",
+            "text": "First, we climb high enough to get a vantage point─",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2240_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2240_0050_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2250_0010_tif_0",
+            "text": "Heya.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_town7_2250_0011_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2250_0013_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2250_0017_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2250_0020_tif_0",
+            "text": "So...what did you wanna talk about?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_town7_2250_0025_cld_0",
+            "text": "Ah... Um...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2250_0030_cld_0",
+            "text": "When spring comes, I'm leaving town and going to Midgar.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2250_0035_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2250_0040_tif_0",
+            "text": "Should've figured. All the guys are leaving.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_town7_2250_0050_cld_0",
+            "text": "B-but I'm not like them. I'm not going just to look for work.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2250_0050_cld_1",
+            "text": "I'm gonna be a SOLDIER.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2250_0050_cld_2",
+            "text": "The best of the best. Like Sephiroth.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2250_0060_tif_0",
+            "text": "The great war hero, huh?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_town7_2250_0060_tif_1",
+            "text": "Mm... Isn't it pretty hard to become a SOLDIER?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_town7_2250_0070_cld_0",
+            "text": "Yeah. So I won't be back for a long time.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2250_0080_tif_0",
+            "text": "Guess not. Think you'll be in the papers?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_town7_2250_0090_cld_0",
+            "text": "I'll try.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2250_0100_tif_0",
+            "text": "Just...promise me one thing.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_town7_2250_0100_tif_1",
+            "text": "When we're older, and you're a famous SOLDIER...if I'm ever trapped or in trouble...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_town7_2250_0100_tif_2",
+            "text": "Promise you'll come and save me.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_town7_2250_0110_cld_0",
+            "text": "Huh?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2250_0120_tif_0",
+            "text": "That's what heroes do. They save people.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_town7_2250_0120_tif_1",
+            "text": "Please? Just once.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_town7_2250_0130_cld_0",
+            "text": "Uhh...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2250_0140_tif_0",
+            "text": "Come on, promise me!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_town7_2250_0145_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2250_0150_cld_0",
+            "text": "Fine. I promise.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2250_0160_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2260_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2270_0060_cld_0",
+            "text": "I heard you're having second thoughts.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2270_0070_tif_0",
+            "text": "I know we have to think big if we're going to make a difference...but not like this.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_town7_2270_0080_tif_0",
+            "text": "I just...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_town7_2270_0090_tif_0",
+            "text": "I feel trapped.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_town7_2275_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2300_0005_kb03_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2300_0010_kb01_0",
+            "text": "I don't see any intruders.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town7_2300_0020_kb02_0",
+            "text": "Maybe they went home.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town7_2300_0030_kb01_0",
+            "text": "Hey! Over there!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town7_2300_0032_kb02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2300_0034_kb03_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2300_0040_kb01_0",
+            "text": "T-target sighted!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town7_2300_0042_kb02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2300_0044_kb03_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2300_0050_kb02_0",
+            "text": "Light him up!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town7_2300_0052_kb03_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2300_0055_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2300_0056_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2300_0057_kb02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2300_0058_kb03_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2300_0060_kb03_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2300_0070_kb02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2300_0072_kb04_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2300_0075_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2300_0080_kb01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2300_0082_kb02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2300_0084_kb04_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2300_0090_cld_0",
+            "text": "Give up?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2300_0100_kb02_0",
+            "text": "K-kill the bastard!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town7_2330_0000_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2330_0010_big_0",
+            "text": "Oh, you gotta be shitting me.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2330_0015_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2330_0016_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2330_0020_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2330_0020_big_1",
+            "text": "Gimme a bit more time and I got you.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2330_0030_en30_0",
+            "text": "Give it up!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town7_2330_0035_kb01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2330_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2330_0042_en30_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2330_0044_kb01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2360_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2360_0011_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2360_0012_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2360_0013_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2360_0014_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2360_0020_wed_0",
+            "text": "Don't worry─I've got this!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2360_0030_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2360_0030_wed_1",
+            "text": "Catch me if you caaan!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2360_0040_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2360_0050_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2370_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2370_0010_wed_1",
+            "text": "Think I ran off the pizza...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2370_0020_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2370_0020_big_1",
+            "text": "Helluva show, man! If only the ladies loved you that much!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2370_0030_wed_0",
+            "text": "I'm glad someone's enjoying themselves...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2370_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2370_0045_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2370_0050_big_0",
+            "text": "Of course they store mechs here...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2370_0060_cld_0",
+            "text": "You ready?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2370_0070_big_0",
+            "text": "Hell yeah!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2370_0080_wed_0",
+            "text": "More than you know!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2370_0090_wed_0",
+            "text": "Look what I found. Let's give these jerks a taste of their own medicine!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2370_0100_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0000_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0001_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0002_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0003_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0004_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0005_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0006_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0010_cld_0",
+            "text": "Let's go!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2380_0011_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0015_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0016_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0023_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0024_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0025_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0030_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0030_wed_1",
+            "text": "Run! Run while you can!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2380_0040_cld_0",
+            "text": "Wedge!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2380_0051_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0052_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0053_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0054_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0055_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0056_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0057_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0058_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0059_av99_0",
+            "text": "Friendly! Friendly! Stand down!",
+            "speaker": "Trooper"
+        },
+        {
+            "id": "$ev_town7_2380_0070_av01_0",
+            "text": "Your team shouldn't be here.",
+            "speaker": "Trooper"
+        },
+        {
+            "id": "$ev_town7_2380_0080_wed_0",
+            "text": "Glad yours is...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2380_0083_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0084_big_0",
+            "text": "C'mere.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2380_0085_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0086_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0087_av01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0090_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0090_big_1",
+            "text": "But you won't be if they start asking questions.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2380_0090_big_2",
+            "text": "Wedge'll be fine.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2380_0100_cld_0",
+            "text": "And who are \"they\"?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2380_0110_big_0",
+            "text": "First guests to the party. Another Avalanche cell.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2380_0115_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0120_big_0",
+            "text": "Our holier-than-thou friends from the old guard...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2380_0120_big_1",
+            "text": "It's always their way or the highway. Lately they've been a real pain in the ass...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2380_0120_big_2",
+            "text": "Till now.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2380_0130_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0130_cld_1",
+            "text": "So then why are they here?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2380_0135_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0150_big_0",
+            "text": "Beats me. We've been on the outs ever since our cell got labeled too extreme...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2380_0150_big_1",
+            "text": "Word is they've cut a deal with Wutai...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2380_0150_big_2",
+            "text": "Think there's any truth to that?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2380_0150_big_3",
+            "text": "though they're the ones running around with mil-spec gear.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2380_0150_big_4",
+            "text": "Promised 'em all the materia in Midgar, apparently.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2380_0160_cld_0",
+            "text": "You tell me.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2380_0170_big_0",
+            "text": "Sometimes I think we're the only ones who've realized the war is over.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2380_0180_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0181_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2380_0190_big_0",
+            "text": "Okay─mission complete.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2380_0200_big_0",
+            "text": "Let's make our way back to the lot.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2380_0210_cld_0",
+            "text": "Right.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2400_0000_jec_0",
+            "text": "You made it! Over here!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2400_0001_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0002_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0003_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0004_cp06_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0005_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0006_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0008_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0009_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0010_jec_0",
+            "text": "Could you have been any louder? I mean, it made my job a lot easier, but─",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2400_0010_jec_1",
+            "text": "Wait, where's Wedge?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2400_0011_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0012_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0013_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0014_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0015_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0020_jec_0",
+            "text": "Wedge!?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2400_0030_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0030_jec_1",
+            "text": "That was close...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2400_0040_cld_0",
+            "text": "We'll go get him.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2400_0041_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0042_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0043_big_0",
+            "text": "Hey, buddy. How you doing?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2400_0044_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0045_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0046_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0047_big_0",
+            "text": "C'mon...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2400_0048_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0049_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0050_wed_0",
+            "text": "Not my finest hour...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2400_0060_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0060_big_1",
+            "text": "You get hit?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2400_0070_wed_0",
+            "text": "Just winged, I think...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2400_0070_wed_1",
+            "text": "Or shot!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2400_0070_wed_2",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0075_big_0",
+            "text": "Really? Let me see...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2400_0076_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0080_jec_0",
+            "text": "Are we seriously doing this here?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2400_0080_jec_1",
+            "text": "That's...wow.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2400_0090_wed_0",
+            "text": "You guys are the worst...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2400_0099_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0100_jec_0",
+            "text": "Your ass is fine.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2400_0100_jec_1",
+            "text": "This is like a bruise or a mild burn at worst!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2400_0100_jec_2",
+            "text": "Maybe singed, but the only casualty is your underwear.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2400_0101_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0109_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0110_wed_0",
+            "text": "Now <i>that</i> was a gunshot.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2400_0115_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0120_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0130_jec_0",
+            "text": "Is that a smile I spy?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2400_0135_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0136_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0140_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0145_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0150_cld_0",
+            "text": "It's not safe here. We should go.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2400_0155_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2400_0160_ev1_0",
+            "text": "Copy that!",
+            "speaker": "Biggs, Jessie, & Wedge"
+        },
+        {
+            "id": "$ev_town7_2410_0010_jec_0",
+            "text": "Should be somewhere around here...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2410_0010_jec_1",
+            "text": "Bingo!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2410_0015_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2410_0020_jec_0",
+            "text": "I half figured my dad got it wrong, but nope! They're here just like he said!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2410_0030_big_0",
+            "text": "Parachutes?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2410_0035_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2410_0040_wed_0",
+            "text": "Huh? Whaddya mean \"half figured\"!?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2410_0050_jec_0",
+            "text": "Fifty-fifty is pretty good odds, if you ask me!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2410_0055_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2410_0060_jec_0",
+            "text": "This is gonna be fun!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2410_0070_big_0",
+            "text": "W-wait!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2410_0080_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2410_0090_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2420_0000_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2420_0010_jec_0",
+            "text": "Thanks guys. I really appreciate you coming all this way with me.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2420_0010_jec_1",
+            "text": "And like I said before, I'd be grateful if you kept this between us until after the mission.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2420_0010_jec_2",
+            "text": "I don't wanna...complicate things.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2420_0015_big_0",
+            "text": "Sure.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2420_0020_big_0",
+            "text": "Okay, who's ready to fly!?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2420_0030_jec_0",
+            "text": "Me! Me!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2420_0040_big_0",
+            "text": "Hey Cloud─you let him down gently, alright?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2420_0050_cld_0",
+            "text": "Yep.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2420_0060_jec_0",
+            "text": "Wait, I almost forgot! One more thing!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2420_0070_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2420_0070_big_1",
+            "text": "S-stop it! What in the hell are you trying to─",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2420_0075_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2420_0076_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2420_0077_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2420_0080_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2420_0090_jec_0",
+            "text": "Easy! You'll make us fall!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2420_0100_big_0",
+            "text": "Not if you do first!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2420_0105_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2420_0110_jec_0",
+            "text": "Swing by my place after─so I can \"pay you in full.\"",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2420_0115_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2420_0116_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2420_0117_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2420_0120_big_0",
+            "text": "Huh!? Now!?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2420_0130_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2420_0135_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2420_0159_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2420_0160_wed_0",
+            "text": "Wait! Gimme a minute!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2420_0170_cld_0",
+            "text": "No.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2420_0180_wed_0",
+            "text": "Why do you have to be such a hard-ass, bro?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2420_0190_cld_0",
+            "text": "I ain't your bro.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2420_0200_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2430_0000_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2430_0001_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2430_0002_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2430_0007_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2430_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2430_0020_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2430_0030_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_2430_0030_wed_1",
+            "text": "I wish I could've done more...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2430_0040_cld_0",
+            "text": "You did enough.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2430_0050_wed_0",
+            "text": "Just got hurt─",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2430_0060_cld_0",
+            "text": "You took one for the team.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2430_0060_cld_1",
+            "text": "Be proud.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_2430_0070_wed_0",
+            "text": "Yeah...?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2430_0080_wed_0",
+            "text": "Yeah...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_2430_0090_big_0",
+            "text": "Feels like we're flying high these days!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2430_0100_jec_0",
+            "text": "Now more than ever!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_2430_0110_big_0",
+            "text": "He's a keeper all right.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_2430_0120_jec_0",
+            "text": "Yeah! Together we can take on the world!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$ev_town7_8010_0010_wed_0",
+            "text": "Now that's what I call teamwork!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$ev_town7_8010_0011_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8010_0013_cp04_0",
+            "text": "Stay where you are!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town7_8010_0015_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8010_0016_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8010_0018_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8010_0020_big_0",
+            "text": "Well, shit.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_8010_0023_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8010_0030_cp02_0",
+            "text": "All right, assholes! Show me your hands!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town7_8010_0040_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8010_0042_cp02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8010_0050_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8010_0053_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8010_0055_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8010_0060_rch_0",
+            "text": "Well, aren't we having a wonderful time kicking the hornet's nest!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_8010_0080_cp03_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8010_0083_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8010_0086_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8010_0090_rch_0",
+            "text": "You know what I want.",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_8010_0090_rch_1",
+            "text": "A second dance─just the two of us.",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_8010_0100_rch_0",
+            "text": "You turned the key...",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_8010_0110_rch_0",
+            "text": "The engine roars with excitement...\r\nIt hungers to be set free!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_8010_0120_cld_0",
+            "text": "Fall back.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_8010_0125_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8010_0130_big_0",
+            "text": "Right.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_8010_0133_big_0",
+            "text": "C'mon!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_town7_8010_0134_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8010_0140_rch_0",
+            "text": "It's been a long time since I fought a duel out of the saddle.",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_8010_0140_rch_1",
+            "text": "But...for all the miles on the clock...",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_8010_0145_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8010_0150_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8010_0160_rch_0",
+            "text": "I'm just as fast as I ever was!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_8020_0001_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8020_0005_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8020_0020_rch_0",
+            "text": "I told you we were gonna push it past the redline!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_8030_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0020_cld_1",
+            "text": "Satisfied?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_town7_8030_0030_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0030_rch_1",
+            "text": "With such fleeting pleasure? Hardly.",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_8030_0035_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0040_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0040_rch_1",
+            "text": "There are higher heights to which you and I can still soar...",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_8030_0042_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0043_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0044_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0045_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0045_wed_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0046_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0047_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0048_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0050_cp02_0",
+            "text": "Okay, boys!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town7_8030_0050_cp02_1",
+            "text": "Give 'em everything you've got! But kill the swordsman first!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ev_town7_8030_0060_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0062_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0065_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0067_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0070_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0088_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0090_rch_0",
+            "text": "We really must do this again.",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_8030_0090_rch_1",
+            "text": "Until then...try not to die.",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_8030_0090_rch_2",
+            "text": "I'll see you on the road, my friend.",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$ev_town7_8030_0095_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0100_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0103_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0104_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0105_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0106_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0107_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0108_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_town7_8030_0110_cld_0",
+            "text": "Goddammit!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$level_town7_sys_putback",
+            "text": "Put Back",
+            "info": ""
+        },
+        {
+            "id": "$level_town7_sys_read",
+            "text": "Read",
+            "info": ""
+        },
+        {
+            "id": "$level_town7_sys_trainingreward",
+            "text": "Training bonus gained.",
+            "info": ""
+        },
+        {
+            "id": "$lv_town7_2340_0040_big_0",
+            "text": "Goodbye!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$lv_town7_2340_0050_big_0",
+            "text": "And good riddance.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0062_0010_wed_0",
+            "text": "C'mere...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_0063_0010_wed_0",
+            "text": "Aw, no dice...\r\nSomeone's playing hard to get.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_0064_0010_big_0",
+            "text": "Folks here must be living off three or four times what I do.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0070_0010_jec_0",
+            "text": "Figures. Still leaves the lights on every night for the girl who only comes home once every other blue moon.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_0070_0011_jec_0",
+            "text": "Mom's an old-fashioned type like that.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_0070_0020_wed_0",
+            "text": "Think she'll make us pizza? Her \"Midgar Special\"?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_0070_0030_big_0",
+            "text": "She's quite the cook.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0070_0031_big_0",
+            "text": "Quick to whip up finger-lickin' food even if you drop by in the dead of night.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0070_0040_jec_0",
+            "text": "And she loves guests who ask for seconds or thirds.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_0071_0020_jec_0",
+            "text": "Okay, let's head in. Cloud─you know what to do.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_0071_0030_jec_0",
+            "text": "Why don't you wait around the corner over there?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_0071_0040_cld_0",
+            "text": "Ah. Okay.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0071_0050_wed_0",
+            "text": "It's a shame you won't get to try the Midgar Special. You would've really liked it.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_0105_0010_cld_0",
+            "text": "I need that ID card...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0105_0020_cld_0",
+            "text": "Not done here yet...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0105_0030_cld_0",
+            "text": "Got a job to do.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0110_0001_jec_0",
+            "text": "My dad─he was a maintenance supervisor at the reactor.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_0110_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_0110_0015_cld_0",
+            "text": "Thanks.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0120_0010_cld_0",
+            "text": "What's this?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0120_0015_cld_0",
+            "text": "Read the letter?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0120_0110_jec_0",
+            "text": "\"Dear Mom and Dad,\r\nSorry for not getting in touch sooner, but...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_0120_0120_jec_0",
+            "text": "\"I'm working at the Gold Saucer as an actress now. It wasn't easy, and I had a lot of help from people along the way...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_0120_0130_jec_0",
+            "text": "\"but I managed to land a starring role.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_0120_0131_jec_0",
+            "text": "\"Enclosed are two tickets to my play. Looking forward to seeing you both there.\"",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_0120_0140_cld_0",
+            "text": "Jessie Rasberry as...the Princess?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0120_0200_cld_0",
+            "text": "Let's not.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0130_0050_cld_0",
+            "text": "Jessie...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0132_0010_cld_0",
+            "text": "No, not here.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0134_0010_cld_0",
+            "text": "This isn't it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0136_0010_cld_0",
+            "text": "You're done here.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0136_0020_cld_0",
+            "text": "Time to go.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0136_0030_cld_0",
+            "text": "C'mon, there's no time for this.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0145_0010_cld_0",
+            "text": "Mission accomplished.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0170_0010_big_0",
+            "text": "Jessie's dad was in there, right?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0170_0020_cld_0",
+            "text": "Yeah.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0170_0030_big_0",
+            "text": "Mako poisoning. Happened while Jessie was doing a show at the Gold Saucer─",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0170_0031_big_0",
+            "text": "Ah, but what do you care?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0170_0040_cld_0",
+            "text": "No, I wanna hear it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0170_0050_big_0",
+            "text": "Jessie always wanted to be an actress.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0170_0051_big_0",
+            "text": "Worked her ass off for years until finally she caught a break. Top billing. Parents were thrilled.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0170_0052_big_0",
+            "text": "And then...right before opening night...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0170_0060_wed_0",
+            "text": "Her dad had an accident.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_0170_0070_big_0",
+            "text": "Collapsed from overwork...and in the worst possible place.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0170_0071_big_0",
+            "text": "Mako storage. Lay there half a day before someone found him.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0170_0072_big_0",
+            "text": "Been like that ever since. No change whatsoever.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0170_0080_big_0",
+            "text": "That's what got her into planetology, and led her to seek out Avalanche.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0170_0081_big_0",
+            "text": "How far we've come...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0171_0010_wed_0",
+            "text": "Jessie's got a theory about it.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_0171_0011_wed_0",
+            "text": "Thinks her dad's spirit is stuck now─between his body and the heart of the planet.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_0171_0012_wed_0",
+            "text": "So if we don't shut down the reactors soon...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_0171_0020_big_0",
+            "text": "He'll get caught up in the flow and...poof.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0171_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_0171_0050_big_0",
+            "text": "What's so funny?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0171_0060_cld_0",
+            "text": "Just that I understand how you feel. Unlike most of the time.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0171_0070_big_0",
+            "text": "I see...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0180_0010_big_0",
+            "text": "Mako's the essence of life itself. Of memory and hope.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0180_0020_big_0",
+            "text": "It's not something you burn in a reactor just to keep the lights on. Hell no.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0180_0030_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_0180_0070_big_0",
+            "text": "Oh─don't tell Jessie about this little chat, okay? When she gets pissed, she gets punchy.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0180_0080_cld_0",
+            "text": "Well... No promises.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0180_0090_wed_0",
+            "text": "He's serious, Cloud! She'll beat the shit out of us!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_0180_0100_cld_0",
+            "text": "Not my problem.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0180_0110_big_0",
+            "text": "This guy!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0181_0010_big_0",
+            "text": "Gotta stay hidden─wait for the signal.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0181_0020_wed_0",
+            "text": "It's so quiet...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_0210_0010_big_0",
+            "text": "Don't see anyone. What the hell happened?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0210_0020_wed_0",
+            "text": "Hey, man, the plaza's that way. Warehouses are further in.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_0210_0021_wed_0",
+            "text": "Jessie's supposed to be circling around from the back, right...?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_0211_0010_big_0",
+            "text": "No need for us to rush. Let's scout it out first.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0211_0020_cld_0",
+            "text": "I can handle this solo.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0211_0030_big_0",
+            "text": "What, you're trying to keep us out of it now? Don't be a jackass.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0211_0040_wed_0",
+            "text": "We're in this together!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_0211_0050_cld_0",
+            "text": "Don't expect me to save you.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0211_0060_big_0",
+            "text": "If you need to check your gear, now's the time. Give the word when you're good to go.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0211_0070_wed_0",
+            "text": "You can use that vending machine over there to stock up!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_0211_0100_big_0",
+            "text": "Guess there's a training center too. Could go a few rounds before the main event.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0212_0110_big_0",
+            "text": "Remind me─you've got summoning materia, don't you?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0212_0111_big_0",
+            "text": "There's no better way to deal with big groups. You'd be crazy not to equip it.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0212_0115_cld_0",
+            "text": "You all set?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0212_0210_big_0",
+            "text": "So. Ya all set?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0212_0215_cld_0",
+            "text": "You all set?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0212_0510_big_0",
+            "text": "Hope I've got everything I need myself...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0212_0511_big_0",
+            "text": "Gun, spare mags. Other than that...uh...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0212_0520_big_0",
+            "text": "Yeah, I hear ya. Times like this, you always feel like you're forgetting something.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0212_0530_big_0",
+            "text": "Huh? Still need more time?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0212_0630_big_0",
+            "text": "Okay. Let's go over the plan one last time.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0280_0010_wed_0",
+            "text": "That's the signal!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_0280_0020_big_0",
+            "text": "All according to plan.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0280_0030_cld_0",
+            "text": "Let's go.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_0281_0010_big_0",
+            "text": "Right!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_0281_0020_wed_0",
+            "text": "Yeah!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_0301_0010_en14_0",
+            "text": "What are you doing?",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$pv_town7_0350_0010_wed_0",
+            "text": "And down she goes!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_0350_0020_big_0",
+            "text": "Look at us amateurs putting in the work.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_9020_0100_sys_0",
+            "text": "Commence battle training?",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b0000_0010_cld_0",
+            "text": "Keep going till we hit the station?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0000_0020_jec_0",
+            "text": "No, head straight for the warehouse.\r\nAwww, our magical ride is almost at an end.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0000_0030_big_0",
+            "text": "Why ya talking like we're not here?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0000_0040_jec_0",
+            "text": "Because you're not!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0000_0050_big_0",
+            "text": "Clearly we are!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0010_0010_big_0",
+            "text": "So far so good!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0010_0020_jec_0",
+            "text": "Alright, here comes the hard part!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0010_0030_big_0",
+            "text": "And that is?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0010_0040_jec_0",
+            "text": "The fake IDs may have held up, but from this point on, if we get pinged by a scan...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0010_0050_cld_0",
+            "text": "They'll come for us.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0010_0060_jec_0",
+            "text": "Yeah, what he said.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0010_0070_big_0",
+            "text": "Oh, man!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0010_0080_wed_0",
+            "text": "Just like that!?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0010_0090_jec_0",
+            "text": "No need to worry. We've got Cloud, remember?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0020_0010_jec_0",
+            "text": "We've got company!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0020_0020_cld_0",
+            "text": "Someone's having fun.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0020_0030_jec_0",
+            "text": "How could I not!? \"Pursued by villains, a young couple thrust together by fate race through the neon-streaked night...\"",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0020_0040_cld_0",
+            "text": "Get off!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0030_0010_jec_0",
+            "text": "Hey, you do know how to drive, right?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0030_0020_cld_0",
+            "text": "SOLDIERs get mandatory training.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0030_0030_jec_0",
+            "text": "Well then! You gonna take my breath away? Make my head spin with your amazing skills?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0030_0040_cld_0",
+            "text": "Don't blame me if ya get sick.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0030_0050_jec_0",
+            "text": "Right...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0040_0010_jec_0",
+            "text": "Oh! My hero!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0040_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b0050_0010_big_0",
+            "text": "Straight to lethal force!?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0050_0020_jec_0",
+            "text": "What, so you'd just pull over if they asked nicely?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0050_0030_big_0",
+            "text": "Eh... You've got a point.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0050_0040_jec_0",
+            "text": "See!?\r\nSo don't go holding back now!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0051_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b0052_0020_jec_0",
+            "text": "Hey, you're not the only one on this bike!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0053_0030_jec_0",
+            "text": "Keep this up and I'm gonna fall off!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0060_0010_jec_0",
+            "text": "\"Had the cold-eyed mercenary's heart suddenly begun to melt?\"",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0060_0020_cld_0",
+            "text": "Nope.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0060_0030_jec_0",
+            "text": "I won't forget that.\r\nWait, is it just me or did we slow down?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0060_0040_cld_0",
+            "text": "Just you.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0070_0010_big_0",
+            "text": "More of 'em!?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0070_0020_jec_0",
+            "text": "Think we've bitten off more than we can chew! Whadda we do!?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0070_0030_cld_0",
+            "text": "Shut up!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0080_0010_jec_0",
+            "text": "That some super-secret technique?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0080_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b0080_0030_jec_0",
+            "text": "You got a fancy name for it?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0080_0040_cld_0",
+            "text": "Of course not.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0090_0010_wed_0",
+            "text": "Yikes!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0090_0020_big_0",
+            "text": "Woah!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0090_0030_wed_0",
+            "text": "I-I-I need heeelp!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0090_0040_big_0",
+            "text": "Gah! Wait up, would ya!?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0090_0050_wed_0",
+            "text": "Uhh, maybe not.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0090_0060_jec_0",
+            "text": "Cloud, do something!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0090_0070_cld_0",
+            "text": "Take them out!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0100_0010_wed_0",
+            "text": "Cloud! I'm scared!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0100_0020_cld_0",
+            "text": "Stay calm!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0101_0010_big_0",
+            "text": "Stupid jerk!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0101_0020_wed_0",
+            "text": "Gah!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0101_0040_big_0",
+            "text": "You all right?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0101_0050_wed_0",
+            "text": "Looks like I'm still in one piece...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0101_0060_big_0",
+            "text": "Thanks to Cloud.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0101_0070_jec_0",
+            "text": "Our Cloud's not bad, huh?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0101_0080_big_0",
+            "text": "Our guardian angel.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0105_0010_wed_0",
+            "text": "Whoa! That was close!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0105_0020_jec_0",
+            "text": "But it was pretty cool too, am I right?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0105_0030_wed_0",
+            "text": "Yeah, really cool!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0105_0040_jec_0",
+            "text": "Y'see!?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0105_0050_big_0",
+            "text": "Why does it sound like you're taking credit!?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0110_0010_jec_0",
+            "text": "Looks like you're having a little trouble there!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0120_0010_big_0",
+            "text": "Got more company!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0120_0020_cld_0",
+            "text": "A-team's here.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0120_0030_jec_0",
+            "text": "Uhh, I don't like the sound of that!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0120_0040_wed_0",
+            "text": "We're not screwed, are we!?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0130_0010_jec_0",
+            "text": "What are you doing, Cloud? You're better than this!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0140_0010_ks08_0",
+            "text": "Who <i>are</i> these guys? Requesting backup! I repeat─we need backup!",
+            "speaker": "Mobile Unit Officer"
+        },
+        {
+            "id": "$pv_town7_bike0b0150_0010_jec_0",
+            "text": "Should I be worried, Cloud!?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0160_0010_jec_0",
+            "text": "Heads up─drones!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0160_0020_big_0",
+            "text": "One thing after another...\r\nC'mon Wedge, gun it!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0160_0030_wed_0",
+            "text": "I <i>am</i> gunning it!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0160_0040_cld_0",
+            "text": "We're good.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0160_0050_big_0",
+            "text": "Nothing about this is good!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0160_0060_cld_0",
+            "text": "You got me.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0160_0070_big_0",
+            "text": "Fair enough!\r\nAlright then, do your thing!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0170_0010_kb01_0",
+            "text": "SOLDIER en route. HQ's saying he's less than a few minutes out.",
+            "speaker": "Mobile Unit Officer"
+        },
+        {
+            "id": "$pv_town7_bike0b0170_0020_ks04_0",
+            "text": "Copy.",
+            "speaker": "Mobile Unit Officer"
+        },
+        {
+            "id": "$pv_town7_bike0b0170_0030_kb02_0",
+            "text": "You think it's \"him\"?",
+            "speaker": "Mobile Unit Officer"
+        },
+        {
+            "id": "$pv_town7_bike0b0170_0040_ks04_0",
+            "text": "Probably. All the more reason to finish this quick. Don't need that kind of trouble.",
+            "speaker": "Mobile Unit Officer"
+        },
+        {
+            "id": "$pv_town7_bike0b0180_0010_wed_0",
+            "text": "<>",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0180_0030_big_0",
+            "text": "<>",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0180_0050_wed_0",
+            "text": "<>",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0180_0070_wed_0",
+            "text": "<>",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0180_0080_big_0",
+            "text": "<>",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0180_0100_jec_0",
+            "text": "<>",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0190_0010_big_0",
+            "text": "That's an ex-SOLDIER for ya. Next to him, we look like kids on trikes.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0190_0020_jec_0",
+            "text": "You're damn right you do!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0190_0030_big_0",
+            "text": "You're part of that \"we\" too, you know.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0191_0010_wed_0",
+            "text": "<>",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0191_0020_big_0",
+            "text": "<>",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0191_0040_ks06_0",
+            "text": "<>",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b0191_0050_big_0",
+            "text": "<>",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0191_0060_jec_0",
+            "text": "<>",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0191_0070_wed_0",
+            "text": "<>",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0200_0010_jec_0",
+            "text": "You're not losing your touch, are you?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0210_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b0210_0020_big_0",
+            "text": "Not over yet!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0210_0040_big_0",
+            "text": "Cloud! Little help!?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0220_0010_jec_0",
+            "text": "Hang in there, Cloud! I believe in you!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0230_0010_wed_0",
+            "text": "Still alive!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0230_0020_big_0",
+            "text": "We owe you one, Cloud!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0230_0030_wed_0",
+            "text": "Thanks, man!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0230_0040_jec_0",
+            "text": "That's it!?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0230_0050_wed_0",
+            "text": "You're the best!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0230_0060_jec_0",
+            "text": "Try again!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0230_0070_wed_0",
+            "text": "I love you, man!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0230_0080_jec_0",
+            "text": "That'll do!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0230_0090_big_0",
+            "text": "I'm so confused.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0231_0010_wed_0",
+            "text": "That's gonna leave a mark.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0231_0020_big_0",
+            "text": "Too close for comfort.\r\nWe owe you one, Cloud!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0231_0030_wed_0",
+            "text": "Thanks, man!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0231_0040_jec_0",
+            "text": "You're welcome!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0231_0050_big_0",
+            "text": "What are you talking about? You didn't do anything!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0231_0060_jec_0",
+            "text": "Oh, didn't I?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0231_0070_big_0",
+            "text": "No! You didn't!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0232_0010_jec_0",
+            "text": "<>",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0232_0020_big_0",
+            "text": "<>",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0232_0030_jec_0",
+            "text": "<>",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0232_0040_big_0",
+            "text": "<>",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0233_0010_wed_0",
+            "text": "Dunno if I can hold out much longer...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0233_0020_big_0",
+            "text": "C'mon, don't be such a wuss!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0233_0030_wed_0",
+            "text": "It really hurts...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0234_0010_jec_0",
+            "text": "Woohoo! Teamwork!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0234_0020_big_0",
+            "text": "You're telling me!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0234_0030_wed_0",
+            "text": "Just barely made it!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0234_0040_cld_0",
+            "text": "Surviving's a win.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0234_0050_big_0",
+            "text": "Matter of luck or skill, am I right!?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0234_0060_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b0240_0010_ks08_0",
+            "text": "Time's up. Break off before he shows!",
+            "speaker": "Mobile Unit Officer"
+        },
+        {
+            "id": "$pv_town7_bike0b0240_0020_ks09_0",
+            "text": "Copy!",
+            "speaker": "Mobile Unit Officer"
+        },
+        {
+            "id": "$pv_town7_bike0b0240_0030_jec_0",
+            "text": "What's going on?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0250_0010_rch_0",
+            "text": "Well, hello!",
+            "speaker": "???"
+        },
+        {
+            "id": "$pv_town7_bike0b0250_0020_big_0",
+            "text": "Who's this!?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0250_0030_rch_0",
+            "text": "\"Too quick for the eye, you cross him, you die!\"",
+            "speaker": "???"
+        },
+        {
+            "id": "$pv_town7_bike0b0250_0050_rch_0",
+            "text": "Now... Mind if I cut in?",
+            "speaker": "???"
+        },
+        {
+            "id": "$pv_town7_bike0b0250_0060_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b0250_0070_rch_0",
+            "text": "Splendid! I've been looking for a new dance partner!",
+            "speaker": "???"
+        },
+        {
+            "id": "$pv_town7_bike0b0250_0080_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b0250_0090_rch_0",
+            "text": "Private party, huh? That's fine. I'll settle for a race then. Just one.",
+            "speaker": "???"
+        },
+        {
+            "id": "$pv_town7_bike0b0250_0100_cld_0",
+            "text": "You talking to me?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0250_0110_rch_0",
+            "text": "I most certainly am.",
+            "speaker": "???"
+        },
+        {
+            "id": "$pv_town7_bike0b0250_0120_cld_0",
+            "text": "Then no!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0250_0130_rch_0",
+            "text": "Ah, so terribly sorry! Your words fail to reach my ears, sluggish and slow as they are!",
+            "speaker": "???"
+        },
+        {
+            "id": "$pv_town7_bike0b0250_0140_jec_0",
+            "text": "What's this guy's deal!?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0250_0150_rch_0",
+            "text": "The lady's curiosity has been piqued!",
+            "speaker": "???"
+        },
+        {
+            "id": "$pv_town7_bike0b0250_0155_rch_0",
+            "text": "My name is Roche, but you may address me by the more accurate appellation: Speed Demon!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$pv_town7_bike0b0250_0160_jec_0",
+            "text": "Heard <i>that</i>, huh!?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0250_0170_rch_0",
+            "text": "My ears are attuned to the feminine voice!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$pv_town7_bike0b0250_0180_jec_0",
+            "text": "This guy is the worst.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0250_0190_rch_0",
+            "text": "Yes. Yes! This is the contest I've been waiting for!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$pv_town7_bike0b0260_0020_rch_0",
+            "text": "Fascinating...",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$pv_town7_bike0b0260_0030_jec_0",
+            "text": "What is he up to now?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0260_0040_cld_0",
+            "text": "Same shit. Being a dumbass.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0260_0050_rch_0",
+            "text": "Not bad. You have promise, and an abiding affection for your mount. But!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$pv_town7_bike0b0260_0060_rch_0",
+            "text": "One cannot simply ride one's bike!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$pv_town7_bike0b0270_0010_rch_0",
+            "text": "Nay! One must unlock its true potential─become one with the machine! Like this!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$pv_town7_bike0b0270_0020_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b0275_0010_jec_0",
+            "text": "You might wanna try using those brakes of yours!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b0280_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b0280_0020_big_0",
+            "text": "You okay!?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0280_0030_rch_0",
+            "text": "Ah! I knew you wouldn't go down so easily!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$pv_town7_bike0b0290_0010_rch_0",
+            "text": "Such fire! Oh, it has been too long...",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$pv_town7_bike0b0290_0020_rch_0",
+            "text": "So. Will you embrace a life of speed and ride with me to the world's end!?",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$pv_town7_bike0b0290_0030_cld_0",
+            "text": "Nah, I'm good.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0290_0040_rch_0",
+            "text": "You've broken my heart!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$pv_town7_bike0b0300_0010_cld_0",
+            "text": "<>",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b0300_0020_rch_0",
+            "text": "<>",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$pv_town7_bike0b0310_0010_big_0",
+            "text": "<>",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b0310_0020_wed_0",
+            "text": "<>",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b0310_0030_jec_0",
+            "text": "<>",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b1010_0010_jec_0",
+            "text": "<>",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b1010_0020_cld_0",
+            "text": "<>",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b1010_0030_jec_0",
+            "text": "<>",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b1010_0040_cld_0",
+            "text": "<>",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b1010_0050_jec_0",
+            "text": "<>",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b1020_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1030_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1040_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1050_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1060_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1070_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1080_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1090_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1100_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1110_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1120_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1130_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1140_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1150_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1160_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1170_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1180_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1190_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1200_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1210_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1220_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1230_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1240_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1250_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1260_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1270_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1280_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1290_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1300_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1310_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1320_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1330_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1340_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1350_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1360_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1370_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1380_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1390_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1400_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1410_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1420_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1430_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1440_0010_big_0",
+            "text": "Thanks for the assist, man!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b1440_0020_wed_0",
+            "text": "Whaddya gotta eat to become a total badass like that?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b1440_0030_big_0",
+            "text": "I doubt he got that way by eating.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b1440_0040_wed_0",
+            "text": "If Cloud wasn't here, we'd be in serious trouble...",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b1440_0050_jec_0",
+            "text": "You'd probably be dead a dozen times over!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b1440_0060_big_0",
+            "text": "Likewise!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b1450_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1460_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1470_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1480_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1490_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1500_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1510_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1520_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1530_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1540_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1550_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1560_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1570_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1580_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1590_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1600_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1610_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1620_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1630_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1640_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1650_0010_wed_0",
+            "text": "We're not gonna make it!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b1660_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1670_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1680_0010_jec_0",
+            "text": "Biggs! Wedge!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b1690_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1700_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1710_0010_big_0",
+            "text": "Hah! \"If you don't look out for yourself, no one else will.\"",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b1710_0020_jec_0",
+            "text": "That's right! Cloud's got his hands full looking after yours truly.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b1710_0030_big_0",
+            "text": "Yeah, right.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b1710_0040_big_0",
+            "text": "Maybe we're much better fighters than we thought!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b1710_0050_wed_0",
+            "text": "Maybe we could even hold our own against SOLDIERs like Cloud!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$pv_town7_bike0b1710_0060_jec_0",
+            "text": "No way!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b1710_0070_big_0",
+            "text": "Hey, b-but you gotta admit─we're not holding you back, right?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b1710_0080_cld_0",
+            "text": "Well...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b1710_0090_big_0",
+            "text": "Say no more!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b1720_0010_rch_0",
+            "text": "You'd better not disappoint me!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$pv_town7_bike0b1730_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1740_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1750_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1760_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1770_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1780_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1790_0010_rch_0",
+            "text": "Throwing in the towel? Don't you dare!",
+            "speaker": "Roche"
+        },
+        {
+            "id": "$pv_town7_bike0b1800_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1810_0010_cld_0",
+            "text": "<>",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_town7_bike0b1810_0020_jec_0",
+            "text": "<>",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b1810_0030_big_0",
+            "text": "<>",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b1810_0040_jec_0",
+            "text": "<>",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$pv_town7_bike0b1810_0050_big_0",
+            "text": "<>",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$pv_town7_bike0b1820_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1830_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1840_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1850_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1860_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1870_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1880_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1890_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1900_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1910_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1920_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1930_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1940_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1950_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1960_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1970_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1980_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b1990_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2000_0010_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2010_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2020_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2030_0010_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2040_0010_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2050_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2060_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2070_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2080_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2090_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2100_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2110_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2120_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2130_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2140_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2150_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2160_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2170_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2180_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2190_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2200_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2210_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2220_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2230_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2240_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2250_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2260_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2270_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2280_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2290_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2300_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2310_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bike0b2320_0010_rch_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_town7_bikedebug_0001_sys_0",
+            "text": "DEGUB: Warp where?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_0031_0010_jec_0",
+            "text": "Hey Cloud, over here!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0031_0020_jec_0",
+            "text": "Hey! Stick with us, would you?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0031_0030_jec_0",
+            "text": "You know we're over here, right?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0032_0010_jec_0",
+            "text": "The residential area's just beyond this gate.\r\nMind doing the honors?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0032_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_0033_0010_jec_0",
+            "text": "You've got an arm on ya!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0034_0020_wed_0",
+            "text": "Over here, Cloud! Over here!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0034_0030_wed_0",
+            "text": "Uh, Cloud? Hello?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0065_0010_jec_0",
+            "text": "My parents' place isn't far now!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0065_0020_wed_0",
+            "text": "You really shouldn't go off on your own!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0065_0030_jec_0",
+            "text": "Hey! Focus!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0073_0030_wed_0",
+            "text": "Where you trying to go?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0075_0010_cld_0",
+            "text": "Not this way.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_town7_0075_0020_cld_0",
+            "text": "Gotta move.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_town7_0075_0030_cld_0",
+            "text": "You need to head around back.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_town7_0082_0010_cld_0",
+            "text": "Quit screwing around.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_town7_0082_0020_cld_0",
+            "text": "Need to hurry up.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_town7_0082_0030_cld_0",
+            "text": "What am I doing...?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_town7_0085_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_0091_0110_jec_0",
+            "text": "Sorry about dropping in like this again.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0091_0120_jem_0",
+            "text": "This will always be your home. So─how's practice going?",
+            "speaker": "Jessie's Mom"
+        },
+        {
+            "id": "$tk_town7_0091_0130_jec_0",
+            "text": "It's...going.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0091_0210_jem_0",
+            "text": "You get so fixated─lose sight of things.",
+            "speaker": "Jessie's Mom"
+        },
+        {
+            "id": "$tk_town7_0091_0211_jem_0",
+            "text": "That's why I'm glad you've got a rock like Biggs.",
+            "speaker": "Jessie's Mom"
+        },
+        {
+            "id": "$tk_town7_0091_0220_jec_0",
+            "text": "Always there, taking up space─",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0091_0230_big_0",
+            "text": "Hey!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0091_0240_jem_0",
+            "text": "Raised on praise, I see.",
+            "speaker": "Jessie's Mom"
+        },
+        {
+            "id": "$tk_town7_0091_0250_big_0",
+            "text": "So that's where she gets it from!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0091_0310_wed_0",
+            "text": "The legendary Midgar Special! Fantastic as always, Missus R!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0091_0320_jem_0",
+            "text": "I always keep enough ingredients on hand to make extra just for you!",
+            "speaker": "Jessie's Mom"
+        },
+        {
+            "id": "$tk_town7_0091_0330_wed_0",
+            "text": "Aw, wow! I feel like I'm part of the family!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0091_0340_big_0",
+            "text": "Yeah! Like the dog.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0092_0110_big_0",
+            "text": "This is amazing!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0092_0120_big_0",
+            "text": "Now that is a damn good pie.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0092_0130_big_0",
+            "text": "Aw, thank you!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0092_0140_big_0",
+            "text": "You've still got room, Wedge!?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0092_0150_big_0",
+            "text": "Damn, you had it good growing up!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0092_0210_wed_0",
+            "text": "So, got more pizza in the oven?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0092_0220_wed_0",
+            "text": "I'll take another one, please!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0092_0230_wed_0",
+            "text": "Don't mind if I do!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0092_0240_wed_0",
+            "text": "I'm so happy.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0092_0250_wed_0",
+            "text": "This. Is. Heaven!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0092_0260_wed_0",
+            "text": "I'm not full yet!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0092_0310_jec_0",
+            "text": "Wedge, don't hurt yourself!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0092_0320_jec_0",
+            "text": "Alright, here comes a Midgar Special!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0092_0330_jec_0",
+            "text": "Now this─this is what I've been waiting for!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0092_0340_jec_0",
+            "text": "Dang, Mom, how'd you get even better at this!?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0092_0410_jem_0",
+            "text": "And here we are!",
+            "speaker": "Jessie's Mom"
+        },
+        {
+            "id": "$tk_town7_0092_0420_jem_0",
+            "text": "Eat as much as you like!",
+            "speaker": "Jessie's Mom"
+        },
+        {
+            "id": "$tk_town7_0092_0430_jem_0",
+            "text": "Careful, it's hot!",
+            "speaker": "Jessie's Mom"
+        },
+        {
+            "id": "$tk_town7_0092_0440_jem_0",
+            "text": "Please, take more!",
+            "speaker": "Jessie's Mom"
+        },
+        {
+            "id": "$tk_town7_0165_0010_big_0",
+            "text": "Hey! Where you going?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0165_0030_big_0",
+            "text": "Try to keep up, would you?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0190_0020_wed_0",
+            "text": "Cloud? Come on, man!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0190_0030_big_0",
+            "text": "You forget something important!?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0192_0010_big_0",
+            "text": "Hey! It's this way!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0192_0030_big_0",
+            "text": "Don't do anything stupid.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0195_0010_wed_0",
+            "text": "I don't think you wanna go that way!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0195_0015_wed_0",
+            "text": "You should stick with us, Cloud!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0195_0030_wed_0",
+            "text": "Where are you going, Cloud? This way!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0211_0010_wed_0",
+            "text": "Man! I get really hungry when I'm nervous!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0211_0020_wed_0",
+            "text": "When you leave something at home, or just need a bite to eat, vending machines can be real lifesavers!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0211_0030_wed_0",
+            "text": "Whenever you're ready, just let us know, Cloud!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0215_0010_wed_0",
+            "text": "Hey... You're not thinking of leaving us, are you, Cloud?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0215_0030_big_0",
+            "text": "Stick close, will ya?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0246_0020_big_0",
+            "text": "Hey. Didn't I tell you to let me know when you were ready?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0385_0010_cld_0",
+            "text": "So, are we not gonna wait for Wedge?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_town7_0385_0020_big_0",
+            "text": "If we stuck around or went back, he'd only get upset.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0385_0030_cld_0",
+            "text": "Why's that?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_town7_0385_0040_big_0",
+            "text": "Guess a SOLDIER wouldn't understand...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0385_0041_big_0",
+            "text": "I'll tell him you were worried about him, though. Who knows─might just make his day.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0390_0010_big_0",
+            "text": "No way we're getting past all them. Need to find a way around.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0395_0010_cp99_0",
+            "text": "...And many of our citizens have already been disturbed by the alarms.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_0395_0011_cp99_0",
+            "text": "Squad A will set up here and search for suspects.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_0395_0012_cp99_0",
+            "text": "B will establish a perimeter─roadblocks included. Contain the situation!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_0395_0020_cp99_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_0395_0030_cp99_0",
+            "text": "Rumors of violence against Public Security will only serve to frighten the people.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_0395_0031_cp99_0",
+            "text": "You will tell any concerned citizens that this was a false alarm!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_0395_0040_cp99_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_0400_0010_big_0",
+            "text": "Looking a lot more crowded now.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0400_0020_cld_0",
+            "text": "Security's out in force.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_town7_0400_0030_big_0",
+            "text": "Just what we need.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0407_0010_big_0",
+            "text": "What, hungry for more? I know how you feel, but another time.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0407_0020_wed_0",
+            "text": "We're trying not to get caught!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0408_0010_big_0",
+            "text": "Man, can't believe HQ was running an op tonight of all nights.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0408_0020_cld_0",
+            "text": "Coincidence?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_town7_0408_0030_big_0",
+            "text": "That or a bad omen. If they're ramping up for something, could get messy.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0408_0031_big_0",
+            "text": "Add it to the pile of complications to think about.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0415_0010_wed_0",
+            "text": "So, how do we get back to the slums?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0415_0020_jec_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_0415_0021_jec_0",
+            "text": "With a little trick I've been dying to try out...",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0420_0010_jec_0",
+            "text": "Right, this is it! Through here and we're home free.",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0420_0030_wed_0",
+            "text": "Where exactly are we going?",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0420_0040_jec_0",
+            "text": "When we get there, you'll know!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0422_0110_jec_0",
+            "text": "Uhh, Cloud? Try not to fall behind!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0422_0120_wed_0",
+            "text": "Hey Cloud! We're going this way!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0422_0130_big_0",
+            "text": "You're gonna get lost!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0425_0010_jec_0",
+            "text": "Now that I've got my blasting agent, we should have everything we need for our next mission!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0425_0020_big_0",
+            "text": "Sure hope so.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0425_0030_cld_0",
+            "text": "Yeah...me too. For your dad's sake.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_town7_0425_0040_big_0",
+            "text": "Hey! What the hell, man!?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0425_0050_jec_0",
+            "text": "Huh?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0425_0060_wed_0",
+            "text": "Uh─Cloud was just saying how he hopes to come back and try the Midgar Special next time!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0425_0070_jec_0",
+            "text": "Really, huh? <i>Cloud</i> said that?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0425_0080_big_0",
+            "text": "Sure did! Wants a whole pie to himself, isn't that right?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_0425_0090_cld_0",
+            "text": "That's...that's right...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_town7_0425_0100_jec_0",
+            "text": "Really...?",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0425_0101_jec_0",
+            "text": "Well, okay then! Maybe I'll lend Mom a hand next time too!",
+            "speaker": "Jessie"
+        },
+        {
+            "id": "$tk_town7_0425_0110_wed_0",
+            "text": "That'd be awesome!",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_0425_0120_big_0",
+            "text": "Super-duper awesome!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_1700_0010_big_0",
+            "text": "We're supposed to regroup at the lot!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_1700_0020_big_0",
+            "text": "Hey! You trying to get caught or what?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_1700_0030_big_0",
+            "text": "Seriously, where you trying to go!?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$tk_town7_2200_0010_wed_0",
+            "text": "Hey! It's the lot Jessie was talking about.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_2200_0015_wed_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_2200_0020_wed_0",
+            "text": "We rendezvous here when we've got what we came for.",
+            "speaker": "Wedge"
+        },
+        {
+            "id": "$tk_town7_3010_0010_cp20_0",
+            "text": "All residents are to return to their homes and remain indoors until further notice.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_3010_0011_cp20_0",
+            "text": "I repeat─for your safety, go home!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_3010_0020_mb68_0",
+            "text": "I heard someone say it was an attack.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_3010_0030_mb69_0",
+            "text": "Hey─it was those terrorists, right!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_3010_0040_cp20_0",
+            "text": "There has been no attack. For your safety, please go home and remain indoors until further notice.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_3010_0050_cp20_0",
+            "text": "It was a false alarm─there was no attack. Please return to your homes at once.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_3015_0010_mb70_0",
+            "text": "Hey! What are you, an idiot!? Move your vehicle! I got places to be!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_3015_0020_cp19_0",
+            "text": "An emergency has been declared. All civilians are to remain indoors. Your cooperation is appreciated.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_3015_0030_cp19_0",
+            "text": "An emergency has been declared. All civilians, please remain indoors.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_3020_0010_mb67_0",
+            "text": "What are you people doing out here in the middle of the night? My kids are trying to sleep!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_3020_0020_cp99_0",
+            "text": "I apologize, ma'am.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_3020_0021_cp99_0",
+            "text": "Please remain indoors until we inform you that it is safe to leave.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_3020_0030_mb65_0",
+            "text": "Damn it. I gotta be up at the ass-crack of dawn, you know!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_3020_0040_cp99_0",
+            "text": "We ask that you remain indoors for your safety as well as that of others.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_3025_0010_mb39_0",
+            "text": "Ma'am, please, calm down! I need you to go back inside and stay there. An emergency's been declared!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_3025_0020_mb40_0",
+            "text": "It's Wutai, isn't it! Lemme get my gun─I'll teach 'em to mess with Midgar!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_3025_0021_mb40_0",
+            "text": "Don't you worry about me─I killed myself a platoon's worth of them bastards back in the war!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_3025_0030_mb39_0",
+            "text": "Y-yes, thank you for your service! Now if you would just allow me to escort you back home...",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_3025_0040_mb39_0",
+            "text": "Please, listen to me! If you would all just calm down...",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_3030_0010_mb54_0",
+            "text": "C'mon, man, let me through!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_3030_0020_mb52_0",
+            "text": "Access to this area is restricted! Return to your homes at once!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_3030_0030_mb54_0",
+            "text": "I just need a moment to get in there and grab my kid!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_3030_0040_mb52_0",
+            "text": "Sorry, no exceptions whatsoever!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_3030_0050_mb54_0",
+            "text": "What!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_3030_0060_mb52_0",
+            "text": "Access to this area is restricted!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_3035_0010_mb27_0",
+            "text": "Any updates from the squad sent to the plaza?",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_3035_0020_mb28_0",
+            "text": "No. Seems like no one knows anything.",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_3035_0030_mb27_0",
+            "text": "Not gonna get any sleep tonight...",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_3035_0040_mb28_0",
+            "text": "I've got some friends in that squad...",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_town7_3510_0010_mb44_0",
+            "text": "Hey! Get down from there, right now! You'll give your father a heart attack!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_3510_0020_mb45_0",
+            "text": "Can't see anything from here...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_3520_0010_mb13_0",
+            "text": "It's true! It was like a giant fireworks show! Boom!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_3520_0011_mb13_0",
+            "text": "Someone was definitely fighting in there!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_3520_0020_mb15_0",
+            "text": "The Shinra officers all said it was just an equipment malfunction.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_3520_0030_mb14_0",
+            "text": "That's enough. Let's all go back to bed now.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_3520_0040_mb13_0",
+            "text": "Dad!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_6000_0010_anc_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_6000_0020_anc_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_6000_0030_anc_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_6010_0010_anc_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_6010_0020_anc_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_6010_0030_anc_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_6010_0040_anc_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_6020_0010_anc_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_6020_0020_anc_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_town7_6020_0021_anc_0",
+            "text": "",
+            "speaker": ""
+        }
+    ],
+    "meta": {
+        "tool": "FF7R text mod tools",
+        "version": "1.4.2",
+        "game": "FF7R"
+    }
+}

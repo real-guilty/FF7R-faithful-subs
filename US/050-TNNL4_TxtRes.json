@@ -1,0 +1,3209 @@
+{
+    "data": [
+        {
+            "id": "$ba_tnnl4_0311_0000_0000_kb01_0",
+            "text": "It's them!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_tnnl4_0311_0000_0010_kb02_0",
+            "text": "We have a visual on the targets! Requesting immediate assistance!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_tnnl4_0401_0000_0000_kb03_0",
+            "text": "Confirmed! It's the three who jumped from the train!",
+            "speaker": "Grenadier"
+        },
+        {
+            "id": "$ba_tnnl4_0401_0000_0010_kb04_0",
+            "text": "Don't let any of them escape!",
+            "speaker": "Grenadier"
+        },
+        {
+            "id": "$ba_tnnl4_0421_0000_0000_ks01_0",
+            "text": "You're not going anywhere!",
+            "speaker": "Elite Grenadier"
+        },
+        {
+            "id": "$ba_tnnl4_0440_0000_0000_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ba_tnnl4_0440_0000_0010_blt_0",
+            "text": "That's disgusting!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_0461_0000_0000_blt_0",
+            "text": "What now!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_0461_0000_0010_tif_0",
+            "text": "It's huge...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_0461_0000_0020_blt_0",
+            "text": "So you must be the queen, huh!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_0465_0000_0000_jk01_0",
+            "text": "How did you get in here!?",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_tnnl4_0465_0000_0010_kB09_0",
+            "text": "It's those three terrorists from the train!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_tnnl4_0470_0000_0000_kb10_0",
+            "text": "Intruders!",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$ba_tnnl4_0480_0000_0000_ks02_0",
+            "text": "Get 'em!",
+            "speaker": "Flametrooper"
+        },
+        {
+            "id": "$ba_tnnl4_0480_0000_0010_ks03_0",
+            "text": "You bastards aren't going to get away this time!",
+            "speaker": "Flametrooper"
+        },
+        {
+            "id": "$ba_tnnl4_0490_0000_0000_ks04_0",
+            "text": "Give it up, assholes, or we'll blow you to hell!",
+            "speaker": "Elite Security Officer"
+        },
+        {
+            "id": "$ba_tnnl4_0490_0000_0010_ks05_0",
+            "text": "Surrender!",
+            "speaker": "Elite Security Officer"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1020_0010_cld_0",
+            "text": "Huh. Looks like an old model.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1020_0020_blt_0",
+            "text": "So it's an antique.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1020_0030_cld_0",
+            "text": "Don't underestimate it. It's slow, but it hits hard.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1030_0010_blt_0",
+            "text": "The hell─!? Tough bastard.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1030_0020_tif_0",
+            "text": "What do we do?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1030_0030_cld_0",
+            "text": "Aim for its legs. Bring it down.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1040_0010_blt_0",
+            "text": "I think you've got its attention, Cloud!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1040_0020_cld_0",
+            "text": "I'll draw its fire. You two stay on the offensive.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1050_0010_tif_0",
+            "text": "Barret, it's tracking you!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1050_0020_blt_0",
+            "text": "Come and get me, asshole! I ain't scared!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1050_0030_cld_0",
+            "text": "We'll keep up the attack.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1060_0010_cld_0",
+            "text": "Tifa! Watch out!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1060_0020_tif_0",
+            "text": "Right! I'll distract it. You two keep doing your thing.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1070_0010_cld_0",
+            "text": "Think it likes me.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1080_0010_cld_0",
+            "text": "Bring it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1090_0010_blt_0",
+            "text": "Hah, look at that! It's tough being Mr. Popular.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1100_0010_blt_0",
+            "text": "C'mon─give it your best shot!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1110_0010_tif_0",
+            "text": "I think it hates me.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1120_0010_tif_0",
+            "text": "I'll keep it distracted!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1210_0010_tif_0",
+            "text": "Hey, see that?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1210_0020_cld_0",
+            "text": "That's its heart─a mako generator.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1210_0030_blt_0",
+            "text": "I'm guessin' we aim for that!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1220_0010_cld_0",
+            "text": "Is that...? A mako generator!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1230_0010_blt_0",
+            "text": "Ha! Found your weak spot.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1240_0010_tif_0",
+            "text": "Wait─those lights look suspicious.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1250_0010_blt_0",
+            "text": "Look who's hurtin' now!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1250_0020_tif_0",
+            "text": "I think it worked!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_1250_0030_cld_0",
+            "text": "Keep it up, guys!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_2010_0010_tif_0",
+            "text": "What are those?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_2010_0020_cld_0",
+            "text": "More drones.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_2010_0030_blt_0",
+            "text": "This is where I shine!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_2020_0010_tif_0",
+            "text": "Get out of our way!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_2020_0020_cld_0",
+            "text": "Bastards.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_2020_0030_blt_0",
+            "text": "Damn! Think we gotta take these down first.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_2050_0010_blt_0",
+            "text": "That's how it's done!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_2050_0020_cld_0",
+            "text": "Now let's finish it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_2060_0010_tif_0",
+            "text": "That's all of 'em!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_2060_0020_blt_0",
+            "text": "Now we can concentrate on the big one!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_2110_0010_tif_0",
+            "text": "Not again!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_2110_0020_blt_0",
+            "text": "Dammit! I thought I was done with this shit.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_2120_0010_cld_0",
+            "text": "Need to finish this soon.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_2130_0010_blt_0",
+            "text": "Stupid little shits never learn!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_2140_0010_tif_0",
+            "text": "When will it end!?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3010_0010_tif_0",
+            "text": "Now what?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3010_0020_cld_0",
+            "text": "Could be a system error.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3010_0030_blt_0",
+            "text": "Thing's probably busted!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3020_0010_blt_0",
+            "text": "What's it doing now?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3020_0020_tif_0",
+            "text": "I think─",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3020_0030_cld_0",
+            "text": "Get away from the tracks!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3020_1010_cld_0",
+            "text": "What're you up to? Shit! The tracks!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3020_2020_blt_0",
+            "text": "Shit! The tracks!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3020_3020_tif_0",
+            "text": "Wait! The tracks!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3030_0010_cld_0",
+            "text": "It can electrify the tracks.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3040_0010_blt_0",
+            "text": "Don't wanna get caught by that shit!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3050_0010_tif_0",
+            "text": "It's pulling out all the stops now.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3060_0010_cld_0",
+            "text": "Look out!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3070_0010_cld_0",
+            "text": "Watch out for the surge!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3080_0010_blt_0",
+            "text": "Not this shit again!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3090_0010_blt_0",
+            "text": "Don't touch the rails!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3100_0010_tif_0",
+            "text": "Stay away from the tracks!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3110_0010_tif_0",
+            "text": "Watch your step!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3210_0010_blt_0",
+            "text": "Shit! It's still going!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3210_0020_tif_0",
+            "text": "Now what?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3210_0030_cld_0",
+            "text": "Destroy the pilot! That'll expose the generator!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3220_0010_cld_0",
+            "text": "Armor's solid.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3230_0010_blt_0",
+            "text": "Shit! It's still going!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3230_0020_blt_0",
+            "text": "Gotta try busting through that pilot then, huh?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3240_0010_tif_0",
+            "text": "It recovered already!?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3240_0020_tif_0",
+            "text": "I know! If we break through that pilot...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3250_0010_blt_0",
+            "text": "This thing just keeps comin' back for more!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3250_0020_tif_0",
+            "text": "Gotta destroy that pilot quickly!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3310_0010_tif_0",
+            "text": "We got it!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3310_0020_blt_0",
+            "text": "How you like that!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ba_tnnl4_5010_3310_0030_cld_0",
+            "text": "Now we can do some damage!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0010_0010_tan_0",
+            "text": "This is an announcement from the Shinra Electric Power Company.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_tnnl4_0010_0020_tan_0",
+            "text": "The terrorist group \"Avalanche\" has issued another bomb threat.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_tnnl4_0010_0030_tan_0",
+            "text": "In response, we have raised the threat level and entered a state of heightened alert.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_tnnl4_0010_0040_tan_0",
+            "text": "All lines are currently experiencing delays.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_tnnl4_0010_0050_tan_0",
+            "text": "We anticipate that our arrival in Sector 4 will be later than scheduled.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_tnnl4_0010_0060_blt_0",
+            "text": "The target's Mako Reactor 5.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0010_0070_blt_0",
+            "text": "From the station, we take the backstreets.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0010_0070_blt_1",
+            "text": "Once we're inside the facility, it's the same deal as last time.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0010_0080_cld_0",
+            "text": "Head for mako storage.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0010_0090_blt_0",
+            "text": "And then <i>blow</i> it all to hell.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0010_0100_blt_0",
+            "text": "Let's do this one for Jessie and Wedge. They deserve it.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0010_0110_tif_0",
+            "text": "Yeah.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0010_0120_cld_0",
+            "text": "Sure.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0010_0125_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0010_0130_tif_0",
+            "text": "I didn't think word would spread this fast.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0010_0130_tif_1",
+            "text": "There's barely anyone on this train. And none of them look happy to be here.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0010_0140_blt_0",
+            "text": "Might stand out as a group.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0010_0140_blt_1",
+            "text": "You two stay here.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0010_0150_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0050_0009_snk_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0050_0010_snk_0",
+            "text": "So do you <i>still</i> support those terrorists?",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$ev_tnnl4_0050_0030_snk_0",
+            "text": "Avalanche is a blight on Midgar.",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$ev_tnnl4_0050_0040_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0050_0050_snk_0",
+            "text": "Their bomb threat has thrown our offices into chaos, let alone the reactor itself. It's total insanity!",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$ev_tnnl4_0050_0060_snk_0",
+            "text": "But we won't lose heart! No! Everyone at Shinra agrees.",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$ev_tnnl4_0050_0060_snk_1",
+            "text": "The reactor will stay online!",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$ev_tnnl4_0050_0070_blt_0",
+            "text": "Heh. Is that right?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0050_0080_snk_0",
+            "text": "What? You got a problem with that?",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$ev_tnnl4_0050_0090_blt_0",
+            "text": "Do I have a <i>problem</i> with that? Oh, you can bet─",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0050_0100_cld_0",
+            "text": "He doesn't.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0050_0110_snk_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0050_0115_snk_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0050_0120_blt_0",
+            "text": "Hmph. Asshole...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0050_0129_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0050_0130_cld_0",
+            "text": "You know you're better than that.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0050_0135_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0050_0136_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0050_0140_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0070_0040_tan_0",
+            "text": "Unauthorized IDs detected.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_tnnl4_0070_0050_tan_0",
+            "text": "Threat level: critical.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_tnnl4_0070_0055_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0070_0060_tan_0",
+            "text": "Inspection and containment sweep initiated, commencing at the rear of the train.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_tnnl4_0070_0070_tif_0",
+            "text": "Not good!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0070_0079_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0070_0080_blt_0",
+            "text": "Get over here! Now!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0070_0085_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0070_0090_ym01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0070_0091_ym02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0070_0092_ym03_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0070_0093_wm02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0070_0100_ym02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0070_0110_tif_0",
+            "text": "Take care of them, Cloud!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0070_0120_cld_0",
+            "text": "On it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0000_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0001_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0002_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0003_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0004_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0005_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0006_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0008_tif_0",
+            "text": "Please! You have to get out of here!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0009_snk_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0010_snk_0",
+            "text": "What are you doing!?",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0015_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0020_tif_0",
+            "text": "Trying to keep you alive.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0030_snk_0",
+            "text": "But I work for Shinra. I'm the enemy.",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0040_tif_0",
+            "text": "I don't care.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0050_tif_0",
+            "text": "I don't want anyone to die. Please!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0060_snk_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0060_snk_1",
+            "text": "I'll look after the others.",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0065_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0070_tif_0",
+            "text": "My turn.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0071_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0072_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0079_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0080_cld_0",
+            "text": "There's no end to them...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0090_tan_0",
+            "text": "Three unauthorized passengers successfully contained.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0091_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0092_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0100_tan_0",
+            "text": "Neutralizing threat.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0110_blt_0",
+            "text": "Looks like you're right, SOLDIER boy.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0120_cld_0",
+            "text": "Screw this.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0160_blt_0",
+            "text": "Huh?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0170_cld_0",
+            "text": "The station will be crawling with security. We gotta jump.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0180_blt_0",
+            "text": "Screw <i>that</i>!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0190_cld_0",
+            "text": "Need to slow the train down.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0192_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0195_blt_0",
+            "text": "Sounds like a Biggs plan E.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0200_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0201_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0202_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0210_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0230_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0240_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0250_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0260_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0265_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0266_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0270_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0280_blt_0",
+            "text": "Okay, y'all watch and learn. I'm gonna jump. Gonna do it. Gonna show you how it's done!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0300_cld_0",
+            "text": "Tifa!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0090_0310_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0315_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0320_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0330_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0334_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0335_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0340_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0090_0350_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0005_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0010_cld_0",
+            "text": "Dammit.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0110_0011_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0015_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0016_wm01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0017_wm02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0018_ym03_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0019_ym02_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0020_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0030_tif_0",
+            "text": "Just go!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0110_0035_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0040_tif_0",
+            "text": "How many are there!?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0110_0050_tan_0",
+            "text": "Three unauthorized passengers successfully contained.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_tnnl4_0110_0055_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0056_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0060_tan_0",
+            "text": "Neutralizing threat.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_tnnl4_0110_0065_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0067_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0070_blt_0",
+            "text": "We gotta jump...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0110_0072_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0074_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0075_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0076_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0078_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0079_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0080_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0090_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0100_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0110_0110_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0120_0005_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0120_0010_cld_0",
+            "text": "Tifa... Barret...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0120_0011_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0120_0015_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0120_0020_cld_0",
+            "text": "Still not got the message?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0160_0000_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0160_0005_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0160_0010_cld_0",
+            "text": "You okay?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0160_0020_tif_0",
+            "text": "Yeah...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0160_0021_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0160_0023_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0160_0024_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0160_0026_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0160_0030_cld_0",
+            "text": "Alright, you ready?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0160_0040_tif_0",
+            "text": "Ready.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0160_0050_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0160_0060_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0180_0010_hyd_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0180_0010_hyd_1",
+            "text": "I felt sure we had them, didn't you?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0180_0010_hyd_2",
+            "text": "Well done, well done!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0180_0020_kb01_0",
+            "text": "Sir!",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0180_0030_hyd_0",
+            "text": "Born survivors, these sewer rats.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0180_0030_hyd_1",
+            "text": "Speaking of which, where is the third?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0180_0040_kb01_0",
+            "text": "In custody, sir.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0180_0050_hyd_0",
+            "text": "Return it to the wild.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0180_0060_kb01_0",
+            "text": "Yessir! Right away!",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0180_0070_hyd_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0230_0010_blt_0",
+            "text": "Looks like it's gonna be plan E.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0230_0020_cld_0",
+            "text": "Go on.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0230_0030_blt_0",
+            "text": "Plan A was if everything went off without a hitch.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0230_0030_blt_1",
+            "text": "Didn't work out, but we knew going in we had to have alternatives.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0230_0030_blt_2",
+            "text": "From closer in to further out─B, C, D, and so on.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0230_0030_blt_3",
+            "text": "From the station, it would've been a straight shot to the reactor.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0230_0030_blt_4",
+            "text": "Backup plans 'case we had to get off early.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0230_0040_cld_0",
+            "text": "Up to what?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0230_0050_tif_0",
+            "text": "...To E.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0230_0060_cld_0",
+            "text": "Lucky us...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0230_0070_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0230_0070_blt_1",
+            "text": "You're damn right!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0230_0080_tif_0",
+            "text": "Anyway, we were riding the train between Sector 4 and the main pillar when we had to bail out.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0230_0080_tif_1",
+            "text": "And we ended up on the adjacent line, which should take us to Reactor 5.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0230_0090_blt_0",
+            "text": "That's right. So for now we follow the tracks.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0230_0090_blt_1",
+            "text": "'Cause you can bet your ass it's gonna be crawling with security─all on high alert.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0230_0090_blt_2",
+            "text": "Not too far, though. Need to switch to a different route before we hit the station.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0230_0100_tif_0",
+            "text": "Let's move.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0230_0110_blt_0",
+            "text": "Our friends in Sector 5 marked the route, so don't worry about getting lost.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0230_0120_blt_0",
+            "text": "It's a straight shot to victory, people!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0230_0120_blt_1",
+            "text": "All we gotta do...is <i>take</i> it!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0240_0010_hyd_0",
+            "text": "You have nothing to worry about, sir. Preparations for the grand finale are proceeding without incident.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0240_0010_hyd_1",
+            "text": "I have the utmost confidence that everything will play out as you intended...",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0240_0010_hyd_2",
+            "text": "Yes, of course. I will not fail you, sir.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0240_0015_hyd_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0240_0017_kd01_0",
+            "text": "Sir.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0240_0020_kd01_0",
+            "text": "Analytics reports that the results fall within the admissible range.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0240_0020_kd01_1",
+            "text": "However, the casualty rate significantly exceeds previous proje─",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0240_0025_hyd_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0240_0030_hyd_0",
+            "text": "Remind me what your job is. Is it to question the wisdom of your superiors and bemoan your personal hardships?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0240_0040_kd01_0",
+            "text": "Sir?",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0240_0050_hyd_0",
+            "text": "Casualty rate? You think I care about the casualty rate?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0240_0050_hyd_1",
+            "text": "If your stock runs low, then go round up more from Sector 3 or wherever else.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0240_0050_hyd_2",
+            "text": "Use your head and bring me solutions instead of problems for a change, yes?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0240_0050_hyd_3",
+            "text": "They are pawns in a greater game.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0240_0055_kd01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0240_0060_kd01_0",
+            "text": "Sir!",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0240_0062_kd01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0240_0065_hyd_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0240_0070_hyd_0",
+            "text": "It is so hard to find good help these days.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0240_0070_hyd_1",
+            "text": "Which is why the president ought to count his blessings.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0240_0070_hyd_2",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0240_0070_hyd_3",
+            "text": "What would he do without me?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0310_0010_kd01_0",
+            "text": "We've compiled our report on Avalanche's combat capabilities and are─",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0310_0020_hyd_0",
+            "text": "Report, report, report! What good do you think a damn report will do anyone!?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0310_0030_kd01_0",
+            "text": "I don't...",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0310_0040_hyd_0",
+            "text": "Have you already forgotten the war with Wutai?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0310_0040_hyd_1",
+            "text": "We must crush them─thoroughly and completely, without hesitation or mercy!",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0310_0040_hyd_2",
+            "text": "An enemy spared is an enemy who will repay your \"kindness\" with blood.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0310_0040_hyd_3",
+            "text": "Shinra cannot and will not settle for anything less. Will you!?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0310_0045_kd01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0310_0050_kd01_0",
+            "text": "But...but sir─",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0310_0060_hyd_0",
+            "text": "If so...I can only assume that you and your men no longer wish to serve in your current positions. Is that correct?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0310_0063_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0310_0066_kd01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0310_0070_kd01_0",
+            "text": "We'll prepare the prototype in Section E for immediate deployment.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0310_0070_kd01_1",
+            "text": "Right now, dammit!",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0310_0075_kd01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0310_0080_hyd_0",
+            "text": "Another day, another victory! How do I do it!?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0360_0019_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0360_0020_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0360_0030_cld_0",
+            "text": "Get back!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0360_0040_tif_0",
+            "text": "What the─!?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0360_0043_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0360_0044_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0360_0045_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0360_0050_blt_0",
+            "text": "That all you got!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0360_0060_cld_0",
+            "text": "Someone's mad.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0360_0065_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0360_0067_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0360_0070_blt_0",
+            "text": "Take your best shot, asshole!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0360_0080_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0360_0090_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0390_0000_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0390_0001_cld_0",
+            "text": "All clear.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0002_blt_0",
+            "text": "And stay down!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0003_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0390_0005_cld_0",
+            "text": "Let's go.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0006_tif_0",
+            "text": "Sure.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0007_blt_0",
+            "text": "Alright, this way.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0010_hyd_0",
+            "text": "This won't do.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0020_kd01_0",
+            "text": "Sir, Analytics reports that the feed went down...",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0020_kd01_1",
+            "text": "after an anomaly was registered during the test.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0030_hyd_0",
+            "text": "An \"anomaly\"?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0030_hyd_1",
+            "text": "Or an excuse for your failure to properly prepare the armor?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0040_kd01_0",
+            "text": "N-no sir! All modules were confirmed fully operational!",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0050_kd01_0",
+            "text": "It's far more likely─given the circumstances─that the sensors were overloaded.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0055_hyd_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0390_0060_hyd_0",
+            "text": "Is that so?",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0070_kd01_0",
+            "text": "All the sensors in Section E are...inoperable.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0080_kd02_0",
+            "text": "The president.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0090_hyd_0",
+            "text": "Yes... Yes...",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0090_hyd_1",
+            "text": "Better, even─there's been a development.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0090_hyd_2",
+            "text": "Everything is fine, sir.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0090_hyd_3",
+            "text": "Yes... Understood, sir.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0100_hyd_0",
+            "text": "We know exactly where they were headed.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0100_hyd_1",
+            "text": "Should you fail to do so...",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0100_hyd_2",
+            "text": "You will deal with our intruders. Personally.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0100_hyd_3",
+            "text": "If the armor is intact, then you'd best determine the nature of this anomaly soon.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0101_hyd_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0390_0103_kd01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0390_0110_kd01_0",
+            "text": "...Y-yessir.",
+            "speaker": "Subordinate"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0120_hyd_0",
+            "text": "Don't worry. I treat my people more than fairly. So don't disappoint me.",
+            "speaker": "Heidegger"
+        },
+        {
+            "id": "$ev_tnnl4_0390_0120_hyd_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0390_0125_kd01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0390_0127_kd01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_0430_0010_blt_0",
+            "text": "Just so you know...it's not gonna get any easier.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_0430_0020_cld_0",
+            "text": "When did it ever?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_tnnl4_8020_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_8020_0020_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_8030_0010_blt_0",
+            "text": "That it!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_tnnl4_8030_0012_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_8030_0014_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_8030_0016_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_8030_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_8030_0030_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_8030_0040_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_tnnl4_8030_0050_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_tnnl4_0020_0030_tif_0",
+            "text": "Cloud.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0020_0040_tan_0",
+            "text": "The train will be passing an ID checkpoint shortly.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_tnnl4_0020_0050_tif_0",
+            "text": "Here comes the first hurdle...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0020_0060_cld_0",
+            "text": "Not much of one.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_tnnl4_0020_0080_tif_0",
+            "text": "I know, I know. But that doesn't mean I don't have butterflies in my stomach.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0020_0100_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_tnnl4_0030_0030_tif_0",
+            "text": "Hey, would you mind keeping an eye on things the next car over? I'm worried there might be trouble.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0030_0040_cld_0",
+            "text": "Why's that?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_tnnl4_0030_0050_tif_0",
+            "text": "Barret's always on edge before missions, but you know he's a good guy underneath it all. The people on this train don't.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0030_0060_cld_0",
+            "text": "He'll be fine.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_tnnl4_0030_0070_tif_0",
+            "text": "Maybe...but I won't be until I know for sure.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0030_0080_cld_0",
+            "text": "Be right back.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_tnnl4_0030_0090_tif_0",
+            "text": "Thanks.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0065_0020_tan_0",
+            "text": "Emergency ID scan in progress.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_tnnl4_0065_0025_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_tnnl4_0065_0030_tif_0",
+            "text": "No way!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0065_0040_tan_0",
+            "text": "Emergency ID scan in progress.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_tnnl4_0080_0010_tan_0",
+            "text": "Lockdown protocol initiated. This train car will enter lockdown in three minutes.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_tnnl4_0080_0020_tif_0",
+            "text": "You have to get to the next car!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0080_0030_blt_0",
+            "text": "Keep moving, people!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0080_0040_ym01_0",
+            "text": "Whadda we do!?",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_tnnl4_0080_0050_blt_0",
+            "text": "Get to car two!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0080_0060_ym01_0",
+            "text": "I...I can't...",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_tnnl4_0080_0065_ym01_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_tnnl4_0080_0070_blt_0",
+            "text": "You wanna survive this? Then move!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0080_0080_ym01_0",
+            "text": "Y-y-yessir!",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_tnnl4_0125_0010_cld_0",
+            "text": "Where are they?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_tnnl4_0140_0010_cld_0",
+            "text": "Tifa!",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_tnnl4_0140_0020_tif_0",
+            "text": "They just won't quit!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0165_0020_tif_0",
+            "text": "That's gotta be him!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0170_0010_tif_0",
+            "text": "Whew! Thanks for the assist!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0170_0020_cld_0",
+            "text": "Glad to see you're okay. So─where's Barret?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_tnnl4_0170_0040_tif_0",
+            "text": "Somewhere over there, I think.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0175_0005_blt_0",
+            "text": "Ha ha ha!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0175_0010_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_tnnl4_0198_0010_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_tnnl4_0200_0010_tif_0",
+            "text": "Barret!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0200_0020_blt_0",
+            "text": "Tifa! Could use some help here!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0200_0030_tif_0",
+            "text": "We're coming!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0200_0040_blt_0",
+            "text": "Make it quick! Should be some stairs over there!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0200_0060_tif_0",
+            "text": "We'd better hurry.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0200_0070_cld_0",
+            "text": "Yeah.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_tnnl4_0200_0080_blt_0",
+            "text": "I've had it up to here with you damn robo-bugs! I'm gonna rip off those spindly legs of yours one by one!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0201_0100_tif_0",
+            "text": "He's this way!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0201_0230_tif_0",
+            "text": "C'mon, we gotta get to Barret!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0201_0380_tif_0",
+            "text": "Come on!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0220_0010_tif_0",
+            "text": "Barret!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0220_0020_blt_0",
+            "text": "Great! Gimme a hand!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0260_0010_blt_0",
+            "text": "There's one.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0270_0020_blt_0",
+            "text": "In nose we trust.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0270_0040_tif_0",
+            "text": "Good thing our colleagues put up all that Stamp graffiti. Without it, we'd be lost for sure.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0308_0020_blt_0",
+            "text": "There's an old rail yard not far from here. What we're looking for's somewhere inside.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0308_0030_cld_0",
+            "text": "And that is...?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_tnnl4_0308_0040_blt_0",
+            "text": "A secret passageway.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0325_0010_blt_0",
+            "text": "Hey! Hold up!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0326_0010_blt_0",
+            "text": "This way.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0327_0010_blt_0",
+            "text": "Where you going!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0330_0020_tif_0",
+            "text": "Security is a lot tighter than I thought it would be.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0330_0030_blt_0",
+            "text": "If they wanna stand between us and the rail yard, that's their choice.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0335_0010_blt_0",
+            "text": "No getting through that gate! Let's take the stairs.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0340_0010_tif_0",
+            "text": "Thought this place was abandoned.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0340_0020_blt_0",
+            "text": "Guess not.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0345_0010_tif_0",
+            "text": "So many guards.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_0345_0020_blt_0",
+            "text": "Too many...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0346_0010_blt_0",
+            "text": "Keep looking for faithful little Stamp. He'll lead us to the passageway.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_0347_0040_cld_0",
+            "text": "This it?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_tnnl4_0425_0010_blt_0",
+            "text": "All aboard...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_1227_0010_blt_0",
+            "text": "Hey! Wrong way, merc!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_1228_0010_blt_0",
+            "text": "The hell you think you're doing!? Get back here!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_1229_0010_blt_0",
+            "text": "You ain't gonna find shit over there!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_1230_0020_blt_0",
+            "text": "Get back here! We don't have time for this!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_tnnl4_2310_0010_tif_0",
+            "text": "Wrong way, Cloud.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_2320_0010_tif_0",
+            "text": "We've gotta get to Barret!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_2330_0010_tif_0",
+            "text": "Hey, I think we missed the stairs.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_tnnl4_2340_0010_tif_0",
+            "text": "We're getting sidetracked.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_0081_0010_tan_0",
+            "text": "Lockdown protocol initiated. This train car will enter lockdown in two minutes.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$tk_tnnl4_0082_0010_tan_0",
+            "text": "Lockdown protocol initiated. This train car will enter lockdown in one minute.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$tk_tnnl4_0083_0010_tan_0",
+            "text": "Lockdown protocol initiated. This train car will enter lockdown in thirty seconds.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$tk_tnnl4_0084_0090_tif_0",
+            "text": "Cloud!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_0084_0100_tan_0",
+            "text": "Lockdown protocol initiated. This train car will enter lockdown shortly.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$tk_tnnl4_0084_0110_blt_0",
+            "text": "Move it!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0085_0010_tan_0",
+            "text": "Three unauthorized passengers detected.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$tk_tnnl4_0085_0020_tan_0",
+            "text": "Initiating inspection and detention protocol in corresponding car.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$tk_tnnl4_0086_0010_tan_0",
+            "text": "Lockdown complete. One unauthorized passenger detained.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$tk_tnnl4_0086_0020_tan_0",
+            "text": "Inspection will continue until all unauthorized passengers are detained.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$tk_tnnl4_0086_0025_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_0086_0030_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_0135_0010_cld_0",
+            "text": "There you are.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_0195_0000_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_0195_0010_tif_0",
+            "text": "There!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_0195_0020_tif_0",
+            "text": "He's close! Come on!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_0205_0010_tif_0",
+            "text": "Okay, these must be the stairs.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_0206_0010_blt_0",
+            "text": "I ain't going down without a fight!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0206_0020_tif_0",
+            "text": "That doesn't sound good!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_0206_0030_cld_0",
+            "text": "Let's go.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_0221_0010_blt_0",
+            "text": "Hey, get your ass over here.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0222_0010_tif_0",
+            "text": "Come take a look, Cloud.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_0223_0010_blt_0",
+            "text": "Get over here! It's briefing time!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0225_0010_blt_0",
+            "text": "This calls for a song! Duhn-duhn-duhn-<i>duhn</i>, duhn duhn, <i>duhn</i>-da-<i>duhn</i>!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0225_0015_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_0225_0020_tif_0",
+            "text": "That's gotta be the last of them...right?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_0225_0030_blt_0",
+            "text": "Aw, who cares? We can take 'em! Now let's confirm our position and get back on mission! That reactor's waiting!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0229_0010_blt_0",
+            "text": "Everybody on the same page? We're going with plan E!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0229_0015_blt_0",
+            "text": "That means we gotta follow these tracks for a while.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0229_0020_blt_0",
+            "text": "When the time comes, remember: we just gotta follow the nose.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0229_0030_cld_0",
+            "text": "What?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_0229_0040_tif_0",
+            "text": "Stamp's nose.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_0229_0050_blt_0",
+            "text": "We look for graffiti, then head in whichever direction its nose points.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0229_0060_blt_0",
+            "text": "But pay attention to railway signals too. You see blue lights, you're going the right way.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0295_0010_blt_0",
+            "text": "I ain't no exterminator. Why I gotta kill all these nasty-ass bugs?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0301_0010_tif_0",
+            "text": "More of 'em!?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_0301_0020_blt_0",
+            "text": "What is this? A science experiment!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0302_0010_blt_0",
+            "text": "Be damned if I'm going through that. Gotta look somewhere else.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0305_0010_blt_0",
+            "text": "There's good ol' Stamp. Check his nose.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0305_0020_tif_0",
+            "text": "This isn't bad, y'know...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_0305_0030_blt_0",
+            "text": "Yeah, they really captured the essence of corporate propaganda.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0307_0010_blt_0",
+            "text": "Alright. Let's figure out where the hell we are.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0311_0010_blt_0",
+            "text": "Where you going!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0312_0010_tif_0",
+            "text": "Cloud. It's this way.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_0313_0010_tif_0",
+            "text": "Hurry it up, Cloud.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_0315_0010_blt_0",
+            "text": "Gotta love the irony of Shinra's smarmy lapdog leading the way to its master's destruction.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0315_0020_tif_0",
+            "text": "You really don't like Stamp, do you, Barret?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_0315_0030_blt_0",
+            "text": "It's not that I hate him.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0315_0040_blt_0",
+            "text": "I hate the fact Shinra took a loyal animal like that and co-opted it for their own self-serving agenda.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0315_0050_tif_0",
+            "text": "Poor old Stamp.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_0405_0010_blt_0",
+            "text": "The passage is beyond these shipping containers. Let's slip through 'em.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0410_0005_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_0410_0010_blt_0",
+            "text": "Talk about a tight squeeze...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0410_0020_tif_0",
+            "text": "You okay?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_0410_0030_blt_0",
+            "text": "Yeah...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0420_0010_tif_0",
+            "text": "So, you bump into any giant robots like that in Reactor 1?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_0420_0020_blt_0",
+            "text": "Yeah, except the bastard looked like a scorpion!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0420_0025_blt_0",
+            "text": "Speaking of which...what would you say that last one looked like?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_0420_0030_tif_0",
+            "text": "Huh? Uh... Well...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_0420_0040_cld_0",
+            "text": "Looks dead now.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_0424_0010_blt_0",
+            "text": "Lo and behold.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_1100_0020_blt_0",
+            "text": "Why don't you go check on Tifa? Quit screwing around here.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_1100_0030_blt_0",
+            "text": "Go see how Tifa's doing. She needs you more than I do.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_1200_0010_tif_0",
+            "text": "None of this has fazed you at all, has it?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_1200_0020_cld_0",
+            "text": "Comes with being a SOLDIER. They train you to be ready for anything.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_1200_0030_tif_0",
+            "text": "Wish I was.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_1210_0010_tif_0",
+            "text": "Keep an eye on Barret for me, would you?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_1310_0010_ym01_0",
+            "text": "If we're on heightened alert, that means more security officers, so we'll be safe...right?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_1320_0010_ym01_0",
+            "text": "Boss wouldn't let me take the day off. How about you?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_1330_0010_ym01_0",
+            "text": "What in the...?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_1330_0020_ym01_0",
+            "text": "Another one?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_1410_0010_ym02_0",
+            "text": "Where is everybody?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_1420_0010_ym02_0",
+            "text": "One little bomb threat and people lose their shit.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_1430_0010_ym02_0",
+            "text": "Huh!?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_1430_0020_ym02_0",
+            "text": "What is going on...?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_1500_0010_wm01_0",
+            "text": "I don't know anything about Avalanche, I swear!",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_1510_0010_wm01_0",
+            "text": "Please don't hurt me. I...I didn't hear anything.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_1600_0020_snk_0",
+            "text": "I have nothing more to say to you and your friend.",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$tk_tnnl4_1600_0030_snk_0",
+            "text": "The Sector 4 offices got the worst of it. Everyone's panicking over there.",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$tk_tnnl4_1600_0040_snk_0",
+            "text": "Just leave me alone.",
+            "speaker": "Shinra Middle Manager"
+        },
+        {
+            "id": "$tk_tnnl4_1710_0010_ym03_0",
+            "text": "So...if the bomb went off right now, what do you think would happen to us?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_1710_0020_wm02_0",
+            "text": "Stop talking like that! Sorry, he's such a worrier.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_1720_0010_wm02_0",
+            "text": "Everyone in Avalanche is probably in jail already.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_1720_0020_ym03_0",
+            "text": "You're right. No need to worry.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_1730_0010_ym03_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_1730_0020_wm02_0",
+            "text": "What's gotten into him?",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_1730_0030_ym03_0",
+            "text": "But...if there <i>was</i> a bomb...",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_1730_0040_wm02_0",
+            "text": "Take a deep breath.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_1800_0010_mn01_0",
+            "text": "To keep Midgar running takes vast amounts of mako, which no doubt harms the planet.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_1800_0020_mn01_0",
+            "text": "I understand where Avalanche is coming from, I do. But that doesn't mean I condone what they're doing.",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_2020_0010_blt_0",
+            "text": "Hey. This ain't no joyride.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_2030_0010_blt_0",
+            "text": "Tifa's the other way, idiot.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_2110_0010_cld_0",
+            "text": "Battle's the other way.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_2120_0010_cld_0",
+            "text": "Gotta regroup first.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_2140_0010_cld_0",
+            "text": "Don't wanna lose track of them.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_2150_0010_cld_0",
+            "text": "What am I doing?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_2210_0010_tif_0",
+            "text": "We're going the wrong way.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_2220_0010_tif_0",
+            "text": "We gotta help Barret right now.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_2230_0010_tif_0",
+            "text": "You see something over here?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_2240_0010_tif_0",
+            "text": "If we keep wandering around, we're gonna get lost.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_2250_0010_tif_0",
+            "text": "You think Barret can hold them off by himself?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_2610_0010_blt_0",
+            "text": "Why this way?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_2620_0010_tif_0",
+            "text": "Haven't we been here before?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_2710_0010_tif_0",
+            "text": "The reactor's the other way.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_2720_0010_blt_0",
+            "text": "You got any sense of direction at all?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_2730_0010_blt_0",
+            "text": "You wanna keep going this way, you best explain yourself.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_2730_0020_tif_0",
+            "text": "I think the reactor's in the other direction.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_2810_0010_blt_0",
+            "text": "Sure the nose was pointing this way?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_2810_0020_tif_0",
+            "text": "Think we took a wrong turn...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_2810_0030_blt_0",
+            "text": "Not so fast. Take a closer look at the mutt's nose.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_2820_0010_tif_0",
+            "text": "Think we're lost.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_2820_0020_blt_0",
+            "text": "Merc, Tifa's got something to say.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_2820_0030_tif_0",
+            "text": "How about we retrace our steps?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_2910_0010_blt_0",
+            "text": "We're going to the rail yard, remember?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_2920_0010_tif_0",
+            "text": "Just so you know, this way leads to the station, not the rail yard.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_2930_0010_blt_0",
+            "text": "I told you this ain't the right way!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_6010_0010_tif_0",
+            "text": "This the right way?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_6110_0010_tif_0",
+            "text": "Are we lost?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_6210_0010_tif_0",
+            "text": "Hey, Cloud. Where are you going?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_6310_0010_tif_0",
+            "text": "Cloud, we really ought to turn around.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_6410_0010_tif_0",
+            "text": "No reason to go this way, so let's not.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_6510_0010_blt_0",
+            "text": "Are you just playing this by ear?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_6610_0010_blt_0",
+            "text": "You see Stamp? Or blue lights?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_6710_0010_blt_0",
+            "text": "Hey. You sure we on the right track?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_6810_0010_blt_0",
+            "text": "The hell you off to?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_6910_0010_blt_0",
+            "text": "You've had your fun, now let's go back!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_7010_0010_blt_0",
+            "text": "Just swallow your pride and turn around already!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_7110_0010_cld_0",
+            "text": "Wrong way.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_7210_0010_cld_0",
+            "text": "Should probably check again.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_7310_0010_cld_0",
+            "text": "Gotta follow the nose...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_7410_0010_blt_0",
+            "text": "Follow the blue lights and we'll reach the reactor.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_7420_0010_blt_0",
+            "text": "You gotta check the signals, son. The signals!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_7430_0010_blt_0",
+            "text": "That one's red, merc.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9010_0010_tif_0",
+            "text": "After Barret jumped, I knew that I had to go right after, but...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_9010_0020_cld_0",
+            "text": "Don't worry about it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_9010_0030_tif_0",
+            "text": "Cool as ever, I see.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_9010_0040_cld_0",
+            "text": "If I wasn't, they would've never made me a SOLDIER.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_9010_0050_tif_0",
+            "text": "Good point.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_9020_0010_tif_0",
+            "text": "Hey, thanks. For when we jumped from the train, I mean.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_9020_0020_cld_0",
+            "text": "No biggie. You're pretty light, you know.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_9020_0030_tif_0",
+            "text": "You always know what to say.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_9030_0010_blt_0",
+            "text": "Biggs is way ahead of us.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9030_0020_blt_0",
+            "text": "Jessie was gonna back him up, so it wouldn't surprise me if he needs our help.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9030_0030_blt_0",
+            "text": "So let's not keep him waiting.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9030_0040_tif_0",
+            "text": "Right.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_9040_0010_tif_0",
+            "text": "What's that?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_9040_0020_blt_0",
+            "text": "Nothing good.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9040_0030_tif_0",
+            "text": "Guys...I think it might be a nest!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_9040_0040_blt_0",
+            "text": "All kinds of creepy-crawlies make themselves at home in the plate, then get messed up even more by the mako.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9040_0050_tif_0",
+            "text": "Mako did this?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_9040_0060_blt_0",
+            "text": "No. Not mako. Shinra.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9040_0070_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_tnnl4_9040_0080_blt_0",
+            "text": "What?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9040_0090_cld_0",
+            "text": "That black-and-white world of yours.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_9040_0100_blt_0",
+            "text": "Ya like it, huh? You know there's room for one more.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9040_0110_cld_0",
+            "text": "I'll think about it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_9045_0010_tif_0",
+            "text": "Those things really creep me out.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_9045_0020_blt_0",
+            "text": "A train's gonna get derailed by 'em one of these days.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9045_0030_tif_0",
+            "text": "Shinra should do something.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_9045_0040_blt_0",
+            "text": "After an accident they will.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9045_0050_tif_0",
+            "text": "When it's too late then.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_9050_0010_tif_0",
+            "text": "Check it out. I guess Shinra's doing something about those monsters after all.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_9050_0020_blt_0",
+            "text": "Doing a half-assed job looks like.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9055_0010_jk01_0",
+            "text": "Man, how'd we get such a shit detail?",
+            "speaker": "Security Officer"
+        },
+        {
+            "id": "$tk_tnnl4_9055_0020_kB09_0",
+            "text": "Screw it. Let's just give it a quick once-over and call it a day.",
+            "speaker": "Flametrooper"
+        },
+        {
+            "id": "$tk_tnnl4_9060_0010_tif_0",
+            "text": "If we can't find our way out of these tunnels...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_9060_0020_blt_0",
+            "text": "I'll bust some walls.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9060_0030_cld_0",
+            "text": "Good one.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_9060_0040_blt_0",
+            "text": "Wasn't kidding, you know.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9065_0010_blt_0",
+            "text": "Don't tell me. You lost?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9065_0020_cld_0",
+            "text": "If that's what you think, feel free to turn around.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_9065_0030_blt_0",
+            "text": "Man, just admit that you are.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9070_0010_blt_0",
+            "text": "Starting to remind me of one of Marlene's picture books. The one that's full of nothing but mazes...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9070_0020_tif_0",
+            "text": "Think you're making progress and then you hit a wall.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_9070_0030_cld_0",
+            "text": "Knock it down.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_9070_0040_tif_0",
+            "text": "You're starting to sound like Barret.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_9070_0050_cld_0",
+            "text": "Never mind.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_9070_0060_blt_0",
+            "text": "It's a good plan!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9080_0010_blt_0",
+            "text": "We should be reaching that secret passage real soon. I knew plan E wouldn't fail us. Shoulda called it \"plan excellent\"!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9080_0020_blt_0",
+            "text": "Whatcha think, Mister Ex-SOLDIER?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9080_0030_cld_0",
+            "text": "Biggs made the plan, right?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_9080_0040_blt_0",
+            "text": "I provided some input.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9080_0050_cld_0",
+            "text": "Hope not too much.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_tnnl4_9080_0060_blt_0",
+            "text": "What's that s'posed to mean?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9125_0010_blt_0",
+            "text": "What're we doing? You drop something?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9125_0020_tif_0",
+            "text": "We gotta turn around.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_9125_0030_blt_0",
+            "text": "You following the damn tail or something? Get it together, son!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9150_0010_blt_0",
+            "text": "Hey. Follow the nose, remember?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9151_0010_blt_0",
+            "text": "Pay attention to Stamp's nose.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_tnnl4_9152_0010_tif_0",
+            "text": "Umm... So Stamp's nose should be our guide.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_tnnl4_9153_0010_tif_0",
+            "text": "Let's just follow his nose.",
+            "speaker": "Tifa"
+        }
+    ],
+    "meta": {
+        "tool": "FF7R text mod tools",
+        "version": "1.4.2",
+        "game": "FF7R"
+    }
+}

@@ -1,0 +1,1689 @@
+{
+    "data": [
+        {
+            "id": "$ev_plat4_0010_0005_blt_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat4_0010_0010_blt_0",
+            "text": "Through here and straight on to Reactor 5.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0010_0020_tif_0",
+            "text": "You make it sound so simple...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_plat4_0010_0030_blt_0",
+            "text": "Only 'cause it is.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0010_0030_blt_1",
+            "text": "That there's the reactor support pillar.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0010_0040_cld_0",
+            "text": "So, what's the plan?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_plat4_0010_0050_blt_0",
+            "text": "After plan E comes F, G, and then H!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0010_0060_cld_0",
+            "text": "Thought E was the last.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_plat4_0010_0070_tif_0",
+            "text": "This here is Section F.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_plat4_0010_0080_blt_0",
+            "text": "We cut through Section G and head for H.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0010_0090_tif_0",
+            "text": "A cargo platform in H will get us closer to the reactor.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_plat4_0010_0090_tif_1",
+            "text": "Biggs should be somewhere over there.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_plat4_0010_0100_tif_0",
+            "text": "Looks like the sun's going down on Midgar...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_plat4_0010_0110_blt_0",
+            "text": "Right. Double time!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0010_0110_blt_1",
+            "text": "We got a date with a reactor.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0010_0120_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat4_0010_0130_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat4_0035_0030_ana_0",
+            "text": "Emergency power supply confirmed. Disengaging locking mechanisms.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_plat4_0035_0040_blt_0",
+            "text": "Okay! That's that.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0035_0045_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat4_0035_0050_tif_0",
+            "text": "Great job, Cloud!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_plat4_0035_0060_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat4_0090_0010_blt_0",
+            "text": "This is it. The cargo platform Biggs was talking about.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0090_0010_blt_1",
+            "text": "Let's not keep him waiting.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0090_0020_ana_0",
+            "text": "Error. Insufficient power.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$ev_plat4_0090_0030_blt_0",
+            "text": "You're kidding me.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0090_0030_cld_0",
+            "text": "Needs three lights' worth, looks like.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_plat4_0090_0040_tif_0",
+            "text": "But that's...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_plat4_0090_0060_tif_0",
+            "text": "That's all of them, isn't it?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_plat4_0090_0080_blt_0",
+            "text": "All or nothing...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0090_0100_tif_0",
+            "text": "Let's regroup here if we get lost.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_plat4_0090_0100_tif_1",
+            "text": "Remember the H-01 sign.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_plat4_0090_0110_cld_0",
+            "text": "Right.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_plat4_0090_0130_blt_0",
+            "text": "Lessee now... Closest light ought to be...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0090_0150_cld_0",
+            "text": "That one.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_plat4_0200_0001_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat4_0200_0002_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat4_0200_0003_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat4_0200_0010_big_0",
+            "text": "Mercy!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_plat4_0200_0020_big_0",
+            "text": "Wait... Cloud?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_plat4_0200_0020_big_1",
+            "text": "Where's Jessie and Wedge?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_plat4_0200_0025_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat4_0200_0030_blt_0",
+            "text": "Report.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0200_0040_big_0",
+            "text": "Topside's going nuts after some terrorists jumped off a train.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_plat4_0200_0040_big_1",
+            "text": "Nice and quiet here, though.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_plat4_0200_0040_big_2",
+            "text": "So quiet I had no trouble securing your route into the reactor.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_plat4_0200_0050_blt_0",
+            "text": "You magnificent son of a bitch, bring it in!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0200_0055_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat4_0200_0060_big_0",
+            "text": "So─where are the others?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_plat4_0200_0070_tif_0",
+            "text": "Jessie got hurt and couldn't make it.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_plat4_0200_0080_big_0",
+            "text": "Bad?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_plat4_0200_0090_blt_0",
+            "text": "Not so bad she couldn't rope in this guy.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0200_0100_big_0",
+            "text": "Thanks for stepping up.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_plat4_0200_0110_cld_0",
+            "text": "It's a job.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_plat4_0200_0120_big_0",
+            "text": "Worked out pretty good, you picking that train you did.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_plat4_0200_0120_big_1",
+            "text": "You can waltz right on into Sector 5.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_plat4_0200_0120_big_2",
+            "text": "While Shinra scours Sector 4...",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_plat4_0200_0130_big_0",
+            "text": "It's a bit of a squeeze, but it ought to get you where you need to go.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_plat4_0200_0140_blt_0",
+            "text": "Little dark and foreboding for my taste...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0200_0150_big_0",
+            "text": "Beggars can't be choosers.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_plat4_0200_0150_big_1",
+            "text": "Oh─and you'll be needing your grappling guns, of course.",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_plat4_0200_0160_big_0",
+            "text": "All set?",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_plat4_0200_0170_blt_0",
+            "text": "Ready to take on the world and then some!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0200_0180_tif_0",
+            "text": "Make sure everyone gets clear, okay?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$ev_plat4_0200_0190_big_0",
+            "text": "Will do!",
+            "speaker": "Biggs"
+        },
+        {
+            "id": "$ev_plat4_0200_0200_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat4_0200_0230_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat4_0200_0240_big_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat4_0200_0250_blt_0",
+            "text": "Okay, y'all. Keep these grappling guns close.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0200_0255_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_plat4_0200_0260_blt_0",
+            "text": "Secure 'em to your belt or whatever so you don't lose 'em.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0200_0260_blt_1",
+            "text": "When we're done, we'll be using these babies to get down safe.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0200_0270_blt_0",
+            "text": "All of us.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$ev_plat4_0200_0280_cld_0",
+            "text": "Got it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$ev_plat4_0200_0290_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_plat4_0015_0010_blt_0",
+            "text": "Section G's through here, huh?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0020_0010_tif_0",
+            "text": "This oughta open it.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0021_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_plat4_0021_0021_tif_0",
+            "text": "",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0021_0030_tif_0",
+            "text": "No good?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0021_0040_cld_0",
+            "text": "Needs power, I think.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0021_0050_blt_0",
+            "text": "That looks more like what we need.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0021_0070_cld_0",
+            "text": "Control room...",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0021_0071_tif_0",
+            "text": "",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0021_0080_tif_0",
+            "text": "Let's check it out.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0022_0010_cld_0",
+            "text": "Need to restore the power.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0023_0010_blt_0",
+            "text": "Hey. You see something over there?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0025_0010_cld_0",
+            "text": "This a switch for the lamp?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0026_0010_tif_0",
+            "text": "Maybe the gate didn't budge because there's not enough power to spare?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0026_0020_blt_0",
+            "text": "Gotta figure this out.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0030_0010_blt_0",
+            "text": "Doesn't look good...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0030_0020_tif_0",
+            "text": "Think it works?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0032_0020_ana_0",
+            "text": "Error. Insufficient power.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_plat4_0032_0030_cld_0",
+            "text": "Of course.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0032_0040_tif_0",
+            "text": "Hey guys, look at this.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0032_0050_tif_0",
+            "text": "Instructions for dealing with a power shortage.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0032_0060_cld_0",
+            "text": "Kill the lights, and we free up power for the gate and other stuff.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0032_0070_tif_0",
+            "text": "\"Sun lamps\"... You think these are the plate suns?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0032_0080_tif_0",
+            "text": "The closest thing we have to the real thing.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0032_0090_blt_0",
+            "text": "Gotta put out a sun just to open a gate huh?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0032_0100_tif_0",
+            "text": "But if we go through with it, the grounders in Sector 4 will suffer...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0032_0110_blt_0",
+            "text": "Now or later─sun's going out for good when we blow the reactor.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0032_0120_tif_0",
+            "text": "That's true.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0032_0130_cld_0",
+            "text": "Let's go.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0034_0010_tif_0",
+            "text": "That's gotta be one. Man, look at the size of it.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0034_0020_blt_0",
+            "text": "That a console I see near the top of that ladder? A, uh, pretty tall ladder too.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0034_0030_cld_0",
+            "text": "I'll go.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0034_0040_tif_0",
+            "text": "Okay. We'll wait down here.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0036_0010_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0040_0020_blt_0",
+            "text": "Next stop: Section G!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0040_0030_tif_0",
+            "text": "Yep! And after that, Reactor 5!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0040_0050_tif_0",
+            "text": "Not again...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0040_0060_blt_0",
+            "text": "Great. I'm sure those things'll welcome us just as warmly as before.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0040_0070_blt_0",
+            "text": "Tell you what, the rot runs deep in this damn pizza.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0050_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_plat4_0050_0030_tif_0",
+            "text": "You okay?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0050_0040_cld_0",
+            "text": "Yeah.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0050_0050_blt_0",
+            "text": "Going for that materia, weren't you?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0050_0060_tif_0",
+            "text": "So close, and yet so far.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0060_0010_tif_0",
+            "text": "Hey, let's take a moment to get our bearings.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0061_0030_blt_0",
+            "text": "We're still in G, right?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0061_0040_tif_0",
+            "text": "Yeah. And to reach Mako Reactor 5, we need to go through Section H.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0061_0050_cld_0",
+            "text": "Okay.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0061_0060_tif_0",
+            "text": "Unfortunately, I didn't spot a connecting catwalk to Section H, did you?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0061_0070_blt_0",
+            "text": "Well, we could always do another lap.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0061_0080_cld_0",
+            "text": "Go for ten, why don'tcha.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0061_0100_tif_0",
+            "text": "The only other route that I can think of would be...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0061_0120_cld_0",
+            "text": "Along the wall.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0061_0130_tif_0",
+            "text": "Up for giving it a try? It might not work out, but it's the only idea I've got.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0061_0140_cld_0",
+            "text": "It's not a bad one.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0061_0150_blt_0",
+            "text": "So we're shooting for those giant fans way over there? Okay. At least we've got a clear landmark to guide us.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0070_0010_tif_0",
+            "text": "Hey, look! I think we can climb onto that pipe!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0071_0020_cld_0",
+            "text": "Sure seems that way.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0071_0030_blt_0",
+            "text": "Dammit.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0073_0010_blt_0",
+            "text": "Hey guys, uh...you know these fans are really loud and...",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0073_0020_cld_0",
+            "text": "You chickening out?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0073_0040_blt_0",
+            "text": "Hell no!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0073_0050_blt_0",
+            "text": "I'm just worried that your bony ass is gonna get blown off the side and shit─",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0073_0060_tif_0",
+            "text": "Enough! We gotta keep moving!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0073_0080_blt_0",
+            "text": "O-okay then! Follow me!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0075_0010_blt_0",
+            "text": "I feel no fear...yeah, no fear...no fear...no fear...no fear...no fear─little fear!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0080_0010_blt_0",
+            "text": "No worse than a windy day, huh?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0080_0020_tif_0",
+            "text": "One with a tornado warning maybe.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0082_0010_tif_0",
+            "text": "Don't look at the fan! Whatever you do.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0082_0020_blt_0",
+            "text": "Right.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0083_0010_tif_0",
+            "text": "Hey, what's that behind the fan over there?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0084_0010_cld_0",
+            "text": "Isn't that─",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0085_0010_blt_0",
+            "text": "Hey! Don't be a dumbass!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0085_0020_blt_0",
+            "text": "Tifa told you not to look at the fan!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0085_0030_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_plat4_0086_0010_tif_0",
+            "text": "Made it through in one piece.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0086_0020_blt_0",
+            "text": "Think that took a couple years off my life.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0086_0030_blt_0",
+            "text": "I-I mean, uh, not really! Couple seconds maybe. Three tops!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0086_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_plat4_0100_0020_tif_0",
+            "text": "We stop it?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0100_0040_ana_0",
+            "text": "Switching ventilation system to maintenance mode.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_plat4_0100_0050_ana_0",
+            "text": "Please complete the maintenance access procedure within the designated time limit.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_plat4_0100_0070_blt_0",
+            "text": "Man, what are we even doing?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0102_0010_ana_0",
+            "text": "Error. Error. Maintenance access procedure not completed within time limit.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_plat4_0102_0020_ana_0",
+            "text": "Reactivating ventilation system.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_plat4_0103_0010_cld_0",
+            "text": "Does this control the fans?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0103_0015_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_plat4_0104_0010_ana_0",
+            "text": "Access denied. Ventilation system is currently active.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_plat4_0105_0010_ana_0",
+            "text": "Access granted. Disengaging time lock.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_plat4_0107_0010_blt_0",
+            "text": "Where could they be going...? Embarking on an adventure to find some treasure!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0108_0010_ana_0",
+            "text": "Ventilation system service mode active. Access maintenance terminal to complete procedure.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_plat4_0110_0020_blt_0",
+            "text": "This is summoning materia!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0110_0030_tif_0",
+            "text": "Wow...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0110_0040_blt_0",
+            "text": "What kind of badass will pop outta this one?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0110_0050_cld_0",
+            "text": "We'll see.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0140_0040_tif_0",
+            "text": "That's one down.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0140_0050_ana_0",
+            "text": "Rerouting power. Please wait.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_plat4_0140_0060_blt_0",
+            "text": "Only two more lights to go.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0140_0070_ana_0",
+            "text": "Reinitializing intrusion prevention system.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_plat4_0140_0071_ana_0",
+            "text": "",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_plat4_0140_0100_tif_0",
+            "text": "\"Intrusion prevention\"?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0140_0110_cld_0",
+            "text": "Back online 'cause of us.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0140_0120_blt_0",
+            "text": "No need to fret, y'all. A few rusty mechs ain't gonna keep us from reaching the reactor.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0150_0030_blt_0",
+            "text": "And that makes two lights down.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0150_0050_tif_0",
+            "text": "Meaning we've only got one left.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0150_0060_blt_0",
+            "text": "The end's in sight, y'all!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0150_0080_cld_0",
+            "text": "Should be able to climb down from here.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0160_0030_tif_0",
+            "text": "And that makes three. Enough to finally get our cargo platform moving.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0160_0040_cld_0",
+            "text": "Better be.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0160_0050_blt_0",
+            "text": "Okay! Let's head on back to the H-01 sign.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0170_0010_ana_0",
+            "text": "Auxiliary power supply confirmed. Reactivating cargo platform.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_plat4_0170_0030_ana_0",
+            "text": "Cargo platform activated. Awaiting input.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$pv_plat4_0170_0050_blt_0",
+            "text": "So long, underplate. I hate you too.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0171_0010_blt_0",
+            "text": "Wait─wasn't there some materia that caught your eye? You wanna go grab it?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0171_0020_sys_0",
+            "text": "You wanna go grab it?",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_plat4_0172_0010_cld_0",
+            "text": "You know...I think I do.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0173_0010_cld_0",
+            "text": "Nah. No time.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0173_0020_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0174_0010_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0174_0020_cld_0",
+            "text": "",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0175_0010_cld_0",
+            "text": "You know...I think I do.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0175_0020_cld_0",
+            "text": "Nah. No time.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0180_0010_tif_0",
+            "text": "Wonder what the reactor's like.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0180_0020_blt_0",
+            "text": "Dark. Dismal. A slaughterhouse where they butcher the planet.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0180_0030_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_plat4_0180_0040_blt_0",
+            "text": "Then there's the smell. The mako. Be ready for it.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0180_0050_tif_0",
+            "text": "Right...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0180_0060_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_plat4_0190_0010_blt_0",
+            "text": "Almost there.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0190_0020_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$pv_plat4_0190_0030_cld_0",
+            "text": "Tifa?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$pv_plat4_0190_0040_tif_0",
+            "text": "It's nothing.\r\nJust thinking about the next step.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0190_0050_tif_0",
+            "text": "Didn't think I'd be this nervous.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$pv_plat4_0190_0060_blt_0",
+            "text": "Some things you never get used to.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$pv_plat4_0190_0070_tif_0",
+            "text": "Yeah.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0500_0010_blt_0",
+            "text": "Nothing but air below us.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0500_0020_cld_0",
+            "text": "Shut up and move.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_0500_0030_tif_0",
+            "text": "Just don't look down, okay?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0500_0040_blt_0",
+            "text": "Easy for you to say.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0510_0010_tif_0",
+            "text": "Maybe no one uses that entrance.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0510_0020_blt_0",
+            "text": "I'm getting the feeling no one's come down here for a long time.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0510_0030_tif_0",
+            "text": "No \"plate inspectors,\" huh.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0520_0010_tif_0",
+            "text": "All these lamps... You'd think they'd be able to balance the load by now though.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0520_0020_blt_0",
+            "text": "Maybe. If the maintenance guys or whoever weren't playing hooky.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0520_0030_tif_0",
+            "text": "The lamps are important, but when you think how much mako it must take to keep them running...",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0530_0010_blt_0",
+            "text": "Don't mind us, y'all─just passing through!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0530_0020_cld_0",
+            "text": "If only.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_0540_0010_cld_0",
+            "text": "No way to cross that.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_0540_0020_tif_0",
+            "text": "Gotta go where the catwalks take us.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0550_0010_tif_0",
+            "text": "They busted?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0550_0020_cld_0",
+            "text": "Powered down, is my guess.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_0550_0030_blt_0",
+            "text": "Lucky us, am I right? One less thing for us to worry about.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0560_0010_blt_0",
+            "text": "Filling the air that we gotta breathe with their shit.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0560_0020_tif_0",
+            "text": "Monsters sure seem to like it. What's up with that?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0560_0030_blt_0",
+            "text": "It's like in the tunnels. They get twisted by the mako. But it all goes back to Shinra.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0570_0010_tif_0",
+            "text": "This path's no good now.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0570_0020_blt_0",
+            "text": "I'm sure there's another way to get there.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0570_0030_tif_0",
+            "text": "Hm... Nothing we can do but search.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0570_0040_blt_0",
+            "text": "And when we find it, we can finally snag that materia.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0570_0050_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat4_0580_0010_blt_0",
+            "text": "You know the best way to not get lost is to believe that you're not. Mind over matter.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0580_0020_tif_0",
+            "text": "Isn't that from one of Marlene's books?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0580_0030_blt_0",
+            "text": "Yup, one of her favorites! Loves it when I read it to her before bedtime, doing all the voices.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0580_0040_tif_0",
+            "text": "\"Life in the Endless Maze,\" am I right? I remember.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0590_0010_tif_0",
+            "text": "Those ventilation fans?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0590_0020_blt_0",
+            "text": "Keeping the plate's air clean by pushing the smog into the slums.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0590_0030_blt_0",
+            "text": "Whole system's designed to make shit roll downhill faster.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0600_0010_tif_0",
+            "text": "Section H is just up ahead! Slow and steady, guys.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0600_0020_cld_0",
+            "text": "And that's our objective?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_0600_0030_tif_0",
+            "text": "The cargo platform? Yeah, I'm pretty sure that's the one.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0610_0010_blt_0",
+            "text": "Hear that, guys? It's the reactor calling us. Beckoning us, saying, \"Bring it on, Avalanche.\"",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0620_0010_tif_0",
+            "text": "\"By the light of these magnificent lamps...\"",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0620_0020_tif_0",
+            "text": "\"we shall lead our brothers and sisters of the undercity to a brighter future.\"",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0620_0030_blt_0",
+            "text": "Say what?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0620_0040_tif_0",
+            "text": "It's from a speech President Shinra gave talking up the importance of the sun lamps.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0620_0050_blt_0",
+            "text": "Brighter future, my ass. Shinra's leading us down a one-way path to darkness and death.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0630_0010_tif_0",
+            "text": "Look! There's the switch.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0630_0020_blt_0",
+            "text": "Let's flip it and go.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0640_0010_ana_0",
+            "text": "Intruders detected. Engaging countermeasures.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$tk_plat4_0640_0020_cld_0",
+            "text": "Mid-range turrets, huh?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_0640_0030_blt_0",
+            "text": "Hey, Cloud! Hang back while I deal with these pests.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0641_0020_ana_0",
+            "text": "",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$tk_plat4_0650_0010_tif_0",
+            "text": "Just made our lives a lot harder.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0650_0020_cld_0",
+            "text": "We restored power to more than just security, remember?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_0660_0010_blt_0",
+            "text": "Looks like another dead end.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0660_0020_tif_0",
+            "text": "Gonna need to keep looking for another way through.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0661_0010_blt_0",
+            "text": "Think back. Anybody see a connecting catwalk?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0662_0020_tif_0",
+            "text": "We can move this catwalk!",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0663_0010_blt_0",
+            "text": "Heads up, y'all.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0664_0010_blt_0",
+            "text": "Yeah! Lined it up perfect!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0667_0010_blt_0",
+            "text": "If there's no viable path, we'll just have to make one.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0670_0010_blt_0",
+            "text": "Which way to the next light?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0670_0020_tif_0",
+            "text": "If we can't make sense of this place we're gonna get lost.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0670_0030_blt_0",
+            "text": "Well at least we know where the big-ass things are.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0680_0010_blt_0",
+            "text": "This'll hold, right?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0680_0020_cld_0",
+            "text": "That the Sector 4 slums down there?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_0680_0030_tif_0",
+            "text": "Huh? You wanna check them out sometime? I can show you around.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0680_0040_blt_0",
+            "text": "We'll check them out now if we fall!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0682_0010_tif_0",
+            "text": "The power's on.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0684_0010_blt_0",
+            "text": "What we got here? Another platform?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0690_0010_tif_0",
+            "text": "You think they'll miss those three plate suns?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0690_0020_blt_0",
+            "text": "I say the real sun's the only one we need.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0690_0030_blt_0",
+            "text": "To hell with Shinra and their night-lights.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0700_0020_tif_0",
+            "text": "We're right back where we started.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0700_0030_tif_0",
+            "text": "Hmm... Where was that last light again?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0730_0010_tif_0",
+            "text": "Almost done. It's a shame we had to wander around so much.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0730_0020_blt_0",
+            "text": "Well. No Stamps here to guide us. No Jessie or Wedge to back us up neither.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0730_0030_tif_0",
+            "text": "Yeah... Speaking of which, what should we tell Biggs?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0730_0040_tif_0",
+            "text": "I don't want him to worry.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0740_0010_tif_0",
+            "text": "I hope that Jessie's injury isn't anything serious.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0740_0020_blt_0",
+            "text": "The best thing you can do to speed her recovery is to kick Shinra ass in her stead.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0740_0030_tif_0",
+            "text": "I know. I know. And Cloud's gotta cover for Wedge too.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0740_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$tk_plat4_0741_0010_blt_0",
+            "text": "Thought you'd know this place by now.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0742_0010_tif_0",
+            "text": "We should look for the H-01 sign.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0743_0010_tif_0",
+            "text": "Um...was this the way to the cargo platform?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0745_0010_blt_0",
+            "text": "So, uh...you ain't lost, right?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0746_0010_blt_0",
+            "text": "Uhh, you takin' a detour? Well, aight then.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0747_0010_blt_0",
+            "text": "Where could they be going? Embarking on an adventure to find some treasure!?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0750_0010_cld_0",
+            "text": "When do we link up with Biggs?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_0750_0020_blt_0",
+            "text": "Soon enough, don't you worry.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0750_0030_tif_0",
+            "text": "He knew we might be late, so he came up with a few ways to kill time.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0750_0040_blt_0",
+            "text": "We oughta reach him long before he dies of boredom.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0760_0010_tif_0",
+            "text": "And we're back at the cargo platform.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0760_0020_blt_0",
+            "text": "Get ready, Mako Reactor 5. We're coming.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0770_0010_blt_0",
+            "text": "Okay. Biggs should be waiting for us up ahead.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0770_0020_tif_0",
+            "text": "He's probably worried sick about us.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0780_0010_tif_0",
+            "text": "Even after all that fighting, no one's coming for us?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0780_0020_cld_0",
+            "text": "No need. This is Shinra's city. They probably have cameras everywhere.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_0780_0030_tif_0",
+            "text": "Why didn't you say something sooner?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0780_0040_cld_0",
+            "text": "Way too late to bail now.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_0780_0050_blt_0",
+            "text": "It's like walking a tightrope. When you're on it, only two ways off.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_0780_0060_tif_0",
+            "text": "Better keep my balance.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0780_0070_cld_0",
+            "text": "You'd be good at it.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_0780_0080_tif_0",
+            "text": "I wonder.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_0930_0010_cld_0",
+            "text": "Okay.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_0930_0020_blt_0",
+            "text": "What?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_1000_0010_tif_0",
+            "text": "Um, weren't we here earlier?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_1010_0010_tif_0",
+            "text": "I think we already checked this place out.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_1020_0010_tif_0",
+            "text": "You lost?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_1100_0010_tif_0",
+            "text": "Wait. We already used this platform.",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_1100_0020_blt_0",
+            "text": "You forget something?",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_1110_0010_blt_0",
+            "text": "Hold up. We rode this thing before.",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_1110_0020_tif_0",
+            "text": "But you knew that, right Cloud?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_1120_0010_tif_0",
+            "text": "Huh? We're going back?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_1120_0020_blt_0",
+            "text": "If you've got shit to do then hurry up!",
+            "speaker": "Barret"
+        },
+        {
+            "id": "$tk_plat4_1360_0010_cld_0",
+            "text": "Needs three lights' worth of power.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_1370_0010_cld_0",
+            "text": "Gotta power down three lamps first.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_1380_0010_cld_0",
+            "text": "There's not enough power to get it moving.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_1460_0010_cld_0",
+            "text": "Need to disable two more lights.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_1470_0010_cld_0",
+            "text": "Two sun lamps are still drawing power.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_1480_0010_cld_0",
+            "text": "Needs more power.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_1560_0010_cld_0",
+            "text": "Alright, we only need to power down one more sun lamp.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_1570_0010_cld_0",
+            "text": "One more light and we'll be good to go.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_1580_0010_cld_0",
+            "text": "Just gotta disable one more light, huh?",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_1800_0010_ana_0",
+            "text": "Error. Insufficient power.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$tk_plat4_1800_0020_cld_0",
+            "text": "Gotta power down a sun lamp first.",
+            "speaker": "Cloud"
+        },
+        {
+            "id": "$tk_plat4_1810_0010_ana_0",
+            "text": "Error. Insufficient power.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$tk_plat4_1810_0020_tif_0",
+            "text": "Maybe if we turn off the light?",
+            "speaker": "Tifa"
+        },
+        {
+            "id": "$tk_plat4_1820_0010_ana_0",
+            "text": "Error. Insufficient power.",
+            "speaker": "Announcement"
+        },
+        {
+            "id": "$tk_plat4_1820_0020_tif_0",
+            "text": "We need to disable a lamp first.",
+            "speaker": "Tifa"
+        }
+    ],
+    "meta": {
+        "tool": "FF7R text mod tools",
+        "version": "1.4.2",
+        "game": "FF7R"
+    }
+}

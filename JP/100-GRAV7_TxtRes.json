@@ -1,0 +1,1859 @@
+{
+    "data": [
+        {
+            "id": "$ba_grav7_5020_2010_0010_tif_0",
+            "text": "届かない？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ba_grav7_5020_2010_0020_art_0",
+            "text": "魔法なら……",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ba_grav7_5020_2010_0030_cld_0",
+            "text": "いや　跳ね返される\r\n解除が先だ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_0010_0001_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0010_0004_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0010_0007_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0010_0010_lud_0",
+            "text": "了解",
+            "speaker": "ルード"
+        },
+        {
+            "id": "$ev_grav7_0010_0010_lud_1",
+            "text": "アバランチへの制裁が決まった",
+            "speaker": "ルード"
+        },
+        {
+            "id": "$ev_grav7_0010_0020_lud_0",
+            "text": "誘導工作を開始する",
+            "speaker": "ルード"
+        },
+        {
+            "id": "$ev_grav7_0010_0030_ren_0",
+            "text": "上の連中は　なに考えてんだろうな？",
+            "speaker": "レノ"
+        },
+        {
+            "id": "$ev_grav7_0010_0040_lud_0",
+            "text": "反乱分子は徹底的に叩く\r\nうちは昔から　そうしてきた",
+            "speaker": "ルード"
+        },
+        {
+            "id": "$ev_grav7_0010_0050_ren_0",
+            "text": "ぜーんぶ　つぶれちまうぜ？",
+            "speaker": "レノ"
+        },
+        {
+            "id": "$ev_grav7_0010_0060_lud_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0010_0065_ren_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0010_0070_ren_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0010_0070_ren_1",
+            "text": "今さら善人ぶるなよ",
+            "speaker": "レノ"
+        },
+        {
+            "id": "$ev_grav7_0010_0080_ren_0",
+            "text": "──っと",
+            "speaker": "レノ"
+        },
+        {
+            "id": "$ev_grav7_0010_0090_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0010_0100_cld_0",
+            "text": "ただの巡回だろう",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_0010_0110_art_0",
+            "text": "行こう　七番街へ",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_0010_0120_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0004_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0005_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0010_tif_0",
+            "text": "なに？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_0280_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0030_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0040_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0042_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0045_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0050_cld_0",
+            "text": "大丈夫か？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_0280_0060_art_0",
+            "text": "こっちは　なんとか",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_0280_0070_tif_0",
+            "text": "いたぁ……うん　平気",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_0280_0080_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0090_tif_0",
+            "text": "見て",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_0280_0092_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0093_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0280_0100_cld_0",
+            "text": "調子に乗るな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_0280_0110_art_0",
+            "text": "『こっちにおいで』",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_0280_0110_art_1",
+            "text": "わたしたち　呼ばれてる？",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_0280_0120_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0010_tif_0",
+            "text": "これって",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_0300_0013_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0015_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0020_art_0",
+            "text": "行ってみよ？",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_0300_0023_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0026_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0030_tif_0",
+            "text": "でも……",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_0300_0040_art_0",
+            "text": "大丈夫！\r\n凄腕のボディーガード　いるから",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_0300_0045_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0050_art_0",
+            "text": "ねっ",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_0300_0060_cld_0",
+            "text": "オバケは専門外だ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_0300_0068_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0069_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0070_tif_0",
+            "text": "そんなこと言わないで　なんとかして",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_0300_0075_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0080_cld_0",
+            "text": "わかったから　離れてくれ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_0300_0083_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0086_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0088_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0300_0090_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0340_0010_art_0",
+            "text": "みつけた",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_0340_0010_art_1",
+            "text": "ね　ちょっとお話　しよ？",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_0340_0013_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0340_0016_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0340_0020_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0340_0022_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0340_0025_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0340_0030_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0340_0040_cld_0",
+            "text": "下がれ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_0340_0050_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0005_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0010_art_0",
+            "text": "待って",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_0360_0020_cld_0",
+            "text": "こいつは　モンスターだ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_0360_0030_art_0",
+            "text": "そうだけど",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_0360_0032_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0034_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0036_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0040_tif_0",
+            "text": "なに？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_0360_0045_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0046_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0050_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0055_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0060_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0063_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0065_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0070_cld_0",
+            "text": "逃げろ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_0360_0072_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0080_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0090_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0100_cld_0",
+            "text": "無事か？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_0360_0110_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0120_art_0",
+            "text": "ありがと　クラウド",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_0360_0121_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0122_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0128_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0360_0130_cld_0",
+            "text": "別のルートを探すしかないな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_0360_0133_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0630_0005_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0630_0010_art_0",
+            "text": "やったね",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_0630_0020_tif_0",
+            "text": "うん　早く外へ",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_0630_0025_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0630_0030_tif_0",
+            "text": "これ……",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_0630_0038_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0630_0040_art_0",
+            "text": "あの子",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_0630_0045_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0630_0050_tif_0",
+            "text": "マリン？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_0640_0010_mrn_0",
+            "text": "黒い風に連れていかれた子はね\r\nず～っと列車墓場をさまようんだって",
+            "speaker": "マリン　"
+        },
+        {
+            "id": "$ev_grav7_0640_0020_mrn_0",
+            "text": "危ないから\r\nティファも絶対に近づいちゃだめだよ",
+            "speaker": "マリン　"
+        },
+        {
+            "id": "$ev_grav7_0640_0030_tif_0",
+            "text": "うん　わかった",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_0640_0035_mrn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0640_0040_mrn_0",
+            "text": "それでね　えっとね　昨日はベティがね\r\nお父さんと……",
+            "speaker": "マリン"
+        },
+        {
+            "id": "$ev_grav7_0640_0045_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0640_0050_mrn_0",
+            "text": "父ちゃん　遅いね",
+            "speaker": "マリン"
+        },
+        {
+            "id": "$ev_grav7_0640_0055_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0640_0060_tif_0",
+            "text": "そうだね\r\n今日は帰ってこれないかも",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_0640_0070_mrn_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0640_0080_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0650_0010_tif_0",
+            "text": "マリン　あのね",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_0650_0020_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0650_0030_tif_0",
+            "text": "早く　七番街に帰らないと",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_0650_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0770_0020_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0770_0035_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0770_0040_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0770_0050_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0770_0060_tif_0",
+            "text": "大丈夫？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_0770_0070_cld_0",
+            "text": "ああ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_0780_0010_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0780_0012_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0780_0015_art_0",
+            "text": "これって",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_0780_0020_tsu_0",
+            "text": "プレート解放の緊急コードは\r\n……覚えたな？",
+            "speaker": "ツォン"
+        },
+        {
+            "id": "$ev_grav7_0780_0024_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0780_0030_ren_0",
+            "text": "ハイハイ　いつでも落とせるぞ　と",
+            "speaker": "レノ"
+        },
+        {
+            "id": "$ev_grav7_0780_0030_ren_1",
+            "text": "ただなぁ",
+            "speaker": "レノ"
+        },
+        {
+            "id": "$ev_grav7_0790_0005_lud_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0790_0010_ren_0",
+            "text": "おい　あんま飛ばし過ぎんなよ",
+            "speaker": "レノ"
+        },
+        {
+            "id": "$ev_grav7_0790_0010_ren_1",
+            "text": "今やっちまったら　元も子も",
+            "speaker": "レノ"
+        },
+        {
+            "id": "$ev_grav7_0790_0020_tsu_0",
+            "text": "レノ　状況を報告せよ\r\nなにか問題か？",
+            "speaker": "ツォン"
+        },
+        {
+            "id": "$ev_grav7_0790_0030_ren_0",
+            "text": "逆　逆\r\nヤツら　支柱と心中する気だぞ　と",
+            "speaker": "レノ"
+        },
+        {
+            "id": "$ev_grav7_0790_0040_tsu_0",
+            "text": "悲劇のヒーロー気取りか\r\n増援部隊を手配する",
+            "speaker": "ツォン"
+        },
+        {
+            "id": "$ev_grav7_0790_0050_tsu_1",
+            "text": "役者は多い方が盛り上がるだろう？",
+            "speaker": "ツォン"
+        },
+        {
+            "id": "$ev_grav7_0790_0060_ren_0",
+            "text": "役者ねぇ",
+            "speaker": "レノ"
+        },
+        {
+            "id": "$ev_grav7_0790_0070_tsu_0",
+            "text": "任務の完了報告を忘れるな",
+            "speaker": "ツォン"
+        },
+        {
+            "id": "$ev_grav7_0800_0005_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0800_0007_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0800_0010_cld_0",
+            "text": "ティファ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_0800_0020_tif_0",
+            "text": "計画は本当だったんだ",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_0800_0030_cld_0",
+            "text": "バレットたちが\r\n簡単にやられるはずがない",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_0800_0039_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0800_0040_art_0",
+            "text": "七番街はもうすぐ　行こう",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_0800_0045_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0800_0050_tif_0",
+            "text": "お願い　間に合って",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_0860_0020_art_0",
+            "text": "すごい",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_0880_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0880_0020_tif_0",
+            "text": "ありがとう",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_0880_0030_cld_0",
+            "text": "行くぞ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_0920_0005_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0920_0010_tif_0",
+            "text": "ついた！",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_0920_0011_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0920_0012_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0920_0013_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0920_0014_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0920_0015_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0920_0016_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0920_0018_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0920_0020_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_0920_0030_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0010_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0028_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0031_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0031_art_1",
+            "text": "ティファ！",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_8010_0033_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0034_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0036_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0037_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0039_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0040_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0041_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0042_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0044_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0045_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0047_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0049_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0060_art_0",
+            "text": "みつけた？",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_8010_0060_art_1",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0061_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0063_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0065_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0067_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0068_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8010_0070_cld_0",
+            "text": "遊びにつきあうヒマはない",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_8020_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8020_0020_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8020_0030_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8020_0040_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8020_0050_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8020_0060_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8020_0070_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8020_0080_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8020_0090_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8020_0100_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8030_0010_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8030_0014_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8030_0020_art_0",
+            "text": "かくれんぼ",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_8030_0030_art_0",
+            "text": "誰かに見つけてほしくて\r\nずっと　待ってたのかな",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_8030_0038_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8030_0040_cld_0",
+            "text": "何の話だ？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_8030_0042_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8030_0060_cld_1",
+            "text": "戻って　クレーンを動かそう",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_8110_0010_tif_0",
+            "text": "近いよ　急ごう",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_8110_0020_cld_0",
+            "text": "ああ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_8110_0030_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8110_0032_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8110_0034_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8110_0040_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8110_0050_art_0",
+            "text": "クラウド！",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_8110_0052_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8110_0060_cld_0",
+            "text": "エアリス！",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_8110_0070_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8110_0080_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8110_0090_mrn_0",
+            "text": "黒い風に連れていかれた子はね\r\nず～っと列車墓場をさまようんだって",
+            "speaker": "マリン"
+        },
+        {
+            "id": "$ev_grav7_8120_0003_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8120_0006_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8120_0010_art_0",
+            "text": "キミが守ってくれたの？",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_8120_0012_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8120_0014_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8120_0016_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8120_0018_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8120_0020_art_0",
+            "text": "あなたが　この子たちを",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_8130_0010_hs01_0",
+            "text": "もういいかーい",
+            "speaker": "少年"
+        },
+        {
+            "id": "$ev_grav7_8130_0020_hs01_0",
+            "text": "もういいかーい",
+            "speaker": "少年"
+        },
+        {
+            "id": "$ev_grav7_8130_0030_hs02_0",
+            "text": "もういいよ",
+            "speaker": "少年"
+        },
+        {
+            "id": "$ev_grav7_8130_0040_hs03_0",
+            "text": "もういいよー",
+            "speaker": "少女"
+        },
+        {
+            "id": "$ev_grav7_8130_0050_hs01_0",
+            "text": "みーーっけ！",
+            "speaker": "少年"
+        },
+        {
+            "id": "$ev_grav7_8130_0060_hs03_0",
+            "text": "あ　みつかった",
+            "speaker": "少女"
+        },
+        {
+            "id": "$ev_grav7_8130_0070_hs01_0",
+            "text": "みつけたっ",
+            "speaker": "少年"
+        },
+        {
+            "id": "$ev_grav7_8130_0080_hs02_0",
+            "text": "ああ　みつかっちゃった",
+            "speaker": "少年"
+        },
+        {
+            "id": "$ev_grav7_8130_0090_hs03_0",
+            "text": "なあ　エアリスは？",
+            "speaker": "少年"
+        },
+        {
+            "id": "$ev_grav7_8130_0100_art_0",
+            "text": "もういいよー",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_8130_0110_art_0",
+            "text": "もういいよー",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_8130_0115_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8130_0118_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8130_0120_art_0",
+            "text": "もういいよー",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_8130_0130_art_0",
+            "text": "もういいよー",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_8130_0135_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8130_0140_art_0",
+            "text": "もう……いいよ……",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_8130_0150_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8130_0155_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8130_0160_art_0",
+            "text": "おかあさん……",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_8130_0162_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8130_0165_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0010_cld_0",
+            "text": "エアリス！",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_8140_0020_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0022_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0023_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0025_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0026_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0027_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0030_tif_0",
+            "text": "みつけた　エアリス",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_8140_0032_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0035_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0040_art_0",
+            "text": "みつかっちゃった",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_8140_0042_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0044_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0050_ev1_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0054_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0056_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0060_cld_0",
+            "text": "行くぞ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$ev_grav7_8140_0065_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8140_0070_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8150_0010_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8150_0020_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8150_0030_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8150_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8150_0050_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8150_0060_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8160_0002_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8160_0004_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8160_0006_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8160_0008_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8160_0010_art_0",
+            "text": "クラウド！",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$ev_grav7_8160_0020_tif_0",
+            "text": "危ない！",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_8160_0030_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8160_0040_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8170_0005_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8170_0010_tif_0",
+            "text": "みんな　今行くね",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_8170_0020_tif_0",
+            "text": "いい加減　どいて！",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_8170_0022_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8170_0024_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8170_0030_tif_0",
+            "text": "行こう",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_8170_0040_cld_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8170_0050_art_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8170_0052_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8170_0054_tif_0",
+            "text": "",
+            "speaker": ""
+        },
+        {
+            "id": "$ev_grav7_8170_0060_tif_0",
+            "text": "あの子",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_8170_0070_tif_0",
+            "text": "すごい",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$ev_grav7_8170_0080_art_0",
+            "text": "またね",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$level_grav7_sys_turnrail",
+            "text": "転車台が稼働した。",
+            "info": ""
+        },
+        {
+            "id": "$lv_grav7_0430_0050_art_0",
+            "text": "みーつけた",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$lv_grav7_0460_0010_tif_0",
+            "text": "ここにもいるかな？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$lv_grav7_0460_0020_art_0",
+            "text": "みたい",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$lv_grav7_0460_0030_art_0",
+            "text": "みーーっけっ！",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_grav7_0030_0010_cld_0",
+            "text": "まるで　迷路だな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_grav7_0030_0020_tif_0",
+            "text": "通称　列車墓場\r\nジャンクパーツの宝庫",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_grav7_0030_0030_tif_0",
+            "text": "あそこに見えてる車両倉庫の向こうが\r\n七番街のはずだよ",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_grav7_0030_0040_tif_0",
+            "text": "あかりのついている場所を　通っていこう",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_grav7_0030_0050_art_0",
+            "text": "あかり　あかり……",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_grav7_0030_0060_cld_0",
+            "text": "あれだな",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_grav7_0050_0010_art_0",
+            "text": "ひと　全然いないね",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_grav7_0050_0020_tif_0",
+            "text": "普段は　誰も近寄らないの",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_grav7_0050_0030_tif_0",
+            "text": "モンスターだけじゃなくて\r\n怖い噂もあるし",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_grav7_0050_0040_art_0",
+            "text": "うわさ？",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_grav7_0050_0050_tif_0",
+            "text": "列車墓場には　オバケが出るって",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_grav7_0050_0060_tif_0",
+            "text": "夜の列車墓場に迷い込むと\r\n二度と戻ってこられなくなるんだって",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_grav7_0050_0070_art_0",
+            "text": "",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_grav7_0050_0080_cld_0",
+            "text": "オバケ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_grav7_0050_0090_tif_0",
+            "text": "子供だましだって思うよ　私も\r\nでも――",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_grav7_0050_0100_cld_0",
+            "text": "早く抜けよう",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_grav7_0120_0010_tif_0",
+            "text": "うわ　なになに？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_grav7_0121_0002_dl02_0",
+            "text": "",
+            "speaker": "ダミーアクタ"
+        },
+        {
+            "id": "$pv_grav7_0125_0020_tif_0",
+            "text": "もう　びっくりさせないで",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_grav7_0130_0010_tif_0",
+            "text": "さっき\r\n子供の声　聞こえたよね？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_grav7_0130_0020_cld_0",
+            "text": "子供がうろつく時間じゃない",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_grav7_0130_0030_tif_0",
+            "text": "じゃあ――",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_grav7_0161_0002_dl02_0",
+            "text": "",
+            "speaker": "ダミーアクタ"
+        },
+        {
+            "id": "$pv_grav7_0181_0002_dl02_0",
+            "text": "",
+            "speaker": "ダミーアクタ"
+        },
+        {
+            "id": "$pv_grav7_0241_0001_dl02_0",
+            "text": "",
+            "speaker": "ダミーアクタ"
+        },
+        {
+            "id": "$pv_grav7_0290_0010_cld_0",
+            "text": "ここが　車両倉庫か",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_grav7_0320_0010_tif_0",
+            "text": "なに？",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_grav7_0320_0020_art_0",
+            "text": "あっ　そこにも",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_grav7_0321_0001_dl02_0",
+            "text": "",
+            "speaker": "ダミーアクタ"
+        },
+        {
+            "id": "$pv_grav7_0350_0010_art_0",
+            "text": "きみは……",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_grav7_0370_0020_tif_0",
+            "text": "どうしよう",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_grav7_0370_0030_gan_0",
+            "text": "この列車は……駅経由……墓場行",
+            "speaker": "？？？？"
+        },
+        {
+            "id": "$pv_grav7_0370_0040_gan_0",
+            "text": "ご乗車になる……は\r\nお急……そ　ぎ――",
+            "speaker": "？？？？"
+        },
+        {
+            "id": "$pv_grav7_0370_0050_gan_0",
+            "text": "",
+            "speaker": "？？？？"
+        },
+        {
+            "id": "$pv_grav7_0375_0020_tif_0",
+            "text": "どうしよう",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_grav7_0375_0030_gan_0",
+            "text": "この列車は……駅経由……墓場行",
+            "speaker": "？？？？"
+        },
+        {
+            "id": "$pv_grav7_0375_0040_gan_0",
+            "text": "ご乗車になる……は\r\nお急……そ　ぎ――",
+            "speaker": "？？？？"
+        },
+        {
+            "id": "$pv_grav7_0375_0050_gan_0",
+            "text": "",
+            "speaker": "？？？？"
+        },
+        {
+            "id": "$pv_grav7_0380_0040_art_0",
+            "text": "いじわる～",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_grav7_0380_0050_cld_0",
+            "text": "クレーンは　上か",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_grav7_0381_0021_dl02_0",
+            "text": "",
+            "speaker": "ダミーアクタ"
+        },
+        {
+            "id": "$pv_grav7_0400_0010_cld_0",
+            "text": "ダメだな　電源が落ちている",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_grav7_0400_0020_art_0",
+            "text": "これもイタズラかな\r\n電源　どこかで操作してる？",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_grav7_0401_0011_dl02_0",
+            "text": "",
+            "speaker": "ダミーアクタ"
+        },
+        {
+            "id": "$pv_grav7_0411_0001_dl02_0",
+            "text": "",
+            "speaker": "ダミーアクタ"
+        },
+        {
+            "id": "$pv_grav7_0621_0010_tif_0",
+            "text": "よかった　動いたね",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_grav7_0621_0020_art_0",
+            "text": "通れるようになったかな",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_grav7_0621_0030_cld_0",
+            "text": "行ってみよう",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_grav7_0695_0010_art_0",
+            "text": "回ってる！",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_grav7_0695_0020_tif_0",
+            "text": "向こう側に行けるかな",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_grav7_0760_0010_tif_0",
+            "text": "また道が塞がれてる\r\nあと少しのはずなのに",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$pv_grav7_0760_0020_art_0",
+            "text": "列車　動かせないかな",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_grav7_0760_0030_cld_0",
+            "text": "調べてみよう",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_grav7_0765_0010_cld_0",
+            "text": "読みが当たったな　まだ動きそうだ",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_grav7_0765_0030_art_0",
+            "text": "やったね",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$pv_grav7_0830_0010_cld_0",
+            "text": "神羅の増援か",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$pv_grav7_0830_cld_0",
+            "text": "",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_grav7_0041_0001_dl02_0",
+            "text": "",
+            "speaker": "ダミーアクタ"
+        },
+        {
+            "id": "$tk_grav7_0091_0001_dl02_0",
+            "text": "",
+            "speaker": "ダミーアクタ"
+        },
+        {
+            "id": "$tk_grav7_0130_0010_tif_0",
+            "text": "反対側にも扉　あったみたい\r\nぐるっと回り込むしかなさそうだね",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_grav7_0180_0010_tif_0",
+            "text": "『列車墓場に迷い込むと\r\n　二度と戻ってこられない』か……",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_grav7_0180_0020_tif_0",
+            "text": "捕まってたら　危なかったのかな",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_grav7_0180_0030_art_0",
+            "text": "捕まってるのは　あの子たちかも",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$tk_grav7_0180_0040_cld_0",
+            "text": "その話は　もう――",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_grav7_0180_0050_art_0",
+            "text": "帰れない原因　それだったら？",
+            "speaker": "エアリス"
+        },
+        {
+            "id": "$tk_grav7_0200_0010_cld_0",
+            "text": "ティファ　平気か？",
+            "speaker": "クラウド"
+        },
+        {
+            "id": "$tk_grav7_0200_0020_tif_0",
+            "text": "うん　さあ行こう",
+            "speaker": "ティファ"
+        },
+        {
+            "id": "$tk_grav7_0260_0010_tif_0",
+            "text": "このあたりの車両　まだ動くかもしれない",
+            "speaker": "ティファ"
+        }
+    ],
+    "meta": {
+        "tool": "FF7R text mod tools",
+        "version": "1.4.2",
+        "game": "FF7R"
+    }
+}
